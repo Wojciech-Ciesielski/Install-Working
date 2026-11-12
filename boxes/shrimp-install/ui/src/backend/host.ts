@@ -1,13 +1,14 @@
 // Most do programu Shrimp Install (WebView2). Wiadomości do programu to tekst rozdzielony
 // tabulatorami: „id⇥wywołanie⇥argumenty…” (ścieżki Windows nie mogą zawierać tabulatora).
-// Program odpowiada obiektem JSON: { id, ok, result | error } albo zdarzeniem { event, … }.
+// Program odpowiada obiektem JSON: { id, ok, result | error } albo zdarzeniem { event, … }, wywołując
+// window.__shrimpRecv(obiekt) (program w Rust, wry); zdarzenie „message” WebView2 też jest obsługiwane.
 import type { Backend, Device, Folder, Info, Picked, Plan, RunEvents } from "./types";
 
 interface WebView {
   postMessage(m: string): void;
   addEventListener(t: "message", cb: (e: { data: any }) => void): void;
 }
-declare global { interface Window { chrome?: { webview?: WebView } } }
+declare global { interface Window { chrome?: { webview?: WebView }; __shrimpRecv?: (m: any) => void } }
 
 export const hasHost = () => !!window.chrome?.webview;
 
@@ -25,6 +26,7 @@ export class HostBackend implements Backend {
 
   constructor() {
     this.wv.addEventListener("message", (e) => this.recv(e.data));
+    window.__shrimpRecv = (m) => this.recv(m);
   }
 
   private recv(m: any) {

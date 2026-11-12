@@ -144,3 +144,8 @@
 144	Zamknij programy, które go używają (np. Eksplorator plików albo program do kopii zapasowych), i spróbuj jeszcze raz.
 145	Zapis został zatrzymany
 146	Shrimp Install zatrzymał zapis nośnika z powodu nieoczekiwanego pytania:
+147	Nie udało się odczytać wszystkiego z nośnika, więc nic nie zostało skasowane.
+148	Na tym komputerze nie ma miejsca na kopię zawartości nośnika.
+149	Zawartość nośnika nie zmieści się obok Shrimp. Użyj większego nośnika albo przenieś z niego część plików.
+150	Nie udało się sprawdzić kopii zawartości na nośniku. Kopia jest nadal zapisana na tym komputerze.
+151	Shrimp i wybrane pliki nie zmieszczą się na tym nośniku.

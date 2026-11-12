@@ -136,3 +136,8 @@
 136	No se pudo iniciar el componente WebView2.
 137	No hay ningún hueco libre para la entrada de arranque.
 138	Falta la interfaz del programa.
+147	No se pudo leer todo lo que hay en la unidad, así que no se borró nada.
+148	No hay espacio suficiente en este equipo para copiar el contenido de la unidad.
+149	El contenido de la unidad no cabe junto a Shrimp. Usa una unidad más grande o mueve algunos archivos.
+150	No se pudo comprobar la copia del contenido en la unidad. Sigue guardada en este equipo.
+151	Shrimp y los archivos elegidos no caben en esta unidad.

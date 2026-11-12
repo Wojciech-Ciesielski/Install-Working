@@ -1,10 +1,10 @@
-// Umowa między interfejsem Shrimp Install a programem (host w C, src/shrimp/ w forku Rufusa).
+// Umowa między interfejsem Shrimp Install a programem (Rust, src/win/app.rs).
 // Rozmiary w bajtach, czasy w sekundach.
 
 export type FolderKey = "documents" | "pictures" | "desktop" | "music" | "videos" | "downloads";
 
 export interface Device {
-  /** Numer dysku w Rufusie (DriveIndex). */
+  /** Numer dysku Windows (Get-Disk, Zarządzanie dyskami). */
   id: number;
   /** Np. „SanDisk Ultra (E:)”. */
   name: string;

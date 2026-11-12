@@ -145,3 +145,8 @@
 144	fail.busy.r	Close programs that use it (for example File Explorer or a backup program) and try again.
 145	fail.question.t	Writing was stopped
 146	fail.question.b	Shrimp Install stopped before writing the drive because of an unexpected question:
+147	host.backupRead	Couldn't read everything that is on the drive, so nothing was erased.
+148	host.backupSpace	There isn't enough space on this computer for a copy of what is on the drive.
+149	host.backupMedia	What is on the drive won't fit next to Shrimp. Use a bigger drive or move some files off it.
+150	host.backupVerify	The copy of what was on the drive couldn't be checked on the drive. It is still saved on this computer.
+151	host.mediaSmall	Shrimp and the chosen files won't fit on this drive.

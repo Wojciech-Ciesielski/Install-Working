@@ -136,3 +136,8 @@
 136	Die Komponente WebView2 konnte nicht gestartet werden.
 137	Kein freier Platz für den Starteintrag.
 138	Die Programmoberfläche fehlt.
+147	Nicht alles auf dem Datenträger konnte gelesen werden, daher wurde nichts gelöscht.
+148	Auf diesem Computer ist nicht genug Platz für eine Kopie des Datenträgerinhalts.
+149	Der Inhalt des Datenträgers passt nicht neben Shrimp. Verwende einen größeren Datenträger oder verschiebe einige Dateien.
+150	Die Kopie des Inhalts konnte auf dem Datenträger nicht geprüft werden. Sie ist weiterhin auf diesem Computer gespeichert.
+151	Shrimp und die gewählten Dateien passen nicht auf diesen Datenträger.

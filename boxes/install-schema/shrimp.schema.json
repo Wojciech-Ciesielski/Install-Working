@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://shrimp-organization.dev/schema/shrimp-transfer-1.json",
   "title": "shrimp-transfer/shrimp.json",
-  "description": "Dane z Windows zapisane przez Shrimp Install (rufus/src/shrimp/collect.c, transfer.c) i czytane przez Shrimp Setup (setup/shell/src/transfer.rs, system.rs; setup/web/src/logic.ts › prefill). Zmiana tutaj = zmiana po obu stronach i w testach (shrimp-install/schema/README.md).",
+  "description": "Dane z Windows zapisane przez Shrimp Install (boxes/shrimp-install/src/win/collect.rs, src/transfer.rs) i czytane przez Shrimp Setup (setup/shell/src/transfer.rs, system.rs; setup/web/src/logic.ts › prefill). Zmiana tutaj = zmiana po obu stronach i w testach (shrimp-install/schema/README.md).",
   "type": "object",
   "required": ["version", "user", "locale", "windows"],
   "properties": {

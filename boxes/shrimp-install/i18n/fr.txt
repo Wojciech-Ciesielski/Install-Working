@@ -136,3 +136,8 @@
 136	Impossible de lancer le composant WebView2.
 137	Aucun emplacement libre pour l’entrée de démarrage.
 138	L’interface du programme est manquante.
+147	Impossible de lire tout le contenu du support, rien n'a donc été effacé.
+148	Pas assez d'espace sur cet ordinateur pour copier le contenu du support.
+149	Le contenu du support ne tient pas à côté de Shrimp. Utilisez un support plus grand ou déplacez des fichiers.
+150	La copie du contenu n'a pas pu être vérifiée sur le support. Elle reste enregistrée sur cet ordinateur.
+151	Shrimp et les fichiers choisis ne tiennent pas sur ce support.
