@@ -1,0 +1,16 @@
+{
+  "//": "Strony pomocy na stronie Shrimp: ikony ⓘ / ? w Shrimp Install, Setup i Panko otwierają base + '/' + ścieżka tematu + '?lang=<język>&from=<program>'. Puste 'base' (albo inne niż https://) = ikony są tylko podpowiedzią. Adres strony wpisz tu jednym wpisem, nic więcej nie trzeba zmieniać. Ścieżki tematów to adresy podstron: każda ma plik boxes/site/help/<ścieżka>.html (PL i EN), nowy temat wymaga nowej strony i wpisu w sitemap.xml (pilnuje tools/check-site.py).",
+  "base": "https://shrimp-organization.dev/help",
+  "topics": {
+    "iso": "download-iso",
+    "files": "copy-files",
+    "usb": "usb-drive",
+    "bitlocker": "bitlocker",
+    "offline": "no-internet",
+    "boot": "boot-from-usb",
+    "nvidia": "nvidia-driver",
+    "apps": "shrimp-apps",
+    "panko": "panko",
+    "cherry": "terminal"
+  }
+}

@@ -1,0 +1,138 @@
+1	Skrči
+2	Zapri
+3	Namesti Shrimp
+4	Miren in urejen sistem, ki deluje od prvega zagona.
+5	Samodejni prenos
+6	Namestitveni program prenese vse, kar potrebuje.
+7	Vaše datoteke so na varnem
+8	Vaše datoteke bodo ohranjene.
+9	Znani programi
+10	Predlagali bomo ustreznike programov, ki jih uporabljate.
+11	Pogon z Windowsi je šifriran z BitLockerjem. Shrimp lahko namestite poleg Windows šele, ko izklopite šifriranje.
+12	Začnimo
+13	Korak {n} od {total}
+14	Izberite pogon
+15	Izberite, kje naj pripravimo namestitev Shrimpa. Potrebnih je vsaj {size}.
+16	Pogon
+17	O pogonu
+18	Izberete lahko ključek USB, kartico SD ali zunanji pogon. Vse, kar je zdaj na pogonu, bo izbrisano.
+19	Nazaj
+20	Naprej
+21	Izberite pogon
+22	Ta pogon je premajhen. Potrebnih je vsaj {size}.
+23	Pogon ni bil najden
+24	Priključite pogon in prikazal se bo tukaj.
+25	Premajhen
+26	Razpoložljivi pogoni
+27	Ključek USB
+28	Kartica SD
+29	Zunanji pogon
+30	Kaj naj ostane na varnem?
+31	Pred namestitvijo bomo naredili kopijo izbranega.
+32	Kako izbrati datoteke
+33	Moje mape
+34	(Priporočeno)
+35	Dokumenti, fotografije in druge osebne stvari.
+36	Izbral bom sam
+37	Izberite lastne mape in datoteke.
+38	Mape, ki naj se ohranijo
+39	Dokumenti
+40	Slike
+41	Namizje
+42	Glasba
+43	Videoposnetki
+44	Prenosi
+45	Dodaj mapo …
+46	Dodaj datoteko …
+47	Prostor na pogonu
+48	O kopiranju datotek
+49	Vaše datoteke v sistemu Windows ostanejo nespremenjene.
+50	Pripravi pogon
+51	Izračunavanje …
+52	Ni prostora
+53	Ohrani: {name}
+54	Odstrani
+55	Odstrani: {name}
+56	Še nič ni izbrano.
+57	Manjka {size}
+58	{free} prostih od {total}
+59	Priprava Shrimpa
+60	Preostane še {time}.
+61	Priprava je začasno ustavljena.
+62	Priprava je končana
+63	Vse je pripravljeno.
+64	Prenos Shrimpa
+65	Pisanje na pogon
+66	Kopiranje datotek
+67	Ne odklopite pogona, dokler se ne konča.
+68	Prekliči
+69	Poskusi znova
+70	Preneseno {size}
+71	Povezovanje …
+72	{done} od {total} · {speed} · preostane {left}
+73	Zapisano
+74	Trajalo bo {time}
+75	{pct} · {speed} · preostane {left}
+76	Ni izbranih datotek
+77	Ni ničesar za kopiranje
+78	Kopirano {size}
+79	{size} · trajalo bo {time}
+80	približno {time}
+81	manj kot minuta
+82	Ni internetne povezave
+83	Shrimpa ni bilo mogoče prenesti.
+84	Preverite internetno povezavo in poskusite znova.
+85	Prenesena slika je poškodovana
+86	Prenesena slika ni prestala preverjanja.
+87	Poskusite znova.
+88	Ni dovolj prostora na disku
+89	Ni dovolj prostora na disku.
+90	Sprostite nekaj prostora in poskusite znova.
+91	Na pogon ni bilo mogoče pisati
+92	Na pogon ni bilo mogoče pisati.
+93	Znova ga priključite ali izberite drugega.
+94	Pogon je bil odklopljen
+95	Pogon je bil odklopljen.
+96	Znova ga priključite in poskusite znova.
+97	Datotek ni bilo mogoče kopirati
+98	Datotek ni bilo mogoče kopirati.
+99	Nekaj je šlo narobe
+100	Nekaj je šlo narobe.
+101	Vse je pripravljeno
+102	Za dokončanje znova zaženite računalnik.
+103	Pogon je pripravljen
+104	Shrimp čaka na namestitev.
+105	Vaše datoteke so na varnem
+106	Kopija je shranjena.
+107	Programi čakajo
+108	Po namestitvi bomo predlagali ustreznike.
+109	Pred vnovičnim zagonom shranite odprte dokumente.
+110	Pozneje
+111	Znova zaženi
+112	Zagona s pogona ni bilo mogoče nastaviti.
+113	Želite preklicati pripravo?
+114	Priprava bo ustavljena. Če se je pisanje na pogon že začelo, boste morali pogon pripraviti znova.
+115	Nadaljuj
+116	Prekliči pripravo
+117	Povezava s strežnikom za prenos ni mogoča.
+118	Strežnik za prenos je odgovoril s kodo {code}.
+119	Manifest je prevelik.
+120	Podpis manifesta ni veljaven.
+121	Ni dostopa do začasne mape.
+122	Datoteke, ki se prenaša, ni mogoče shraniti.
+123	Prenesene slike ni mogoče zapisati na pogon.
+124	Na pogonu je zmanjkalo prostora.
+125	Opisa kopije ni bilo mogoče shraniti.
+126	Priprava že poteka.
+127	Prenosa ni bilo mogoče začeti.
+128	Vnovični zagon ni uspel. Naredite to v meniju Začetek.
+129	Ta računalnik se ne zaganja v načinu UEFI. Zaženite ga ročno s pogona, v zagonskem meniju (običajno s tipko F12, F8 ali Esc).
+130	Ni dovoljenja za spreminjanje zagonskih nastavitev.
+131	Pogon ni bil najden. Znova ga priključite.
+132	Vdelana programska oprema ni sprejela zagonskega vnosa. Zaženite računalnik ročno s pogona, v zagonskem meniju.
+133	Vdelana programska oprema ni sprejela nastavitve za naslednji zagon. Zaženite računalnik ročno s pogona, v zagonskem meniju.
+134	Shrimp Install potrebuje komponento Microsoft Edge WebView2, vendar je ni bilo mogoče zagnati.\n\nPosodobite Windows ali namestite WebView2 Runtime od Microsofta in poskusite znova.
+135	Okna Shrimp Install (WebView2) ni bilo mogoče odpreti.
+136	Komponente WebView2 ni bilo mogoče zagnati.
+137	Ni prostega mesta za zagonski vnos.
+138	Vmesnik programa manjka.

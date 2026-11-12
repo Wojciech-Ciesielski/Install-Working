@@ -1,0 +1,138 @@
+1	Kis méret
+2	Bezárás
+3	A Shrimp telepítése
+4	Egy nyugodt, rendezett rendszer, amely az első indítástól működik.
+5	Automatikus letöltés
+6	A telepítő mindent letölt, amire szüksége van.
+7	A fájljai biztonságban maradnak
+8	A fájljait megőrizzük.
+9	Ismerős programok
+10	Javaslatot teszünk a használt programok megfelelőire.
+11	A Windows meghajtója BitLockerrel titkosított. A Shrimpet csak a titkosítás kikapcsolása után telepítheti a Windows mellé.
+12	Kezdjük
+13	{n}. lépés / {total}
+14	Válasszon meghajtót
+15	Válassza ki, hol készítsük elő a Shrimp telepítőjét. Legalább {size} szükséges.
+16	Meghajtó
+17	A meghajtóról
+18	Választhat USB-meghajtót, SD-kártyát vagy külső meghajtót. A meghajtón jelenleg lévő összes adat törlődik.
+19	Vissza
+20	Tovább
+21	Válasszon meghajtót
+22	Ez a meghajtó túl kicsi. Legalább {size} szükséges.
+23	Nem található meghajtó
+24	Csatlakoztasson egy meghajtót, és itt meg fog jelenni.
+25	Túl kicsi
+26	Elérhető meghajtók
+27	USB-meghajtó
+28	SD-kártya
+29	Külső meghajtó
+30	Mit őrizzünk meg?
+31	A telepítés előtt másolatot készítünk a kiválasztott dolgokról.
+32	A fájlok kiválasztása
+33	Saját mappáim
+34	(Ajánlott)
+35	Dokumentumok, fényképek és más személyes dolgok.
+36	Magam választom ki
+37	Válassza ki a saját mappáit és fájljait.
+38	Megőrzendő mappák
+39	Dokumentumok
+40	Képek
+41	Asztal
+42	Zene
+43	Videók
+44	Letöltések
+45	Mappa hozzáadása…
+46	Fájl hozzáadása…
+47	Szabad hely a meghajtón
+48	A fájlok másolásáról
+49	A Windowsban lévő fájljai változatlanok maradnak.
+50	A meghajtó előkészítése
+51	Számolás…
+52	Nincs hely
+53	Megőrzés: {name}
+54	Eltávolítás
+55	Eltávolítás: {name}
+56	Még nincs semmi kiválasztva.
+57	{size} hiányzik
+58	{free} szabad, összesen {total}
+59	A Shrimp előkészítése
+60	Még {time} van hátra.
+61	Az előkészítés szüneteltetve van.
+62	Az előkészítés befejeződött
+63	Minden készen áll.
+64	A Shrimp letöltése
+65	Írás a meghajtóra
+66	Fájlok másolása
+67	Ne húzza ki a meghajtót, amíg a művelet be nem fejeződik.
+68	Mégse
+69	Újra
+70	Letöltve: {size}
+71	Csatlakozás…
+72	{done} / {total} · {speed} · {left} van hátra
+73	Kiírva
+74	{time} lesz
+75	{pct} · {speed} · {left} van hátra
+76	Nincs kiválasztott fájl
+77	Nincs mit másolni
+78	Átmásolva: {size}
+79	{size} · {time} lesz
+80	körülbelül {time}
+81	kevesebb mint egy perc
+82	Nincs internetkapcsolat
+83	A Shrimp letöltése nem sikerült.
+84	Ellenőrizze az internetkapcsolatot, és próbálja újra.
+85	A letöltött lemezkép sérült
+86	A letöltött lemezkép ellenőrzése sikertelen volt.
+87	Próbálja újra.
+88	Nincs elég lemezterület
+89	Nincs elég lemezterület.
+90	Szabadítson fel egy kis helyet, és próbálja újra.
+91	Nem sikerült írni a meghajtóra
+92	Nem sikerült írni a meghajtóra.
+93	Csatlakoztassa újra, vagy válasszon másikat.
+94	A meghajtó le lett választva
+95	A meghajtó le lett választva.
+96	Csatlakoztassa újra, és próbálja meg ismét.
+97	A fájlok másolása nem sikerült
+98	A fájlok másolása nem sikerült.
+99	Valami hiba történt
+100	Valami hiba történt.
+101	Minden kész
+102	A befejezéshez indítsa újra a számítógépet.
+103	A meghajtó készen áll
+104	A Shrimp telepítésre vár.
+105	A fájljai biztonságban vannak
+106	A másolat el lett mentve.
+107	A programok várnak
+108	A telepítés után javaslatot teszünk a megfelelőikre.
+109	Az újraindítás előtt mentse a megnyitott dokumentumokat.
+110	Később
+111	Újraindítás
+112	Nem sikerült beállítani az indítást a meghajtóról.
+113	Megszakítja az előkészítést?
+114	Az előkészítés leáll. Ha a meghajtóra írás már megkezdődött, újra elő kell készítenie.
+115	Folytatás
+116	Előkészítés megszakítása
+117	Nem lehet csatlakozni a letöltési kiszolgálóhoz.
+118	A letöltési kiszolgáló a következő kóddal válaszolt: {code}.
+119	A jegyzék túl nagy.
+120	A jegyzék aláírása érvénytelen.
+121	Nincs hozzáférés az ideiglenes mappához.
+122	A letöltés alatt álló fájlt nem lehet menteni.
+123	A letöltött lemezképet nem lehet a meghajtóra írni.
+124	A meghajtón elfogyott a hely.
+125	A másolat leírását nem sikerült menteni.
+126	Az előkészítés már fut.
+127	A letöltést nem sikerült elindítani.
+128	Az újraindítás nem sikerült. Tegye meg a Start menüből.
+129	Ez a számítógép nem UEFI módban indul. Indítsa el kézzel a meghajtóról, az indítási menüből (általában az F12, F8 vagy Esc billentyűvel).
+130	Nincs jogosultság az indítási beállítások módosításához.
+131	A meghajtó nem található. Csatlakoztassa újra.
+132	A belső vezérlőprogram nem fogadta el az indítási bejegyzést. Indítsa el a számítógépet kézzel a meghajtóról, az indítási menüből.
+133	A belső vezérlőprogram nem fogadta el a következő indításra vonatkozó beállítást. Indítsa el a számítógépet kézzel a meghajtóról, az indítási menüből.
+134	A Shrimp Installnak szüksége van a Microsoft Edge WebView2 összetevőre, de nem sikerült elindítani.\n\nFrissítsd a Windowst, vagy telepítsd a WebView2 Runtime-ot a Microsofttól, majd próbáld újra.
+135	Nem sikerült megnyitni a Shrimp Install ablakát (WebView2).
+136	Nem sikerült elindítani a WebView2 összetevőt.
+137	Nincs szabad hely az indítási bejegyzés számára.
+138	Hiányzik a program felülete.

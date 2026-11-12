@@ -1,0 +1,138 @@
+1	Sumažinti
+2	Uždaryti
+3	Įdiegti „Shrimp“
+4	Ramioji ir tvarkinga sistema, veikianti nuo pirmo paleidimo.
+5	Automatinis atsisiuntimas
+6	Diegimo programa atsisiunčia viską, ko reikia.
+7	Jūsų failai saugūs
+8	Jūsų failai bus išsaugoti.
+9	Pažįstamos programos
+10	Pasiūlysime jūsų naudojamų programų atitikmenis.
+11	„Windows“ diskas užšifruotas naudojant „BitLocker“. „Shrimp“ šalia „Windows“ galėsite įdiegti tik išjungę šifravimą.
+12	Pradėkime
+13	{n} žingsnis iš {total}
+14	Pasirinkite diską
+15	Pasirinkite, kur paruošime „Shrimp“ diegimą. Reikia bent {size}.
+16	Diskas
+17	Apie diską
+18	Galite pasirinkti USB atmintinę, SD kortelę arba išorinį diską. Viskas, kas dabar yra diske, bus ištrinta.
+19	Atgal
+20	Toliau
+21	Pasirinkite diską
+22	Šis diskas per mažas. Reikia bent {size}.
+23	Disko nerasta
+24	Prijunkite diską ir jis atsiras čia.
+25	Per mažas
+26	Galimi diskai
+27	USB atmintinė
+28	SD kortelė
+29	Išorinis diskas
+30	Ką išsaugoti?
+31	Prieš diegdami sukursime pasirinktų dalykų kopiją.
+32	Kaip pasirinkti failus
+33	Mano aplankai
+34	(Rekomenduojama)
+35	Dokumentai, nuotraukos ir kiti asmeniniai dalykai.
+36	Pasirinksiu pats
+37	Pasirinkite savo aplankus ir failus.
+38	Išsaugotini aplankai
+39	Dokumentai
+40	Paveikslėliai
+41	Darbalaukis
+42	Muzika
+43	Vaizdo įrašai
+44	Atsisiuntimai
+45	Pridėti aplanką…
+46	Pridėti failą…
+47	Vieta diske
+48	Apie failų kopijavimą
+49	Jūsų „Windows“ failai nesikeičia.
+50	Paruošti diską
+51	Skaičiuojama…
+52	Nėra vietos
+53	Išsaugoti: {name}
+54	Pašalinti
+55	Pašalinti: {name}
+56	Kol kas nieko nepasirinkta.
+57	Trūksta {size}
+58	Laisva {free} iš {total}
+59	Ruošiamas „Shrimp“
+60	Liko dar {time}.
+61	Ruošimas pristabdytas.
+62	Ruošimas baigtas
+63	Viskas paruošta.
+64	Atsisiunčiamas „Shrimp“
+65	Rašoma į diską
+66	Kopijuojami failai
+67	Neatjunkite disko, kol nebaigta.
+68	Atšaukti
+69	Bandyti dar kartą
+70	Atsisiųsta {size}
+71	Jungiamasi…
+72	{done} iš {total} · {speed} · liko {left}
+73	Įrašyta
+74	Truks {time}
+75	{pct} · {speed} · liko {left}
+76	Failų nepasirinkta
+77	Nėra ką kopijuoti
+78	Nukopijuota {size}
+79	{size} · truks {time}
+80	apie {time}
+81	mažiau nei minutė
+82	Nėra interneto ryšio
+83	Nepavyko atsisiųsti „Shrimp“.
+84	Patikrinkite interneto ryšį ir bandykite dar kartą.
+85	Atsisiųstas atvaizdas pažeistas
+86	Atsisiųstas atvaizdas neišlaikė patikros.
+87	Bandykite dar kartą.
+88	Nepakanka vietos diske
+89	Nepakanka vietos diske.
+90	Atlaisvinkite šiek tiek vietos ir bandykite dar kartą.
+91	Nepavyko įrašyti į diską
+92	Nepavyko įrašyti į diską.
+93	Prijunkite jį iš naujo arba pasirinkite kitą.
+94	Diskas buvo atjungtas
+95	Diskas buvo atjungtas.
+96	Prijunkite jį atgal ir bandykite dar kartą.
+97	Nepavyko nukopijuoti failų
+98	Nepavyko nukopijuoti failų.
+99	Kažkas nepavyko
+100	Kažkas nepavyko.
+101	Viskas paruošta
+102	Norėdami baigti, paleiskite kompiuterį iš naujo.
+103	Diskas paruoštas
+104	„Shrimp“ laukia diegimo.
+105	Jūsų failai saugūs
+106	Kopija išsaugota.
+107	Programos laukia
+108	Po diegimo pasiūlysime atitikmenis.
+109	Prieš paleisdami iš naujo, išsaugokite atvertus dokumentus.
+110	Vėliau
+111	Paleisti iš naujo
+112	Nepavyko nustatyti paleidimo iš disko.
+113	Atšaukti ruošimą?
+114	Ruošimas bus sustabdytas. Jei rašymas į diską jau prasidėjo, diską reikės paruošti iš naujo.
+115	Tęsti
+116	Atšaukti ruošimą
+117	Nepavyksta prisijungti prie atsisiuntimo serverio.
+118	Atsisiuntimo serveris atsakė kodu {code}.
+119	Manifestas per didelis.
+120	Manifesto parašas netinkamas.
+121	Nėra prieigos prie laikinojo aplanko.
+122	Nepavyksta išsaugoti atsisiunčiamo failo.
+123	Atsisiųsto atvaizdo nepavyksta įrašyti į diską.
+124	Diske pritrūko vietos.
+125	Nepavyko išsaugoti kopijos aprašo.
+126	Ruošimas jau vykdomas.
+127	Nepavyko pradėti atsisiuntimo.
+128	Nepavyko paleisti iš naujo. Padarykite tai iš meniu Pradėti.
+129	Šis kompiuteris nepasileidžia UEFI režimu. Paleiskite jį iš disko rankiniu būdu, paleidimo meniu (dažniausiai klavišu F12, F8 arba Esc).
+130	Nėra leidimo keisti paleidimo nustatymų.
+131	Diskas nerastas. Prijunkite jį iš naujo.
+132	Programinė aparatinė įranga nepriėmė paleidimo įrašo. Paleiskite kompiuterį iš disko rankiniu būdu, paleidimo meniu.
+133	Programinė aparatinė įranga nepriėmė kito paleidimo nustatymo. Paleiskite kompiuterį iš disko rankiniu būdu, paleidimo meniu.
+134	Shrimp Install reikia Microsoft Edge WebView2 komponento, bet jo nepavyko paleisti.\n\nAtnaujinkite Windows arba įdiekite WebView2 Runtime iš Microsoft ir bandykite dar kartą.
+135	Nepavyko atidaryti Shrimp Install lango (WebView2).
+136	Nepavyko paleisti WebView2 komponento.
+137	Nėra laisvos vietos paleidimo įrašui.
+138	Trūksta programos sąsajos.

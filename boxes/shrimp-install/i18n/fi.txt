@@ -1,0 +1,138 @@
+1	Pienennä
+2	Sulje
+3	Asenna Shrimp
+4	Rauhallinen ja siisti järjestelmä, joka toimii heti ensimmäisestä käynnistyksestä.
+5	Automaattinen lataus
+6	Asennusohjelma lataa kaiken tarvitsemansa.
+7	Tiedostosi pysyvät turvassa
+8	Tiedostosi säilytetään.
+9	Tutut ohjelmat
+10	Ehdotamme vastineita käyttämillesi ohjelmille.
+11	Windowsin asema on salattu BitLockerilla. Shrimpin voi asentaa Windowsin rinnalle vasta, kun salaus on poistettu käytöstä.
+12	Aloitetaan
+13	Vaihe {n}/{total}
+14	Valitse asema
+15	Valitse, minne Shrimp-asennus valmistellaan. Tilaa tarvitaan vähintään {size}.
+16	Asema
+17	Tietoa asemasta
+18	Voit valita USB-muistitikun, SD-kortin tai ulkoisen aseman. Kaikki aseman nykyiset tiedot poistetaan.
+19	Takaisin
+20	Seuraava
+21	Valitse asema
+22	Tämä asema on liian pieni. Tilaa tarvitaan vähintään {size}.
+23	Asemaa ei löytynyt
+24	Liitä asema, niin se näkyy tässä.
+25	Liian pieni
+26	Käytettävissä olevat asemat
+27	USB-muistitikku
+28	SD-kortti
+29	Ulkoinen asema
+30	Mitä säilytetään turvassa?
+31	Ennen asennusta teemme kopion valitsemistasi asioista.
+32	Tiedostojen valinta
+33	Omat kansioni
+34	(Suositus)
+35	Asiakirjat, valokuvat ja muut henkilökohtaiset asiat.
+36	Valitsen itse
+37	Valitse omat kansiosi ja tiedostosi.
+38	Säilytettävät kansiot
+39	Asiakirjat
+40	Kuvat
+41	Työpöytä
+42	Musiikki
+43	Videot
+44	Lataukset
+45	Lisää kansio…
+46	Lisää tiedosto…
+47	Tila asemalla
+48	Tiedostojen kopioinnista
+49	Windowsin tiedostosi pysyvät ennallaan.
+50	Valmistele asema
+51	Lasketaan…
+52	Ei tilaa
+53	Säilytä: {name}
+54	Poista
+55	Poista: {name}
+56	Mitään ei ole vielä valittu.
+57	{size} liian vähän
+58	{free} vapaana, yhteensä {total}
+59	Shrimpiä valmistellaan
+60	Kestää vielä {time}.
+61	Valmistelu on keskeytetty.
+62	Valmistelu valmis
+63	Kaikki on valmista.
+64	Ladataan Shrimpiä
+65	Kirjoitetaan asemalle
+66	Kopioidaan tiedostoja
+67	Älä irrota asemaa, ennen kuin se on valmis.
+68	Peruuta
+69	Yritä uudelleen
+70	Ladattu {size}
+71	Yhdistetään…
+72	{done}/{total} · {speed} · {left} jäljellä
+73	Kirjoitettu
+74	Kestää {time}
+75	{pct} · {speed} · {left} jäljellä
+76	Ei valittuja tiedostoja
+77	Ei kopioitavaa
+78	Kopioitu {size}
+79	{size} · kestää {time}
+80	noin {time}
+81	alle minuutti
+82	Ei internetyhteyttä
+83	Shrimpiä ei voitu ladata.
+84	Tarkista internetyhteytesi ja yritä uudelleen.
+85	Ladattu levykuva on vioittunut
+86	Ladattu levykuva ei läpäissyt tarkistusta.
+87	Yritä uudelleen.
+88	Levytila ei riitä
+89	Levytila ei riitä.
+90	Vapauta tilaa ja yritä uudelleen.
+91	Asemalle ei voitu kirjoittaa
+92	Asemalle ei voitu kirjoittaa.
+93	Liitä se uudelleen tai valitse toinen.
+94	Asema irrotettiin
+95	Asema irrotettiin.
+96	Liitä se takaisin ja yritä uudelleen.
+97	Tiedostoja ei voitu kopioida
+98	Tiedostoja ei voitu kopioida.
+99	Jokin meni pieleen
+100	Jokin meni pieleen.
+101	Valmista
+102	Viimeistele käynnistämällä tietokone uudelleen.
+103	Asema on valmis
+104	Shrimp odottaa asennusta.
+105	Tiedostosi ovat turvassa
+106	Kopio on tallennettu.
+107	Ohjelmat odottavat
+108	Ehdotamme vastineita asennuksen jälkeen.
+109	Tallenna avoimet asiakirjat ennen uudelleenkäynnistystä.
+110	Myöhemmin
+111	Käynnistä uudelleen
+112	Käynnistystä asemalta ei voitu määrittää.
+113	Perutaanko valmistelu?
+114	Valmistelu keskeytetään. Jos asemalle kirjoittaminen on jo alkanut, asema on valmisteltava uudelleen.
+115	Jatka
+116	Peruuta valmistelu
+117	Latauspalvelimeen ei saada yhteyttä.
+118	Latauspalvelin vastasi koodilla {code}.
+119	Manifesti on liian suuri.
+120	Manifestin allekirjoitus on virheellinen.
+121	Väliaikaiseen kansioon ei ole käyttöoikeutta.
+122	Ladattavaa tiedostoa ei voi tallentaa.
+123	Ladattua levykuvaa ei voi kirjoittaa asemalle.
+124	Asemalta loppui tila.
+125	Kopion kuvausta ei voitu tallentaa.
+126	Valmistelu on jo käynnissä.
+127	Latausta ei voitu aloittaa.
+128	Uudelleenkäynnistys ei onnistunut. Tee se Käynnistä-valikosta.
+129	Tämä tietokone ei käynnisty UEFI-tilassa. Käynnistä se asemalta käsin käynnistysvalikosta (yleensä F12-, F8- tai Esc-näppäimellä).
+130	Käynnistysasetusten muuttamiseen ei ole oikeutta.
+131	Asemaa ei löytynyt. Liitä se uudelleen.
+132	Laiteohjelmisto ei hyväksynyt käynnistysmerkintää. Käynnistä tietokone asemalta käsin käynnistysvalikosta.
+133	Laiteohjelmisto ei hyväksynyt seuraavan käynnistyksen asetusta. Käynnistä tietokone asemalta käsin käynnistysvalikosta.
+134	Shrimp Install tarvitsee Microsoft Edge WebView2 -komponentin, mutta sitä ei voitu käynnistää.\n\nPäivitä Windows tai asenna WebView2 Runtime Microsoftilta ja yritä uudelleen.
+135	Shrimp Installin ikkunaa (WebView2) ei voitu avata.
+136	WebView2-komponenttia ei voitu käynnistää.
+137	Käynnistysmerkinnälle ei ole vapaata paikkaa.
+138	Ohjelman käyttöliittymä puuttuu.

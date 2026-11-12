@@ -1,0 +1,17 @@
+@import "@fontsource/inter/latin-400.css";
+@import "@fontsource/inter/latin-ext-400.css";
+@import "@fontsource/inter/latin-500.css";
+@import "@fontsource/inter/latin-ext-500.css";
+@import "@fontsource/inter/latin-600.css";
+@import "@fontsource/inter/latin-ext-600.css";
+@import "./mockup.css";
+
+/* W programie okno to cały widok WebView2: bez pulpitu, cienia i zaokrągleń
+   (ramkę, cień i zaokrąglone rogi daje Windows). */
+html, body { height: 100%; }
+body { min-height: 0; padding: 0; background: var(--mica); overflow: hidden; user-select: none; }
+.win { width: 100vw; height: 100vh; min-height: 0; border-radius: 0; box-shadow: none; }
+input, textarea { user-select: text; }
+/* Przeciąganie okna za pasek tytułu (WebView2 z obsługą app-region; inaczej wiadomość „drag” do programu). */
+.titlebar { app-region: drag; }
+.caps { app-region: no-drag; }

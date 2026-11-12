@@ -1,0 +1,138 @@
+1	Minimizar
+2	Pechar
+3	Instalar Shrimp
+4	Un sistema tranquilo e ordenado que funciona desde o primeiro inicio.
+5	Descarga automática
+6	O instalador descarga todo o que precisa.
+7	Os teus ficheiros están seguros
+8	Os teus ficheiros conservaranse.
+9	Programas coñecidos
+10	Propoñerémosche equivalentes dos programas que usas.
+11	A unidade de Windows está cifrada con BitLocker. Só poderás instalar Shrimp xunto con Windows despois de desactivar o cifrado.
+12	Comecemos
+13	Paso {n} de {total}
+14	Escolle unha unidade
+15	Escolle onde prepararemos o instalador de Shrimp. Necesítanse polo menos {size}.
+16	Unidade
+17	Sobre a unidade
+18	Podes escoller unha memoria USB, unha tarxeta SD ou unha unidade externa. Todo o que haxa agora na unidade será borrado.
+19	Atrás
+20	Seguinte
+21	Escolle unha unidade
+22	Esta unidade é demasiado pequena. Necesítanse polo menos {size}.
+23	Non se atopou ningunha unidade
+24	Conecta unha unidade e aparecerá aquí.
+25	Demasiado pequena
+26	Unidades dispoñibles
+27	Memoria USB
+28	Tarxeta SD
+29	Unidade externa
+30	Que se debe conservar?
+31	Antes de instalar, faremos unha copia do que escollas.
+32	Como escoller ficheiros
+33	Os meus cartafoles
+34	(Recomendado)
+35	Documentos, fotos e outras cousas persoais.
+36	Escollerei eu
+37	Escolle os teus propios cartafoles e ficheiros.
+38	Cartafoles que se conservan
+39	Documentos
+40	Imaxes
+41	Escritorio
+42	Música
+43	Vídeos
+44	Descargas
+45	Engadir cartafol…
+46	Engadir ficheiro…
+47	Espazo na unidade
+48	Sobre a copia de ficheiros
+49	Os teus ficheiros en Windows non cambian.
+50	Preparar a unidade
+51	Calculando…
+52	Sen espazo
+53	Conservar: {name}
+54	Quitar
+55	Quitar: {name}
+56	Aínda non se escolleu nada.
+57	Faltan {size}
+58	{free} libres de {total}
+59	Preparando Shrimp
+60	Aínda quedan {time}.
+61	A preparación está en pausa.
+62	Preparación completada
+63	Todo está listo.
+64	Descargando Shrimp
+65	Escribindo na unidade
+66	Copiando ficheiros
+67	Non desconectes a unidade ata que remate.
+68	Cancelar
+69	Tentar de novo
+70	Descargados {size}
+71	Conectando…
+72	{done} de {total} · {speed} · quedan {left}
+73	Escrito
+74	Levará {time}
+75	{pct} · {speed} · quedan {left}
+76	Non se escolleu ningún ficheiro
+77	Non hai nada que copiar
+78	Copiados {size}
+79	{size} · levará {time}
+80	uns {time}
+81	menos dun minuto
+82	Sen conexión a Internet
+83	Non se puido descargar Shrimp.
+84	Comproba a conexión a Internet e téntao de novo.
+85	A imaxe descargada está danada
+86	A imaxe descargada non superou a verificación.
+87	Téntao de novo.
+88	Non hai espazo suficiente no disco
+89	Non hai espazo suficiente no disco.
+90	Libera algo de espazo e téntao de novo.
+91	Non se puido escribir na unidade
+92	Non se puido escribir na unidade.
+93	Conéctaa de novo ou escolle outra.
+94	A unidade desconectouse
+95	A unidade desconectouse.
+96	Conéctaa de novo e téntao outra vez.
+97	Non se puideron copiar os ficheiros
+98	Non se puideron copiar os ficheiros.
+99	Algo saíu mal
+100	Algo saíu mal.
+101	Todo listo
+102	Reinicia o ordenador para rematar.
+103	A unidade está lista
+104	Shrimp está á espera de ser instalado.
+105	Os teus ficheiros están seguros
+106	A copia gardouse.
+107	Os programas agardan
+108	Despois da instalación propoñerémosche equivalentes.
+109	Garda os documentos abertos antes de reiniciar.
+110	Máis tarde
+111	Reiniciar
+112	Non se puido configurar o inicio desde a unidade.
+113	Cancelar a preparación?
+114	A preparación deterase. Se a escritura na unidade xa comezou, terás que prepararla de novo.
+115	Continuar
+116	Cancelar a preparación
+117	Non se pode conectar co servidor de descarga.
+118	O servidor de descarga respondeu co código {code}.
+119	O manifesto é demasiado grande.
+120	A sinatura do manifesto non é válida.
+121	Non hai acceso ao cartafol temporal.
+122	Non se pode gardar o ficheiro que se está a descargar.
+123	A imaxe descargada non se pode escribir na unidade.
+124	Esgotouse o espazo da unidade.
+125	Non se puido gardar a descrición da copia.
+126	A preparación xa está en curso.
+127	Non se puido iniciar a descarga.
+128	Non se puido reiniciar. Fai o desde o menú Inicio.
+129	Este ordenador non se inicia en modo UEFI. Iníciao manualmente desde a unidade, no menú de arranque (normalmente coa tecla F12, F8 ou Esc).
+130	Non tes permiso para cambiar a configuración de inicio.
+131	Non se atopou a unidade. Conéctaa de novo.
+132	O firmware non aceptou a entrada de arranque. Inicia o ordenador manualmente desde a unidade, no menú de arranque.
+133	O firmware non aceptou a configuración do seguinte arranque. Inicia o ordenador manualmente desde a unidade, no menú de arranque.
+134	Shrimp Install necesita o compoñente Microsoft Edge WebView2, pero non se puido iniciar.\n\nActualiza Windows ou instala WebView2 Runtime de Microsoft e téntao de novo.
+135	Non se puido abrir a xanela de Shrimp Install (WebView2).
+136	Non se puido iniciar o compoñente WebView2.
+137	Non hai ningún espazo libre para a entrada de arranque.
+138	Falta a interface do programa.

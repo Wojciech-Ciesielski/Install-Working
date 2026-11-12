@@ -1,0 +1,138 @@
+1	Nciphisa
+2	Vala
+3	Faka i-Shrimp
+4	Inkqubo ethe cwaka, ecocekileyo esebenza ukususela ekuqaleni kokuqala.
+5	Ukukhuphela ngokuzenzekelayo
+6	Isifaki sikhuphela yonke into oyifunayo.
+7	Iifayile zakho zikhuselekile
+8	Iifayile zakho ziza kugcinwa.
+9	Iinkqubo ozaziyo
+10	Siza kucebisa iinkqubo ezilingana nezo uzisebenzisayo.
+11	Idrayivu ye-Windows ifihlwe nge-BitLocker. Ungafaka i-Shrimp ecaleni kwe-Windows kuphela emva kokucima ufihlo.
+12	Masiqale
+13	Inyathelo {n} kwezi-{total}
+14	Khetha idrayivu
+15	Khetha apho siza kulungisa khona isifaki se-Shrimp. Kufuneka ubuncinane i-{size}.
+16	Idrayivu
+17	Malunga nedrayivu
+18	Ungakhetha intonga ye-USB, ikhadi le-SD okanye idrayivu yangaphandle. Yonke into ekwidrayivu ngoku iza kucinywa.
+19	Emva
+20	Okulandelayo
+21	Khetha idrayivu
+22	Le drayivu incinci kakhulu. Kufuneka ubuncinane i-{size}.
+23	Akukho drayivu ifunyenweyo
+24	Qhagamshela idrayivu iya kubonakala apha.
+25	Incinci kakhulu
+26	Iidrayivu ezifumanekayo
+27	I-USB stick
+28	Ikhadi le-SD
+29	Idrayivu yangaphandle
+30	Yintoni ekufuneka ikhuselwe?
+31	Ngaphambi kokufaka, siza kwenza ikopi yezinto ozikhethayo.
+32	Indlela yokukhetha iifayile
+33	Iifolda zam
+34	(Iyacetyiswa)
+35	Amaxwebhu, iifoto nezinye izinto zakho.
+36	Ndiza kuzikhethela
+37	Khetha iifolda neefayile zakho.
+38	Iifolda eziza kugcinwa
+39	Amaxwebhu
+40	Imifanekiso
+41	Idesktop
+42	Umculo
+43	Iividiyo
+44	Okukhutshelweyo
+45	Yongeza ifolda…
+46	Yongeza ifayile…
+47	Indawo ekwidrayivu
+48	Malunga nokukhuphela iifayile
+49	Iifayile zakho kwi-Windows azitshintshi.
+50	Lungisa idrayivu
+51	Iyabala…
+52	Akukho ndawo
+53	Gcina: {name}
+54	Susa
+55	Susa: {name}
+56	Akukakhethwa nto.
+57	Kusilele i-{size}
+58	I-{free} ikhululekile kwi-{total}
+59	Ilungisa i-Shrimp
+60	Kuza kuthatha i-{time} ngakumbi.
+61	Ukulungiselela kumisiwe okwethutyana.
+62	Ukulungiselela kugqityiwe
+63	Yonke into ilungile.
+64	Ikhuphela i-Shrimp
+65	Ibhala kwidrayivu
+66	Ikopa iifayile
+67	Musa ukukhupha idrayivu de igqibe.
+68	Rhoxisa
+69	Zama kwakhona
+70	Kukhutshelwe i-{size}
+71	Iyaqhagamshela…
+72	{done} kwi-{total} · {speed} · kushiyeke i-{left}
+73	Kubhaliwe
+74	Kuza kuthatha i-{time}
+75	{pct} · {speed} · kushiyeke i-{left}
+76	Akukhethwanga fayile
+77	Akukho nto yokukhuphela
+78	Kukhutshelwe i-{size}
+79	{size} · kuza kuthatha i-{time}
+80	malunga ne-{time}
+81	ngaphantsi komzuzu
+82	Akukho kuqhagamshelwa kwi-intanethi
+83	Ayikwazanga ukukhuphela i-Shrimp.
+84	Jonga uqhagamshelo lwakho lwe-intanethi uze uzame kwakhona.
+85	Umfanekiso okhutshelweyo wonakele
+86	Umfanekiso okhutshelweyo usilele ekuqinisekisweni.
+87	Zama kwakhona.
+88	Akukho ndawo yaneleyo kwidiski
+89	Akukho ndawo yaneleyo kwidiski.
+90	Khulula indawo uze uzame kwakhona.
+91	Ayikwazanga ukubhala kwidrayivu
+92	Ayikwazanga ukubhala kwidrayivu.
+93	Yiqhagamshele kwakhona okanye ukhethe enye.
+94	Idrayivu inqanyuliwe
+95	Idrayivu inqanyuliwe.
+96	Yiqhagamshele kwakhona uze uzame kwakhona.
+97	Ayikwazanga ukukhuphela iifayile
+98	Ayikwazanga ukukhuphela iifayile.
+99	Kukho into engahambanga kakuhle
+100	Kukho into engahambanga kakuhle.
+101	Yonke into ilungile
+102	Qala kwakhona ikhompyuter ukugqiba.
+103	Idrayivu ilungile
+104	I-Shrimp ilindele ukufakwa.
+105	Iifayile zakho zikhuselekile
+106	Ikopi igciniwe.
+107	Iinkqubo zilindile
+108	Siza kucebisa ezilinganayo emva kokufaka.
+109	Gcina amaxwebhu avuliweyo ngaphambi kokuqalisa kwakhona.
+110	Kamva
+111	Qala kwakhona
+112	Ayikwazanga ukuseta ukuqalisa kwidrayivu.
+113	Rhoxisa ukulungiselela?
+114	Ukulungiselela kuza kumiswa. Ukuba ukubhala kwidrayivu sele kuqalile, kuza kufuneka uyilungise kwakhona.
+115	Qhubeka
+116	Rhoxisa ukulungiselela
+117	Ayikwazi ukuqhagamshela kwiseva yokukhuphela.
+118	Iseva yokukhuphela iphendule ngekhowudi {code}.
+119	I-manifest inkulu kakhulu.
+120	Utyikityo lwe-manifest alusebenzi.
+121	Akukho kufikelela kwifolda yethutyana.
+122	Ayikwazi ukugcina ifayile ekhutshelwayo.
+123	Umfanekiso okhutshelweyo awunakubhalwa kwidrayivu.
+124	Idrayivu iphelelwe yindawo.
+125	Ayikwazanga ukugcina inkcazo yekopi.
+126	Ukulungiselela sele kuqhubeka.
+127	Ayikwazanga ukuqalisa ukukhuphela.
+128	Ayikwazanga ukuqalisa kwakhona. Kwenze kwimenyu ethi Qala.
+129	Le khompyutha ayiqalisi kwimowudi ye-UEFI. Yiqalise kwidrayivu ngesandla, kwimenyu yokuqalisa (ngokuqhelekileyo isitshixo se-F12, F8 okanye Esc).
+130	Akukho mvume yokutshintsha iisetingi zokuqalisa.
+131	Idrayivu ayifumanekanga. Yiqhagamshele kwakhona.
+132	I-firmware ayamkelanga ungeniso lokuqalisa. Qalisa ikhompyutha kwidrayivu ngesandla, kwimenyu yokuqalisa.
+133	I-firmware ayamkelanga isetingi yokuqalisa okulandelayo. Qalisa ikhompyutha kwidrayivu ngesandla, kwimenyu yokuqalisa.
+134	I-Shrimp Install ifuna icandelo le-Microsoft Edge WebView2, kodwa alikwazanga ukuqaliswa.\n\nHlaziya i-Windows okanye ufake i-WebView2 Runtime evela ku-Microsoft uze uzame kwakhona.
+135	Ayikwazanga ukuvula ifestile ye-Shrimp Install (WebView2).
+136	Ayikwazanga ukuqalisa icandelo le-WebView2.
+137	Akukho ndawo ikhululekileyo yongeniso lokuqalisa.
+138	Ujongano lwenkqubo alukho.

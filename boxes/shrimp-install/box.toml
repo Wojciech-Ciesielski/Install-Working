@@ -1,0 +1,8 @@
+[box]
+id = "shrimp-install"
+version = "0.1.0"
+kind = "tool"
+platform = "windows"
+summary = "Shrimp Install: program dla Windows (fork Rufusa 4.16) zapisujący nośnik i pliki"
+build_depends = ["i18n-core", "help-links", "install-schema"]
+ci = "shrimp-install"

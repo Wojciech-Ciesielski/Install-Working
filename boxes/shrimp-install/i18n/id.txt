@@ -1,0 +1,138 @@
+1	Perkecil
+2	Tutup
+3	Instal Shrimp
+4	Sistem yang tenang dan rapi, langsung berfungsi sejak pertama dinyalakan.
+5	Unduhan otomatis
+6	Penginstal mengunduh semua yang dibutuhkan.
+7	File Anda tetap aman
+8	File Anda akan dipertahankan.
+9	Program yang sudah dikenal
+10	Kami akan menyarankan padanan program yang Anda gunakan.
+11	Drive Windows dienkripsi dengan BitLocker. Anda baru dapat menginstal Shrimp berdampingan dengan Windows setelah mematikan enkripsi.
+12	Mari mulai
+13	Langkah {n} dari {total}
+14	Pilih drive
+15	Pilih tempat kami menyiapkan penginstal Shrimp. Dibutuhkan setidaknya {size}.
+16	Drive
+17	Tentang drive
+18	Anda dapat memilih flash drive USB, kartu SD, atau drive eksternal. Semua yang ada di drive saat ini akan dihapus.
+19	Kembali
+20	Berikutnya
+21	Pilih drive
+22	Drive ini terlalu kecil. Dibutuhkan setidaknya {size}.
+23	Drive tidak ditemukan
+24	Sambungkan drive dan drive akan muncul di sini.
+25	Terlalu kecil
+26	Drive yang tersedia
+27	Flash drive USB
+28	Kartu SD
+29	Drive eksternal
+30	Apa yang harus diamankan?
+31	Sebelum menginstal, kami akan membuat salinan dari yang Anda pilih.
+32	Cara memilih file
+33	Folder saya
+34	(Disarankan)
+35	Dokumen, foto, dan hal pribadi lainnya.
+36	Saya pilih sendiri
+37	Pilih folder dan file Anda sendiri.
+38	Folder yang dipertahankan
+39	Dokumen
+40	Gambar
+41	Desktop
+42	Musik
+43	Video
+44	Unduhan
+45	Tambahkan folder…
+46	Tambahkan file…
+47	Ruang di drive
+48	Tentang penyalinan file
+49	File Anda di Windows tidak berubah.
+50	Siapkan drive
+51	Menghitung…
+52	Tidak ada ruang
+53	Pertahankan: {name}
+54	Hapus
+55	Hapus: {name}
+56	Belum ada yang dipilih.
+57	Kurang {size}
+58	{free} kosong dari {total}
+59	Menyiapkan Shrimp
+60	Sisa waktu {time} lagi.
+61	Persiapan dijeda.
+62	Persiapan selesai
+63	Semuanya sudah siap.
+64	Mengunduh Shrimp
+65	Menulis ke drive
+66	Menyalin file
+67	Jangan cabut drive sampai selesai.
+68	Batal
+69	Coba lagi
+70	Terunduh {size}
+71	Menyambungkan…
+72	{done} dari {total} · {speed} · sisa {left}
+73	Tertulis
+74	Akan memakan waktu {time}
+75	{pct} · {speed} · sisa {left}
+76	Tidak ada file yang dipilih
+77	Tidak ada yang disalin
+78	Tersalin {size}
+79	{size} · akan memakan waktu {time}
+80	sekitar {time}
+81	kurang dari satu menit
+82	Tidak ada koneksi internet
+83	Tidak dapat mengunduh Shrimp.
+84	Periksa koneksi internet Anda dan coba lagi.
+85	Image yang diunduh rusak
+86	Image yang diunduh gagal diverifikasi.
+87	Coba lagi.
+88	Ruang disk tidak cukup
+89	Ruang disk tidak cukup.
+90	Kosongkan sedikit ruang dan coba lagi.
+91	Tidak dapat menulis ke drive
+92	Tidak dapat menulis ke drive.
+93	Sambungkan kembali atau pilih drive lain.
+94	Drive terputus
+95	Drive terputus.
+96	Sambungkan kembali dan coba lagi.
+97	Tidak dapat menyalin file
+98	Tidak dapat menyalin file.
+99	Terjadi kesalahan
+100	Terjadi kesalahan.
+101	Semua siap
+102	Mulai ulang komputer untuk menyelesaikan.
+103	Drive sudah siap
+104	Shrimp menunggu untuk diinstal.
+105	File Anda aman
+106	Salinan telah disimpan.
+107	Program menunggu
+108	Kami akan menyarankan padanannya setelah instalasi.
+109	Simpan dokumen yang terbuka sebelum memulai ulang.
+110	Nanti
+111	Mulai ulang
+112	Tidak dapat menyiapkan booting dari drive.
+113	Batalkan persiapan?
+114	Persiapan akan dihentikan. Jika penulisan ke drive sudah dimulai, Anda perlu menyiapkannya lagi.
+115	Lanjutkan
+116	Batalkan persiapan
+117	Tidak dapat terhubung ke server unduhan.
+118	Server unduhan merespons dengan kode {code}.
+119	Manifes terlalu besar.
+120	Tanda tangan manifes tidak valid.
+121	Tidak ada akses ke folder sementara.
+122	Tidak dapat menyimpan file yang sedang diunduh.
+123	Image yang diunduh tidak dapat ditulis ke drive.
+124	Ruang di drive habis.
+125	Tidak dapat menyimpan deskripsi salinan.
+126	Persiapan sudah berjalan.
+127	Tidak dapat memulai pengunduhan.
+128	Tidak dapat memulai ulang. Lakukan dari menu Start.
+129	Komputer ini tidak boot dalam mode UEFI. Jalankan dari drive secara manual, melalui menu boot (biasanya dengan tombol F12, F8, atau Esc).
+130	Tidak ada izin untuk mengubah pengaturan startup.
+131	Drive tidak ditemukan. Sambungkan kembali.
+132	Firmware tidak menerima entri boot. Jalankan komputer dari drive secara manual, melalui menu boot.
+133	Firmware tidak menerima pengaturan boot berikutnya. Jalankan komputer dari drive secara manual, melalui menu boot.
+134	Shrimp Install memerlukan komponen Microsoft Edge WebView2, tetapi komponen itu tidak dapat dijalankan.\n\nPerbarui Windows atau instal WebView2 Runtime dari Microsoft, lalu coba lagi.
+135	Jendela Shrimp Install (WebView2) tidak dapat dibuka.
+136	Komponen WebView2 tidak dapat dijalankan.
+137	Tidak ada slot kosong untuk entri boot.
+138	Antarmuka program tidak ada.

@@ -1,0 +1,138 @@
+1	Whakaiti
+2	Katia
+3	Tāutaina a Shrimp
+4	He pūnaha marino, hāngai e mahi ana mai i te tīmatanga tuatahi.
+5	Tikiake aunoa
+6	Ka tikiake te kaitāuta i ngā mea katoa e hiahiatia ana.
+7	Kei te haumaru ō kōnae
+8	Ka tiakina ō kōnae.
+9	Ngā hōtaka e mōhiotia ana
+10	Ka tūtohu mātou i ngā hōtaka ōrite ki ērā e whakamahia ana e koe.
+11	Kua whakamunatia te puku taraiwa Windows ki a BitLocker. Ka taea anake e koe te tāuta i a Shrimp i te taha o Windows ina whakawetohia te whakamuna.
+12	Me tīmata
+13	Hipanga {n} o {total}
+14	Kōwhiria he puku taraiwa
+15	Kōwhiria te wāhi ka whakaritea e mātou te kaitāuta o Shrimp. Me {size} neke atu.
+16	Puku taraiwa
+17	Mō te puku taraiwa
+18	Ka taea e koe te kōwhiri i tētahi rākau USB, kāri SD, puku taraiwa o waho rānei. Ka murua ngā mea katoa kei te puku taraiwa.
+19	Hoki ki muri
+20	Panuku
+21	Kōwhiria he puku taraiwa
+22	He iti rawa tēnei puku taraiwa. Me {size} neke atu.
+23	Kāore he puku taraiwa i kitea
+24	Hoatu he puku taraiwa ka puta ki konei.
+25	Rawa iti
+26	Ngā puku taraiwa e wātea ana
+27	Rākau USB
+28	Kāri SD
+29	Puku taraiwa o waho
+30	He aha te mea hei tiaki?
+31	I mua i te tāuta, ka tāruatia e mātou ngā mea ka kōwhiria e koe.
+32	Me pēhea te kōwhiri kōnae
+33	Aku kōpaki
+34	(E taunakitia ana)
+35	Ngā tuhinga, ngā whakaahua me ētahi atu mea whaiaro.
+36	Māku e kōwhiri
+37	Kōwhiria ōu ake kōpaki me ngā kōnae.
+38	Ngā kōpaki hei pupuri
+39	Tuhinga
+40	Whakaahua
+41	Papamahi
+42	Puoro
+43	Ataata
+44	Ngā tikiake
+45	Tāpiri kōpaki…
+46	Tāpiri kōnae…
+47	Te wāhi kei te puku taraiwa
+48	Mō te tārua kōnae
+49	Kāore e huri ōu kōnae i Windows.
+50	Whakaritea te puku taraiwa
+51	E tatau ana…
+52	Kāore he wāhi
+53	Puritia: {name}
+54	Tangohia
+55	Tangohia: {name}
+56	Kāore anō kia kōwhiria tētahi mea.
+57	E hapa ana te {size}
+58	{free} wātea o {total}
+59	E whakarite ana a Shrimp
+60	Ka {time} anō te roa.
+61	Kua tatari te whakarite.
+62	Kua oti te whakarite
+63	Kua rite katoa.
+64	E tikiake ana a Shrimp
+65	E tuhi ana ki te puku taraiwa
+66	E kape ana i ngā kōnae
+67	Kaua e tango i te puku taraiwa kia oti ra anō.
+68	Whakakore
+69	Whakamātauria anō
+70	Kua tikiake te {size}
+71	E tūhono ana…
+72	{done} o {total} · {speed} · {left} e toe ana
+73	Kua tuhia
+74	Ka {time} te roa
+75	{pct} · {speed} · {left} e toe ana
+76	Kāore he kōnae i kōwhiria
+77	Kāore he mea hei tārua
+78	Kua tāruatia te {size}
+79	{size} · ka {time} te roa
+80	tata ki te {time}
+81	iti iho i te meneti
+82	Kāore he hononga ipurangi
+83	Kāore i taea te tikiake i a Shrimp.
+84	Tirohia tō hononga ipurangi, ka ngana anō.
+85	Kua pakaru te atahanga i tikiakehia
+86	I rahua te manatoko o te atahanga i tikiakehia.
+87	Ngana anō.
+88	Kāore e rawaka te wāhi i te kōpae
+89	Kāore e rawaka te wāhi i te kōpae.
+90	Whakawāteatia he wāhi, ka ngana anō.
+91	Kāore i taea te tuhi ki te puku taraiwa
+92	Kāore i taea te tuhi ki te puku taraiwa.
+93	Monoa anō, kōwhiria rānei tētahi atu.
+94	Kua momotu te puku taraiwa
+95	Kua momotu te puku taraiwa.
+96	Monoa anō, ka ngana anō.
+97	Kāore i taea te tārua i ngā kōnae
+98	Kāore i taea te tārua i ngā kōnae.
+99	I pōhēhē tētahi mea
+100	I hē tētahi mea.
+101	Kua rite katoa
+102	Whakaarahia anō te rorohiko kia oti.
+103	Kua rite te puku taraiwa
+104	Kei te tatari a Shrimp kia tāutahia.
+105	Kei te haumaru ōu kōnae
+106	Kua tiakina te tārua.
+107	Kei te tatari ngā hōtaka
+108	Ka tūtohu mātou i ngā mea ōrite i muri i te tāutanga.
+109	Tiakina ngā tuhinga tuwhera i mua i te tīmata anō.
+110	Muri atu
+111	Whakaara anō
+112	Kāore i taea te whakarite i te tīmatanga mai i te puku taraiwa.
+113	Me whakakore te whakarite?
+114	Ka whakamutua te whakarite. Mēnā kua tīmata kē te tuhi ki te puku taraiwa, me whakarite anō koe.
+115	Haere tonu
+116	Whakakore i te whakarite
+117	Kāore e taea te tūhono ki te tūmau tikiake.
+118	I whakautu te tūmau tikiake ki te waehere {code}.
+119	He nui rawa te manifest.
+120	Kāore i te tika te waitohu o te manifest.
+121	Kāore he urunga ki te kōpaki rangitahi.
+122	Kāore e taea te tiaki i te kōnae e tikiakehia ana.
+123	Kāore e taea te tuhi i te atahanga i tikiakehia ki te puku taraiwa.
+124	Kua pau te wāhi i te puku taraiwa.
+125	Kāore i taea te tiaki i te whakaahuatanga o te tārua.
+126	Kei te haere kē te whakarite.
+127	Kāore i taea te tīmata i te tikiake.
+128	Kāore i taea te tīmata anō. Mahia mai i te tahua Start.
+129	Kāore tēnei rorohiko e tīmata i te aratau UEFI. Tīmatahia ā-ringa mai i te puku taraiwa, mai i te tahua pūtu (te nuinga o te wā ko te pātuhi F12, F8, Esc rānei).
+130	Kāore he whakaaetanga ki te huri i ngā tautuhinga tīmatanga.
+131	Kāore i kitea te puku taraiwa. Monoa anō.
+132	Kāore te pūmanawa mau i whakaae ki te tāurunga pūtu. Tīmatahia ā-ringa te rorohiko mai i te puku taraiwa, mai i te tahua pūtu.
+133	Kāore te pūmanawa mau i whakaae ki te tautuhinga pūtu e whai ake. Tīmatahia ā-ringa te rorohiko mai i te puku taraiwa, mai i te tahua pūtu.
+134	Me whai a Shrimp Install i te wāhanga Microsoft Edge WebView2, engari kāore i taea te whakaoho.\n\nWhakahōuhia a Windows, whakaurua rānei te WebView2 Runtime mai i a Microsoft, ka ngana anō.
+135	Kāore i taea te whakatuwhera i te matapihi o Shrimp Install (WebView2).
+136	Kāore i taea te whakaoho i te wāhanga WebView2.
+137	Kāore he wāhi wātea mō te tāurunga pūtu.
+138	Kāore he atanga o te hōtaka.

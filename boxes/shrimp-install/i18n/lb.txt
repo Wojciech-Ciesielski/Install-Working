@@ -1,0 +1,138 @@
+1	Verklengeren
+2	Zoumaachen
+3	Shrimp installéieren
+4	E rouegt, opgeraumt System, dat vum éischte Start un fonktionéiert.
+5	Automatesche Download
+6	Den Installateur luet alles erof, wat néideg ass.
+7	Deng Dateie bleiwen sécher
+8	Deng Dateie ginn opgehalen.
+9	Bekannte Programmer
+10	Mir proposéieren Alternativen zu de Programmer, déi s du benotz.
+11	De Windows-Laufwierk ass mat BitLocker verschlësselt. Du kanns Shrimp nieft Windows eréischt installéieren, nodeems s du d’Verschlësselung ausgeschalt hues.
+12	Mir fänken un
+13	Schrëtt {n} vu {total}
+14	Wiel e Laufwierk
+15	Wiel, wou mir den Shrimp-Installateur virbereeden. Et brauch op d’mannst {size}.
+16	Laufwierk
+17	Iwwer de Laufwierk
+18	Du kanns en USB-Stick, eng SD-Kaart oder e externe Laufwierk wielen. Alles, wat elo um Laufwierk ass, gëtt geläscht.
+19	Zréck
+20	Weider
+21	Wiel e Laufwierk
+22	Dëse Laufwierk ass ze kleng. Et brauch op d’mannst {size}.
+23	Kee Laufwierk fonnt
+24	Steck e Laufwierk un an et erschéngt hei.
+25	Ze kleng
+26	Disponibel Laufwierker
+27	USB-Stick
+28	SD-Kaart
+29	Externt Laufwierk
+30	Wat soll sécher bleiwen?
+31	Virun der Installatioun maache mir eng Kopie vun deem, wat s du auswiels.
+32	Wéi s du Fichiere wiels
+33	Meng Dossieren
+34	(Recommandéiert)
+35	Dokumenter, Fotoen an aner perséinlech Saachen.
+36	Ech wielen selwer
+37	Wiel deng eege Dossieren a Fichieren.
+38	Dossieren, déi gehale ginn
+39	Dokumenter
+40	Biller
+41	Desktop
+42	Musek
+43	Videoen
+44	Downloaden
+45	Dossier derbäisetzen…
+46	Fichier derbäisetzen…
+47	Plaz um Laufwierk
+48	Iwwer d’Kopéiere vu Fichieren
+49	Deng Fichieren a Windows bleiwen onverännert.
+50	Laufwierk virbereeden
+51	Gëtt gezielt…
+52	Keng Plaz
+53	Halen: {name}
+54	Ewechhuelen
+55	Ewechhuelen: {name}
+56	Nach näischt ausgewielt.
+57	{size} feelen
+58	{free} fräi vu {total}
+59	Shrimp gëtt virbereet
+60	Dat dauert nach {time}.
+61	D’Virbereedung gouf ënnerbrach.
+62	Virbereedung ofgeschloss
+63	Alles ass prett.
+64	Shrimp gëtt erofgelueden
+65	Et gëtt op d’Laufwierk geschriwwen
+66	Dateie ginn kopéiert
+67	Zitt d’Laufwierk net of, bis et fäerdeg ass.
+68	Ofbriechen
+69	Nach eng Kéier probéieren
+70	{size} erofgelueden
+71	Verbënnt…
+72	{done} vu {total} · {speed} · nach {left}
+73	Geschriwwen
+74	Dauert {time}
+75	{pct} · {speed} · nach {left}
+76	Keng Fichieren ausgewielt
+77	Näischt ze kopéieren
+78	{size} kopéiert
+79	{size} · dauert {time}
+80	ongeféier {time}
+81	manner wéi eng Minutt
+82	Keng Internetverbindung
+83	Shrimp konnt net erofgeluede ginn.
+84	Kuck deng Internetverbindung no a prouf nach eng Kéier.
+85	D’erofgelueden Image ass beschiedegt
+86	D’erofgelueden Image huet d’Iwwerpréiwung net bestanen.
+87	Prouf nach eng Kéier.
+88	Net genuch Plaz op der Disk
+89	Net genuch Plaz op der Disk.
+90	Maach e bëssen Plaz fräi a prouf nach eng Kéier.
+91	Konnt net op de Laufwierk schreiwen
+92	Konnt net op de Laufwierk schreiwen.
+93	Steck en nach eng Kéier un oder wiel en aneren.
+94	De Laufwierk gouf getrennt
+95	De Laufwierk gouf getrennt.
+96	Steck en nees un a prouf nach eng Kéier.
+97	D’Fichieren konnten net kopéiert ginn
+98	D’Fichieren konnten net kopéiert ginn.
+99	Et ass eppes schifgaangen
+100	Eppes ass schifgaang.
+101	Alles prett
+102	Start de Computer nei fir fäerdeg ze ginn.
+103	De Laufwierk ass prett
+104	Shrimp waart drop, installéiert ze ginn.
+105	Deng Fichieren si sécher
+106	D’Kopie gouf gespäichert.
+107	Programmer waarden
+108	Mir proposéieren Alternativen no der Installatioun.
+109	Späicher deng oppen Dokumenter virum Neistart.
+110	Méi spéit
+111	Nei starten
+112	De Start vum Laufwierk konnt net agestallt ginn.
+113	Virbereedung ofbriechen?
+114	D’Virbereedung gëtt gestoppt. Wann d’Schreiwen op de Laufwierk schonn ugefaangen huet, muss du en nees virbereeden.
+115	Weidermaachen
+116	Virbereedung ofbriechen
+117	Keng Verbindung mam Download-Server.
+118	De Download-Server huet mam Code {code} geäntwert.
+119	De Manifest ass ze grouss.
+120	D’Ënnerschrëft vum Manifest ass ongëlteg.
+121	Keen Zougrëff op den temporären Dossier.
+122	De Fichier, deen erofgeluede gëtt, kann net gespäichert ginn.
+123	D’erofgelueden Image kann net op de Laufwierk geschriwwe ginn.
+124	Um Laufwierk ass keng Plaz méi.
+125	D’Beschreiwung vun der Kopie konnt net gespäichert ginn.
+126	D’Virbereedung leeft schonn.
+127	Den Download konnt net gestart ginn.
+128	Konnt net nei starten. Maach et iwwer de Startmenü.
+129	Dëse Computer start net am UEFI-Modus. Start en manuell vum Laufwierk, iwwer de Boot-Menü (meeschtens d’Tast F12, F8 oder Esc).
+130	Keng Berechtegung, fir d’Startastellungen z’änneren.
+131	Laufwierk net fonnt. Steck en nees un.
+132	D’Firmware huet den Boot-Antrag net ugeholl. Start de Computer manuell vum Laufwierk, iwwer de Boot-Menü.
+133	D’Firmware huet d’Astellung fir den nächste Start net ugeholl. Start de Computer manuell vum Laufwierk, iwwer de Boot-Menü.
+134	Shrimp Install brauch d’Komponent Microsoft Edge WebView2, mä si konnt net gestart ginn.\n\nAktualiséier Windows oder installéier WebView2 Runtime vu Microsoft a prouf nach eng Kéier.
+135	D’Fënster vu Shrimp Install (WebView2) konnt net opgemaach ginn.
+136	De Komponent WebView2 konnt net gestart ginn.
+137	Keng fräi Plaz fir den Boot-Antrag.
+138	D’Interface vum Programm feelt.

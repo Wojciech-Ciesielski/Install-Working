@@ -1,0 +1,138 @@
+1	Simge durumuna küçült
+2	Kapat
+3	Shrimp'i yükle
+4	İlk açılıştan itibaren çalışan, sakin ve düzenli bir sistem.
+5	Otomatik indirme
+6	Yükleyici gereken her şeyi indirir.
+7	Dosyalarınız güvende
+8	Dosyalarınız korunacak.
+9	Tanıdık programlar
+10	Kullandığınız programların eşdeğerlerini önereceğiz.
+11	Windows sürücüsü BitLocker ile şifrelenmiş. Shrimp'i Windows'un yanına ancak şifrelemeyi kapattıktan sonra yükleyebilirsiniz.
+12	Başlayalım
+13	Adım {n} / {total}
+14	Sürücü seçin
+15	Shrimp yükleyicisinin nerede hazırlanacağını seçin. En az {size} gerekir.
+16	Sürücü
+17	Sürücü hakkında
+18	USB bellek, SD kart veya harici sürücü seçebilirsiniz. Üzerinde şu anda bulunan her şey silinecek.
+19	Geri
+20	İleri
+21	Sürücü seçin
+22	Bu sürücü çok küçük. En az {size} gerekir.
+23	Sürücü bulunamadı
+24	Bir sürücü takın, burada görünecektir.
+25	Çok küçük
+26	Kullanılabilir sürücüler
+27	USB bellek
+28	SD kart
+29	Harici sürücü
+30	Nelerin güvende kalması gerekiyor?
+31	Yüklemeden önce seçtiklerinizin bir kopyasını alacağız.
+32	Dosyalar nasıl seçilir
+33	Klasörlerim
+34	(Önerilen)
+35	Belgeler, fotoğraflar ve diğer kişisel şeyler.
+36	Kendim seçeyim
+37	Kendi klasörlerinizi ve dosyalarınızı seçin.
+38	Korunacak klasörler
+39	Belgeler
+40	Resimler
+41	Masaüstü
+42	Müzik
+43	Videolar
+44	İndirilenler
+45	Klasör ekle…
+46	Dosya ekle…
+47	Sürücüdeki alan
+48	Dosyaları kopyalama hakkında
+49	Windows'taki dosyalarınız olduğu gibi kalır.
+50	Sürücüyü hazırla
+51	Hesaplanıyor…
+52	Yer yok
+53	Koru: {name}
+54	Kaldır
+55	Kaldır: {name}
+56	Henüz bir şey seçilmedi.
+57	{size} eksik
+58	{total} içinde {free} boş
+59	Shrimp hazırlanıyor
+60	Yaklaşık {time} daha sürecek.
+61	Hazırlık duraklatıldı.
+62	Hazırlık tamamlandı
+63	Her şey hazır.
+64	Shrimp indiriliyor
+65	Sürücüye yazılıyor
+66	Dosyalar kopyalanıyor
+67	İşlem bitene kadar sürücüyü çıkarmayın.
+68	İptal
+69	Yeniden dene
+70	{size} indirildi
+71	Bağlanılıyor…
+72	{total} içinden {done} · {speed} · {left} kaldı
+73	Yazıldı
+74	{time} sürecek
+75	{pct} · {speed} · {left} kaldı
+76	Dosya seçilmedi
+77	Kopyalanacak bir şey yok
+78	{size} kopyalandı
+79	{size} · {time} sürecek
+80	yaklaşık {time}
+81	bir dakikadan az
+82	İnternet bağlantısı yok
+83	Shrimp indirilemedi.
+84	İnternet bağlantınızı denetleyin ve yeniden deneyin.
+85	İndirilen görüntü hasarlı
+86	İndirilen görüntü doğrulamayı geçemedi.
+87	Yeniden deneyin.
+88	Yeterli disk alanı yok
+89	Yeterli disk alanı yok.
+90	Biraz yer açın ve yeniden deneyin.
+91	Sürücüye yazılamadı
+92	Sürücüye yazılamadı.
+93	Yeniden takın veya başka bir sürücü seçin.
+94	Sürücünün bağlantısı kesildi
+95	Sürücünün bağlantısı kesildi.
+96	Yeniden takın ve tekrar deneyin.
+97	Dosyalar kopyalanamadı
+98	Dosyalar kopyalanamadı.
+99	Bir şeyler ters gitti
+100	Bir şeyler ters gitti.
+101	Her şey tamam
+102	Bitirmek için bilgisayarı yeniden başlatın.
+103	Sürücü hazır
+104	Shrimp yüklenmeyi bekliyor.
+105	Dosyalarınız güvende
+106	Kopya kaydedildi.
+107	Programlar bekliyor
+108	Yüklemeden sonra eşdeğerlerini önereceğiz.
+109	Yeniden başlatmadan önce açık belgelerinizi kaydedin.
+110	Daha sonra
+111	Yeniden başlat
+112	Sürücüden başlatma ayarlanamadı.
+113	Hazırlık iptal edilsin mi?
+114	Hazırlık durdurulacak. Sürücüye yazma işlemi başladıysa sürücüyü yeniden hazırlamanız gerekir.
+115	Devam et
+116	Hazırlığı iptal et
+117	İndirme sunucusuna bağlanılamıyor.
+118	İndirme sunucusu {code} koduyla yanıt verdi.
+119	Bildirim dosyası çok büyük.
+120	Bildirim dosyasının imzası geçersiz.
+121	Geçici klasöre erişim yok.
+122	İndirilen dosya kaydedilemiyor.
+123	İndirilen görüntü sürücüye yazılamıyor.
+124	Sürücüde yer kalmadı.
+125	Kopyanın açıklaması kaydedilemedi.
+126	Hazırlık zaten sürüyor.
+127	İndirme başlatılamadı.
+128	Yeniden başlatılamadı. Bunu Başlat menüsünden yapın.
+129	Bu bilgisayar UEFI modunda başlamıyor. Önyükleme menüsünden (genellikle F12, F8 veya Esc tuşu) sürücüden elle başlatın.
+130	Başlatma ayarlarını değiştirme izni yok.
+131	Sürücü bulunamadı. Yeniden takın.
+132	Üretici yazılımı önyükleme girdisini kabul etmedi. Bilgisayarı önyükleme menüsünden sürücüden elle başlatın.
+133	Üretici yazılımı sonraki önyükleme ayarını kabul etmedi. Bilgisayarı önyükleme menüsünden sürücüden elle başlatın.
+134	Shrimp Install, Microsoft Edge WebView2 bileşenine ihtiyaç duyuyor ancak bileşen başlatılamadı.\n\nWindows'u güncelleyin veya Microsoft'tan WebView2 Runtime'ı yükleyip yeniden deneyin.
+135	Shrimp Install penceresi (WebView2) açılamadı.
+136	WebView2 bileşeni başlatılamadı.
+137	Önyükleme girdisi için boş yer yok.
+138	Programın arayüzü eksik.

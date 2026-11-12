@@ -1,0 +1,138 @@
+1	Minimalizovat
+2	Zavřít
+3	Nainstalovat Shrimp
+4	Klidný, uspořádaný systém, který funguje od prvního spuštění.
+5	Automatické stažení
+6	Instalační program stáhne vše potřebné.
+7	Vaše soubory zůstanou v bezpečí
+8	Vaše soubory budou zachovány.
+9	Známé programy
+10	Navrhneme vám náhrady programů, které používáte.
+11	Jednotka Windows je zašifrovaná nástrojem BitLocker. Shrimp můžete nainstalovat vedle Windows až po vypnutí šifrování.
+12	Začněme
+13	Krok {n} z {total}
+14	Vyberte jednotku
+15	Vyberte, kde připravíme instalační program Shrimp. Je potřeba alespoň {size}.
+16	Jednotka
+17	O jednotce
+18	Můžete zvolit USB flash disk, kartu SD nebo externí disk. Vše, co na něm nyní je, bude smazáno.
+19	Zpět
+20	Další
+21	Vyberte jednotku
+22	Tato jednotka je příliš malá. Je potřeba alespoň {size}.
+23	Nebyla nalezena žádná jednotka
+24	Připojte jednotku a objeví se zde.
+25	Příliš malá
+26	Dostupné jednotky
+27	USB flash disk
+28	Karta SD
+29	Externí disk
+30	Co se má uchovat v bezpečí?
+31	Před instalací vytvoříme kopii toho, co vyberete.
+32	Jak vybrat soubory
+33	Moje složky
+34	(Doporučeno)
+35	Dokumenty, fotky a další osobní věci.
+36	Vyberu si sám
+37	Vyberte si vlastní složky a soubory.
+38	Složky k zachování
+39	Dokumenty
+40	Obrázky
+41	Plocha
+42	Hudba
+43	Videa
+44	Stažené soubory
+45	Přidat složku…
+46	Přidat soubor…
+47	Místo na jednotce
+48	O kopírování souborů
+49	Vaše soubory ve Windows zůstanou beze změny.
+50	Připravit jednotku
+51	Počítá se…
+52	Není místo
+53	Zachovat: {name}
+54	Odebrat
+55	Odebrat: {name}
+56	Zatím nic nevybráno.
+57	Chybí {size}
+58	Volných {free} z {total}
+59	Příprava Shrimp
+60	Zbývá přibližně {time}.
+61	Příprava byla pozastavena.
+62	Příprava dokončena
+63	Vše je připraveno.
+64	Stahování Shrimp
+65	Zápis na jednotku
+66	Kopírování souborů
+67	Neodpojujte jednotku, dokud se to nedokončí.
+68	Zrušit
+69	Zkusit znovu
+70	Staženo {size}
+71	Připojování…
+72	{done} z {total} · {speed} · zbývá {left}
+73	Zapsáno
+74	Potrvá {time}
+75	{pct} · {speed} · zbývá {left}
+76	Nevybrány žádné soubory
+77	Není co kopírovat
+78	Zkopírováno {size}
+79	{size} · potrvá {time}
+80	přibližně {time}
+81	méně než minuta
+82	Žádné připojení k internetu
+83	Shrimp se nepodařilo stáhnout.
+84	Zkontrolujte připojení k internetu a zkuste to znovu.
+85	Stažený obraz je poškozený
+86	Stažený obraz neprošel kontrolou.
+87	Zkuste to znovu.
+88	Nedostatek místa na disku
+89	Nedostatek místa na disku.
+90	Uvolněte místo a zkuste to znovu.
+91	Na jednotku se nepodařilo zapsat
+92	Na jednotku se nepodařilo zapsat.
+93	Připojte ji znovu nebo vyberte jinou.
+94	Jednotka byla odpojena
+95	Jednotka byla odpojena.
+96	Připojte ji znovu a zkuste to znovu.
+97	Soubory se nepodařilo zkopírovat
+98	Soubory se nepodařilo zkopírovat.
+99	Něco se pokazilo
+100	Něco se pokazilo.
+101	Hotovo
+102	Dokončete restartováním počítače.
+103	Jednotka je připravena
+104	Shrimp čeká na instalaci.
+105	Vaše soubory jsou v bezpečí
+106	Kopie byla uložena.
+107	Programy čekají
+108	Po instalaci navrhneme náhrady.
+109	Před restartem uložte otevřené dokumenty.
+110	Později
+111	Restartovat
+112	Nepodařilo se nastavit spouštění z jednotky.
+113	Zrušit přípravu?
+114	Příprava bude zastavena. Pokud už zápis na jednotku začal, bude nutné ji připravit znovu.
+115	Pokračovat
+116	Zrušit přípravu
+117	Nelze se připojit ke stahovacímu serveru.
+118	Stahovací server odpověděl kódem {code}.
+119	Manifest je příliš velký.
+120	Podpis manifestu je neplatný.
+121	Není přístup k dočasné složce.
+122	Stahovaný soubor nelze uložit.
+123	Stažený obraz nelze zapsat na jednotku.
+124	Na jednotce došlo místo.
+125	Popis kopie se nepodařilo uložit.
+126	Příprava už probíhá.
+127	Stahování se nepodařilo spustit.
+128	Restart se nepodařil. Proveďte ho z nabídky Start.
+129	Tento počítač nestartuje v režimu UEFI. Spusťte ho z jednotky ručně v nabídce spuštění (obvykle klávesa F12, F8 nebo Esc).
+130	Chybí oprávnění ke změně nastavení spuštění.
+131	Jednotka nebyla nalezena. Připojte ji znovu.
+132	Firmware nepřijal zaváděcí položku. Spusťte počítač z jednotky ručně v nabídce spuštění.
+133	Firmware nepřijal nastavení příštího spuštění. Spusťte počítač z jednotky ručně v nabídce spuštění.
+134	Shrimp Install potřebuje komponentu Microsoft Edge WebView2, ale nepodařilo se ji spustit.\n\nAktualizujte Windows nebo nainstalujte WebView2 Runtime od Microsoftu a zkuste to znovu.
+135	Okno Shrimp Install (WebView2) se nepodařilo otevřít.
+136	Komponentu WebView2 se nepodařilo spustit.
+137	Není volné místo pro zaváděcí položku.
+138	V programu chybí rozhraní.

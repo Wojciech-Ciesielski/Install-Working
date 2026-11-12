@@ -1,0 +1,138 @@
+1	I-minimize
+2	Isara
+3	I-install ang Shrimp
+4	Isang tahimik at maayos na sistemang gumagana mula sa unang pag-on.
+5	Awtomatikong pag-download
+6	Dina-download ng installer ang lahat ng kailangan nito.
+7	Ligtas ang iyong mga file
+8	Mananatili ang iyong mga file.
+9	Mga pamilyar na programa
+10	Magmumungkahi kami ng katumbas ng mga programang ginagamit mo.
+11	Naka-encrypt ang Windows drive gamit ang BitLocker. Maaari mo lang i-install ang Shrimp katabi ng Windows pagkatapos i-off ang encryption.
+12	Simulan na natin
+13	Hakbang {n} ng {total}
+14	Pumili ng drive
+15	Piliin kung saan namin ihahanda ang installer ng Shrimp. Kailangan ng hindi bababa sa {size}.
+16	Drive
+17	Tungkol sa drive
+18	Maaari kang pumili ng USB drive, SD card o external drive. Mabubura ang lahat ng nasa drive ngayon.
+19	Bumalik
+20	Susunod
+21	Pumili ng drive
+22	Masyadong maliit ang drive na ito. Kailangan ng hindi bababa sa {size}.
+23	Walang nakitang drive
+24	Magkabit ng drive at lalabas ito rito.
+25	Masyadong maliit
+26	Mga available na drive
+27	USB drive
+28	SD card
+29	External drive
+30	Ano ang dapat panatilihin?
+31	Bago mag-install, gagawa kami ng kopya ng pipiliin mo.
+32	Paano pumili ng mga file
+33	Aking mga folder
+34	(Inirerekomenda)
+35	Mga dokumento, larawan at iba pang personal na bagay.
+36	Ako ang pipili
+37	Piliin ang sarili mong mga folder at file.
+38	Mga folder na pananatilihin
+39	Mga Dokumento
+40	Mga Larawan
+41	Desktop
+42	Musika
+43	Mga Video
+44	Mga Download
+45	Magdagdag ng folder…
+46	Magdagdag ng file…
+47	Espasyo sa drive
+48	Tungkol sa pagkopya ng mga file
+49	Hindi magbabago ang iyong mga file sa Windows.
+50	Ihanda ang drive
+51	Kinukuwenta…
+52	Walang espasyo
+53	Panatilihin: {name}
+54	Alisin
+55	Alisin: {name}
+56	Wala pang napipili.
+57	Kulang ng {size}
+58	{free} ang libre sa {total}
+59	Inihahanda ang Shrimp
+60	{time} pa.
+61	Naka-pause ang paghahanda.
+62	Tapos na ang paghahanda
+63	Handa na ang lahat.
+64	Dina-download ang Shrimp
+65	Sinusulat sa drive
+66	Kinokopya ang mga file
+67	Huwag tanggalin ang drive hangga't hindi pa tapos.
+68	Kanselahin
+69	Subukan muli
+70	{size} ang na-download
+71	Kumokonekta…
+72	{done} sa {total} · {speed} · {left} na lang
+73	Naisulat
+74	Aabutin ng {time}
+75	{pct} · {speed} · {left} na lang
+76	Walang napiling file
+77	Walang makokopya
+78	{size} ang nakopya
+79	{size} · aabutin ng {time}
+80	mga {time}
+81	wala pang isang minuto
+82	Walang koneksyon sa internet
+83	Hindi ma-download ang Shrimp.
+84	Suriin ang iyong koneksyon sa internet at subukan muli.
+85	Sira ang na-download na image
+86	Hindi pumasa sa pagpapatunay ang na-download na image.
+87	Subukan muli.
+88	Kulang ang espasyo sa disk
+89	Kulang ang espasyo sa disk.
+90	Magbakante ng espasyo at subukan muli.
+91	Hindi makapagsulat sa drive
+92	Hindi makapagsulat sa drive.
+93	Ikabit itong muli o pumili ng iba.
+94	Nadiskonekta ang drive
+95	Nadiskonekta ang drive.
+96	Ikabit itong muli at subukan ulit.
+97	Hindi makopya ang mga file
+98	Hindi makopya ang mga file.
+99	May nangyaring mali
+100	May nangyaring mali.
+101	Handa na ang lahat
+102	I-restart ang computer para matapos.
+103	Handa na ang drive
+104	Naghihintay ang Shrimp na ma-install.
+105	Ligtas ang iyong mga file
+106	Nai-save ang kopya.
+107	Naghihintay ang mga programa
+108	Pagkatapos mag-install, magmumungkahi kami ng mga katumbas.
+109	I-save ang mga bukas na dokumento bago mag-restart.
+110	Mamaya
+111	I-restart
+112	Hindi maisaayos ang pag-boot mula sa drive.
+113	Kanselahin ang paghahanda?
+114	Ihihinto ang paghahanda. Kung nagsimula nang magsulat sa drive, kailangan mo itong ihandang muli.
+115	Magpatuloy
+116	Kanselahin ang paghahanda
+117	Hindi makakonekta sa download server.
+118	Sumagot ang download server ng code na {code}.
+119	Masyadong malaki ang manifest.
+120	Hindi wasto ang lagda ng manifest.
+121	Walang access sa pansamantalang folder.
+122	Hindi ma-save ang file na dina-download.
+123	Hindi maisulat sa drive ang na-download na image.
+124	Naubusan ng espasyo ang drive.
+125	Hindi ma-save ang paglalarawan ng kopya.
+126	Isinasagawa na ang paghahanda.
+127	Hindi masimulan ang pag-download.
+128	Hindi ma-restart. Gawin ito mula sa Start menu.
+129	Hindi nagbo-boot sa UEFI mode ang computer na ito. I-boot ito mismo mula sa drive gamit ang boot menu (karaniwan ay ang F12, F8 o Esc key).
+130	Walang pahintulot na baguhin ang mga setting ng startup.
+131	Hindi nakita ang drive. Ikabit itong muli.
+132	Hindi tinanggap ng firmware ang boot entry. I-boot ang computer mismo mula sa drive gamit ang boot menu.
+133	Hindi tinanggap ng firmware ang setting para sa susunod na boot. I-boot ang computer mismo mula sa drive gamit ang boot menu.
+134	Kailangan ng Shrimp Install ang component na Microsoft Edge WebView2, pero hindi ito mapagana.\n\nI-update ang Windows o i-install ang WebView2 Runtime mula sa Microsoft at subukang muli.
+135	Hindi mabuksan ang window ng Shrimp Install (WebView2).
+136	Hindi mapagana ang component na WebView2.
+137	Walang libreng espasyo para sa boot entry.
+138	Nawawala ang interface ng program.

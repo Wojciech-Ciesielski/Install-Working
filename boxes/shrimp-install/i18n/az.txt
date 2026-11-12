@@ -1,0 +1,138 @@
+1	Kiçilt
+2	Bağla
+3	Shrimp quraşdır
+4	İlk işə salınmadan işləyən sakit və səliqəli sistem.
+5	Avtomatik yükləmə
+6	Quraşdırıcı lazım olan hər şeyi yükləyir.
+7	Fayllarınız təhlükəsizdir
+8	Fayllarınız saxlanacaq.
+9	Tanış proqramlar
+10	İstifadə etdiyiniz proqramların analoqlarını təklif edəcəyik.
+11	Windows diski BitLocker ilə şifrələnib. Shrimp-i Windows-un yanında yalnız şifrələməni söndürdükdən sonra quraşdıra bilərsiniz.
+12	Başlayaq
+13	Addım {n} / {total}
+14	Disk seçin
+15	Shrimp quraşdırıcısını harada hazırlayacağımızı seçin. Ən azı {size} lazımdır.
+16	Disk
+17	Disk haqqında
+18	USB yaddaş, SD kart və ya xarici disk seçə bilərsiniz. Diskdə indi olan hər şey silinəcək.
+19	Geri
+20	Növbəti
+21	Disk seçin
+22	Bu disk çox kiçikdir. Ən azı {size} lazımdır.
+23	Disk tapılmadı
+24	Disk qoşun, burada görünəcək.
+25	Çox kiçik
+26	Mövcud disklər
+27	USB yaddaş
+28	SD kart
+29	Xarici disk
+30	Nə saxlanılsın?
+31	Quraşdırmadan əvvəl seçdiklərinizin surətini çıxaracağıq.
+32	Faylları necə seçmək olar
+33	Qovluqlarım
+34	(Tövsiyə olunur)
+35	Sənədlər, fotolar və digər şəxsi materiallar.
+36	Özüm seçəcəyəm
+37	Öz qovluq və fayllarınızı seçin.
+38	Saxlanılacaq qovluqlar
+39	Sənədlər
+40	Şəkillər
+41	İş masası
+42	Musiqi
+43	Videolar
+44	Yükləmələr
+45	Qovluq əlavə et…
+46	Fayl əlavə et…
+47	Diskdə yer
+48	Faylların kopyalanması haqqında
+49	Windows-dakı fayllarınız dəyişməz qalır.
+50	Diski hazırla
+51	Hesablanır…
+52	Yer yoxdur
+53	Saxla: {name}
+54	Sil
+55	Sil: {name}
+56	Hələ heç nə seçilməyib.
+57	{size} çatmır
+58	{total} içindən {free} boşdur
+59	Shrimp hazırlanır
+60	Daha {time} qalıb.
+61	Hazırlıq dayandırılıb.
+62	Hazırlıq tamamlandı
+63	Hər şey hazırdır.
+64	Shrimp yüklənir
+65	Diskə yazılır
+66	Fayllar kopyalanır
+67	Bitənə qədər diski çıxarmayın.
+68	Ləğv et
+69	Yenidən cəhd et
+70	{size} yükləndi
+71	Qoşulur…
+72	{total} içindən {done} · {speed} · {left} qalıb
+73	Yazıldı
+74	{time} çəkəcək
+75	{pct} · {speed} · {left} qalıb
+76	Fayl seçilməyib
+77	Kopyalanacaq heç nə yoxdur
+78	{size} kopyalandı
+79	{size} · {time} çəkəcək
+80	təxminən {time}
+81	bir dəqiqədən az
+82	İnternet bağlantısı yoxdur
+83	Shrimp yüklənə bilmədi.
+84	İnternet bağlantınızı yoxlayın və yenidən cəhd edin.
+85	Yüklənmiş obraz zədəlidir
+86	Yüklənmiş obraz yoxlamadan keçmədi.
+87	Yenidən cəhd edin.
+88	Diskdə kifayət qədər yer yoxdur
+89	Diskdə kifayət qədər yer yoxdur.
+90	Bir az yer boşaldın və yenidən cəhd edin.
+91	Diskə yazmaq mümkün olmadı
+92	Diskə yazmaq mümkün olmadı.
+93	Yenidən qoşun və ya başqasını seçin.
+94	Disk ayrıldı
+95	Disk ayrıldı.
+96	Yenidən qoşun və yenidən cəhd edin.
+97	Faylları kopyalamaq mümkün olmadı
+98	Faylları kopyalamaq mümkün olmadı.
+99	Nəsə səhv getdi
+100	Nəsə səhv getdi.
+101	Hər şey hazırdır
+102	Tamamlamaq üçün kompüteri yenidən başladın.
+103	Disk hazırdır
+104	Shrimp quraşdırılmağı gözləyir.
+105	Fayllarınız təhlükəsizdir
+106	Surət saxlanıldı.
+107	Proqramlar gözləyir
+108	Quraşdırmadan sonra analoqları təklif edəcəyik.
+109	Yenidən başlatmazdan əvvəl açıq sənədləri saxlayın.
+110	Sonra
+111	Yenidən başlat
+112	Diskdən yükləməni qurmaq mümkün olmadı.
+113	Hazırlıq ləğv edilsin?
+114	Hazırlıq dayandırılacaq. Diskə yazma artıq başlayıbsa, diski yenidən hazırlamalı olacaqsınız.
+115	Davam et
+116	Hazırlığı ləğv et
+117	Yükləmə serverinə qoşulmaq mümkün deyil.
+118	Yükləmə serveri {code} kodu ilə cavab verdi.
+119	Manifest çox böyükdür.
+120	Manifestin imzası etibarsızdır.
+121	Müvəqqəti qovluğa giriş yoxdur.
+122	Yüklənən faylı saxlamaq mümkün deyil.
+123	Yüklənmiş obrazı diskə yazmaq mümkün deyil.
+124	Diskdə yer qurtardı.
+125	Surətin təsvirini saxlamaq mümkün olmadı.
+126	Hazırlıq artıq icra olunur.
+127	Yükləməni başlatmaq mümkün olmadı.
+128	Yenidən başlatmaq mümkün olmadı. Bunu Start menyusundan edin.
+129	Bu kompüter UEFI rejimində açılmır. Onu diskdən əl ilə, yükləmə menyusundan başladın (adətən F12, F8 və ya Esc düyməsi).
+130	Başlatma parametrlərini dəyişmək üçün icazə yoxdur.
+131	Disk tapılmadı. Yenidən qoşun.
+132	Proqram təminatı yükləmə qeydini qəbul etmədi. Kompüteri diskdən əl ilə, yükləmə menyusundan başladın.
+133	Proqram təminatı növbəti yükləmə parametrini qəbul etmədi. Kompüteri diskdən əl ilə, yükləmə menyusundan başladın.
+134	Shrimp Install üçün Microsoft Edge WebView2 komponenti lazımdır, lakin onu işə salmaq mümkün olmadı.\n\nWindows-u yeniləyin və ya Microsoft-dan WebView2 Runtime quraşdırıb yenidən cəhd edin.
+135	Shrimp Install pəncərəsini (WebView2) açmaq mümkün olmadı.
+136	WebView2 komponentini işə salmaq mümkün olmadı.
+137	Yükləmə qeydi üçün boş yer yoxdur.
+138	Proqramın interfeysi yoxdur.

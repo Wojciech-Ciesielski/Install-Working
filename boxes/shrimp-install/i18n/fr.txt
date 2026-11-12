@@ -1,0 +1,138 @@
+1	Réduire
+2	Fermer
+3	Installer Shrimp
+4	Un système calme et ordonné qui fonctionne dès le premier démarrage.
+5	Téléchargement automatique
+6	Le programme d’installation télécharge tout ce dont il a besoin.
+7	Vos fichiers restent en sécurité
+8	Vos fichiers seront conservés.
+9	Des programmes familiers
+10	Nous vous proposerons des équivalents aux programmes que vous utilisez.
+11	Le lecteur Windows est chiffré avec BitLocker. Vous ne pourrez installer Shrimp à côté de Windows qu’après avoir désactivé le chiffrement.
+12	Commençons
+13	Étape {n} sur {total}
+14	Choisir un lecteur
+15	Choisissez où préparer le programme d’installation de Shrimp. Il faut au moins {size}.
+16	Lecteur
+17	À propos du lecteur
+18	Vous pouvez choisir une clé USB, une carte SD ou un disque externe. Tout ce qui s’y trouve actuellement sera effacé.
+19	Retour
+20	Suivant
+21	Choisir un lecteur
+22	Ce lecteur est trop petit. Il faut au moins {size}.
+23	Aucun lecteur trouvé
+24	Branchez un lecteur et il apparaîtra ici.
+25	Trop petit
+26	Lecteurs disponibles
+27	Clé USB
+28	Carte SD
+29	Disque externe
+30	Que faut-il mettre à l’abri ?
+31	Avant l’installation, nous ferons une copie des éléments que vous choisissez.
+32	Comment choisir les fichiers
+33	Mes dossiers
+34	(Recommandé)
+35	Documents, photos et autres éléments personnels.
+36	Je choisis moi-même
+37	Choisissez vos propres dossiers et fichiers.
+38	Dossiers à conserver
+39	Documents
+40	Images
+41	Bureau
+42	Musique
+43	Vidéos
+44	Téléchargements
+45	Ajouter un dossier…
+46	Ajouter un fichier…
+47	Espace sur le lecteur
+48	À propos de la copie des fichiers
+49	Vos fichiers dans Windows restent inchangés.
+50	Préparer le lecteur
+51	Calcul en cours…
+52	Pas assez de place
+53	Conserver : {name}
+54	Retirer
+55	Retirer : {name}
+56	Rien n’est encore sélectionné.
+57	Il manque {size}
+58	{free} libres sur {total}
+59	Préparation de Shrimp
+60	Il reste environ {time}.
+61	La préparation est suspendue.
+62	Préparation terminée
+63	Tout est prêt.
+64	Téléchargement de Shrimp
+65	Écriture sur le lecteur
+66	Copie des fichiers
+67	Ne débranchez pas le lecteur avant la fin.
+68	Annuler
+69	Réessayer
+70	{size} téléchargés
+71	Connexion…
+72	{done} sur {total} · {speed} · {left} restantes
+73	Écrit
+74	Prendra {time}
+75	{pct} · {speed} · {left} restantes
+76	Aucun fichier choisi
+77	Rien à copier
+78	{size} copiés
+79	{size} · prendra {time}
+80	environ {time}
+81	moins d’une minute
+82	Pas de connexion Internet
+83	Impossible de télécharger Shrimp.
+84	Vérifiez votre connexion Internet et réessayez.
+85	L’image téléchargée est endommagée
+86	L’image téléchargée a échoué à la vérification.
+87	Réessayez.
+88	Espace disque insuffisant
+89	Espace disque insuffisant.
+90	Libérez de l’espace et réessayez.
+91	Écriture sur le lecteur impossible
+92	Impossible d’écrire sur le lecteur.
+93	Rebranchez-le ou choisissez-en un autre.
+94	Le lecteur a été déconnecté
+95	Le lecteur a été déconnecté.
+96	Rebranchez-le et réessayez.
+97	Impossible de copier les fichiers
+98	Impossible de copier les fichiers.
+99	Un problème est survenu
+100	Un problème est survenu.
+101	Tout est prêt
+102	Redémarrez l’ordinateur pour terminer.
+103	Le lecteur est prêt
+104	Shrimp attend d’être installé.
+105	Vos fichiers sont en sécurité
+106	La copie a été enregistrée.
+107	Des programmes vous attendent
+108	Nous proposerons des équivalents après l’installation.
+109	Enregistrez vos documents ouverts avant de redémarrer.
+110	Plus tard
+111	Redémarrer
+112	Impossible de configurer le démarrage depuis le lecteur.
+113	Annuler la préparation ?
+114	La préparation sera interrompue. Si l’écriture sur le lecteur a déjà commencé, vous devrez le préparer de nouveau.
+115	Continuer
+116	Annuler la préparation
+117	Impossible de se connecter au serveur de téléchargement.
+118	Le serveur de téléchargement a répondu avec le code {code}.
+119	Le manifeste est trop volumineux.
+120	La signature du manifeste n’est pas valide.
+121	Pas d’accès au dossier temporaire.
+122	Impossible d’enregistrer le fichier en cours de téléchargement.
+123	L’image téléchargée ne peut pas être écrite sur le lecteur.
+124	Il n’y a plus de place sur le lecteur.
+125	Impossible d’enregistrer la description de la copie.
+126	La préparation est déjà en cours.
+127	Impossible de lancer le téléchargement.
+128	Impossible de redémarrer. Faites-le depuis le menu Démarrer.
+129	Cet ordinateur ne démarre pas en mode UEFI. Démarrez-le manuellement depuis le lecteur, via le menu de démarrage (généralement la touche F12, F8 ou Échap).
+130	Autorisation insuffisante pour modifier les paramètres de démarrage.
+131	Lecteur introuvable. Rebranchez-le.
+132	Le micrologiciel n’a pas accepté l’entrée de démarrage. Démarrez l’ordinateur manuellement depuis le lecteur, via le menu de démarrage.
+133	Le micrologiciel n’a pas accepté le réglage du prochain démarrage. Démarrez l’ordinateur manuellement depuis le lecteur, via le menu de démarrage.
+134	Shrimp Install a besoin du composant Microsoft Edge WebView2, mais il n’a pas pu être lancé.\n\nMettez à jour Windows ou installez WebView2 Runtime depuis le site de Microsoft, puis réessayez.
+135	Impossible d’ouvrir la fenêtre de Shrimp Install (WebView2).
+136	Impossible de lancer le composant WebView2.
+137	Aucun emplacement libre pour l’entrée de démarrage.
+138	L’interface du programme est manquante.

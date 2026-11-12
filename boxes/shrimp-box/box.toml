@@ -1,0 +1,6 @@
+[box]
+id = "shrimp-box"
+version = "0.1.0"
+kind = "tool"
+summary = "Narzędzie boxów i kontenerów: sprawdzanie, kolejność, ścieżki CI, opis obrazu KIWI, budowanie"
+ci = "boxes"

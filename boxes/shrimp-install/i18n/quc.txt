@@ -1,0 +1,4 @@
+134	Ri Shrimp Install rajawaxik ri Microsoft Edge WebView2, are k’u man xkowin ta xtikitisax.\n\nKak’ub’isaj ri Windows on kaya’ ri WebView2 Runtime ri petinaq pa Microsoft, k’a te ri’ chatojtob’ej chik jumul.
+135	Man xkowin ta xjaq ri uwentaanil ri Shrimp Install (WebView2).
+136	Man xkowin ta xtikitisax ri WebView2.
+138	Man k’o ta ri uwach ri programa.

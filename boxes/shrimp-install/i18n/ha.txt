@@ -1,0 +1,138 @@
+1	Rage
+2	Rufe
+3	Shigar da Shrimp
+4	Tsari mai natsuwa da tsabta wanda ke aiki tun daga farko.
+5	Zazzagewa ta atomatik
+6	Mai shigarwa yana zazzage duk abin da yake bukata.
+7	Fayilolinka suna lafiya
+8	Za a ajiye fayilolinka.
+9	Shirye-shiryen da aka sani
+10	Za mu ba da shawarar shirye-shirye masu kama da waɗanda kake amfani da su.
+11	An ɓoye faifan Windows da BitLocker. Za ka iya shigar da Shrimp kusa da Windows ne kawai bayan ka kashe ɓoyewar.
+12	Mu fara
+13	Mataki {n} cikin {total}
+14	Zaɓi faifai
+15	Zaɓi inda za mu shirya mai shigar da Shrimp. Ana buƙatar aƙalla {size}.
+16	Faifai
+17	Game da faifan
+18	Za ka iya zaɓar sandar USB, katin SD ko faifan waje. Duk abin da ke kan faifan za a goge shi.
+19	Baya
+20	Na gaba
+21	Zaɓi faifai
+22	Wannan faifan ya yi ƙanƙanta. Ana buƙatar aƙalla {size}.
+23	Ba a sami faifai ba
+24	Ka haɗa faifai zai bayyana a nan.
+25	Ƙarami da yawa
+26	Faifan da ake da su
+27	USB
+28	Katin SD
+29	Faifan waje
+30	Me ya kamata a kiyaye?
+31	Kafin shigarwa, za mu yi kwafin abubuwan da ka zaɓa.
+32	Yadda ake zaɓar fayiloli
+33	Manyan fayiloli na
+34	(An ba da shawara)
+35	Takardu, hotuna da sauran abubuwan sirri.
+36	Zan zaɓa da kaina
+37	Zaɓi manyan fayilolinka da fayilolinka.
+38	Manyan fayilolin da za a ajiye
+39	Takardu
+40	Hotuna
+41	Tebur
+42	Kiɗa
+43	Bidiyo
+44	Abubuwan da aka zazzage
+45	Ƙara babban fayil…
+46	Ƙara fayil…
+47	Sarari a kan faifan
+48	Game da kwafin fayiloli
+49	Fayilolinka a cikin Windows ba za su canza ba.
+50	Shirya faifan
+51	Ana ƙirgawa…
+52	Babu sarari
+53	Ajiye: {name}
+54	Cire
+55	Cire: {name}
+56	Ba a zaɓi komai ba tukuna.
+57	Saura {size}
+58	{free} kyauta cikin {total}
+59	Ana shirya Shrimp
+60	Zai ɗauki ƙarin {time}.
+61	An dakatar da shiri na ɗan lokaci.
+62	An gama shiri
+63	Komai ya shirya.
+64	Ana zazzage Shrimp
+65	Ana rubutawa a faifai
+66	Ana kwafar fayiloli
+67	Kar ka cire faifan har sai ya gama.
+68	Soke
+69	Sake gwadawa
+70	An sauke {size}
+71	Ana haɗawa…
+72	{done} cikin {total} · {speed} · saura {left}
+73	An rubuta
+74	Zai ɗauki {time}
+75	{pct} · {speed} · saura {left}
+76	Ba a zaɓi fayiloli ba
+77	Babu abin da za a kwafa
+78	An kwafi {size}
+79	{size} · zai ɗauki {time}
+80	kusan {time}
+81	ƙasa da minti ɗaya
+82	Babu haɗin intanet
+83	Ba a iya sauke Shrimp ba.
+84	Duba haɗin intanet ɗinka sannan ka sake gwadawa.
+85	Hoton da aka sauke ya lalace
+86	Hoton da aka sauke bai wuce tantancewa ba.
+87	Sake gwadawa.
+88	Babu isasshen sarari a faifai
+89	Babu isasshen sarari a faifai.
+90	Ka ’yantar da wani sarari sannan ka sake gwadawa.
+91	Ba a iya rubutawa a faifan ba
+92	Ba a iya rubutawa a faifan ba.
+93	Sake toshe shi ko zaɓi wani.
+94	An cire faifan
+95	An cire faifan.
+96	Sake toshe shi sannan ka sake gwadawa.
+97	Ba a iya kwafin fayilolin ba
+98	Ba a iya kwafin fayilolin ba.
+99	Wani abu ya faru ba daidai ba
+100	Wani abu ya faru ba daidai ba.
+101	Komai ya shirya
+102	Sake kunna kwamfutar don kammalawa.
+103	Faifan ya shirya
+104	Shrimp na jiran a shigar da shi.
+105	Fayilolinka suna lafiya
+106	An ajiye kwafin.
+107	Shirye-shirye suna jira
+108	Za mu ba da shawarar masu kama da su bayan shigarwa.
+109	Ajiye takardun da ke buɗe kafin sake kunnawa.
+110	Daga baya
+111	Sake kunnawa
+112	Ba a iya saita farawa daga faifan ba.
+113	A soke shirin?
+114	Za a dakatar da shiri. Idan an riga an fara rubutawa a faifan, sai ka sake shirya shi.
+115	Ci gaba
+116	Soke shiri
+117	Ba za a iya haɗawa da sabar saukewa ba.
+118	Sabar saukewa ta amsa da lamba {code}.
+119	Manifest ɗin ya yi girma sosai.
+120	Sa hannun manifest ɗin ba daidai ba ne.
+121	Babu damar shiga babban fayil na wucin gadi.
+122	Ba za a iya ajiye fayil ɗin da ake saukewa ba.
+123	Ba za a iya rubuta hoton da aka sauke a faifan ba.
+124	Sarari ya ƙare a faifan.
+125	Ba a iya ajiye bayanin kwafin ba.
+126	Ana kan shiri tuni.
+127	Ba a iya fara saukewa ba.
+128	Ba a iya sake kunnawa ba. Yi shi daga menu na Start.
+129	Wannan kwamfutar ba ta farawa a yanayin UEFI. Fara ta daga faifan da hannu, daga menu na farawa (yawanci maɓallin F12, F8 ko Esc).
+130	Babu izinin canza saitunan farawa.
+131	Ba a sami faifan ba. Sake toshe shi.
+132	Firmware bai karɓi shigarwar farawa ba. Fara kwamfutar daga faifan da hannu, daga menu na farawa.
+133	Firmware bai karɓi saitin farawa na gaba ba. Fara kwamfutar daga faifan da hannu, daga menu na farawa.
+134	Shrimp Install na buƙatar ɓangaren Microsoft Edge WebView2, amma ba a iya fara shi ba.\n\nSabunta Windows ko shigar da WebView2 Runtime daga Microsoft sannan ka sake gwadawa.
+135	Ba a iya buɗe tagar Shrimp Install (WebView2) ba.
+136	Ba a iya fara ɓangaren WebView2 ba.
+137	Babu wurin da ke kyauta don shigarwar farawa.
+138	Babu fuskar shirin.

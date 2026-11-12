@@ -1,0 +1,138 @@
+1	Nyamišetša
+2	Vala
+3	Kenya Shrimp
+4	Tshepedišo e kgutšwane, e rulagantšwego yeo e šomago go tloga mathomong.
+5	Go laišwa ka bohlatse
+6	Mokenyi o laiša dilo ka moka tšeo di nyakegago.
+7	Difaele tša gago di bolokegile
+8	Difaele tša gago di tla bolokwa.
+9	Mananeo ao o a tsebago
+10	Re tla šišinya mananeo ao a swanago le ao o a šomišago.
+11	Drayive ya Windows e notletšwe ka BitLocker. O ka kenya Shrimp kgauswi le Windows fela ka morago ga go tima notlelo.
+12	A re thomeng
+13	Kgato {n} go {total}
+14	Kgetha drayive
+15	Kgetha moo re tlago go lokišetša sekenyi sa Shrimp. Go nyakega bonyane {size}.
+16	Drayive
+17	Mabapi le drayive
+18	O ka kgetha USB, karata ya SD goba drayive ya ka ntle. Tšohle tšeo di lego go drayive di tla phumolwa.
+19	Morago
+20	E latelago
+21	Kgetha drayive
+22	Drayive ye e nyenyane kudu. Go nyakega bonyane {size}.
+23	Ga go drayive yeo e hweditšwego
+24	Kopanya drayive gomme e tla tšwelela mo.
+25	E nyenyane kudu
+26	Didrayive tšeo di hwetšagalago
+27	USB
+28	Karata ya SD
+29	Drayive ya ka ntle
+30	Ke eng seo se swanetšego go bolokwa?
+31	Pele ga go kenya, re tla dira khophi ya dilo tšeo o di kgethago.
+32	Ka moo o ka kgethago difaele
+33	Disetšhwantšho tša ka
+34	(E šišinywa)
+35	Ditokumente, diswantšho le dilo tše dingwe tša gago.
+36	Ke tla ikgethela
+37	Kgetha difolotara le difaele tša gago.
+38	Difolotara tšeo di tlago go bolokwa
+39	Ditokumente
+40	Diswantšho
+41	Teseke
+42	Mmino
+43	Dibidio
+44	Tšeo di laeletšwego
+45	Oketša folotara…
+46	Oketša faele…
+47	Sekgoba go drayive
+48	Mabapi le go kopiša difaele
+49	Difaele tša gago go Windows di dula di sa fetoge.
+50	Lokišetša drayive
+51	E a bala…
+52	Ga go sekgoba
+53	Boloka: {name}
+54	Tloša
+55	Tloša: {name}
+56	Ga go se se kgethilwego.
+57	Go hlaela {size}
+58	{free} se se lokologilego go {total}
+59	Go lokišetša Shrimp
+60	Go tla tšea {time} gape.
+61	Go lokišetša go emišitšwe.
+62	Go lokišetša go feditše
+63	Tšohle di lokile.
+64	Go laiša Shrimp
+65	Go ngwala go drayive
+66	Go kopiša difaele
+67	O se ntšhe drayive go fihlela e fetša.
+68	Khansela
+69	Leka gape
+70	Go laišitšwe {size}
+71	E a kgokaganya…
+72	{done} go {total} · {speed} · go šetše {left}
+73	Go ngwadilwe
+74	Go tla tšea {time}
+75	{pct} · {speed} · go šetše {left}
+76	Ga go difaele tšeo di kgethilwego
+77	Ga go se se ka kopišwago
+78	Go kopišitšwe {size}
+79	{size} · go tla tšea {time}
+80	e ka ba {time}
+81	ka tlase ga motsotso
+82	Ga go kgokagano ya inthanete
+83	Ga go kgonagale go laiša Shrimp.
+84	Lekola kgokagano ya gago ya inthanete gomme o leke gape.
+85	Seswantšho seo se laeleditšwego se sentšwe
+86	Seswantšho seo se laeleditšwego se paletšwe ke netefatšo.
+87	Leka gape.
+88	Ga go sekgoba se se lekanego go tisiki
+89	Ga go sekgoba se se lekanego go tisiki.
+90	Lokolla sekgoba gomme o leke gape.
+91	Ga go kgonagale go ngwala go drayive
+92	Ga go kgonagale go ngwala go drayive.
+93	E kopanye gape goba o kgethe e nngwe.
+94	Drayive e kgaogantšwe
+95	Drayive e kgaogantšwe.
+96	E kopanye gape gomme o leke gape.
+97	Ga go kgonagale go kopiša difaele
+98	Ga go kgonagale go kopiša difaele.
+99	Go na le se se sa šomago gabotse
+100	Go na le se se sa šomago gabotse.
+101	Tšohle di lokile
+102	Thoma khomphutha gape go fetša.
+103	Drayive e lokile
+104	Shrimp e emetše go kenywa.
+105	Difaele tša gago di bolokegile
+106	Khophi e bolokilwe.
+107	Mananeo a emetše
+108	Re tla šišinya ao a swanago ka morago ga go kenya.
+109	Boloka ditokumente tšeo di bulegilego pele o thoma gape.
+110	Ka morago
+111	Thoma gape
+112	Ga go kgonagale go beakanya go thoma go tšwa go drayive.
+113	Khansela go lokišetša?
+114	Go lokišetša go tla emišwa. Ge go ngwala go drayive go šetše go thomile, o tla swanela ke go e lokišetša gape.
+115	Tšwela pele
+116	Khansela go lokišetša
+117	Ga go kgonagale go kgokagana le seabi sa go laiša.
+118	Seabi sa go laiša se arabile ka khoutu {code}.
+119	Manifest e kgolo kudu.
+120	Mosaeno wa manifest ga o a nepagala.
+121	Ga go phihlelo go folotara ya nakwana.
+122	Ga go kgonagale go boloka faele yeo e laišwago.
+123	Seswantšho seo se laeleditšwego ga se kgone go ngwalwa go drayive.
+124	Sekgoba sa drayive se fedile.
+125	Ga go kgonagale go boloka tlhalošo ya khophi.
+126	Go lokišetša go šetše go tšwela pele.
+127	Ga go kgonagale go thoma go laiša.
+128	Ga go kgonagale go thoma gape. E dire go tšwa go menyu ya Start.
+129	Khomphutha ye ga e thome ka mokgwa wa UEFI. E thome go tšwa go drayive ka seatla, go menyu ya go thoma (gantši konopo ya F12, F8 goba Esc).
+130	Ga go tumelelo ya go fetoša dipeakanyo tša go thoma.
+131	Drayive ga e hwetšwe. E kopanye gape.
+132	Firmware ga e amogela tsenyo ya go thoma. Thoma khomphutha go tšwa go drayive ka seatla, go menyu ya go thoma.
+133	Firmware ga e amogela peakanyo ya go thoma ga go latela. Thoma khomphutha go tšwa go drayive ka seatla, go menyu ya go thoma.
+134	Shrimp Install e nyaka karolo ya Microsoft Edge WebView2, eupša ga se kgonagale go e thoma.\n\nMpshafatša Windows goba o tsenye WebView2 Runtime go tšwa go Microsoft gomme o leke gape.
+135	Ga go kgonagale go bula lefasetere la Shrimp Install (WebView2).
+136	Ga go kgonagale go thoma karolo ya WebView2.
+137	Ga go sebaka se se lokologilego sa tsenyo ya go thoma.
+138	Tšhupetšo ya lenaneo ga e gona.

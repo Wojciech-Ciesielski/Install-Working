@@ -1,0 +1,138 @@
+1	Minimizar
+2	Fechar
+3	Instalar o Shrimp
+4	Um sistema calmo e organizado que funciona desde a primeira inicialização.
+5	Download automático
+6	O instalador baixa tudo o que precisa.
+7	Seus arquivos ficam seguros
+8	Seus arquivos serão mantidos.
+9	Programas conhecidos
+10	Vamos sugerir equivalentes dos programas que você usa.
+11	A unidade do Windows está criptografada com o BitLocker. Só é possível instalar o Shrimp ao lado do Windows depois de desativar a criptografia.
+12	Vamos começar
+13	Etapa {n} de {total}
+14	Escolha uma unidade
+15	Escolha onde vamos preparar o instalador do Shrimp. São necessários pelo menos {size}.
+16	Unidade
+17	Sobre a unidade
+18	Você pode escolher um pen drive, um cartão SD ou uma unidade externa. Tudo o que estiver nela agora será apagado.
+19	Voltar
+20	Avançar
+21	Escolha uma unidade
+22	Esta unidade é pequena demais. São necessários pelo menos {size}.
+23	Nenhuma unidade encontrada
+24	Conecte uma unidade e ela aparecerá aqui.
+25	Pequena demais
+26	Unidades disponíveis
+27	Pen drive USB
+28	Cartão SD
+29	Unidade externa
+30	O que deve ficar seguro?
+31	Antes de instalar, vamos fazer uma cópia do que você escolher.
+32	Como escolher arquivos
+33	Minhas pastas
+34	(Recomendado)
+35	Documentos, fotos e outras coisas pessoais.
+36	Eu escolho
+37	Escolha suas próprias pastas e arquivos.
+38	Pastas a manter
+39	Documentos
+40	Imagens
+41	Área de Trabalho
+42	Músicas
+43	Vídeos
+44	Downloads
+45	Adicionar pasta…
+46	Adicionar arquivo…
+47	Espaço na unidade
+48	Sobre a cópia de arquivos
+49	Seus arquivos no Windows permanecem inalterados.
+50	Preparar a unidade
+51	Calculando…
+52	Sem espaço
+53	Manter: {name}
+54	Remover
+55	Remover: {name}
+56	Nada escolhido ainda.
+57	Faltam {size}
+58	{free} livres de {total}
+59	Preparando o Shrimp
+60	Faltam cerca de {time}.
+61	A preparação foi pausada.
+62	Preparação concluída
+63	Tudo pronto.
+64	Baixando o Shrimp
+65	Gravando na unidade
+66	Copiando arquivos
+67	Não desconecte a unidade até terminar.
+68	Cancelar
+69	Tentar novamente
+70	{size} baixados
+71	Conectando…
+72	{done} de {total} · {speed} · faltam {left}
+73	Gravado
+74	Levará {time}
+75	{pct} · {speed} · faltam {left}
+76	Nenhum arquivo escolhido
+77	Nada para copiar
+78	{size} copiados
+79	{size} · levará {time}
+80	cerca de {time}
+81	menos de um minuto
+82	Sem conexão com a Internet
+83	Não foi possível baixar o Shrimp.
+84	Verifique sua conexão com a Internet e tente novamente.
+85	A imagem baixada está danificada
+86	A imagem baixada não passou na verificação.
+87	Tente novamente.
+88	Espaço em disco insuficiente
+89	Espaço em disco insuficiente.
+90	Libere espaço e tente novamente.
+91	Não foi possível gravar na unidade
+92	Não foi possível gravar na unidade.
+93	Conecte-a novamente ou escolha outra.
+94	A unidade foi desconectada
+95	A unidade foi desconectada.
+96	Conecte-a novamente e tente de novo.
+97	Não foi possível copiar os arquivos
+98	Não foi possível copiar os arquivos.
+99	Algo deu errado
+100	Algo deu errado.
+101	Tudo pronto
+102	Reinicie o computador para concluir.
+103	A unidade está pronta
+104	O Shrimp está esperando para ser instalado.
+105	Seus arquivos estão seguros
+106	A cópia foi salva.
+107	Programas esperando
+108	Vamos sugerir equivalentes após a instalação.
+109	Salve seus documentos abertos antes de reiniciar.
+110	Depois
+111	Reiniciar
+112	Não foi possível configurar a inicialização pela unidade.
+113	Cancelar a preparação?
+114	A preparação será interrompida. Se a gravação na unidade já tiver começado, será preciso prepará-la novamente.
+115	Continuar
+116	Cancelar a preparação
+117	Não foi possível conectar ao servidor de download.
+118	O servidor de download respondeu com o código {code}.
+119	O manifesto é grande demais.
+120	A assinatura do manifesto é inválida.
+121	Sem acesso à pasta temporária.
+122	Não foi possível salvar o arquivo que está sendo baixado.
+123	A imagem baixada não pode ser gravada na unidade.
+124	A unidade ficou sem espaço.
+125	Não foi possível salvar a descrição da cópia.
+126	A preparação já está em andamento.
+127	Não foi possível iniciar o download.
+128	Não foi possível reiniciar. Faça isso pelo menu Iniciar.
+129	Este computador não inicia no modo UEFI. Inicie-o manualmente pela unidade, no menu de inicialização (geralmente a tecla F12, F8 ou Esc).
+130	Sem permissão para alterar as configurações de inicialização.
+131	Unidade não encontrada. Conecte-a novamente.
+132	O firmware não aceitou a entrada de inicialização. Inicie o computador manualmente pela unidade, no menu de inicialização.
+133	O firmware não aceitou a configuração da próxima inicialização. Inicie o computador manualmente pela unidade, no menu de inicialização.
+134	O Shrimp Install precisa do componente Microsoft Edge WebView2, mas não foi possível iniciá-lo.\n\nAtualize o Windows ou instale o WebView2 Runtime da Microsoft e tente novamente.
+135	Não foi possível abrir a janela do Shrimp Install (WebView2).
+136	Não foi possível iniciar o componente WebView2.
+137	Não há espaço livre para a entrada de inicialização.
+138	A interface do programa está faltando.

@@ -1,0 +1,138 @@
+1	Minimaliseren
+2	Sluiten
+3	Shrimp installeren
+4	Een rustig, opgeruimd systeem dat werkt vanaf de eerste start.
+5	Automatisch downloaden
+6	Het installatieprogramma downloadt alles wat nodig is.
+7	Je bestanden blijven veilig
+8	Je bestanden blijven bewaard.
+9	Vertrouwde programma’s
+10	We stellen alternatieven voor de programma’s die je gebruikt voor.
+11	De Windows-schijf is versleuteld met BitLocker. Je kunt Shrimp pas naast Windows installeren nadat je de versleuteling hebt uitgezet.
+12	Aan de slag
+13	Stap {n} van {total}
+14	Kies een schijf
+15	Kies waar we het installatieprogramma van Shrimp voorbereiden. Er is minstens {size} nodig.
+16	Schijf
+17	Over de schijf
+18	Je kunt een USB-stick, een SD-kaart of een externe schijf kiezen. Alles wat er nu op staat, wordt gewist.
+19	Terug
+20	Volgende
+21	Kies een schijf
+22	Deze schijf is te klein. Er is minstens {size} nodig.
+23	Geen schijf gevonden
+24	Sluit een schijf aan en die verschijnt hier.
+25	Te klein
+26	Beschikbare schijven
+27	USB-stick
+28	SD-kaart
+29	Externe schijf
+30	Wat moet veilig blijven?
+31	Voordat we installeren, maken we een kopie van wat je kiest.
+32	Bestanden kiezen
+33	Mijn mappen
+34	(Aanbevolen)
+35	Documenten, foto’s en andere persoonlijke dingen.
+36	Ik kies zelf
+37	Kies je eigen mappen en bestanden.
+38	Mappen om te bewaren
+39	Documenten
+40	Afbeeldingen
+41	Bureaublad
+42	Muziek
+43	Video’s
+44	Downloads
+45	Map toevoegen…
+46	Bestand toevoegen…
+47	Ruimte op de schijf
+48	Over het kopiëren van bestanden
+49	Je bestanden in Windows blijven ongewijzigd.
+50	Schijf voorbereiden
+51	Berekenen…
+52	Geen ruimte
+53	Bewaren: {name}
+54	Verwijderen
+55	Verwijderen: {name}
+56	Nog niets gekozen.
+57	{size} tekort
+58	{free} vrij van {total}
+59	Shrimp wordt voorbereid
+60	Dit duurt nog {time}.
+61	De voorbereiding is onderbroken.
+62	Voorbereiding voltooid
+63	Alles is klaar.
+64	Shrimp wordt gedownload
+65	Schrijven naar de schijf
+66	Bestanden kopiëren
+67	Koppel de schijf niet los totdat dit klaar is.
+68	Annuleren
+69	Opnieuw proberen
+70	{size} gedownload
+71	Verbinden…
+72	{done} van {total} · {speed} · nog {left}
+73	Geschreven
+74	Duurt {time}
+75	{pct} · {speed} · nog {left}
+76	Geen bestanden gekozen
+77	Niets te kopiëren
+78	{size} gekopieerd
+79	{size} · duurt {time}
+80	ongeveer {time}
+81	minder dan een minuut
+82	Geen internetverbinding
+83	Shrimp kon niet worden gedownload.
+84	Controleer je internetverbinding en probeer het opnieuw.
+85	Het gedownloade image is beschadigd
+86	Het gedownloade image is niet geslaagd voor de controle.
+87	Probeer het opnieuw.
+88	Onvoldoende schijfruimte
+89	Onvoldoende schijfruimte.
+90	Maak ruimte vrij en probeer het opnieuw.
+91	Schrijven naar de schijf is niet gelukt
+92	Schrijven naar de schijf is niet gelukt.
+93	Sluit de schijf opnieuw aan of kies een andere.
+94	De schijf is losgekoppeld
+95	De schijf is losgekoppeld.
+96	Sluit de schijf weer aan en probeer het opnieuw.
+97	Kopiëren van de bestanden is niet gelukt
+98	Kopiëren van de bestanden is niet gelukt.
+99	Er is iets misgegaan
+100	Er is iets misgegaan.
+101	Klaar
+102	Start de computer opnieuw op om af te ronden.
+103	De schijf is klaar
+104	Shrimp wacht op installatie.
+105	Je bestanden zijn veilig
+106	De kopie is opgeslagen.
+107	Programma’s wachten
+108	Na de installatie stellen we alternatieven voor.
+109	Sla je geopende documenten op voordat je opnieuw opstart.
+110	Later
+111	Opnieuw opstarten
+112	Opstarten vanaf de schijf kon niet worden ingesteld.
+113	Voorbereiding annuleren?
+114	De voorbereiding wordt gestopt. Als het schrijven naar de schijf al is begonnen, moet je de schijf opnieuw voorbereiden.
+115	Doorgaan
+116	Voorbereiding annuleren
+117	Kan geen verbinding maken met de downloadserver.
+118	De downloadserver antwoordde met code {code}.
+119	Het manifest is te groot.
+120	De handtekening van het manifest is ongeldig.
+121	Geen toegang tot de tijdelijke map.
+122	Het bestand dat wordt gedownload, kan niet worden opgeslagen.
+123	Het gedownloade image kan niet naar de schijf worden geschreven.
+124	De schijf zit vol.
+125	De beschrijving van de kopie kon niet worden opgeslagen.
+126	De voorbereiding is al bezig.
+127	Downloaden kon niet worden gestart.
+128	Opnieuw opstarten is niet gelukt. Doe het via het menu Start.
+129	Deze computer start niet op in UEFI-modus. Start hem handmatig op vanaf de schijf via het opstartmenu (meestal de toets F12, F8 of Esc).
+130	Geen toestemming om de opstartinstellingen te wijzigen.
+131	Schijf niet gevonden. Sluit hem opnieuw aan.
+132	De firmware heeft het opstartitem niet geaccepteerd. Start de computer handmatig op vanaf de schijf via het opstartmenu.
+133	De firmware heeft de instelling voor de volgende start niet geaccepteerd. Start de computer handmatig op vanaf de schijf via het opstartmenu.
+134	Shrimp Install heeft het onderdeel Microsoft Edge WebView2 nodig, maar dit kon niet worden gestart.\n\nWerk Windows bij of installeer WebView2 Runtime van Microsoft en probeer het opnieuw.
+135	Het venster van Shrimp Install (WebView2) kon niet worden geopend.
+136	Het onderdeel WebView2 kon niet worden gestart.
+137	Geen vrije plek voor het opstartitem.
+138	De interface van het programma ontbreekt.
