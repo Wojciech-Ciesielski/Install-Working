@@ -10,6 +10,7 @@
     "boot": "boot-from-usb",
     "nvidia": "nvidia-driver",
     "apps": "shrimp-apps",
-    "panko": "panko"
+    "panko": "panko",
+    "cherry": "terminal"
   }
 }
