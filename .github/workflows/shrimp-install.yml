@@ -19,53 +19,44 @@ jobs:
       - run: npm ci
       - run: npm run typecheck
       - run: npm test
-      - name: Komunikaty natywne (native_i18n.h) zgodne z boxes/shrimp-install/i18n
-        run: node ../tools/gen-native-i18n.mjs --check
-      - name: Test odczytu adresów z odpowiedzi API GitHub
-        working-directory: boxes/shrimp-install
-        run: gcc -Wall -Wextra -Werror -o /tmp/relurl_test tests/relurl_test.c && /tmp/relurl_test
       - run: npm run build
       - uses: actions/upload-artifact@v7
         with: { name: install-ui, path: boxes/shrimp-install/ui/dist/index.html }
 
-  windows:
-    needs: ui
-    runs-on: windows-latest
-    defaults: { run: { shell: "msys2 {0}" } }
+  # Kopia nośnika, plan i opis plików, manifest, znaczniki języka: testy bez Windows.
+  rust:
+    runs-on: ubuntu-24.04
+    defaults: { run: { working-directory: boxes/shrimp-install } }
     steps:
-      - uses: msys2/setup-msys2@v2
-        with:
-          msystem: mingw64
-          update: true
-          path-type: inherit
-          install: >-
-            mingw-w64-x86_64-toolchain
-            base-devel
-            autotools
-            unzip
+      - uses: actions/checkout@v7
+      - run: cargo test --locked
+      - name: Kompilacja dla Windows (sprawdzenie typów bez linkera)
+        run: |
+          rustup target add x86_64-pc-windows-gnu
+          cargo clippy --locked --target x86_64-pc-windows-gnu -- -D warnings
+
+  windows:
+    needs: [ui, rust]
+    runs-on: windows-latest
+    steps:
       - uses: actions/checkout@v7
       - uses: actions/download-artifact@v8
         with: { name: install-ui, path: ui-dist }
-      - name: WebView2 SDK, adres manifestu i interfejs
+      - name: Kompilacja (Rust, MSVC)
         # Manifest ISO jest w Cloudflare R2 (wydania CoreOS-Working): zmienna repozytorium SHRIMP_MANIFEST_URL
         # (np. https://<publiczny adres bucketu>/manifest.json). Bez niej program ma adres przykładowy.
+        working-directory: boxes/shrimp-install
         env:
           SHRIMP_MANIFEST_URL: ${{ vars.SHRIMP_MANIFEST_URL }}
         run: |
-          SKIP_UI=1 boxes/shrimp-install/tools/prepare.sh
-          cp ui-dist/index.html boxes/shrimp-install/rufus/src/shrimp/ui.html
-      - name: Kompilacja (fork Rufusa)
-        working-directory: boxes/shrimp-install/rufus
-        run: |
-          ./bootstrap.sh
-          ./configure --disable-debug
-          make -j4
-          mkdir -p ../../../out
-          cp src/rufus.exe ../../../out/shrimp-install.exe
-          strip ../../../out/shrimp-install.exe
-          sha256sum ../../../out/shrimp-install.exe
+          $env:SHRIMP_UI_HTML = "$env:GITHUB_WORKSPACE\ui-dist\index.html"
+          cargo build --release --locked
+          if ($LASTEXITCODE -ne 0) { throw 'kompilacja' }
+          New-Item -ItemType Directory -Force ..\..\out | Out-Null
+          Copy-Item target\release\shrimp-install.exe ..\..\out\shrimp-install.exe
+          Get-FileHash ..\..\out\shrimp-install.exe -Algorithm SHA256 | Format-List
+          "{0:N1} MB" -f ((Get-Item ..\..\out\shrimp-install.exe).Length / 1MB)
       - name: Dane z Windows (--collect)
-        shell: pwsh
         run: |
           $p = Start-Process out\shrimp-install.exe -ArgumentList '--collect', "$PWD\out\collect.json" -PassThru -Wait
           if ($p.ExitCode -ne 0) { throw "kod wyjścia $($p.ExitCode)" }
@@ -76,7 +67,6 @@ jobs:
           if ($j.folders.Count -ne 6) { throw 'brak folderów' }
           "użytkownik: $($j.user.name), strefa: $($j.locale.timezone), programów: $($j.apps.Count), klawiatury: $($j.locale.keyboards -join ',')"
       - name: Kontrakt shrimp.json (boxes/install-schema) dla wyniku --collect i przykładu
-        shell: pwsh
         run: |
           $schema = "boxes/install-schema/shrimp.schema.json"
           foreach ($f in 'out\collect.json', 'boxes\install-schema\shrimp.example.json') {
@@ -85,7 +75,6 @@ jobs:
             "${f}: zgodny ze schematem"
           }
       - name: Kopia zawartości nośnika (--backup-test)
-        shell: pwsh
         run: |
           $src = "$env:RUNNER_TEMP\usb-src"; $dst = "$env:RUNNER_TEMP\usb-dst"; $work = "$env:RUNNER_TEMP\usb-work"
           New-Item -ItemType Directory -Force "$src\DCIM\100", "$src\Pusty folder", "$src\Zażółć", $work | Out-Null
@@ -96,13 +85,14 @@ jobs:
           $p = Start-Process out\shrimp-install.exe -ArgumentList '--backup-test', $src, $dst, $work -PassThru -Wait -NoNewWindow
           if ($p.ExitCode -ne 0) { throw "kod wyjścia $($p.ExitCode)" }
           if (-not (Test-Path "$dst\shrimp-backup\manifest.tsv")) { throw 'brak manifest.tsv' }
-          if (-not (Test-Path "$dst\shrimp-backup\files\duzy.iso.shrimp-part002")) { throw 'plik > 4 GB nie został podzielony' }
+          # exFAT mieści pliki > 4 GB: kopia jest jednym plikiem, bez części.
+          if ((Get-Item "$dst\shrimp-backup\files\duzy.iso").Length -ne 4.5GB) { throw 'plik > 4 GB nie jest cały' }
+          if (Test-Path "$dst\shrimp-backup\files\duzy.iso.shrimp-part000") { throw 'plik > 4 GB został podzielony' }
           if (-not (Test-Path "$dst\shrimp-backup\files\Pusty folder")) { throw 'brak pustego folderu' }
           Get-Content "$dst\shrimp-backup\manifest.tsv"
       - name: Pełny zapis na pusty wirtualny nośnik 32 GB (--auto-disk)
         # Jak u użytkownika: całkowicie pusty dysk (bez tablicy partycji), ISO z ostatniego wydania,
-        # potem sprawdzenie, co jest na nośniku. Dziennik programu trafia do artefaktu.
-        shell: pwsh
+        # potem sprawdzenie układu (FAT32 SHRIMP_BOOT + exFAT SHRIMP_LIVE) i plików. Dziennik trafia do artefaktu.
         timeout-minutes: 30
         env:
           GH_TOKEN: ${{ github.token }}
@@ -127,25 +117,39 @@ jobs:
           diskpart /s "$tmp\dp.txt" | Out-Host
           $disk = Get-DiskImage -ImagePath $vhd | Get-Disk
           "dysk testowy: numer $($disk.Number), $($disk.Size) B, styl $($disk.PartitionStyle)"
+          # Pendrive z plikami użytkownika: mają wrócić w shrimp-backup.
+          $disk | Initialize-Disk -PartitionStyle MBR -PassThru | New-Partition -UseMaximumSize -AssignDriveLetter | Format-Volume -FileSystem FAT32 -NewFileSystemLabel PENDRIVE -Confirm:$false | Out-Null
+          $old = (Get-Partition -DiskNumber $disk.Number | Get-Volume).Path
+          Set-Content -LiteralPath (Join-Path $old 'lista zakupów.txt') 'mleko, chleb' -Encoding utf8
           $p = Start-Process out\shrimp-install.exe -ArgumentList '--source', $iso, '--auto-disk', $disk.Number -PassThru
           $log = "$env:LOCALAPPDATA\Shrimp Install\shrimp-install.log"
           $ok = $p.WaitForExit(25 * 60 * 1000)
           Copy-Item $log out\auto-disk.log -ErrorAction SilentlyContinue
-          Get-Content $log -ErrorAction SilentlyContinue | Select-String -NotMatch '^\S+ \+' | Select-Object -Last 120 | Out-Host
+          Get-Content $log -ErrorAction SilentlyContinue | Select-Object -Last 120 | Out-Host
           if (-not $ok) { Stop-Process -Id $p.Id -Force; throw 'program nie skończył zapisu w 25 minut (zawieszenie)' }
           if ($p.ExitCode -ne 0) { throw "kod wyjścia $($p.ExitCode)" }
-          $vol = Get-Partition -DiskNumber $disk.Number | Get-Volume | Where-Object { $_.FileSystemLabel -eq 'SHRIMP_LIVE' }
-          if (-not $vol) { throw 'brak woluminu SHRIMP_LIVE' }
-          "wolumin: $($vol.FileSystem), $($vol.Size) B"
-          if ($vol.FileSystem -ne 'FAT32') { throw "system plików $($vol.FileSystem) zamiast FAT32" }
-          $root = if ($vol.DriveLetter) { "$($vol.DriveLetter):\" } else { $vol.Path }
-          foreach ($f in 'EFI\BOOT\bootx64.efi', 'LiveOS\squashfs.img', 'boot\x86_64\loader\initrd', 'shrimp-transfer\shrimp.json') {
-            if (-not (Test-Path -LiteralPath (Join-Path $root $f))) { throw "brak $f na nośniku" }
+          $parts = @(Get-Partition -DiskNumber $disk.Number | Sort-Object Offset)
+          $parts | Format-Table PartitionNumber, Offset, Size, GptType | Out-Host
+          $boot = $parts | Get-Volume | Where-Object { $_.FileSystemLabel -eq 'SHRIMP_BOOT' }
+          $live = $parts | Get-Volume | Where-Object { $_.FileSystemLabel -eq 'SHRIMP_LIVE' }
+          if ((Get-Disk -Number $disk.Number).PartitionStyle -ne 'GPT') { throw 'nośnik nie jest GPT' }
+          if (-not $boot -or $boot.FileSystem -ne 'FAT32') { throw 'brak partycji FAT32 SHRIMP_BOOT' }
+          if (-not $live -or $live.FileSystem -ne 'exFAT') { throw 'brak partycji exFAT SHRIMP_LIVE' }
+          "SHRIMP_BOOT: $($boot.Size) B, SHRIMP_LIVE: $($live.Size) B"
+          # Wielkość liter jak w obrazie (Joliet): GRUB i initrd szukają dokładnych nazw.
+          foreach ($f in 'EFI\BOOT\bootx64.efi', 'boot\x86_64\loader\initrd', 'boot\grub2\shrimp-lang.cfg') {
+            $i = Get-Item -LiteralPath (Join-Path $boot.Path $f) -ErrorAction SilentlyContinue
+            if (-not $i) { throw "brak $f na SHRIMP_BOOT" }
+            if ($i.Name -cne (Split-Path $f -Leaf)) { throw "nazwa $($i.Name) zamiast $(Split-Path $f -Leaf)" }
           }
-          "nośnik gotowy: $((Get-Item -LiteralPath (Join-Path $root 'LiveOS\squashfs.img')).Length) B squashfs, shrimp.json:"
-          Get-Content -LiteralPath (Join-Path $root 'shrimp-transfer\shrimp.json') -Raw | Out-Host
+          foreach ($f in 'LiveOS\squashfs.img', 'shrimp-transfer\shrimp.json', 'shrimp-backup\manifest.tsv', 'shrimp-backup\files\lista zakupów.txt') {
+            if (-not (Test-Path -LiteralPath (Join-Path $live.Path $f))) { throw "brak $f na SHRIMP_LIVE" }
+          }
+          if (Test-Path -LiteralPath (Join-Path $boot.Path 'LiveOS')) { throw 'LiveOS na partycji FAT32' }
+          "nośnik gotowy: $((Get-Item -LiteralPath (Join-Path $live.Path 'LiveOS\squashfs.img')).Length) B squashfs"
+          Get-Content -LiteralPath (Join-Path $live.Path 'shrimp-backup\manifest.tsv') | Out-Host
+          Get-Content -LiteralPath (Join-Path $live.Path 'shrimp-transfer\shrimp.json') -Raw | Out-Host
       - name: "Okno z WebView2 (tryb --demo), program uruchamia się na każdym ekranie"
-        shell: pwsh
         run: |
           foreach ($t in 'light', 'dark') {
             foreach ($s in 'start', 'nosnik', 'pliki', 'postep') {

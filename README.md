@@ -1,6 +1,6 @@
 # Install-Working
 
-Repozytorium robocze **Shrimp Install**: programu dla Windows (fork Rufusa 4.16), który pobiera Shrimp, sprawdza sumę SHA-256, zapisuje nośnik (GPT/UEFI/FAT32, etykieta `SHRIMP_LIVE`) i przenosi dane z Windows (`shrimp-transfer/shrimp.json`, pliki użytkownika, kopia pendrive'a).
+Repozytorium robocze **Shrimp Install**: programu dla Windows (własny kod w Rust + WebView2), który pobiera Shrimp, sprawdza sumę SHA-256, zapisuje nośnik (GPT/UEFI: FAT32 `SHRIMP_BOOT` + exFAT `SHRIMP_LIVE`) i przenosi dane z Windows (`shrimp-transfer/shrimp.json`, pliki użytkownika, kopia pendrive'a).
 
 - Kod i opis: [`boxes/shrimp-install/README.md`](boxes/shrimp-install/README.md). Budowa `.exe`: workflow **Shrimp Install** (artefakt `shrimp-install`).
 - Kontrakt z Setup w ISO: box `install-schema` (`shrimp.schema.json`). To repozytorium jest jego źródłem; kopia w CoreOS-Working musi być taka sama.
