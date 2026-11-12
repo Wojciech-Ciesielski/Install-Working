@@ -1,0 +1,5 @@
+[box]
+id = "install-schema"
+version = "0.1.0"
+kind = "data"
+summary = "Kontrakt shrimp.json między Shrimp Install (Windows) a Setup"

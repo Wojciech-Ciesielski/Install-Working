@@ -1,0 +1,4 @@
+/* Shrimp Install resources, included at the end of rufus.rc. Paths relative to src/. */
+#include "shrimp_res.h"
+IDR_SHRIMP_UI          RCDATA  "shrimp/ui.html"
+IDR_SHRIMP_WV2LOADER   RCDATA  "shrimp/WebView2Loader.dll"

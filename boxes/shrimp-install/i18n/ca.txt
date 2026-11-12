@@ -1,0 +1,138 @@
+1	Minimitza
+2	Tanca
+3	Instal·la Shrimp
+4	Un sistema tranquil i ordenat que funciona des del primer inici.
+5	Baixada automàtica
+6	L'instal·lador baixa tot el que necessita.
+7	Els teus fitxers estan segurs
+8	Es conservaran els teus fitxers.
+9	Programes coneguts
+10	Et proposarem equivalents dels programes que fas servir.
+11	La unitat de Windows està xifrada amb BitLocker. Només podràs instal·lar Shrimp al costat de Windows després de desactivar-ne el xifratge.
+12	Comencem
+13	Pas {n} de {total}
+14	Tria una unitat
+15	Tria on prepararem l'instal·lador de Shrimp. Calen com a mínim {size}.
+16	Unitat
+17	Sobre la unitat
+18	Pots triar una memòria USB, una targeta SD o una unitat externa. Tot el que hi hagi ara a la unitat s'esborrarà.
+19	Enrere
+20	Següent
+21	Tria una unitat
+22	Aquesta unitat és massa petita. Calen com a mínim {size}.
+23	No s'ha trobat cap unitat
+24	Connecta una unitat i apareixerà aquí.
+25	Massa petita
+26	Unitats disponibles
+27	Memòria USB
+28	Targeta SD
+29	Unitat externa
+30	Què s'ha de conservar?
+31	Abans d'instal·lar, farem una còpia del que triïs.
+32	Com triar els fitxers
+33	Les meves carpetes
+34	(Recomanat)
+35	Documents, fotos i altres coses personals.
+36	Triaré jo mateix
+37	Tria les teves carpetes i fitxers.
+38	Carpetes que es conservaran
+39	Documents
+40	Imatges
+41	Escriptori
+42	Música
+43	Vídeos
+44	Baixades
+45	Afegeix una carpeta…
+46	Afegeix un fitxer…
+47	Espai a la unitat
+48	Sobre la còpia dels fitxers
+49	Els teus fitxers de Windows no canviaran.
+50	Prepara la unitat
+51	S'està calculant…
+52	No hi ha espai
+53	Conserva: {name}
+54	Elimina
+55	Elimina: {name}
+56	Encara no has triat res.
+57	Falten {size}
+58	{free} lliures de {total}
+59	Preparant Shrimp
+60	Encara tardarà {time}.
+61	La preparació s'ha posat en pausa.
+62	Preparació completada
+63	Tot és a punt.
+64	Baixant Shrimp
+65	Escrivint a la unitat
+66	Copiant fitxers
+67	No desconnectis la unitat fins que acabi.
+68	Cancel·la
+69	Torna-ho a provar
+70	Baixats {size}
+71	Connectant…
+72	{done} de {total} · {speed} · queden {left}
+73	Escrit
+74	Tardarà {time}
+75	{pct} · {speed} · queden {left}
+76	No s'ha triat cap fitxer
+77	No hi ha res a copiar
+78	Copiats {size}
+79	{size} · tardarà {time}
+80	uns {time}
+81	menys d'un minut
+82	No hi ha connexió a Internet
+83	No s'ha pogut baixar Shrimp.
+84	Comprova la connexió a Internet i torna-ho a provar.
+85	La imatge baixada està malmesa
+86	La imatge baixada no ha superat la verificació.
+87	Torna-ho a provar.
+88	No hi ha prou espai al disc
+89	No hi ha prou espai al disc.
+90	Allibera una mica d'espai i torna-ho a provar.
+91	No s'ha pogut escriure a la unitat
+92	No s'ha pogut escriure a la unitat.
+93	Torna-la a connectar o tria'n una altra.
+94	La unitat s'ha desconnectat
+95	La unitat s'ha desconnectat.
+96	Torna-la a connectar i prova-ho de nou.
+97	No s'han pogut copiar els fitxers
+98	No s'han pogut copiar els fitxers.
+99	Alguna cosa ha anat malament
+100	Alguna cosa ha anat malament.
+101	Tot a punt
+102	Reinicia l'ordinador per acabar.
+103	La unitat és a punt
+104	Shrimp espera ser instal·lat.
+105	Els teus fitxers estan segurs
+106	La còpia s'ha desat.
+107	Els programes esperen
+108	Et proposarem equivalents després de la instal·lació.
+109	Desa els documents oberts abans de reiniciar.
+110	Més tard
+111	Reinicia
+112	No s'ha pogut configurar l'inici des de la unitat.
+113	Vols cancel·lar la preparació?
+114	La preparació s'aturarà. Si ja s'ha començat a escriure a la unitat, hauràs de tornar-la a preparar.
+115	Continua
+116	Cancel·la la preparació
+117	No es pot connectar amb el servidor de baixada.
+118	El servidor de baixada ha respost amb el codi {code}.
+119	El manifest és massa gran.
+120	La signatura del manifest no és vàlida.
+121	No hi ha accés a la carpeta temporal.
+122	No es pot desar el fitxer que s'està baixant.
+123	No es pot escriure la imatge baixada a la unitat.
+124	La unitat s'ha quedat sense espai.
+125	No s'ha pogut desar la descripció de la còpia.
+126	La preparació ja està en marxa.
+127	No s'ha pogut iniciar la baixada.
+128	No s'ha pogut reiniciar. Fes-ho des del menú Inici.
+129	Aquest ordinador no s'inicia en mode UEFI. Inicia'l des de la unitat manualment, des del menú d'arrencada (normalment amb la tecla F12, F8 o Esc).
+130	No tens permís per canviar la configuració d'inici.
+131	No s'ha trobat la unitat. Torna-la a connectar.
+132	El microprogramari no ha acceptat l'entrada d'arrencada. Inicia l'ordinador des de la unitat manualment, des del menú d'arrencada.
+133	El microprogramari no ha acceptat la configuració de la propera arrencada. Inicia l'ordinador des de la unitat manualment, des del menú d'arrencada.
+134	Shrimp Install necessita el component Microsoft Edge WebView2, però no s’ha pogut iniciar.\n\nActualitzeu el Windows o instal·leu WebView2 Runtime de Microsoft i torneu-ho a provar.
+135	No s’ha pogut obrir la finestra de Shrimp Install (WebView2).
+136	No s’ha pogut iniciar el component WebView2.
+137	No hi ha cap espai lliure per a l'entrada d'arrencada.
+138	Falta la interfície del programa.

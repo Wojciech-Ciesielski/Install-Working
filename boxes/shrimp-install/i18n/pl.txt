@@ -1,0 +1,146 @@
+1	Minimalizuj
+2	Zamknij
+3	Zainstaluj Shrimp
+4	Spokojny, uporządkowany system, który działa od pierwszego uruchomienia.
+5	Automatyczne pobieranie
+6	Instalator sam pobierze wszystko, czego potrzeba.
+7	Bezpieczne pliki
+8	Twoje pliki zostaną zachowane.
+9	Znajome programy
+10	Podpowiemy odpowiedniki tych, z których korzystasz.
+11	Dysk z Windows jest zaszyfrowany funkcją BitLocker. Shrimp obok Windows zainstalujesz dopiero po wyłączeniu szyfrowania.
+12	Zaczynajmy
+13	Krok {n} z {total}
+14	Wybierz nośnik
+15	Wybierz miejsce, na którym przygotujemy instalator Shrimp. Potrzeba co najmniej {size}.
+16	Nośnik
+17	Informacje o nośniku
+18	Możesz wybrać pendrive, kartę SD lub dysk zewnętrzny. Wszystko, co jest teraz na nośniku, zostanie usunięte.
+19	Wstecz
+20	Dalej
+21	Wybierz nośnik
+22	Ten nośnik jest za mały. Potrzeba co najmniej {size}.
+23	Nie znaleziono nośnika
+24	Podłącz nośnik, a pojawi się tutaj.
+25	Za mały
+26	Dostępne nośniki
+27	Pendrive
+28	Karta SD
+29	Dysk zewnętrzny
+30	Co ma być bezpieczne?
+31	Przed instalacją zrobimy kopię wybranych rzeczy.
+32	Sposób wyboru plików
+33	Moje foldery
+34	(Zalecane)
+35	Dokumenty, zdjęcia i inne osobiste rzeczy.
+36	Wybiorę sam
+37	Wybierz własne foldery i pliki.
+38	Foldery do zachowania
+39	Dokumenty
+40	Zdjęcia
+41	Pulpit
+42	Muzyka
+43	Filmy
+44	Pobrane
+45	Dodaj folder…
+46	Dodaj plik…
+47	Miejsce na nośniku
+48	Informacje o kopii plików
+49	Twoje pliki w systemie Windows pozostają bez zmian.
+50	Przygotuj nośnik
+51	Liczenie…
+52	Brak miejsca
+53	Zachowaj: {name}
+54	Usuń
+55	Usuń: {name}
+56	Nic jeszcze nie wybrano.
+57	Brakuje {size}
+58	Wolne {free} z {total}
+59	Przygotowanie Shrimp
+60	Potrwa to jeszcze {time}.
+61	Przygotowanie zostało wstrzymane.
+62	Przygotowanie zakończone
+63	Wszystko zostało przygotowane.
+64	Pobieranie Shrimp
+65	Zapis na nośniku
+66	Kopiowanie plików
+67	Nie odłączaj nośnika do czasu zakończenia.
+68	Anuluj
+69	Spróbuj ponownie
+70	Pobrano {size}
+71	Łączenie…
+72	{done} z {total} · {speed} · zostało {left}
+73	Zapisano
+74	Zajmie {time}
+75	{pct} · {speed} · zostało {left}
+76	Nie wybrano plików
+77	Nic do skopiowania
+78	Skopiowano {size}
+79	{size} · zajmie {time}
+80	około {time}
+81	mniej niż minuta
+82	Brak połączenia z internetem
+83	Nie udało się pobrać Shrimp.
+84	Sprawdź połączenie z internetem i spróbuj ponownie.
+85	Pobrany obraz jest uszkodzony
+86	Pobrany obraz nie przeszedł weryfikacji.
+87	Spróbuj ponownie.
+88	Za mało miejsca na dysku
+89	Za mało miejsca na dysku.
+90	Zwolnij miejsce i spróbuj ponownie.
+91	Nie udało się zapisać nośnika
+92	Nie udało się zapisać nośnika.
+93	Podłącz go ponownie albo wybierz inny.
+94	Nośnik został odłączony
+95	Nośnik został odłączony.
+96	Podłącz go ponownie i spróbuj jeszcze raz.
+97	Nie udało się skopiować plików
+98	Nie udało się skopiować plików.
+99	Coś poszło nie tak
+100	Coś poszło nie tak.
+101	Wszystko gotowe
+102	Uruchom ponownie komputer, aby dokończyć.
+103	Nośnik jest gotowy
+104	Shrimp czeka na instalację.
+105	Pliki są bezpieczne
+106	Kopia została zapisana.
+107	Programy czekają
+108	Odpowiedniki podpowiemy po instalacji.
+109	Przed ponownym uruchomieniem zapisz otwarte dokumenty.
+110	Później
+111	Uruchom ponownie
+112	Nie udało się ustawić startu z nośnika.
+113	Anulować przygotowanie?
+114	Przygotowanie zostanie przerwane. Jeśli zapis na nośniku już się zaczął, trzeba będzie przygotować go od nowa.
+115	Kontynuuj
+116	Anuluj przygotowanie
+117	Nie można połączyć się z serwerem pobierania.
+118	Serwer pobierania odpowiedział kodem {code}.
+119	Manifest jest za duży.
+120	Podpis manifestu jest nieprawidłowy.
+121	Brak dostępu do folderu tymczasowego.
+122	Nie można zapisać pobieranego pliku.
+123	Pobrany obraz nie nadaje się do zapisu.
+124	Na nośniku skończyło się miejsce.
+125	Nie udało się zapisać opisu kopii.
+126	Przygotowanie już trwa.
+127	Nie udało się uruchomić pobierania.
+128	Nie udało się uruchomić ponownie. Zrób to z menu Start.
+129	Ten komputer nie uruchamia się w trybie UEFI. Uruchom go z nośnika ręcznie, z menu startowego (zwykle klawisz F12, F8 albo Esc).
+130	Brak uprawnień do zmiany ustawień uruchamiania.
+131	Nie znaleziono nośnika. Podłącz go ponownie.
+132	Firmware nie przyjął wpisu uruchamiania. Uruchom komputer z nośnika ręcznie, z menu startowego.
+133	Firmware nie przyjął ustawienia następnego uruchomienia. Uruchom komputer z nośnika ręcznie, z menu startowego.
+134	Shrimp Install potrzebuje składnika Microsoft Edge WebView2, a nie udało się go uruchomić.\n\nZaktualizuj Windows albo zainstaluj WebView2 Runtime ze strony Microsoft i spróbuj ponownie.
+135	Nie udało się otworzyć okna Shrimp Install (WebView2).
+136	Nie udało się uruchomić składnika WebView2.
+137	Brak wolnego miejsca na wpis uruchamiania.
+138	Brak interfejsu w programie.
+139	Sprawdzanie pobranego wcześniej obrazu · {pct}
+140	Przygotowanie nośnika…
+141	Kopia zawartości nośnika · {pct} · zostało {left}
+142	Nośnik jest używany
+143	Inny program używa nośnika.
+144	Zamknij programy, które go używają (np. Eksplorator plików albo program do kopii zapasowych), i spróbuj jeszcze raz.
+145	Zapis został zatrzymany
+146	Shrimp Install zatrzymał zapis nośnika z powodu nieoczekiwanego pytania:

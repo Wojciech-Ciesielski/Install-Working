@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://shrimp-organization.dev/schema/shrimp-transfer-1.json",
+  "title": "shrimp-transfer/shrimp.json",
+  "description": "Dane z Windows zapisane przez Shrimp Install (rufus/src/shrimp/collect.c, transfer.c) i czytane przez Shrimp Setup (setup/shell/src/transfer.rs, system.rs; setup/web/src/logic.ts › prefill). Zmiana tutaj = zmiana po obu stronach i w testach (shrimp-install/schema/README.md).",
+  "type": "object",
+  "required": ["version", "user", "locale", "windows"],
+  "properties": {
+    "version": { "const": 1 },
+    "created": { "type": "string" },
+    "installer": { "type": "string" },
+    "image": {
+      "type": "object",
+      "properties": {
+        "version": { "type": ["string", "null"] },
+        "sha256": { "type": ["string", "null"], "pattern": "^[0-9a-fA-F]{64}$" }
+      }
+    },
+    "windows": {
+      "type": "object",
+      "required": ["bitlocker"],
+      "properties": {
+        "version": { "type": ["string", "null"] },
+        "firmware": { "enum": ["uefi", "bios", "unknown"] },
+        "secureBoot": { "type": "boolean" },
+        "bitlocker": { "type": "boolean" }
+      }
+    },
+    "user": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": ["string", "null"] },
+        "fullName": { "type": ["string", "null"] }
+      }
+    },
+    "locale": {
+      "type": "object",
+      "required": ["keyboards"],
+      "properties": {
+        "format": { "type": ["string", "null"] },
+        "language": { "type": ["string", "null"] },
+        "region": { "type": ["string", "null"] },
+        "timezone": { "type": ["string", "null"] },
+        "windowsTimezone": { "type": ["string", "null"] },
+        "keyboards": { "type": "array", "items": { "type": "string", "pattern": "^[0-9A-Fa-f]{8}$" } }
+      }
+    },
+    "apps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": { "type": ["string", "null"] },
+          "publisher": { "type": ["string", "null"] },
+          "version": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "storeApps": { "type": "array", "items": { "type": "string" } },
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["key", "path", "bytes"],
+        "properties": {
+          "key": { "enum": ["documents", "pictures", "desktop", "music", "videos", "downloads", "other"] },
+          "path": { "type": "string", "pattern": "^files/[^\\\\]+$", "not": { "pattern": "(^|/)\\.\\.(/|$)" } },
+          "source": { "type": ["string", "null"] },
+          "bytes": { "type": "integer", "minimum": 0 }
+        }
+      }
+    },
+    "split": { "type": "array", "items": { "type": "string" } },
+    "skipped": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": { "type": ["string", "null"] },
+          "reason": { "enum": ["cloud", "locked", "read", "missing"] }
+        }
+      }
+    }
+  }
+}

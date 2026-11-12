@@ -1,0 +1,4 @@
+# Rufus: pliki dokładnie jak w repozytorium (skrypty z LF, .rc i .loc z CRLF), bez konwersji na Windows.
+rufus/** -text
+*.sh text eol=lf
+*.mjs text eol=lf

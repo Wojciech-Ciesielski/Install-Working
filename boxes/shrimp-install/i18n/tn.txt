@@ -1,0 +1,138 @@
+1	Nyenyefatsa
+2	Tswala
+3	Tsenya Shrimp
+4	Thulaganyo e e didimetseng, e e phepa e e dirang go tloga ka tshimologo ya ntlha.
+5	Go laiwa ka bo-ntšhwa
+6	Sekgopi se laolela sengwe le sengwe se se se tlhokang.
+7	Difaele tsa gago di babalesegile
+8	Difaele tsa gago di tla bolokwa.
+9	Dithulaganyo tse o di itseng
+10	Re tla tshitshinya dithulaganyo tse di tshwanang le tse o di dirisang.
+11	Drayive ya Windows e notlelwa ka BitLocker. O ka tsenya Shrimp gaufi le Windows fela morago ga go tima notlelo.
+12	A re simologe
+13	Kgato {n} ya {total}
+14	Tlhopha drayive
+15	Tlhopha kwa re tla baakanyang sekgopi sa Shrimp teng. Go tlhokega bonnye {size}.
+16	Drayive
+17	Ka ga drayive
+18	O ka tlhopha USB, karata ya SD kgotsa drayive ya kwa ntle. Sengwe le sengwe se se mo drayiveng se tla phimolwa.
+19	Morago
+20	E e latelang
+21	Tlhopha drayive
+22	Drayive e e nnye thata. Go tlhokega bonnye {size}.
+23	Ga go na drayive e e bonweng
+24	Kopanya drayive mme e tla bonala fa.
+25	E nnye thata
+26	Didrayive tse di leng teng
+27	USB
+28	Karata ya SD
+29	Drayive ya kwa ntle
+30	Ke eng se se tshwanetseng go bolokwa?
+31	Pele ga go tsenya, re tla dira khopi ya dilo tse o di tlhophang.
+32	Tsela ya go tlhopha difaele
+33	Diforoltara tsa me
+34	(E akantswe)
+35	Ditokomane, ditshwantsho le dilo tse dingwe tsa gago.
+36	Ke tla itlhophela
+37	Tlhopha diforoltara le difaele tsa gago.
+38	Diforoltara tse di tla bolokwang
+39	Ditokomane
+40	Ditshwantsho
+41	Desekethopo
+42	Mmino
+43	Dibidio
+44	Tse di laotsweng
+45	Oketsa foroltara…
+46	Oketsa faele…
+47	Sebaka mo drayiveng
+48	Ka ga go kopisa difaele
+49	Difaele tsa gago mo Windows ga di fetoge.
+50	Baakanya drayive
+51	E a bala…
+52	Ga go na sebaka
+53	Boloka: {name}
+54	Tlosa
+55	Tlosa: {name}
+56	Ga go sepe se se tlhophilweng.
+57	Go tlhaela {size}
+58	{free} se se gololesegileng mo go {total}
+59	Go baakanya Shrimp
+60	Go tla tsaya {time} gape.
+61	Go baakanya go emisitswe.
+62	Go baakanya go fedile
+63	Tsotlhe di siametse.
+64	Go laolela Shrimp
+65	Go kwala mo drayiveng
+66	Go kopisa difaele
+67	O se ka wa ntsha drayive go fitlhela e fetsa.
+68	Khansela
+69	Leka gape
+70	Go laoletswe {size}
+71	E a golagana…
+72	{done} ya {total} · {speed} · go setse {left}
+73	Go kwadilwe
+74	Go tla tsaya {time}
+75	{pct} · {speed} · go setse {left}
+76	Ga go na difaele tse di tlhophilweng
+77	Ga go na sepe se se ka kopiwang
+78	Go kopilwe {size}
+79	{size} · go tla tsaya {time}
+80	e ka nna {time}
+81	ka fa tlase ga motsotso
+82	Ga go na kgolagano ya inthanete
+83	Ga go a kgonega go laolela Shrimp.
+84	Tlhola kgolagano ya gago ya inthanete mme o leke gape.
+85	Setshwantsho se se laoletsweng se senyegile
+86	Setshwantsho se se laoletsweng se paletswe ke netefatso.
+87	Leka gape.
+88	Ga go na sebaka se se lekaneng mo tisiking
+89	Ga go na sebaka se se lekaneng mo tisiking.
+90	Golola sebaka mme o leke gape.
+91	Ga go a kgonega go kwala mo drayiveng
+92	Ga go a kgonega go kwala mo drayiveng.
+93	E kopanye gape kgotsa o tlhophe e nngwe.
+94	Drayive e kgaoganngwe
+95	Drayive e kgaoganngwe.
+96	E kopanye gape mme o leke gape.
+97	Ga go a kgonega go kopisa difaele
+98	Ga go a kgonega go kopisa difaele.
+99	Sengwe se ile phoso
+100	Sengwe se ile phoso.
+101	Tsotlhe di siametse
+102	Simolola khomputara gape go fetsa.
+103	Drayive e siametse
+104	Shrimp e emetse go tsenngwa.
+105	Difaele tsa gago di babalesegile
+106	Khopi e bolokilwe.
+107	Dithulaganyo di emetse
+108	Re tla tshitshinya tse di tshwanang morago ga go tsenya.
+109	Boloka ditokomane tse di bulegileng pele o simolola gape.
+110	Moragonyana
+111	Simolola gape
+112	Ga go a kgonega go baakanya go simolola go tswa mo drayiveng.
+113	Khansela go baakanya?
+114	Go baakanya go tla emisiwa. Fa go kwala mo drayiveng go setse go simolotse, o tla tshwanela go e baakanya gape.
+115	Tswelela
+116	Khansela go baakanya
+117	Ga go kgonege go golagana le seva ya go laolela.
+118	Seva ya go laolela e arabile ka khoutu {code}.
+119	Manifest e kgolo thata.
+120	Monwana wa manifest ga o a siama.
+121	Ga go na phitlhelelo go foroltara ya nakwana.
+122	Ga go kgonege go boloka faele e e laolelwang.
+123	Setshwantsho se se laoletsweng ga se kgone go kwalwa mo drayiveng.
+124	Sebaka mo drayiveng se fedile.
+125	Ga go a kgonega go boloka tlhaloso ya khopi.
+126	Go baakanya go setse go tswelela.
+127	Ga go a kgonega go simolola go laolela.
+128	Ga go a kgonega go simolola gape. Dira jalo go tswa mo menyung ya Start.
+129	Khomputara e ga e simolole ka mokgwa wa UEFI. E simolole go tswa mo drayiveng ka seatla, mo menyung ya go simolola (gantsi konopo ya F12, F8 kgotsa Esc).
+130	Ga go na tetla ya go fetola dipeakanyo tsa go simolola.
+131	Drayive ga e a bonwa. E kopanye gape.
+132	Firmware ga e a amogela tsenyo ya go simolola. Simolola khomputara go tswa mo drayiveng ka seatla, mo menyung ya go simolola.
+133	Firmware ga e a amogela peakanyo ya go simolola go go latelang. Simolola khomputara go tswa mo drayiveng ka seatla, mo menyung ya go simolola.
+134	Shrimp Install e tlhoka karolo ya Microsoft Edge WebView2, mme ga e a kgona go simololwa.\n\nTlhabolola Windows kgotsa o tsenye WebView2 Runtime go tswa kwa Microsoft mme o leke gape.
+135	Ga go a kgonega go bula letlhabaphefo la Shrimp Install (WebView2).
+136	Ga go a kgonega go simolola karolo ya WebView2.
+137	Ga go na sebaka se se gololesegileng sa tsenyo ya go simolola.
+138	Tebogano ya porogeramo ga e yo.

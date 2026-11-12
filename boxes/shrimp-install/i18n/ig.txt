@@ -1,0 +1,138 @@
+1	Belata
+2	Mechie
+3	Wụnye Shrimp
+4	Sistem dị jụụ, haziri ahazi nke na-arụ ọrụ site na mmalite mbụ.
+5	Nbudata akpaaka
+6	Onye na-ewụnye na-ebudata ihe niile ọ chọrọ.
+7	Faịlụ gị dị n'udo
+8	A ga-edebe faịlụ gị.
+9	Mmemme ndị a maara
+10	Anyị ga-atụ aro mmemme yiri ndị ị na-eji.
+11	E zoro ezo draịva Windows site na BitLocker. Ị nwere ike ịwụnye Shrimp n’akụkụ Windows naanị mgbe ị gbanyụrụ nzuzo ahụ.
+12	Ka anyị malite
+13	Nzọụkwụ {n} n’ime {total}
+14	Họrọ draịva
+15	Họrọ ebe anyị ga-akwado ihe nwụnye Shrimp. A chọrọ opekata mpe {size}.
+16	Draịva
+17	Gbasara draịva
+18	Ị nwere ike ịhọrọ osisi USB, kaadị SD ma ọ bụ draịva mpụga. A ga-ehichapụ ihe niile dị na draịva ahụ.
+19	Azụ
+20	Osote
+21	Họrọ draịva
+22	Draịva a pere mpe. A chọrọ opekata mpe {size}.
+23	Achọtaghị draịva
+24	Jikọọ draịva ọ ga-apụta ebe a.
+25	Pere mpe
+26	Draịva dịnụ
+27	USB
+28	Kaadị SD
+29	Draịva mpụga
+30	Gịnị ka e kwesịrị ichebe?
+31	Tupu ịwụnye, anyị ga-eme mbipụta nke ihe ị họrọ.
+32	Otu esi ahọrọ faịlụ
+33	Folda m
+34	(Atụtụrụ)
+35	Akwụkwọ, foto na ihe nkeonwe ndị ọzọ.
+36	M ga-ahọrọ onwe m
+37	Họrọ folda na faịlụ nke gị.
+38	Folda a ga-echekwa
+39	Akwụkwọ
+40	Foto
+41	Desktọọpụ
+42	Egwu
+43	Vidiyo
+44	Nbudata
+45	Tinye folda…
+46	Tinye faịlụ…
+47	Ohere na draịva
+48	Gbasara ịdetuo faịlụ
+49	Faịlụ gị dị na Windows agaghị agbanwe.
+50	Kwadebe draịva
+51	Na-agụ…
+52	Enweghị ohere
+53	Debe: {name}
+54	Wepụ
+55	Wepụ: {name}
+56	Ọ dịbeghị ihe a họrọ.
+57	Fọdụrụ {size}
+58	{free} tọgbọrọ chakoo n’ime {total}
+59	Na-ahazi Shrimp
+60	Ọ ga-ewe {time} ọzọ.
+61	Akwụsịtụla nkwadebe.
+62	Nkwadebe agwụla
+63	Ihe niile dị njikere.
+64	Na-ebudata Shrimp
+65	Na-ede na draịva
+66	Na-eṅomi faịlụ
+67	Ewepụla draịva ruo mgbe ọ ga-agwụ.
+68	Kagbuo
+69	Nwaa ọzọ
+70	Ebudatara {size}
+71	Na-ejikọ…
+72	{done} n’ime {total} · {speed} · fọdụrụ {left}
+73	Edere
+74	Ọ ga-ewe {time}
+75	{pct} · {speed} · fọdụrụ {left}
+76	Ahọrọghị faịlụ ọ bụla
+77	Ọ dịghị ihe a ga-edetuo
+78	Edetuola {size}
+79	{size} · ọ ga-ewe {time}
+80	ihe dị ka {time}
+81	ihe na-erughị otu nkeji
+82	Enweghị njikọ ịntanetị
+83	Enweghị ike ibudata Shrimp.
+84	Lelee njikọ ịntanetị gị wee nwaa ọzọ.
+85	Onyonyo ebudatara mebiri emebi
+86	Onyonyo ebudatara agaghị nnwale.
+87	Nwaa ọzọ.
+88	Ohere ezughị na diski
+89	Ohere ezughị na diski.
+90	Mee ka ohere tọgbọ chakoo wee nwaa ọzọ.
+91	Enweghị ike ide na draịva
+92	Enweghị ike ide na draịva.
+93	Tinye ya ọzọ ma ọ bụ họrọ nke ọzọ.
+94	Ewepụla draịva
+95	Ewepụla draịva.
+96	Tinye ya ọzọ wee nwaa ọzọ.
+97	Enweghị ike idetuo faịlụ
+98	Enweghị ike idetuo faịlụ.
+99	Ihe adịghị mma mere
+100	Ihe adịghị mma mere.
+101	Ihe niile dị njikere
+102	Malitegharịa kọmputa ka ị mechaa.
+103	Draịva adịla njikere
+104	Shrimp na-eche ka a wụnye ya.
+105	Faịlụ gị dị nchekwa
+106	Echekwala mbipụta ahụ.
+107	Mmemme na-eche
+108	Anyị ga-atụ aro ndị yiri ha mgbe nwụnye gasịrị.
+109	Chekwaa akwụkwọ mepere emepe tupu ịmalitegharị.
+110	Mgbe e mesịrị
+111	Malitegharịa
+112	Enweghị ike ịtọ mmalite site na draịva.
+113	Kagbuo nkwadebe?
+114	A ga-akwụsị nkwadebe. Ọ bụrụ na ide na draịva amalitela, ị ga-akwadebe ya ọzọ.
+115	Gaa n’ihu
+116	Kagbuo nkwadebe
+117	Enweghị ike ijikọ na sava nbudata.
+118	Sava nbudata zara na koodu {code}.
+119	Manifest ahụ buru oke ibu.
+120	Mbinye aka manifest adịghị mma.
+121	Enweghị ohere ịbanye na folda nwa oge.
+122	Enweghị ike ichekwa faịlụ a na-ebudata.
+123	Enweghị ike ide onyonyo ebudatara na draịva.
+124	Ohere agwụla na draịva.
+125	Enweghị ike ichekwa nkọwa mbipụta ahụ.
+126	Nkwadebe na-aga n’ihu ugbu a.
+127	Enweghị ike ịmalite nbudata.
+128	Enweghị ike ịmalitegharị. Mee ya site na menu Start.
+129	Kọmputa a anaghị amalite n’ọnọdụ UEFI. Malite ya site na draịva n’aka, site na menu mbido (ọtụtụ mgbe igodo F12, F8 ma ọ bụ Esc).
+130	Enweghị ikike ịgbanwe ntọala mmalite.
+131	Ahụghị draịva. Tinye ya ọzọ.
+132	Firmware anabataghị ntinye mbido. Malite kọmputa site na draịva n’aka, site na menu mbido.
+133	Firmware anabataghị ntọala mbido ọzọ. Malite kọmputa site na draịva n’aka, site na menu mbido.
+134	Shrimp Install chọrọ akụrụngwa Microsoft Edge WebView2, mana enweghị ike ịmalite ya.\n\nMelite Windows ma ọ bụ wụnye WebView2 Runtime site na Microsoft wee nwaa ọzọ.
+135	Enweghị ike imepe windo Shrimp Install (WebView2).
+136	Enweghị ike ịmalite akụrụngwa WebView2.
+137	Enweghị oghere tọgbọrọ chakoo maka ntinye mbido.
+138	Ihu mmemme ahụ adịghị.

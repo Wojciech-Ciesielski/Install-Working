@@ -1,0 +1,138 @@
+1	Minimieren
+2	Schließen
+3	Shrimp installieren
+4	Ein ruhiges, aufgeräumtes System, das vom ersten Start an funktioniert.
+5	Automatischer Download
+6	Das Installationsprogramm lädt alles Nötige herunter.
+7	Ihre Dateien bleiben sicher
+8	Ihre Dateien bleiben erhalten.
+9	Vertraute Programme
+10	Wir schlagen Alternativen zu den Programmen vor, die Sie verwenden.
+11	Das Windows-Laufwerk ist mit BitLocker verschlüsselt. Shrimp lässt sich neben Windows erst installieren, wenn die Verschlüsselung ausgeschaltet ist.
+12	Los geht’s
+13	Schritt {n} von {total}
+14	Laufwerk auswählen
+15	Wählen Sie, wo das Shrimp-Installationsprogramm vorbereitet wird. Es werden mindestens {size} benötigt.
+16	Laufwerk
+17	Zum Laufwerk
+18	Sie können einen USB-Stick, eine SD-Karte oder ein externes Laufwerk wählen. Alles, was sich derzeit darauf befindet, wird gelöscht.
+19	Zurück
+20	Weiter
+21	Laufwerk auswählen
+22	Dieses Laufwerk ist zu klein. Es werden mindestens {size} benötigt.
+23	Kein Laufwerk gefunden
+24	Schließen Sie ein Laufwerk an, dann erscheint es hier.
+25	Zu klein
+26	Verfügbare Laufwerke
+27	USB-Stick
+28	SD-Karte
+29	Externes Laufwerk
+30	Was soll gesichert werden?
+31	Vor der Installation erstellen wir eine Kopie der gewählten Dinge.
+32	So wählen Sie Dateien aus
+33	Meine Ordner
+34	(Empfohlen)
+35	Dokumente, Fotos und andere persönliche Dinge.
+36	Ich wähle selbst
+37	Wählen Sie eigene Ordner und Dateien.
+38	Zu sichernde Ordner
+39	Dokumente
+40	Bilder
+41	Desktop
+42	Musik
+43	Videos
+44	Downloads
+45	Ordner hinzufügen …
+46	Datei hinzufügen …
+47	Speicherplatz auf dem Laufwerk
+48	Zum Kopieren von Dateien
+49	Ihre Dateien in Windows bleiben unverändert.
+50	Laufwerk vorbereiten
+51	Wird berechnet …
+52	Kein Platz
+53	Sichern: {name}
+54	Entfernen
+55	Entfernen: {name}
+56	Noch nichts ausgewählt.
+57	{size} fehlen
+58	{free} frei von {total}
+59	Shrimp wird vorbereitet
+60	Das dauert noch {time}.
+61	Die Vorbereitung wurde angehalten.
+62	Vorbereitung abgeschlossen
+63	Alles ist bereit.
+64	Shrimp wird heruntergeladen
+65	Auf das Laufwerk schreiben
+66	Dateien werden kopiert
+67	Trennen Sie das Laufwerk nicht, bevor der Vorgang abgeschlossen ist.
+68	Abbrechen
+69	Erneut versuchen
+70	{size} heruntergeladen
+71	Verbindung wird hergestellt …
+72	{done} von {total} · {speed} · noch {left}
+73	Geschrieben
+74	Dauert {time}
+75	{pct} · {speed} · noch {left}
+76	Keine Dateien ausgewählt
+77	Nichts zu kopieren
+78	{size} kopiert
+79	{size} · dauert {time}
+80	etwa {time}
+81	weniger als eine Minute
+82	Keine Internetverbindung
+83	Shrimp konnte nicht heruntergeladen werden.
+84	Prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
+85	Das heruntergeladene Abbild ist beschädigt
+86	Das heruntergeladene Abbild hat die Prüfung nicht bestanden.
+87	Versuchen Sie es erneut.
+88	Nicht genug Speicherplatz
+89	Nicht genug Speicherplatz.
+90	Schaffen Sie Platz und versuchen Sie es erneut.
+91	Schreiben auf das Laufwerk nicht möglich
+92	Auf das Laufwerk konnte nicht geschrieben werden.
+93	Stecken Sie es erneut an oder wählen Sie ein anderes.
+94	Das Laufwerk wurde getrennt
+95	Das Laufwerk wurde getrennt.
+96	Stecken Sie es wieder an und versuchen Sie es erneut.
+97	Dateien konnten nicht kopiert werden
+98	Die Dateien konnten nicht kopiert werden.
+99	Etwas ist schiefgelaufen
+100	Etwas ist schiefgelaufen.
+101	Alles erledigt
+102	Starten Sie den Computer neu, um den Vorgang abzuschließen.
+103	Das Laufwerk ist bereit
+104	Shrimp wartet auf die Installation.
+105	Ihre Dateien sind sicher
+106	Die Kopie wurde gespeichert.
+107	Programme warten
+108	Nach der Installation schlagen wir Alternativen vor.
+109	Speichern Sie Ihre geöffneten Dokumente, bevor Sie neu starten.
+110	Später
+111	Neu starten
+112	Der Start vom Laufwerk konnte nicht eingerichtet werden.
+113	Vorbereitung abbrechen?
+114	Die Vorbereitung wird beendet. Wurde bereits auf das Laufwerk geschrieben, müssen Sie es erneut vorbereiten.
+115	Fortfahren
+116	Vorbereitung abbrechen
+117	Verbindung zum Download-Server nicht möglich.
+118	Der Download-Server hat mit dem Code {code} geantwortet.
+119	Das Manifest ist zu groß.
+120	Die Signatur des Manifests ist ungültig.
+121	Kein Zugriff auf den temporären Ordner.
+122	Die heruntergeladene Datei kann nicht gespeichert werden.
+123	Das heruntergeladene Abbild kann nicht auf das Laufwerk geschrieben werden.
+124	Auf dem Laufwerk ist kein Platz mehr.
+125	Die Beschreibung der Kopie konnte nicht gespeichert werden.
+126	Die Vorbereitung läuft bereits.
+127	Der Download konnte nicht gestartet werden.
+128	Neustart nicht möglich. Führen Sie ihn über das Startmenü aus.
+129	Dieser Computer startet nicht im UEFI-Modus. Starten Sie ihn manuell vom Laufwerk, über das Startmenü des Computers (meist mit der Taste F12, F8 oder Esc).
+130	Keine Berechtigung, die Starteinstellungen zu ändern.
+131	Laufwerk nicht gefunden. Stecken Sie es erneut an.
+132	Die Firmware hat den Starteintrag nicht akzeptiert. Starten Sie den Computer manuell vom Laufwerk, über das Startmenü.
+133	Die Firmware hat die Einstellung für den nächsten Start nicht akzeptiert. Starten Sie den Computer manuell vom Laufwerk, über das Startmenü.
+134	Shrimp Install benötigt die Komponente Microsoft Edge WebView2, sie konnte aber nicht gestartet werden.\n\nAktualisiere Windows oder installiere die WebView2 Runtime von Microsoft und versuche es erneut.
+135	Das Fenster von Shrimp Install (WebView2) konnte nicht geöffnet werden.
+136	Die Komponente WebView2 konnte nicht gestartet werden.
+137	Kein freier Platz für den Starteintrag.
+138	Die Programmoberfläche fehlt.

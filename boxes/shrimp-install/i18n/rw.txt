@@ -1,0 +1,138 @@
+1	Gabanya
+2	Funga
+3	Shyiramo Shrimp
+4	Sisitemu ituje kandi itunganye ikora kuva mu itangira rya mbere.
+5	Gukuramo mu buryo bwikora
+6	Ushyiramo akuramo ibikenewe byose.
+7	Amadosiye yawe afite umutekano
+8	Amadosiye yawe azabikwa.
+9	Porogaramu zimenyerewe
+10	Tuzagusaba porogaramu zisa n’izo ukoresha.
+11	Disiki ya Windows irinzwe na BitLocker. Ushobora gushyira Shrimp iruhande rwa Windows gusa nyuma yo kuzimya uburinzi.
+12	Dutangire
+13	Intambwe {n} kuri {total}
+14	Hitamo disiki
+15	Hitamo aho tuzategurira porogaramu yo gushyiramo Shrimp. Hakenewe nibura {size}.
+16	Disiki
+17	Ibyerekeye disiki
+18	Ushobora guhitamo USB, ikarita ya SD cyangwa disiki yo hanze. Ibiri kuri disiki byose bizasibwa.
+19	Subira inyuma
+20	Ibikurikira
+21	Hitamo disiki
+22	Iyi disiki ni ntoya cyane. Hakenewe nibura {size}.
+23	Nta disiki yabonetse
+24	Shyiramo disiki izagaragara hano.
+25	Nto cyane
+26	Disiki ziboneka
+27	USB
+28	Ikarita SD
+29	Disiki yo hanze
+30	Ni iki gikwiye kubikwa?
+31	Mbere yo gushyiramo, tuzakora kopi y’ibyo uhitamo.
+32	Uko wahitamo amadosiye
+33	Ububiko bwanjye
+34	(Birasabwa)
+35	Inyandiko, amafoto n’ibindi byawe bwite.
+36	Nzihitiramo
+37	Hitamo ububiko n’amadosiye byawe.
+38	Ububiko buzabikwa
+39	Inyandiko
+40	Amashusho
+41	Desikitopu
+42	Umuziki
+43	Amashusho yo kureba
+44	Ibikuweho
+45	Ongeraho ububiko…
+46	Ongeraho idosiye…
+47	Umwanya kuri disiki
+48	Ibyerekeye gukoporora amadosiye
+49	Amadosiye yawe muri Windows ntahinduka.
+50	Tegura disiki
+51	Kubara…
+52	Nta mwanya
+53	Bika: {name}
+54	Kuraho
+55	Kuraho: {name}
+56	Nta kirahitamwo.
+57	Habura {size}
+58	{free} bisigaye kuri {total}
+59	Gutegura Shrimp
+60	Bizatwara indi {time}.
+61	Gutegura byahagaritswe by’agateganyo.
+62	Gutegura byarangiye
+63	Byose biteguye.
+64	Gukuramo Shrimp
+65	Kwandika kuri disiki
+66	Kwigana amadosiye
+67	Ntukure disiki kugeza irangiye.
+68	Bireke
+69	Ongera ugerageze
+70	Hamanuwe {size}
+71	Kwihuza…
+72	{done} kuri {total} · {speed} · hasigaye {left}
+73	Byanditswe
+74	Bizatwara {time}
+75	{pct} · {speed} · hasigaye {left}
+76	Nta dosiye yahiswemo
+77	Nta cyo gukoporora
+78	Hakoporowe {size}
+79	{size} · bizatwara {time}
+80	hafi {time}
+81	munsi y’umunota
+82	Nta murongo wa interineti
+83	Ntibyashobotse kumanura Shrimp.
+84	Genzura interineti yawe hanyuma wongere ugerageze.
+85	Ishusho yamanuwe yangiritse
+86	Ishusho yamanuwe yatsinzwe mu igenzura.
+87	Ongera ugerageze.
+88	Nta mwanya uhagije kuri disiki
+89	Nta mwanya uhagije kuri disiki.
+90	Rekura umwanya hanyuma wongere ugerageze.
+91	Ntibyashobotse kwandika kuri disiki
+92	Ntibyashobotse kwandika kuri disiki.
+93	Ongera uyicomeke cyangwa uhitemo indi.
+94	Disiki yakuweho
+95	Disiki yakuweho.
+96	Ongera uyicomeke hanyuma wongere ugerageze.
+97	Ntibyashobotse gukoporora amadosiye
+98	Ntibyashobotse gukoporora amadosiye.
+99	Hari ikitagenze neza
+100	Hari ikitagenze neza.
+101	Byose biteguye
+102	Ongera utangire mudasobwa kugira ngo urangize.
+103	Disiki yiteguye
+104	Shrimp itegereje gushyirwamo.
+105	Amadosiye yawe arinzwe
+106	Kopi yabitswe.
+107	Porogaramu zirategereje
+108	Tuzagusaba izisa nazo nyuma yo gushyiramo.
+109	Bika inyandiko zifunguye mbere yo kongera gutangiza.
+110	Nyuma
+111	Ongera utangire
+112	Ntibyashobotse gushyiraho gutangirira kuri disiki.
+113	Kureka gutegura?
+114	Gutegura bizahagarikwa. Niba kwandika kuri disiki byatangiye, uzongera kuyitegura.
+115	Komeza
+116	Reka gutegura
+117	Ntibishoboka kwihuza na seriveri yo kumanura.
+118	Seriveri yo kumanura yasubije kode {code}.
+119	Manifest ni nini cyane.
+120	Umukono wa manifest ntiwemewe.
+121	Nta burenganzira ku bubiko bw’agateganyo.
+122	Ntibishoboka kubika idosiye irimo kumanurwa.
+123	Ishusho yamanuwe ntishobora kwandikwa kuri disiki.
+124	Umwanya kuri disiki washize.
+125	Ntibyashobotse kubika ibisobanuro bya kopi.
+126	Gutegura birakomeje.
+127	Ntibyashobotse gutangira kumanura.
+128	Ntibyashobotse kongera gutangiza. Bikore uhereye kuri menu Start.
+129	Iyi mudasobwa ntitangira muri UEFI. Yitangize ubwawe uhereye kuri disiki, muri menu yo gutangiza (akenshi urufunguzo F12, F8 cyangwa Esc).
+130	Nta burenganzira bwo guhindura igenamiterere ryo gutangiza.
+131	Disiki ntiyabonetse. Ongera uyicomeke.
+132	Firmware ntiyemeye icyinjizwa cyo gutangiza. Tangiza mudasobwa ubwawe uhereye kuri disiki, muri menu yo gutangiza.
+133	Firmware ntiyemeye igenamiterere ryo gutangiza ubutaha. Tangiza mudasobwa ubwawe uhereye kuri disiki, muri menu yo gutangiza.
+134	Shrimp Install ikeneye igice cya Microsoft Edge WebView2, ariko nticyashoboye gutangizwa.\n\nVugurura Windows cyangwa ushyiremo WebView2 Runtime ivuye kuri Microsoft hanyuma wongere ugerageze.
+135	Ntibyashobotse gufungura idirishya rya Shrimp Install (WebView2).
+136	Ntibyashobotse gutangiza igice cya WebView2.
+137	Nta mwanya uhari w’icyinjizwa cyo gutangiza.
+138	Imigaragarire ya porogaramu ntiboneka.

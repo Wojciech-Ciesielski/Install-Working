@@ -1,0 +1,138 @@
+1	Minimizēt
+2	Aizvērt
+3	Instalēt Shrimp
+4	Mierīga un sakārtota sistēma, kas darbojas jau no pirmās palaišanas.
+5	Automātiska lejupielāde
+6	Instalētājs lejupielādē visu nepieciešamo.
+7	Jūsu faili ir drošībā
+8	Jūsu faili tiks saglabāti.
+9	Pazīstamas programmas
+10	Piedāvāsim jūsu lietoto programmu atbilstības.
+11	Windows disks ir šifrēts ar BitLocker. Shrimp varēsiet instalēt blakus Windows tikai pēc šifrēšanas izslēgšanas.
+12	Sāksim
+13	{n}. solis no {total}
+14	Izvēlieties disku
+15	Izvēlieties, kur sagatavot Shrimp instalētāju. Nepieciešami vismaz {size}.
+16	Disks
+17	Par disku
+18	Varat izvēlēties USB zibatmiņu, SD karti vai ārējo disku. Viss, kas šobrīd ir diskā, tiks dzēsts.
+19	Atpakaļ
+20	Tālāk
+21	Izvēlieties disku
+22	Šis disks ir pārāk mazs. Nepieciešami vismaz {size}.
+23	Disks nav atrasts
+24	Pievienojiet disku, un tas parādīsies šeit.
+25	Pārāk mazs
+26	Pieejamie diski
+27	USB zibatmiņa
+28	SD karte
+29	Ārējais disks
+30	Ko saglabāt drošībā?
+31	Pirms instalēšanas izveidosim izvēlēto datu kopiju.
+32	Kā izvēlēties failus
+33	Manas mapes
+34	(Ieteicams)
+35	Dokumenti, fotoattēli un citi personiskie faili.
+36	Izvēlēšos pats
+37	Izvēlieties savas mapes un failus.
+38	Saglabājamās mapes
+39	Dokumenti
+40	Attēli
+41	Darbvirsma
+42	Mūzika
+43	Video
+44	Lejupielādes
+45	Pievienot mapi…
+46	Pievienot failu…
+47	Vieta diskā
+48	Par failu kopēšanu
+49	Jūsu faili sistēmā Windows paliek nemainīti.
+50	Sagatavot disku
+51	Aprēķina…
+52	Nav vietas
+53	Saglabāt: {name}
+54	Noņemt
+55	Noņemt: {name}
+56	Vēl nekas nav izvēlēts.
+57	Trūkst {size}
+58	Brīvs {free} no {total}
+59	Sagatavo Shrimp
+60	Atlicis vēl {time}.
+61	Sagatavošana ir apturēta.
+62	Sagatavošana pabeigta
+63	Viss ir gatavs.
+64	Lejupielādē Shrimp
+65	Raksta diskā
+66	Kopē failus
+67	Neatvienojiet disku, kamēr process nav pabeigts.
+68	Atcelt
+69	Mēģināt vēlreiz
+70	Lejupielādēts {size}
+71	Savienojas…
+72	{done} no {total} · {speed} · atlicis {left}
+73	Ierakstīts
+74	Aizņems {time}
+75	{pct} · {speed} · atlicis {left}
+76	Nav izvēlēts neviens fails
+77	Nav ko kopēt
+78	Nokopēts {size}
+79	{size} · aizņems {time}
+80	apmēram {time}
+81	mazāk par minūti
+82	Nav interneta savienojuma
+83	Neizdevās lejupielādēt Shrimp.
+84	Pārbaudiet interneta savienojumu un mēģiniet vēlreiz.
+85	Lejupielādētais attēls ir bojāts
+86	Lejupielādētais attēls neizturēja pārbaudi.
+87	Mēģiniet vēlreiz.
+88	Nepietiek vietas diskā
+89	Nepietiek vietas diskā.
+90	Atbrīvojiet vietu un mēģiniet vēlreiz.
+91	Neizdevās ierakstīt diskā
+92	Neizdevās ierakstīt diskā.
+93	Pievienojiet to vēlreiz vai izvēlieties citu.
+94	Disks tika atvienots
+95	Disks tika atvienots.
+96	Pievienojiet to atpakaļ un mēģiniet vēlreiz.
+97	Neizdevās nokopēt failus
+98	Neizdevās nokopēt failus.
+99	Radās kļūda
+100	Radās kļūda.
+101	Viss gatavs
+102	Lai pabeigtu, restartējiet datoru.
+103	Disks ir gatavs
+104	Shrimp gaida instalēšanu.
+105	Jūsu faili ir drošībā
+106	Kopija ir saglabāta.
+107	Programmas gaida
+108	Pēc instalēšanas piedāvāsim atbilstības.
+109	Pirms restartēšanas saglabājiet atvērtos dokumentus.
+110	Vēlāk
+111	Restartēt
+112	Neizdevās iestatīt palaišanu no diska.
+113	Vai atcelt sagatavošanu?
+114	Sagatavošana tiks apturēta. Ja ierakstīšana diskā jau ir sākusies, disks būs jāsagatavo no jauna.
+115	Turpināt
+116	Atcelt sagatavošanu
+117	Nevar izveidot savienojumu ar lejupielādes serveri.
+118	Lejupielādes serveris atbildēja ar kodu {code}.
+119	Manifests ir pārāk liels.
+120	Manifesta paraksts nav derīgs.
+121	Nav piekļuves pagaidu mapei.
+122	Nevar saglabāt lejupielādējamo failu.
+123	Lejupielādēto attēlu nevar ierakstīt diskā.
+124	Diskā beidzās vieta.
+125	Neizdevās saglabāt kopijas aprakstu.
+126	Sagatavošana jau darbojas.
+127	Neizdevās sākt lejupielādi.
+128	Neizdevās restartēt. Veiciet to izvēlnē Sākt.
+129	Šis dators nestartējas UEFI režīmā. Palaidiet to no diska manuāli, izmantojot sāknēšanas izvēlni (parasti ar taustiņu F12, F8 vai Esc).
+130	Nav atļaujas mainīt palaišanas iestatījumus.
+131	Disks nav atrasts. Pievienojiet to vēlreiz.
+132	Programmaparatūra nepieņēma sāknēšanas ierakstu. Palaidiet datoru no diska manuāli, izmantojot sāknēšanas izvēlni.
+133	Programmaparatūra nepieņēma nākamās sāknēšanas iestatījumu. Palaidiet datoru no diska manuāli, izmantojot sāknēšanas izvēlni.
+134	Shrimp Install nepieciešams Microsoft Edge WebView2 komponents, bet to neizdevās palaist.\n\nAtjauniniet Windows vai instalējiet WebView2 Runtime no Microsoft un mēģiniet vēlreiz.
+135	Neizdevās atvērt Shrimp Install logu (WebView2).
+136	Neizdevās palaist WebView2 komponentu.
+137	Nav brīvas vietas sāknēšanas ierakstam.
+138	Trūkst programmas saskarnes.

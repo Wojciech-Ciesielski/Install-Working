@@ -1,0 +1,138 @@
+1	Minimer
+2	Lukk
+3	Installer Shrimp
+4	Et rolig og ryddig system som fungerer fra første oppstart.
+5	Automatisk nedlasting
+6	Installasjonsprogrammet laster ned alt det trenger.
+7	Filene dine er trygge
+8	Filene dine blir beholdt.
+9	Kjente programmer
+10	Vi foreslår tilsvarende programmer til de du bruker.
+11	Windows-stasjonen er kryptert med BitLocker. Du kan bare installere Shrimp ved siden av Windows etter at du har slått av krypteringen.
+12	La oss begynne
+13	Trinn {n} av {total}
+14	Velg en stasjon
+15	Velg hvor vi skal klargjøre Shrimp-installasjonen. Det trengs minst {size}.
+16	Stasjon
+17	Om stasjonen
+18	Du kan velge en USB-pinne, et SD-kort eller en ekstern stasjon. Alt som ligger på stasjonen nå, blir slettet.
+19	Tilbake
+20	Neste
+21	Velg en stasjon
+22	Denne stasjonen er for liten. Det trengs minst {size}.
+23	Fant ingen stasjon
+24	Koble til en stasjon, så vises den her.
+25	For liten
+26	Tilgjengelige stasjoner
+27	USB-pinne
+28	SD-kort
+29	Ekstern stasjon
+30	Hva skal beholdes trygt?
+31	Før installasjonen lager vi en kopi av det du velger.
+32	Slik velger du filer
+33	Mappene mine
+34	(Anbefalt)
+35	Dokumenter, bilder og andre personlige ting.
+36	Jeg velger selv
+37	Velg dine egne mapper og filer.
+38	Mapper som skal beholdes
+39	Dokumenter
+40	Bilder
+41	Skrivebord
+42	Musikk
+43	Videoer
+44	Nedlastinger
+45	Legg til mappe …
+46	Legg til fil …
+47	Plass på stasjonen
+48	Om kopiering av filer
+49	Filene dine i Windows forblir uendret.
+50	Klargjør stasjonen
+51	Beregner …
+52	Ikke plass
+53	Behold: {name}
+54	Fjern
+55	Fjern: {name}
+56	Ingenting er valgt ennå.
+57	Mangler {size}
+58	{free} ledig av {total}
+59	Klargjør Shrimp
+60	Dette tar {time} til.
+61	Klargjøringen er satt på pause.
+62	Klargjøringen er ferdig
+63	Alt er klart.
+64	Laster ned Shrimp
+65	Skriver til stasjonen
+66	Kopierer filer
+67	Ikke koble fra stasjonen før det er ferdig.
+68	Avbryt
+69	Prøv igjen
+70	Lastet ned {size}
+71	Kobler til …
+72	{done} av {total} · {speed} · {left} igjen
+73	Skrevet
+74	Tar {time}
+75	{pct} · {speed} · {left} igjen
+76	Ingen filer valgt
+77	Ingenting å kopiere
+78	Kopiert {size}
+79	{size} · tar {time}
+80	omtrent {time}
+81	under ett minutt
+82	Ingen internettilkobling
+83	Kunne ikke laste ned Shrimp.
+84	Sjekk internettilkoblingen og prøv igjen.
+85	Den nedlastede ISO-filen er skadet
+86	Den nedlastede ISO-filen besto ikke kontrollen.
+87	Prøv igjen.
+88	Ikke nok diskplass
+89	Ikke nok diskplass.
+90	Frigjør litt plass og prøv igjen.
+91	Kunne ikke skrive til stasjonen
+92	Kunne ikke skrive til stasjonen.
+93	Koble den til igjen eller velg en annen.
+94	Stasjonen ble koblet fra
+95	Stasjonen ble koblet fra.
+96	Koble den til igjen og prøv på nytt.
+97	Kunne ikke kopiere filene
+98	Kunne ikke kopiere filene.
+99	Noe gikk galt
+100	Noe gikk galt.
+101	Alt er klart
+102	Start datamaskinen på nytt for å fullføre.
+103	Stasjonen er klar
+104	Shrimp venter på å bli installert.
+105	Filene dine er trygge
+106	Kopien er lagret.
+107	Programmer venter
+108	Vi foreslår tilsvarende programmer etter installasjonen.
+109	Lagre åpne dokumenter før du starter på nytt.
+110	Senere
+111	Start på nytt
+112	Kunne ikke sette opp oppstart fra stasjonen.
+113	Avbryte klargjøringen?
+114	Klargjøringen stoppes. Hvis skrivingen til stasjonen allerede har startet, må du klargjøre den på nytt.
+115	Fortsett
+116	Avbryt klargjøringen
+117	Kan ikke koble til nedlastingsserveren.
+118	Nedlastingsserveren svarte med koden {code}.
+119	Manifestet er for stort.
+120	Signaturen til manifestet er ugyldig.
+121	Ingen tilgang til den midlertidige mappen.
+122	Kan ikke lagre filen som lastes ned.
+123	Den nedlastede ISO-filen kan ikke skrives til stasjonen.
+124	Stasjonen gikk tom for plass.
+125	Kunne ikke lagre beskrivelsen av kopien.
+126	Klargjøringen pågår allerede.
+127	Kunne ikke starte nedlastingen.
+128	Kunne ikke starte på nytt. Gjør det fra Start-menyen.
+129	Denne datamaskinen starter ikke i UEFI-modus. Start den fra stasjonen manuelt, fra oppstartsmenyen (vanligvis med tasten F12, F8 eller Esc).
+130	Ingen tillatelse til å endre oppstartsinnstillingene.
+131	Fant ikke stasjonen. Koble den til igjen.
+132	Fastvaren godtok ikke oppstartsoppføringen. Start datamaskinen fra stasjonen manuelt, fra oppstartsmenyen.
+133	Fastvaren godtok ikke innstillingen for neste oppstart. Start datamaskinen fra stasjonen manuelt, fra oppstartsmenyen.
+134	Shrimp Install trenger komponenten Microsoft Edge WebView2, men den kunne ikke startes.\n\nOppdater Windows eller installer WebView2 Runtime fra Microsoft, og prøv igjen.
+135	Kunne ikke åpne vinduet til Shrimp Install (WebView2).
+136	Kunne ikke starte komponenten WebView2.
+137	Ingen ledig plass til oppstartsoppføringen.
+138	Programmets grensesnitt mangler.

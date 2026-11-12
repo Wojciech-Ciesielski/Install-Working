@@ -1,0 +1,138 @@
+1	Kichraytirish
+2	Yopish
+3	Shrimp o‘rnatish
+4	Birinchi ishga tushirishdanoq ishlaydigan, osoyishta va tartibli tizim.
+5	Avtomatik yuklab olish
+6	O‘rnatuvchi kerakli hamma narsani o‘zi yuklab oladi.
+7	Fayllaringiz xavfsiz
+8	Fayllaringiz saqlanadi.
+9	Tanish dasturlar
+10	Foydalanadigan dasturlaringizning analoglarini taklif qilamiz.
+11	Windows diski BitLocker bilan shifrlangan. Shrimp’ni Windows yoniga faqat shifrlashni o‘chirgandan keyin o‘rnatish mumkin.
+12	Boshlaymiz
+13	{n}-qadam, jami {total}
+14	Diskni tanlang
+15	Shrimp o‘rnatuvchisi qayerda tayyorlanishini tanlang. Kamida {size} kerak.
+16	Disk
+17	Disk haqida
+18	USB xotira, SD karta yoki tashqi diskni tanlashingiz mumkin. Diskdagi hamma narsa o‘chiriladi.
+19	Orqaga
+20	Keyingisi
+21	Diskni tanlang
+22	Bu disk juda kichik. Kamida {size} kerak.
+23	Disk topilmadi
+24	Diskni ulang, u shu yerda paydo bo‘ladi.
+25	Juda kichik
+26	Mavjud disklar
+27	USB xotira
+28	SD karta
+29	Tashqi disk
+30	Nimani saqlash kerak?
+31	O‘rnatishdan oldin tanlaganlaringizning nusxasini yaratamiz.
+32	Fayllarni qanday tanlash mumkin
+33	Mening jildlarim
+34	(Tavsiya etiladi)
+35	Hujjatlar, rasmlar va boshqa shaxsiy narsalar.
+36	O‘zim tanlayman
+37	O‘z jild va fayllaringizni tanlang.
+38	Saqlanadigan jildlar
+39	Hujjatlar
+40	Rasmlar
+41	Ish stoli
+42	Musiqa
+43	Videolar
+44	Yuklab olinganlar
+45	Jild qo‘shish…
+46	Fayl qo‘shish…
+47	Diskdagi joy
+48	Fayllarni nusxalash haqida
+49	Windows’dagi fayllaringiz o‘zgarmaydi.
+50	Diskni tayyorlash
+51	Hisoblanmoqda…
+52	Joy yo‘q
+53	Saqlash: {name}
+54	Olib tashlash
+55	Olib tashlash: {name}
+56	Hozircha hech narsa tanlanmagan.
+57	{size} yetishmaydi
+58	{total} dan {free} bo‘sh
+59	Shrimp tayyorlanmoqda
+60	Yana {time} qoldi.
+61	Tayyorlash to‘xtatilgan.
+62	Tayyorlash yakunlandi
+63	Hammasi tayyor.
+64	Shrimp yuklab olinmoqda
+65	Diskka yozilmoqda
+66	Fayllar nusxalanmoqda
+67	Tugaguncha diskni chiqarmang.
+68	Bekor qilish
+69	Qayta urinish
+70	{size} yuklab olindi
+71	Ulanmoqda…
+72	{total} dan {done} · {speed} · {left} qoldi
+73	Yozildi
+74	{time} davom etadi
+75	{pct} · {speed} · {left} qoldi
+76	Fayllar tanlanmagan
+77	Nusxalash uchun hech narsa yo‘q
+78	{size} nusxalandi
+79	{size} · {time} davom etadi
+80	taxminan {time}
+81	bir daqiqadan kam
+82	Internet aloqasi yo‘q
+83	Shrimp yuklab olinmadi.
+84	Internet aloqasini tekshiring va qayta urinib ko‘ring.
+85	Yuklab olingan obraz shikastlangan
+86	Yuklab olingan obraz tekshiruvdan o‘tmadi.
+87	Qayta urinib ko‘ring.
+88	Diskda joy yetarli emas
+89	Diskda joy yetarli emas.
+90	Biroz joy bo‘shating va qayta urinib ko‘ring.
+91	Diskka yozib bo‘lmadi
+92	Diskka yozib bo‘lmadi.
+93	Uni qayta ulang yoki boshqasini tanlang.
+94	Disk uzildi
+95	Disk uzildi.
+96	Uni qayta ulang va yana urinib ko‘ring.
+97	Fayllarni nusxalab bo‘lmadi
+98	Fayllarni nusxalab bo‘lmadi.
+99	Nimadir noto‘g‘ri ketdi
+100	Nimadir noto‘g‘ri ketdi.
+101	Hammasi tayyor
+102	Yakunlash uchun kompyuterni qayta ishga tushiring.
+103	Disk tayyor
+104	Shrimp o‘rnatilishini kutmoqda.
+105	Fayllaringiz xavfsiz
+106	Nusxa saqlandi.
+107	Dasturlar kutmoqda
+108	O‘rnatishdan keyin analoglarni taklif qilamiz.
+109	Qayta ishga tushirishdan oldin ochiq hujjatlarni saqlang.
+110	Keyinroq
+111	Qayta ishga tushirish
+112	Diskdan yuklashni sozlab bo‘lmadi.
+113	Tayyorlash bekor qilinsinmi?
+114	Tayyorlash to‘xtatiladi. Diskka yozish allaqachon boshlangan bo‘lsa, uni qaytadan tayyorlashingiz kerak bo‘ladi.
+115	Davom etish
+116	Tayyorlashni bekor qilish
+117	Yuklab olish serveriga ulanib bo‘lmadi.
+118	Yuklab olish serveri {code} kodi bilan javob berdi.
+119	Manifest juda katta.
+120	Manifest imzosi yaroqsiz.
+121	Vaqtinchalik jildga kirish imkoni yo‘q.
+122	Yuklab olinayotgan faylni saqlab bo‘lmadi.
+123	Yuklab olingan obrazni diskka yozib bo‘lmadi.
+124	Diskda joy tugadi.
+125	Nusxa tavsifini saqlab bo‘lmadi.
+126	Tayyorlash allaqachon bajarilmoqda.
+127	Yuklab olishni boshlab bo‘lmadi.
+128	Qayta ishga tushirib bo‘lmadi. Buni Start menyusidan bajaring.
+129	Bu kompyuter UEFI rejimida ishga tushmaydi. Uni diskdan qo‘lda, yuklash menyusidan ishga tushiring (odatda F12, F8 yoki Esc tugmasi).
+130	Ishga tushirish sozlamalarini o‘zgartirishga ruxsat yo‘q.
+131	Disk topilmadi. Uni qayta ulang.
+132	Mikrodastur yuklash yozuvini qabul qilmadi. Kompyuterni diskdan qo‘lda, yuklash menyusidan ishga tushiring.
+133	Mikrodastur keyingi yuklash sozlamasini qabul qilmadi. Kompyuterni diskdan qo‘lda, yuklash menyusidan ishga tushiring.
+134	Shrimp Install uchun Microsoft Edge WebView2 komponenti kerak, lekin uni ishga tushirib bo‘lmadi.\n\nWindows’ni yangilang yoki Microsoft saytidan WebView2 Runtime’ni o‘rnating va qaytadan urinib ko‘ring.
+135	Shrimp Install oynasini (WebView2) ochib bo‘lmadi.
+136	WebView2 komponentini ishga tushirib bo‘lmadi.
+137	Yuklash yozuvi uchun bo‘sh joy yo‘q.
+138	Dastur interfeysi mavjud emas.

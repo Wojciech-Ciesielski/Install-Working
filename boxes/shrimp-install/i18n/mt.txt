@@ -1,0 +1,138 @@
+1	Naqqas
+2	Agħlaq
+3	Installa Shrimp
+4	Sistema kwieta u mogħtija ordni li taħdem mill-ewwel bidu.
+5	Download awtomatiku
+6	L-installatur jniżżel dak kollu li jeħtieġ.
+7	Il-fajls tiegħek jibqgħu siguri
+8	Il-fajls tiegħek se jinżammu.
+9	Programmi familjari
+10	Nissuġġerixxu ekwivalenti tal-programmi li tuża.
+11	Id-drive tal-Windows hija kriptata b’BitLocker. Tista’ tinstalla Shrimp ħdejn il-Windows biss wara li titfi l-kriptaġġ.
+12	Nibdew
+13	Pass {n} minn {total}
+14	Agħżel drive
+15	Agħżel fejn se nippreparaw l-installatur ta’ Shrimp. Hemm bżonn mill-inqas {size}.
+16	Drive
+17	Dwar id-drive
+18	Tista’ tagħżel stick USB, karta SD jew drive esterna. Kulma hemm fuq id-drive se jitħassar.
+19	Lura
+20	Li jmiss
+21	Agħżel drive
+22	Din id-drive żgħira wisq. Hemm bżonn mill-inqas {size}.
+23	Ma nstab l-ebda drive
+24	Qabbad drive u se tidher hawn.
+25	Żgħir wisq
+26	Drives disponibbli
+27	USB stick
+28	Karta SD
+29	Drive estern
+30	Xiex għandu jinżamm sigur?
+31	Qabel l-installazzjoni, nagħmlu kopja tal-affarijiet li tagħżel.
+32	Kif tagħżel il-fajls
+33	Il-folders tiegħi
+34	(Rakkomandat)
+35	Dokumenti, ritratti u affarijiet personali oħra.
+36	Se nagħżel jien
+37	Agħżel il-folders u l-fajls tiegħek.
+38	Folders li jinżammu
+39	Dokumenti
+40	Stampi
+41	Desktop
+42	Mużika
+43	Vidjows
+44	Downloads
+45	Żid folder…
+46	Żid fajl…
+47	Spazju fuq id-drive
+48	Dwar l-ikkupjar tal-fajls
+49	Il-fajls tiegħek fil-Windows jibqgħu l-istess.
+50	Ipprepara d-drive
+51	Qed jgħodd…
+52	M’hemmx spazju
+53	Żomm: {name}
+54	Neħħi
+55	Neħħi: {name}
+56	Għadu ma ntgħażel xejn.
+57	Jonqos {size}
+58	{free} ħielsa minn {total}
+59	Qed nippreparaw Shrimp
+60	Dan se jieħu {time} oħra.
+61	Il-preparazzjoni twaqqfet għal ftit.
+62	Il-preparazzjoni tlestiet
+63	Kollox lest.
+64	Qed jitniżżel Shrimp
+65	Qed nikteb fuq id-drive
+66	Qed nikkupjaw il-fajls
+67	Taqlax id-drive sakemm jitlesta.
+68	Ikkanċella
+69	Erġa’ pprova
+70	Imniżżel {size}
+71	Qed jikkonnettja…
+72	{done} minn {total} · {speed} · fadal {left}
+73	Miktub
+74	Se jieħu {time}
+75	{pct} · {speed} · fadal {left}
+76	Ma ntgħażel l-ebda fajl
+77	M’hemm xejn x’tikkopja
+78	Ikkupjat {size}
+79	{size} · se jieħu {time}
+80	madwar {time}
+81	inqas minn minuta
+82	L-ebda konnessjoni mal-internet
+83	Ma setax jitniżżel Shrimp.
+84	Iċċekkja l-konnessjoni tal-internet u erġa’ pprova.
+85	L-immaġni mniżżla hija bil-ħsara
+86	L-immaġni mniżżla ma għaddietx mill-verifika.
+87	Erġa’ pprova.
+88	M’hemmx biżżejjed spazju fuq id-diska
+89	M’hemmx biżżejjed spazju fuq id-diska.
+90	Ħeles ftit spazju u erġa’ pprova.
+91	Ma setax jinkiteb fuq id-drive
+92	Ma setax jinkiteb fuq id-drive.
+93	Erġa’ daħħalha jew agħżel oħra.
+94	Id-drive ġiet skonnettjata
+95	Id-drive ġiet skonnettjata.
+96	Erġa’ daħħalha u erġa’ pprova.
+97	Il-fajls ma setgħux jiġu kkupjati
+98	Il-fajls ma setgħux jiġu kkupjati.
+99	Xi ħaġa marret ħażin
+100	Xi ħaġa marret ħażin.
+101	Kollox lest
+102	Erġa’ ibda l-kompjuter biex tispiċċa.
+103	Id-drive lesta
+104	Shrimp qed jistenna li jiġi installat.
+105	Il-fajls tiegħek huma sikuri
+106	Il-kopja ġiet issejvjata.
+107	Il-programmi qed jistennew
+108	Nissuġġerixxu ekwivalenti wara l-installazzjoni.
+109	Issejvja d-dokumenti miftuħa qabel ma terġa’ tibda.
+110	Aktar tard
+111	Erġa’ ibda
+112	Ma setax jiġi ssettjat il-bidu mid-drive.
+113	Tikkanċella l-preparazzjoni?
+114	Il-preparazzjoni se titwaqqaf. Jekk il-kitba fuq id-drive diġà bdiet, ikollok terġa’ tippreparaha.
+115	Kompli
+116	Ikkanċella l-preparazzjoni
+117	Ma jistax jikkonnettja mas-server tat-tniżżil.
+118	Is-server tat-tniżżil wieġeb bil-kodiċi {code}.
+119	Il-manifest huwa kbir wisq.
+120	Il-firma tal-manifest mhijiex valida.
+121	M’hemmx aċċess għall-folder temporanju.
+122	Il-fajl li qed jitniżżel ma jistax jiġi ssejvjat.
+123	L-immaġni mniżżla ma tistax tinkiteb fuq id-drive.
+124	L-ispazju fuq id-drive spiċċa.
+125	Id-deskrizzjoni tal-kopja ma setgħetx tiġi ssejvjata.
+126	Il-preparazzjoni diġà għaddejja.
+127	It-tniżżil ma setax jibda.
+128	Ma setax jerġa’ jibda. Agħmlu mill-menu Start.
+129	Dan il-kompjuter ma jibdiex fil-modalità UEFI. Ibdih mid-drive manwalment, mill-menu tal-boot (ġeneralment il-buttuna F12, F8 jew Esc).
+130	M’hemmx permess biex jinbidlu s-settings tal-bidu.
+131	Id-drive ma nstabitx. Erġa’ daħħalha.
+132	Il-firmware ma aċċettax l-entrata tal-boot. Ibda l-kompjuter mid-drive manwalment, mill-menu tal-boot.
+133	Il-firmware ma aċċettax is-setting tal-boot li jmiss. Ibda l-kompjuter mid-drive manwalment, mill-menu tal-boot.
+134	Shrimp Install jeħtieġ il-komponent Microsoft Edge WebView2, iżda ma setax jitħaddem.\n\nAġġorna l-Windows jew installa WebView2 Runtime mingħand Microsoft u erġa’ pprova.
+135	Ma setgħetx tinfetaħ it-tieqa ta’ Shrimp Install (WebView2).
+136	Il-komponent WebView2 ma setax jitħaddem.
+137	M’hemmx post ħieles għall-entrata tal-boot.
+138	L-interfaċċja tal-programm nieqsa.

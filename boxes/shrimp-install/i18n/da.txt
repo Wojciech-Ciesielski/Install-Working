@@ -1,0 +1,138 @@
+1	Minimer
+2	Luk
+3	Installer Shrimp
+4	Et roligt og ryddigt system, der virker fra første start.
+5	Automatisk download
+6	Installationsprogrammet henter alt, hvad det har brug for.
+7	Dine filer er i sikkerhed
+8	Dine filer bliver bevaret.
+9	Kendte programmer
+10	Vi foreslår tilsvarende programmer til dem, du bruger.
+11	Windows-drevet er krypteret med BitLocker. Du kan først installere Shrimp ved siden af Windows, når du har slået krypteringen fra.
+12	Lad os komme i gang
+13	Trin {n} af {total}
+14	Vælg et drev
+15	Vælg, hvor vi skal klargøre Shrimp-installationen. Der skal bruges mindst {size}.
+16	Drev
+17	Om drevet
+18	Du kan vælge en USB-nøgle, et SD-kort eller et eksternt drev. Alt, hvad der ligger på drevet nu, bliver slettet.
+19	Tilbage
+20	Næste
+21	Vælg et drev
+22	Dette drev er for lille. Der skal bruges mindst {size}.
+23	Der blev ikke fundet noget drev
+24	Slut et drev til, så vises det her.
+25	For lille
+26	Tilgængelige drev
+27	USB-nøgle
+28	SD-kort
+29	Eksternt drev
+30	Hvad skal bevares?
+31	Før installationen laver vi en kopi af det, du vælger.
+32	Sådan vælger du filer
+33	Mine mapper
+34	(Anbefalet)
+35	Dokumenter, billeder og andre personlige ting.
+36	Jeg vælger selv
+37	Vælg dine egne mapper og filer.
+38	Mapper, der skal bevares
+39	Dokumenter
+40	Billeder
+41	Skrivebord
+42	Musik
+43	Videoer
+44	Overførsler
+45	Tilføj mappe …
+46	Tilføj fil …
+47	Plads på drevet
+48	Om kopiering af filer
+49	Dine filer i Windows forbliver uændrede.
+50	Klargør drevet
+51	Beregner …
+52	Ikke plads
+53	Behold: {name}
+54	Fjern
+55	Fjern: {name}
+56	Der er ikke valgt noget endnu.
+57	Mangler {size}
+58	{free} ledig af {total}
+59	Klargør Shrimp
+60	Der går {time} endnu.
+61	Klargøringen er sat på pause.
+62	Klargøringen er færdig
+63	Alt er klart.
+64	Henter Shrimp
+65	Skriver til drevet
+66	Kopierer filer
+67	Frakobl ikke drevet, før det er færdigt.
+68	Annuller
+69	Prøv igen
+70	Hentet {size}
+71	Opretter forbindelse …
+72	{done} af {total} · {speed} · {left} tilbage
+73	Skrevet
+74	Tager {time}
+75	{pct} · {speed} · {left} tilbage
+76	Ingen filer valgt
+77	Intet at kopiere
+78	Kopieret {size}
+79	{size} · tager {time}
+80	omkring {time}
+81	under et minut
+82	Ingen internetforbindelse
+83	Shrimp kunne ikke hentes.
+84	Tjek din internetforbindelse, og prøv igen.
+85	Den hentede ISO-fil er beskadiget
+86	Den hentede ISO-fil bestod ikke kontrollen.
+87	Prøv igen.
+88	Ikke nok diskplads
+89	Ikke nok diskplads.
+90	Frigør noget plads, og prøv igen.
+91	Der kunne ikke skrives til drevet
+92	Der kunne ikke skrives til drevet.
+93	Slut det til igen, eller vælg et andet.
+94	Drevet blev frakoblet
+95	Drevet blev frakoblet.
+96	Slut det til igen, og prøv igen.
+97	Filerne kunne ikke kopieres
+98	Filerne kunne ikke kopieres.
+99	Noget gik galt
+100	Noget gik galt.
+101	Alt er klart
+102	Genstart computeren for at afslutte.
+103	Drevet er klar
+104	Shrimp venter på at blive installeret.
+105	Dine filer er i sikkerhed
+106	Kopien er gemt.
+107	Programmer venter
+108	Vi foreslår tilsvarende programmer efter installationen.
+109	Gem dine åbne dokumenter, før du genstarter.
+110	Senere
+111	Genstart
+112	Start fra drevet kunne ikke konfigureres.
+113	Vil du annullere klargøringen?
+114	Klargøringen stoppes. Hvis skrivningen til drevet allerede er begyndt, skal du klargøre det igen.
+115	Fortsæt
+116	Annuller klargøring
+117	Der kan ikke oprettes forbindelse til downloadserveren.
+118	Downloadserveren svarede med koden {code}.
+119	Manifestet er for stort.
+120	Manifestets signatur er ugyldig.
+121	Ingen adgang til den midlertidige mappe.
+122	Filen, der hentes, kan ikke gemmes.
+123	Den hentede ISO-fil kan ikke skrives til drevet.
+124	Drevet løb tør for plads.
+125	Beskrivelsen af kopien kunne ikke gemmes.
+126	Klargøringen kører allerede.
+127	Hentningen kunne ikke startes.
+128	Genstarten mislykkedes. Gør det fra Start-menuen.
+129	Denne computer starter ikke i UEFI-tilstand. Start den manuelt fra drevet via startmenuen (som regel med tasten F12, F8 eller Esc).
+130	Ingen tilladelse til at ændre startindstillingerne.
+131	Drevet blev ikke fundet. Slut det til igen.
+132	Firmwaren accepterede ikke startindgangen. Start computeren manuelt fra drevet via startmenuen.
+133	Firmwaren accepterede ikke indstillingen for næste start. Start computeren manuelt fra drevet via startmenuen.
+134	Shrimp Install har brug for komponenten Microsoft Edge WebView2, men den kunne ikke startes.\n\nOpdater Windows, eller installer WebView2 Runtime fra Microsoft, og prøv igen.
+135	Vinduet til Shrimp Install (WebView2) kunne ikke åbnes.
+136	Komponenten WebView2 kunne ikke startes.
+137	Ingen ledig plads til startindgangen.
+138	Programmets brugerflade mangler.

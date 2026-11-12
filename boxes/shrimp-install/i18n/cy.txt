@@ -1,0 +1,138 @@
+1	Lleihau
+2	Cau
+3	Gosod Shrimp
+4	System dawel a threfnus sy'n gweithio o'r cychwyn cyntaf.
+5	Llwytho i lawr yn awtomatig
+6	Mae'r gosodwr yn llwytho i lawr bopeth sydd ei angen arno.
+7	Mae eich ffeiliau'n ddiogel
+8	Bydd eich ffeiliau'n cael eu cadw.
+9	Rhaglenni cyfarwydd
+10	Byddwn yn awgrymu rhaglenni cyfatebol i'r rhai rydych chi'n eu defnyddio.
+11	Mae gyriant Windows wedi'i amgryptio gyda BitLocker. Dim ond ar ôl diffodd yr amgryptio y gallwch osod Shrimp ochr yn ochr â Windows.
+12	Dechreuwn
+13	Cam {n} o {total}
+14	Dewiswch yriant
+15	Dewiswch ble y dylem baratoi gosodwr Shrimp. Mae angen o leiaf {size}.
+16	Gyriant
+17	Ynglŷn â'r gyriant
+18	Gallwch ddewis ffon USB, cerdyn SD neu yriant allanol. Caiff popeth sydd ar y gyriant ar hyn o bryd ei ddileu.
+19	Yn ôl
+20	Nesaf
+21	Dewiswch yriant
+22	Mae'r gyriant hwn yn rhy fach. Mae angen o leiaf {size}.
+23	Heb ganfod gyriant
+24	Cysylltwch yriant a bydd yn ymddangos yma.
+25	Rhy fach
+26	Gyriannau sydd ar gael
+27	Ffon USB
+28	Cerdyn SD
+29	Gyriant allanol
+30	Beth ddylid ei gadw?
+31	Cyn gosod, byddwn yn gwneud copi o'r hyn rydych chi'n ei ddewis.
+32	Sut i ddewis ffeiliau
+33	Fy ffolderi
+34	(Argymhellir)
+35	Dogfennau, lluniau a phethau personol eraill.
+36	Fe ddewisaf i fy hun
+37	Dewiswch eich ffolderi a'ch ffeiliau eich hun.
+38	Ffolderi i'w cadw
+39	Dogfennau
+40	Lluniau
+41	Penbwrdd
+42	Cerddoriaeth
+43	Fideos
+44	Lawrlwythiadau
+45	Ychwanegu ffolder…
+46	Ychwanegu ffeil…
+47	Lle ar y gyriant
+48	Ynglŷn â chopïo ffeiliau
+49	Ni fydd eich ffeiliau yn Windows yn newid.
+50	Paratoi'r gyriant
+51	Cyfrifo…
+52	Dim lle
+53	Cadw: {name}
+54	Dileu
+55	Dileu: {name}
+56	Heb ddewis dim eto.
+57	{size} yn brin
+58	{free} yn rhydd o {total}
+59	Paratoi Shrimp
+60	{time} ar ôl.
+61	Mae'r paratoi wedi'i oedi.
+62	Paratoi wedi'i gwblhau
+63	Mae popeth yn barod.
+64	Llwytho Shrimp i lawr
+65	Ysgrifennu i'r gyriant
+66	Copïo ffeiliau
+67	Peidiwch â thynnu'r gyriant nes bydd wedi gorffen.
+68	Diddymu
+69	Rhowch gynnig arall arni
+70	{size} wedi'i lwytho i lawr
+71	Cysylltu…
+72	{done} o {total} · {speed} · {left} ar ôl
+73	Ysgrifennwyd
+74	Bydd yn cymryd {time}
+75	{pct} · {speed} · {left} ar ôl
+76	Heb ddewis unrhyw ffeiliau
+77	Dim i'w gopïo
+78	{size} wedi'i gopïo
+79	{size} · bydd yn cymryd {time}
+80	tua {time}
+81	llai na munud
+82	Dim cysylltiad â'r rhyngrwyd
+83	Methu llwytho Shrimp i lawr.
+84	Gwiriwch eich cysylltiad â'r rhyngrwyd a rhowch gynnig arall arni.
+85	Mae'r ddelwedd a lwythwyd i lawr wedi'i difrodi
+86	Methodd y ddelwedd a lwythwyd i lawr y dilysu.
+87	Rhowch gynnig arall arni.
+88	Dim digon o le ar y ddisg
+89	Does dim digon o le ar y ddisg.
+90	Rhyddhewch ychydig o le a rhowch gynnig arall arni.
+91	Methu ysgrifennu i'r gyriant
+92	Methu ysgrifennu i'r gyriant.
+93	Cysylltwch ef eto neu dewiswch un arall.
+94	Datgysylltwyd y gyriant
+95	Datgysylltwyd y gyriant.
+96	Cysylltwch ef eto a rhowch gynnig arall arni.
+97	Methu copïo'r ffeiliau
+98	Methu copïo'r ffeiliau.
+99	Aeth rhywbeth o'i le
+100	Aeth rhywbeth o'i le.
+101	Popeth yn barod
+102	Ailgychwynnwch y cyfrifiadur i orffen.
+103	Mae'r gyriant yn barod
+104	Mae Shrimp yn aros i gael ei osod.
+105	Mae eich ffeiliau'n ddiogel
+106	Cadwyd y copi.
+107	Mae rhaglenni'n aros
+108	Ar ôl gosod, byddwn yn awgrymu rhaglenni cyfatebol.
+109	Cadwch eich dogfennau agored cyn ailgychwyn.
+110	Yn nes ymlaen
+111	Ailgychwyn
+112	Methu trefnu cychwyn o'r gyriant.
+113	Diddymu'r paratoi?
+114	Bydd y paratoi'n cael ei atal. Os yw'r ysgrifennu i'r gyriant eisoes wedi dechrau, bydd angen i chi ei baratoi eto.
+115	Parhau
+116	Diddymu'r paratoi
+117	Methu cysylltu â'r gweinydd llwytho i lawr.
+118	Atebodd y gweinydd llwytho i lawr gyda'r cod {code}.
+119	Mae'r maniffest yn rhy fawr.
+120	Mae llofnod y maniffest yn annilys.
+121	Dim mynediad i'r ffolder dros dro.
+122	Methu cadw'r ffeil sy'n cael ei llwytho i lawr.
+123	Methu ysgrifennu'r ddelwedd a lwythwyd i lawr i'r gyriant.
+124	Mae'r gyriant wedi rhedeg allan o le.
+125	Methu cadw disgrifiad y copi.
+126	Mae'r paratoi eisoes ar y gweill.
+127	Methu dechrau'r llwytho i lawr.
+128	Methu ailgychwyn. Gwnewch hynny o'r ddewislen Start.
+129	Nid yw'r cyfrifiadur hwn yn cychwyn yn y modd UEFI. Cychwynnwch ef â llaw o'r gyriant, o'r ddewislen cychwyn (fel arfer yr allwedd F12, F8 neu Esc).
+130	Dim caniatâd i newid y gosodiadau cychwyn.
+131	Heb ganfod y gyriant. Cysylltwch ef eto.
+132	Ni dderbyniodd y cadarnwedd y cofnod cychwyn. Cychwynnwch y cyfrifiadur â llaw o'r gyriant, o'r ddewislen cychwyn.
+133	Ni dderbyniodd y cadarnwedd y gosodiad ar gyfer y cychwyn nesaf. Cychwynnwch y cyfrifiadur â llaw o'r gyriant, o'r ddewislen cychwyn.
+134	Mae angen y gydran Microsoft Edge WebView2 ar Shrimp Install, ond doedd dim modd ei chychwyn.\n\nDiweddarwch Windows neu gosodwch WebView2 Runtime gan Microsoft a rhowch gynnig arall arni.
+135	Doedd dim modd agor ffenestr Shrimp Install (WebView2).
+136	Doedd dim modd cychwyn y gydran WebView2.
+137	Dim lle rhydd ar gyfer y cofnod cychwyn.
+138	Mae rhyngwyneb y rhaglen ar goll.

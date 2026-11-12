@@ -1,0 +1,138 @@
+1	Minimumkan
+2	Tutup
+3	Pasang Shrimp
+4	Sistem yang tenang dan kemas, berfungsi sejak permulaan pertama.
+5	Muat turun automatik
+6	Pemasang memuat turun semua yang diperlukan.
+7	Fail anda selamat
+8	Fail anda akan disimpan.
+9	Program yang dikenali
+10	Kami akan mencadangkan program setara dengan yang anda gunakan.
+11	Pemacu Windows disulitkan dengan BitLocker. Anda hanya boleh memasang Shrimp bersebelahan Windows selepas mematikan penyulitan.
+12	Mari mulakan
+13	Langkah {n} daripada {total}
+14	Pilih pemacu
+15	Pilih tempat kami menyediakan pemasang Shrimp. Sekurang-kurangnya {size} diperlukan.
+16	Pemacu
+17	Tentang pemacu
+18	Anda boleh memilih pemacu USB, kad SD atau pemacu luaran. Semua yang ada pada pemacu sekarang akan dipadam.
+19	Kembali
+20	Seterusnya
+21	Pilih pemacu
+22	Pemacu ini terlalu kecil. Sekurang-kurangnya {size} diperlukan.
+23	Tiada pemacu ditemui
+24	Palamkan pemacu dan ia akan muncul di sini.
+25	Terlalu kecil
+26	Pemacu tersedia
+27	Pemacu USB
+28	Kad SD
+29	Pemacu luaran
+30	Apakah yang perlu disimpan?
+31	Sebelum memasang, kami akan membuat salinan bagi apa yang anda pilih.
+32	Cara memilih fail
+33	Folder saya
+34	(Disyorkan)
+35	Dokumen, foto dan perkara peribadi yang lain.
+36	Saya pilih sendiri
+37	Pilih folder dan fail anda sendiri.
+38	Folder yang disimpan
+39	Dokumen
+40	Gambar
+41	Desktop
+42	Muzik
+43	Video
+44	Muat turun
+45	Tambah folder…
+46	Tambah fail…
+47	Ruang pada pemacu
+48	Tentang menyalin fail
+49	Fail anda dalam Windows tidak berubah.
+50	Sediakan pemacu
+51	Mengira…
+52	Tiada ruang
+53	Simpan: {name}
+54	Alih keluar
+55	Alih keluar: {name}
+56	Belum ada yang dipilih.
+57	Kurang {size}
+58	{free} kosong daripada {total}
+59	Menyediakan Shrimp
+60	Lagi {time}.
+61	Penyediaan telah dijeda.
+62	Penyediaan selesai
+63	Semuanya sudah sedia.
+64	Memuat turun Shrimp
+65	Menulis ke pemacu
+66	Menyalin fail
+67	Jangan cabut pemacu sehingga selesai.
+68	Batal
+69	Cuba lagi
+70	Dimuat turun {size}
+71	Menyambung…
+72	{done} daripada {total} · {speed} · baki {left}
+73	Ditulis
+74	Akan mengambil masa {time}
+75	{pct} · {speed} · baki {left}
+76	Tiada fail dipilih
+77	Tiada apa untuk disalin
+78	Disalin {size}
+79	{size} · akan mengambil masa {time}
+80	kira-kira {time}
+81	kurang daripada satu minit
+82	Tiada sambungan Internet
+83	Tidak dapat memuat turun Shrimp.
+84	Semak sambungan Internet anda dan cuba lagi.
+85	Imej yang dimuat turun rosak
+86	Imej yang dimuat turun gagal pengesahan.
+87	Cuba lagi.
+88	Ruang cakera tidak mencukupi
+89	Ruang cakera tidak mencukupi.
+90	Kosongkan sedikit ruang dan cuba lagi.
+91	Tidak dapat menulis ke pemacu
+92	Tidak dapat menulis ke pemacu.
+93	Palamkan semula atau pilih yang lain.
+94	Pemacu telah diputuskan
+95	Pemacu telah diputuskan.
+96	Palamkan semula dan cuba lagi.
+97	Tidak dapat menyalin fail
+98	Tidak dapat menyalin fail.
+99	Sesuatu telah berlaku
+100	Sesuatu telah berlaku.
+101	Semuanya siap
+102	Mulakan semula komputer untuk menyelesaikan.
+103	Pemacu sudah sedia
+104	Shrimp menunggu untuk dipasang.
+105	Fail anda selamat
+106	Salinan telah disimpan.
+107	Program menunggu
+108	Kami akan mencadangkan program setara selepas pemasangan.
+109	Simpan dokumen yang terbuka sebelum memulakan semula.
+110	Kemudian
+111	Mulakan semula
+112	Tidak dapat menyediakan permulaan dari pemacu.
+113	Batalkan penyediaan?
+114	Penyediaan akan dihentikan. Jika penulisan ke pemacu sudah bermula, anda perlu menyediakannya semula.
+115	Teruskan
+116	Batalkan penyediaan
+117	Tidak dapat menyambung ke pelayan muat turun.
+118	Pelayan muat turun membalas dengan kod {code}.
+119	Manifes terlalu besar.
+120	Tandatangan manifes tidak sah.
+121	Tiada akses ke folder sementara.
+122	Tidak dapat menyimpan fail yang sedang dimuat turun.
+123	Imej yang dimuat turun tidak dapat ditulis ke pemacu.
+124	Pemacu kehabisan ruang.
+125	Tidak dapat menyimpan perihalan salinan.
+126	Penyediaan sedang berjalan.
+127	Tidak dapat memulakan muat turun.
+128	Tidak dapat dimulakan semula. Lakukannya dari menu Mula.
+129	Komputer ini tidak bermula dalam mod UEFI. Mulakannya dari pemacu secara manual, melalui menu boot (biasanya kekunci F12, F8 atau Esc).
+130	Tiada kebenaran untuk menukar tetapan permulaan.
+131	Pemacu tidak ditemui. Palamkan semula.
+132	Perisian tegar tidak menerima entri boot. Mulakan komputer dari pemacu secara manual, melalui menu boot.
+133	Perisian tegar tidak menerima tetapan boot seterusnya. Mulakan komputer dari pemacu secara manual, melalui menu boot.
+134	Shrimp Install memerlukan komponen Microsoft Edge WebView2, tetapi komponen itu tidak dapat dimulakan.\n\nKemas kini Windows atau pasang WebView2 Runtime daripada Microsoft dan cuba lagi.
+135	Tetingkap Shrimp Install (WebView2) tidak dapat dibuka.
+136	Komponen WebView2 tidak dapat dimulakan.
+137	Tiada slot kosong untuk entri boot.
+138	Antara muka program tiada.

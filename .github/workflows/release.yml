@@ -1,0 +1,78 @@
+name: Release
+
+# Wydanie Shrimp Install: buduje shrimp-install.exe (workflow Shrimp Install) albo bierze gotowy przebieg
+# z tego samego commita (reuse) i tworzy wydanie GitHub z .exe i SHA256SUMS.
+# ISO jest w Cloudflare R2 (wydania CoreOS-Working); program czyta manifest z adresu w zmiennej
+# repozytorium SHRIMP_MANIFEST_URL, wkompilowanego przy budowie.
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag wydania (musi być nowy)"
+        required: true
+        default: "install-beta"
+      title:
+        description: "Nazwa wydania"
+        required: true
+        default: "Shrimp Install Beta"
+      reuse:
+        description: "Użyj gotowego przebiegu Shrimp Install z tego samego commita (bez budowania)"
+        type: boolean
+        default: false
+      exe_run:
+        description: "Tylko z reuse: id przebiegu Shrimp Install (puste = ostatni udany z tego commita)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  exe:
+    if: ${{ !inputs.reuse }}
+    uses: ./.github/workflows/shrimp-install.yml
+
+  release:
+    needs: [exe]
+    if: ${{ always() && (inputs.reuse || needs.exe.result == 'success') }}
+    runs-on: ubuntu-24.04
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+      TAG: ${{ inputs.tag }}
+      MANIFEST_URL: ${{ vars.SHRIMP_MANIFEST_URL }}
+    steps:
+      - name: Tag i adres manifestu
+        run: |
+          [ -n "$MANIFEST_URL" ] || { echo "::error::Brak zmiennej repozytorium SHRIMP_MANIFEST_URL (adres manifest.json w R2): bez niej program nie znajdzie ISO"; exit 1; }
+          if gh api "repos/$REPO/git/ref/tags/$TAG" >/dev/null 2>&1; then echo "::error::Tag $TAG już istnieje"; exit 1; fi
+
+      - name: Program z tego przebiegu
+        if: ${{ !inputs.reuse }}
+        uses: actions/download-artifact@v8
+        with: { name: shrimp-install, path: exe }
+
+      - name: Gotowy przebieg z tego samego commita
+        if: ${{ inputs.reuse }}
+        env: { EXE_RUN_IN: "${{ inputs.exe_run }}" }
+        run: |
+          run=${EXE_RUN_IN:-$(gh run list -R "$REPO" -w shrimp-install.yml -c "$GITHUB_SHA" -s success -L 1 --json databaseId -q '.[0].databaseId')}
+          [ -n "$run" ] || { echo "::error::Brak udanego przebiegu Shrimp Install dla $GITHUB_SHA"; exit 1; }
+          gh run download "$run" -R "$REPO" -n shrimp-install -D exe
+
+      - name: Utwórz wydanie
+        run: |
+          test -f exe/shrimp-install.exe
+          mkdir -p assets && cp exe/shrimp-install.exe assets/
+          (cd assets && sha256sum shrimp-install.exe > SHA256SUMS)
+          cat > notes.md <<NOTES
+          ${{ inputs.title }}: program dla Windows, który pobiera Shrimp, przygotowuje nośnik i przenosi dane z Windows.
+
+          - \`shrimp-install.exe\` (SHA-256: \`$(cut -d' ' -f1 assets/SHA256SUMS)\`)
+          - ISO pobiera z Cloudflare R2: $MANIFEST_URL (ostatnie wydanie CoreOS-Working), ze sprawdzeniem SHA-256.
+
+          Program nie jest podpisany (Authenticode), więc SmartScreen ostrzeże przed uruchomieniem.
+          NOTES
+          gh release create "$TAG" assets/* --repo "$REPO" --target "$GITHUB_SHA" --title "${{ inputs.title }}" --notes-file notes.md --prerelease
+          gh release view "$TAG" --repo "$REPO" --json url -q .url >> "$GITHUB_STEP_SUMMARY"

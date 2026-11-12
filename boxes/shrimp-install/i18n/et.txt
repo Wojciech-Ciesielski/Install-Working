@@ -1,0 +1,138 @@
+1	Minimeeri
+2	Sule
+3	Installi Shrimp
+4	Rahulik ja korralik süsteem, mis töötab esimesest käivitusest peale.
+5	Automaatne allalaadimine
+6	Installija laadib alla kõik vajaliku.
+7	Teie failid on turvaliselt alles
+8	Teie failid säilitatakse.
+9	Tuttavad programmid
+10	Pakume teie kasutatavatele programmidele vasteid.
+11	Windowsi draiv on krüpteeritud BitLockeriga. Shrimpi saab Windowsi kõrvale installida alles pärast krüpteerimise väljalülitamist.
+12	Alustame
+13	{n}. samm {total}-st
+14	Valige draiv
+15	Valige, kuhu Shrimpi installija ette valmistame. Vaja on vähemalt {size}.
+16	Draiv
+17	Draivi kohta
+18	Võite valida USB-mälupulga, SD-kaardi või välise draivi. Kõik, mis draivil praegu on, kustutatakse.
+19	Tagasi
+20	Edasi
+21	Valige draiv
+22	See draiv on liiga väike. Vaja on vähemalt {size}.
+23	Draivi ei leitud
+24	Ühendage draiv ja see ilmub siia.
+25	Liiga väike
+26	Saadaolevad draivid
+27	USB-mälupulk
+28	SD-kaart
+29	Väline draiv
+30	Mida säilitada?
+31	Enne installimist teeme valitud asjadest koopia.
+32	Failide valimine
+33	Minu kaustad
+34	(Soovitatav)
+35	Dokumendid, fotod ja muud isiklikud asjad.
+36	Valin ise
+37	Valige oma kaustad ja failid.
+38	Säilitatavad kaustad
+39	Dokumendid
+40	Pildid
+41	Töölaud
+42	Muusika
+43	Videod
+44	Allalaadimised
+45	Lisa kaust…
+46	Lisa fail…
+47	Ruum draivil
+48	Failide kopeerimisest
+49	Teie failid Windowsis jäävad muutmata.
+50	Valmista draiv ette
+51	Arvutan…
+52	Ruumi pole
+53	Säilita: {name}
+54	Eemalda
+55	Eemalda: {name}
+56	Midagi pole veel valitud.
+57	Puudu {size}
+58	Vaba {free} / {total}
+59	Shrimpi ettevalmistamine
+60	Jäänud on veel {time}.
+61	Ettevalmistus on peatatud.
+62	Ettevalmistus on lõppenud
+63	Kõik on valmis.
+64	Shrimpi allalaadimine
+65	Draivile kirjutamine
+66	Failide kopeerimine
+67	Ärge draivi enne lõppu eemaldage.
+68	Tühista
+69	Proovi uuesti
+70	Alla laaditud {size}
+71	Ühendamine…
+72	{done} / {total} · {speed} · jäänud {left}
+73	Kirjutatud
+74	Kestab {time}
+75	{pct} · {speed} · jäänud {left}
+76	Faile pole valitud
+77	Pole midagi kopeerida
+78	Kopeeritud {size}
+79	{size} · kestab {time}
+80	umbes {time}
+81	vähem kui minut
+82	Internetiühendus puudub
+83	Shrimpi ei õnnestunud alla laadida.
+84	Kontrollige internetiühendust ja proovige uuesti.
+85	Allalaaditud tõmmis on rikutud
+86	Allalaaditud tõmmis ei läbinud kontrolli.
+87	Proovige uuesti.
+88	Kettaruumi pole piisavalt
+89	Kettaruumi pole piisavalt.
+90	Vabastage veidi ruumi ja proovige uuesti.
+91	Draivile ei õnnestunud kirjutada
+92	Draivile ei õnnestunud kirjutada.
+93	Ühendage see uuesti või valige mõni teine.
+94	Draiv ühendati lahti
+95	Draiv ühendati lahti.
+96	Ühendage see tagasi ja proovige uuesti.
+97	Faile ei õnnestunud kopeerida
+98	Faile ei õnnestunud kopeerida.
+99	Midagi läks valesti
+100	Midagi läks valesti.
+101	Kõik valmis
+102	Lõpetamiseks taaskäivitage arvuti.
+103	Draiv on valmis
+104	Shrimp ootab installimist.
+105	Teie failid on turvaliselt alles
+106	Koopia on salvestatud.
+107	Programmid ootavad
+108	Pärast installimist pakume vasteid.
+109	Salvestage avatud dokumendid enne taaskäivitamist.
+110	Hiljem
+111	Taaskäivita
+112	Draivilt käivitamist ei õnnestunud seadistada.
+113	Kas tühistada ettevalmistus?
+114	Ettevalmistus peatatakse. Kui draivile kirjutamine on juba alanud, tuleb draiv uuesti ette valmistada.
+115	Jätka
+116	Tühista ettevalmistus
+117	Allalaadimisserveriga ei saa ühendust.
+118	Allalaadimisserver vastas koodiga {code}.
+119	Manifest on liiga suur.
+120	Manifesti allkiri on kehtetu.
+121	Ajutisele kaustale puudub juurdepääs.
+122	Allalaaditavat faili ei saa salvestada.
+123	Allalaaditud tõmmist ei saa draivile kirjutada.
+124	Draivil sai ruum otsa.
+125	Koopia kirjeldust ei õnnestunud salvestada.
+126	Ettevalmistus juba käib.
+127	Allalaadimist ei õnnestunud alustada.
+128	Taaskäivitamine ebaõnnestus. Tehke seda menüüst Start.
+129	See arvuti ei käivitu UEFI režiimis. Käivitage see draivilt käsitsi, käivitusmenüüst (tavaliselt klahviga F12, F8 või Esc).
+130	Käivitusseadete muutmiseks puudub luba.
+131	Draivi ei leitud. Ühendage see uuesti.
+132	Püsivara ei võtnud käivituskirjet vastu. Käivitage arvuti draivilt käsitsi, käivitusmenüüst.
+133	Püsivara ei võtnud järgmise käivituse seadet vastu. Käivitage arvuti draivilt käsitsi, käivitusmenüüst.
+134	Shrimp Install vajab Microsoft Edge WebView2 komponenti, kuid seda ei õnnestunud käivitada.\n\nUuenda Windowsi või paigalda Microsofti lehelt WebView2 Runtime ja proovi uuesti.
+135	Shrimp Installi akent (WebView2) ei õnnestunud avada.
+136	WebView2 komponenti ei õnnestunud käivitada.
+137	Käivituskirje jaoks pole vaba kohta.
+138	Programmi liides puudub.

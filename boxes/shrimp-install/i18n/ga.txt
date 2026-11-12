@@ -1,0 +1,138 @@
+1	Íoslaghdaigh
+2	Dún
+3	Suiteáil Shrimp
+4	Córas ciúin néata a oibríonn ón gcéad tosú.
+5	Íoslódáil uathoibríoch
+6	Íoslódálann an suiteálaí gach a bhfuil de dhíth air.
+7	Tá do chuid comhad slán
+8	Coinneofar do chuid comhad.
+9	Cláir aithnidiúla
+10	Molfaimid cláir choibhéiseacha do na cláir a úsáideann tú.
+11	Tá tiomántán Windows criptithe le BitLocker. Ní féidir Shrimp a shuiteáil taobh le Windows ach amháin tar éis an criptiú a mhúchadh.
+12	Cuirimis tús leis
+13	Céim {n} de {total}
+14	Roghnaigh tiomántán
+15	Roghnaigh cá ullmhóimid suiteálaí Shrimp. Tá {size} ar a laghad de dhíth.
+16	Tiomántán
+17	Maidir leis an tiomántán
+18	Is féidir leat bata USB, cárta SD nó tiomántán seachtrach a roghnú. Scriosfar gach rud atá ar an tiomántán faoi láthair.
+19	Siar
+20	Ar aghaidh
+21	Roghnaigh tiomántán
+22	Tá an tiomántán seo róbheag. Tá {size} ar a laghad de dhíth.
+23	Níor aimsíodh aon tiomántán
+24	Ceangail tiomántán agus beidh sé le feiceáil anseo.
+25	Róbheag
+26	Tiomántáin atá ar fáil
+27	Bata USB
+28	Cárta SD
+29	Tiomántán seachtrach
+30	Cad ba cheart a choinneáil?
+31	Sula suiteálfar, déanfaimid cóip de na rudaí a roghnaíonn tú.
+32	Conas comhaid a roghnú
+33	Mo fhillteáin
+34	(Molta)
+35	Doiciméid, grianghraif agus rudaí pearsanta eile.
+36	Roghnóidh mé féin
+37	Roghnaigh do chuid fillteán agus comhad féin.
+38	Fillteáin le coinneáil
+39	Doiciméid
+40	Pictiúir
+41	Deasc
+42	Ceol
+43	Físeáin
+44	Íoslódálacha
+45	Cuir fillteán leis…
+46	Cuir comhad leis…
+47	Spás ar an tiomántán
+48	Maidir le comhaid a chóipeáil
+49	Ní athrófar do chuid comhad i Windows.
+50	Ullmhaigh an tiomántán
+51	Ag ríomh…
+52	Níl spás ann
+53	Coinnigh: {name}
+54	Bain
+55	Bain: {name}
+56	Níl aon rud roghnaithe fós.
+57	{size} gann
+58	{free} saor as {total}
+59	Shrimp á ullmhú
+60	{time} fágtha.
+61	Tá an t-ullmhú ar sos.
+62	Críochnaíodh an t-ullmhú
+63	Tá gach rud réidh.
+64	Shrimp á íoslódáil
+65	Ag scríobh chuig an tiomántán
+66	Comhaid á gcóipeáil
+67	Ná bain an tiomántán go dtí go mbeidh sé críochnaithe.
+68	Cealaigh
+69	Bain triail eile as
+70	{size} íoslódáilte
+71	Ag nascadh…
+72	{done} de {total} · {speed} · {left} fágtha
+73	Scríofa
+74	Tógfaidh sé {time}
+75	{pct} · {speed} · {left} fágtha
+76	Níor roghnaíodh aon chomhad
+77	Níl aon rud le cóipeáil
+78	{size} cóipeáilte
+79	{size} · tógfaidh sé {time}
+80	thart ar {time}
+81	níos lú ná nóiméad
+82	Níl aon nasc idirlín ann
+83	Níorbh fhéidir Shrimp a íoslódáil.
+84	Seiceáil do nasc idirlín agus bain triail eile as.
+85	Tá an íomhá íoslódáilte truaillithe
+86	Theip ar an íomhá íoslódáilte an fíorú.
+87	Bain triail eile as.
+88	Níl go leor spáis diosca ann
+89	Níl go leor spáis diosca ann.
+90	Saor roinnt spáis agus bain triail eile as.
+91	Níorbh fhéidir scríobh chuig an tiomántán
+92	Níorbh fhéidir scríobh chuig an tiomántán.
+93	Ceangail arís é nó roghnaigh ceann eile.
+94	Dínascadh an tiomántán
+95	Dínascadh an tiomántán.
+96	Ceangail arís é agus bain triail eile as.
+97	Níorbh fhéidir na comhaid a chóipeáil
+98	Níorbh fhéidir na comhaid a chóipeáil.
+99	Chuaigh rud éigin amú
+100	Chuaigh rud éigin amú.
+101	Gach rud réidh
+102	Atosaigh an ríomhaire chun é a chríochnú.
+103	Tá an tiomántán réidh
+104	Tá Shrimp ag fanacht le suiteáil.
+105	Tá do chuid comhad slán
+106	Sábháladh an chóip.
+107	Tá cláir ag fanacht
+108	Tar éis na suiteála, molfaimid cláir choibhéiseacha.
+109	Sábháil do dhoiciméid oscailte sula n-atosóidh tú.
+110	Níos déanaí
+111	Atosaigh
+112	Níorbh fhéidir tosú ón tiomántán a shocrú.
+113	An gcealófar an t-ullmhú?
+114	Stopfar an t-ullmhú. Má tá tús curtha leis an scríobh chuig an tiomántán cheana, beidh ort é a ullmhú arís.
+115	Lean ar aghaidh
+116	Cealaigh an t-ullmhú
+117	Ní féidir ceangal leis an bhfreastalaí íoslódála.
+118	D'fhreagair an freastalaí íoslódála leis an gcód {code}.
+119	Tá an mhainfeist rómhór.
+120	Tá síniú na mainfeiste neamhbhailí.
+121	Níl rochtain ar an bhfillteán sealadach.
+122	Ní féidir an comhad atá á íoslódáil a shábháil.
+123	Ní féidir an íomhá íoslódáilte a scríobh chuig an tiomántán.
+124	Tá an spás ar an tiomántán ídithe.
+125	Níorbh fhéidir cur síos na cóipe a shábháil.
+126	Tá an t-ullmhú ar siúl cheana.
+127	Níorbh fhéidir an íoslódáil a thosú.
+128	Níorbh fhéidir atosú. Déan é ón roghchlár Start.
+129	Ní thosaíonn an ríomhaire seo i mód UEFI. Tosaigh de láimh é ón tiomántán, ón roghchlár tosaithe (de ghnáth an eochair F12, F8 nó Esc).
+130	Níl cead agat na socruithe tosaithe a athrú.
+131	Níor aimsíodh an tiomántán. Ceangail arís é.
+132	Níor ghlac an dochtearraí leis an iontráil tosaithe. Tosaigh an ríomhaire de láimh ón tiomántán, ón roghchlár tosaithe.
+133	Níor ghlac an dochtearraí leis an socrú don chéad tosú eile. Tosaigh an ríomhaire de láimh ón tiomántán, ón roghchlár tosaithe.
+134	Teastaíonn an chomhpháirt Microsoft Edge WebView2 ó Shrimp Install, ach níorbh fhéidir í a thosú.\n\nNuashonraigh Windows nó suiteáil WebView2 Runtime ó Microsoft agus bain triail eile as.
+135	Níorbh fhéidir fuinneog Shrimp Install (WebView2) a oscailt.
+136	Níorbh fhéidir an chomhpháirt WebView2 a thosú.
+137	Níl aon spás saor don iontráil tosaithe.
+138	Tá comhéadan an ríomhchláir in easnamh.

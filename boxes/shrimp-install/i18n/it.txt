@@ -1,0 +1,138 @@
+1	Riduci a icona
+2	Chiudi
+3	Installa Shrimp
+4	Un sistema tranquillo e ordinato che funziona fin dal primo avvio.
+5	Download automatico
+6	Il programma di installazione scarica tutto ciò che serve.
+7	I tuoi file restano al sicuro
+8	I tuoi file verranno conservati.
+9	Programmi familiari
+10	Ti suggeriremo equivalenti dei programmi che usi.
+11	L’unità di Windows è crittografata con BitLocker. Potrai installare Shrimp accanto a Windows solo dopo aver disattivato la crittografia.
+12	Iniziamo
+13	Passaggio {n} di {total}
+14	Scegli un’unità
+15	Scegli dove preparare il programma di installazione di Shrimp. Servono almeno {size}.
+16	Unità
+17	Informazioni sull’unità
+18	Puoi scegliere una chiavetta USB, una scheda SD o un’unità esterna. Tutto ciò che contiene ora verrà cancellato.
+19	Indietro
+20	Avanti
+21	Scegli un’unità
+22	Questa unità è troppo piccola. Servono almeno {size}.
+23	Nessuna unità trovata
+24	Collega un’unità e comparirà qui.
+25	Troppo piccola
+26	Unità disponibili
+27	Chiavetta USB
+28	Scheda SD
+29	Unità esterna
+30	Cosa vuoi mettere al sicuro?
+31	Prima di installare, faremo una copia di ciò che scegli.
+32	Come scegliere i file
+33	Le mie cartelle
+34	(Consigliato)
+35	Documenti, foto e altre cose personali.
+36	Scelgo io
+37	Scegli le tue cartelle e i tuoi file.
+38	Cartelle da conservare
+39	Documenti
+40	Immagini
+41	Desktop
+42	Musica
+43	Video
+44	Download
+45	Aggiungi cartella…
+46	Aggiungi file…
+47	Spazio sull’unità
+48	Informazioni sulla copia dei file
+49	I tuoi file in Windows restano invariati.
+50	Prepara l’unità
+51	Calcolo in corso…
+52	Spazio esaurito
+53	Conserva: {name}
+54	Rimuovi
+55	Rimuovi: {name}
+56	Non hai ancora scelto nulla.
+57	Mancano {size}
+58	{free} liberi su {total}
+59	Preparazione di Shrimp
+60	Ci vorranno ancora {time}.
+61	La preparazione è in pausa.
+62	Preparazione completata
+63	Tutto è pronto.
+64	Download di Shrimp
+65	Scrittura sull’unità
+66	Copia dei file
+67	Non scollegare l’unità finché non termina.
+68	Annulla
+69	Riprova
+70	{size} scaricati
+71	Connessione in corso…
+72	{done} di {total} · {speed} · mancano {left}
+73	Scritto
+74	Ci vorranno {time}
+75	{pct} · {speed} · mancano {left}
+76	Nessun file scelto
+77	Niente da copiare
+78	{size} copiati
+79	{size} · ci vorranno {time}
+80	circa {time}
+81	meno di un minuto
+82	Nessuna connessione a Internet
+83	Impossibile scaricare Shrimp.
+84	Controlla la connessione a Internet e riprova.
+85	L’immagine scaricata è danneggiata
+86	L’immagine scaricata non ha superato la verifica.
+87	Riprova.
+88	Spazio su disco insufficiente
+89	Spazio su disco insufficiente.
+90	Libera dello spazio e riprova.
+91	Impossibile scrivere sull’unità
+92	Impossibile scrivere sull’unità.
+93	Ricollegala o scegline un’altra.
+94	L’unità è stata scollegata
+95	L’unità è stata scollegata.
+96	Ricollegala e riprova.
+97	Impossibile copiare i file
+98	Impossibile copiare i file.
+99	Qualcosa è andato storto
+100	Qualcosa è andato storto.
+101	Tutto fatto
+102	Riavvia il computer per terminare.
+103	L’unità è pronta
+104	Shrimp è in attesa di essere installato.
+105	I tuoi file sono al sicuro
+106	La copia è stata salvata.
+107	Programmi in attesa
+108	Dopo l’installazione ti suggeriremo equivalenti.
+109	Salva i documenti aperti prima di riavviare.
+110	Più tardi
+111	Riavvia
+112	Impossibile configurare l’avvio dall’unità.
+113	Annullare la preparazione?
+114	La preparazione verrà interrotta. Se la scrittura sull’unità è già iniziata, dovrai prepararla di nuovo.
+115	Continua
+116	Annulla la preparazione
+117	Impossibile connettersi al server di download.
+118	Il server di download ha risposto con il codice {code}.
+119	Il manifesto è troppo grande.
+120	La firma del manifesto non è valida.
+121	Nessun accesso alla cartella temporanea.
+122	Impossibile salvare il file in fase di download.
+123	L’immagine scaricata non può essere scritta sull’unità.
+124	L’unità non ha più spazio.
+125	Impossibile salvare la descrizione della copia.
+126	La preparazione è già in corso.
+127	Impossibile avviare il download.
+128	Impossibile riavviare. Fallo dal menu Start.
+129	Questo computer non si avvia in modalità UEFI. Avvialo manualmente dall’unità, dal menu di avvio (di solito il tasto F12, F8 o Esc).
+130	Nessuna autorizzazione per modificare le impostazioni di avvio.
+131	Unità non trovata. Ricollegala.
+132	Il firmware non ha accettato la voce di avvio. Avvia il computer manualmente dall’unità, dal menu di avvio.
+133	Il firmware non ha accettato l’impostazione per il prossimo avvio. Avvia il computer manualmente dall’unità, dal menu di avvio.
+134	Shrimp Install richiede il componente Microsoft Edge WebView2, ma non è stato possibile avviarlo.\n\nAggiorna Windows o installa WebView2 Runtime dal sito Microsoft e riprova.
+135	Impossibile aprire la finestra di Shrimp Install (WebView2).
+136	Impossibile avviare il componente WebView2.
+137	Nessuno slot libero per la voce di avvio.
+138	L’interfaccia del programma è assente.

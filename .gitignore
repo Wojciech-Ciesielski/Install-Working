@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+boxes/shrimp-install/rufus/src/shrimp/shrimp_config.h
+test-results/
+out/

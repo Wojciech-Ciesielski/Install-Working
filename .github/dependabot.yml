@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /boxes/shrimp-install/ui
+    schedule: { interval: weekly }
+    open-pull-requests-limit: 5
+    groups:
+      toolchain:
+        patterns: ["typescript", "vite", "vitest"]
+  - package-ecosystem: github-actions
+    directory: /
+    schedule: { interval: monthly }

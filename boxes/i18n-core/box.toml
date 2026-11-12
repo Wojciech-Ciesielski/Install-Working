@@ -1,0 +1,5 @@
+[box]
+id = "i18n-core"
+version = "0.1.0"
+kind = "data"
+summary = "Wspólny format tłumaczeń: lista języków (langs.ts), parser i sprawdzanie plików"

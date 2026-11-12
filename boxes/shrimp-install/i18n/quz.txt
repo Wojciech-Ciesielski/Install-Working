@@ -1,0 +1,138 @@
+1	Huch’uyachiy
+2	Wisq’ay
+3	Shrimpta churay
+4	Thak, allin sistema, qallariymanta llamk’aq.
+5	Kikinmanta uraykachiy
+6	Churaqqa tukuy necesitasqanta uraykachin.
+7	Archivoykikunaqa allinpi kanqa
+8	Archivoykikunaqa waqaychasqa kanqa.
+9	Riqsisqa programakuna
+10	Llamk’achisqayki programakunaman rikch’akuqkunata willasqayku.
+11	Windowspa discon BitLockerwan pakasqa. Pakayta wañuchispallam Shrimpta Windows waqtapi churayta atinki.
+12	Qallarisun
+13	{total} manta {n} kaq puriy
+14	Huk discota akllay
+15	Maypi Shrimp churaqta wakichinaykuta akllay. Pisimantaqa {size} necesitakun.
+16	Disco
+17	Discomanta
+18	USB, SD tarjeta otaq hawa discota akllayta atinki. Discopi kaq tukuy imapas pichasqa kanqa.
+19	Kutiy
+20	Qatiq
+21	Huk discota akllay
+22	Kay discoqa nishu huch’uy. Pisimantaqa {size} necesitakun.
+23	Manam disco tarikunchu
+24	Huk discota t’inkiy, kaypi rikhurinqa.
+25	Nishu huch’uy
+26	Kaq discokuna
+27	USB
+28	SD tarjeta
+29	Hawa disco
+30	¿Imataq waqaychasqa kanan?
+31	Manaraq churashaspa, akllasqaykikunamanta copiata ruwasqayku.
+32	Imaynatam archivokunata akllanki
+33	Carpetaykuna
+34	(Munasqa)
+35	Qillqakuna, fotokuna, huk sapan imakunapas.
+36	Ñuqa akllasaq
+37	Kikiykiq carpetaykita archivoykitapas akllay.
+38	Waqaychanapaq carpetakuna
+39	Qillqakuna
+40	Siq’ikuna
+41	Escritorio
+42	Taki
+43	Videokuna
+44	Uraykachisqakuna
+45	Carpetata yapay…
+46	Archivota yapay…
+47	Discopi kiti
+48	Archivokuna copiaymanta
+49	Windowspi archivoykikunaqa mana tikrakunqachu.
+50	Discota wakichiy
+51	Yupashan…
+52	Mana kitiyuq
+53	Waqaychay: {name}
+54	Qichuy
+55	Qichuy: {name}
+56	Manaraq imapas akllasqachu.
+57	{size} pisin
+58	{total} manta {free} ch’usaq
+59	Shrimpta wakichishan
+60	Aswan {time} unanqa.
+61	Wakichiyqa sayachisqa.
+62	Wakichiy tukusqa
+63	Tukuy imapas listo.
+64	Shrimpta uraykachishan
+65	Discoman qillqashan
+66	Archivokunata copiashan
+67	Ama discota hurqunkichu tukunankama.
+68	Chinkachiy
+69	Wakmanta ruway
+70	{size} uraykachisqa
+71	T’inkishan…
+72	{total} manta {done} · {speed} · {left} puchun
+73	Qillqasqa
+74	{time} unanqa
+75	{pct} · {speed} · {left} puchun
+76	Mana archivo akllasqachu
+77	Mana imapas copianapaqchu
+78	{size} copiasqa
+79	{size} · {time} unanqa
+80	yaqa {time}
+81	huk minutomanta pisi
+82	Mana internetwan t’inkisqachu
+83	Manam Shrimpta uraykachiyta atikunchu.
+84	Internetwan t’inkiyniykita qhaway, wakmanta ruway.
+85	Uraykachisqa imagenqa waqllisqa
+86	Uraykachisqa imagenqa mana chiqaqchasqachu.
+87	Wakmanta ruway.
+88	Discopi mana aypanchu kitiqa
+89	Discopi mana aypanchu kitiqa.
+90	Kitita ch’usaqyachiy, wakmanta ruway.
+91	Manam discoman qillqayta atikunchu
+92	Manam discoman qillqayta atikunchu.
+93	Wakmanta t’inkiy otaq hukta akllay.
+94	Discoqa t’aqakurqan
+95	Discoqa t’aqakurqan.
+96	Wakmanta t’inkiy, wakmanta ruway.
+97	Manam archivokunata copiayta atikunchu
+98	Manam archivokunata copiayta atikunchu.
+99	Imapas mana allinchu karqan
+100	Imapas mana allinchu karqan.
+101	Tukuy listo
+102	Computadorata wakmanta qallarichiy tukunapaq.
+103	Discoqa listo
+104	Shrimpqa churasqa kananta suyashan.
+105	Archivoykikunaqa allinpi kashan
+106	Copiaqa waqaychasqa.
+107	Programakuna suyashanku
+108	Churasqa kaptin rikch’akuqkunata willasqayku.
+109	Manaraq wakmanta qallarichishaspa kichasqa qillqakunata waqaychay.
+110	Qhipaman
+111	Wakmanta qallarichiy
+112	Manam discomanta qallariyta allichayta atikunchu.
+113	¿Wakichiyta chinkachinkichu?
+114	Wakichiyqa sayachisqa kanqa. Discoman qillqay qallarirqanña chayqa, wakmanta wakichinayki kanqa.
+115	Qatiy
+116	Wakichiyta chinkachiy
+117	Manam uraykachina servidorwan t’inkiyta atikunchu.
+118	Uraykachina servidorqa {code} codigowan kutichirqan.
+119	Manifestqa nishu hatun.
+120	Manifestpa firmanqa mana allinchu.
+121	Manam pachan carpetaman yaykuyta atikunchu.
+122	Manam uraykachishaq archivota waqaychayta atikunchu.
+123	Uraykachisqa imagentaqa manam discoman qillqayta atikunchu.
+124	Discopi kitiqa tukukurqan.
+125	Manam copiaq willakuyninta waqaychayta atikunchu.
+126	Wakichiyqa ñam purishan.
+127	Manam uraykachiyta qallariyta atikunchu.
+128	Manam wakmanta qallarichiyta atikunchu. Start menumanta ruway.
+129	Kay computadoraqa manam UEFIpi qallarinchu. Boot menumanta (sapa kuti F12, F8 otaq Esc llaveta) discomanta makiykiwan qallarichiy.
+130	Manam qallariy churasqakunata tikranapaq permisoyuqchu.
+131	Manam disco tarikunchu. Wakmanta t’inkiy.
+132	Firmwareqa manam boot qillqasqata chaskirqanchu. Boot menumanta discomanta computadorata makiykiwan qallarichiy.
+133	Firmwareqa manam hamuq boot churasqata chaskirqanchu. Boot menumanta discomanta computadorata makiykiwan qallarichiy.
+134	Shrimp Install nisqaqa Microsoft Edge WebView2 nisqa t’aqatam necesitan, ichaqa manam qallarichiyta atikunchu.\n\nWindowsta musuqyachiy otaq Microsoftmanta WebView2 Runtimeta churay, hinaspa wakmanta kallpachakuy.
+135	Manam Shrimp Install (WebView2) ventanata kichayta atikunchu.
+136	Manam WebView2 t’aqata qallarichiyta atikunchu.
+137	Manam boot qillqasqapaq ch’usaq kiti kanchu.
+138	Programapa interfaz nisqan manam kanchu.

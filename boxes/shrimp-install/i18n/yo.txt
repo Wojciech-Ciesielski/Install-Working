@@ -1,0 +1,138 @@
+1	Dín kù
+2	Ti
+3	Fi Shrimp sórí ẹ̀rọ
+4	Ètò ìdákẹ́jẹ́ẹ́ tó ṣètò dáadáa tó ń ṣiṣẹ́ láti ìbẹ̀rẹ̀ àkọ́kọ́.
+5	Ìgbàsílẹ̀ aládàáṣe
+6	Olùfisórí ń gba gbogbo ohun tó nílò sílẹ̀.
+7	Àwọn fáìlì rẹ wà ní ààbò
+8	A ó pa àwọn fáìlì rẹ mọ́.
+9	Àwọn ètò tí o mọ̀
+10	A ó dábàá àwọn ètò tó jọ èyí tí o ń lò.
+11	A ti fi BitLocker ṣe ìpamọ́ díìsìkì Windows. O lè fi Shrimp sí ẹ̀gbẹ́ Windows lẹ́yìn tí o bá pa ìpamọ́ náà nìkan.
+12	Ẹ jẹ́ ká bẹ̀rẹ̀
+13	Ìgbésẹ̀ {n} nínú {total}
+14	Yan díìsìkì
+15	Yan ibi tí a ó ti pèsè olùfisórí Shrimp. A nílò ó kéré tán {size}.
+16	Díìsìkì
+17	Nípa díìsìkì náà
+18	O lè yan USB, káàdì SD tàbí díìsìkì òde. Gbogbo ohun tó wà lórí díìsìkì náà ni a ó pa rẹ́.
+19	Padà
+20	Tókàn
+21	Yan díìsìkì
+22	Díìsìkì yìí kéré jù. A nílò ó kéré tán {size}.
+23	A kò rí díìsìkì
+24	Fi díìsìkì sí i, yóò hàn níbí.
+25	Kéré jù
+26	Àwọn díìsìkì tó wà
+27	USB
+28	Káàdì SD
+29	Díìsìkì ìta
+30	Kí ni ó yẹ kí a dáàbò bò?
+31	Kí a tó fi sórí ẹ̀rọ, a ó ṣe ẹ̀dà àwọn ohun tí o yàn.
+32	Bí o ṣe lè yan fáìlì
+33	Àwọn fódà mi
+34	(A ṣe ìmọ̀ràn)
+35	Àwọn ìwé, fọ́tò àti àwọn ohun ti ara ẹni mìíràn.
+36	Èmi yóò yàn fúnra mi
+37	Yan àwọn fódà àti fáìlì tìrẹ.
+38	Àwọn fódà tí a ó pa mọ́
+39	Àwọn ìwé
+40	Àwọn àwòrán
+41	Tábìlì iṣẹ́
+42	Orin
+43	Àwọn fídíò
+44	Àwọn ìgbàsílẹ̀
+45	Fi fódà kún…
+46	Fi fáìlì kún…
+47	Àyè lórí díìsìkì
+48	Nípa dídà fáìlì
+49	Àwọn fáìlì rẹ nínú Windows kò ní yí padà.
+50	Pèsè díìsìkì náà
+51	Ń kà á…
+52	Kò sí àyè
+53	Pa mọ́: {name}
+54	Yọ kúrò
+55	Yọ kúrò: {name}
+56	A kò tíì yan nǹkan kan.
+57	Ó kù {size}
+58	{free} ṣófo nínú {total}
+59	Ń múra Shrimp sílẹ̀
+60	Yóò gba {time} sí i.
+61	A ti dá ìmúrasílẹ̀ dúró fún ìgbà díẹ̀.
+62	Ìmúrasílẹ̀ parí
+63	Gbogbo nǹkan ti ṣetán.
+64	Ń gba Shrimp sílẹ̀
+65	Ń kọ sórí díìsìkì
+66	Ń dà àwọn fáìlì kọ
+67	Má yọ díìsìkì kúrò títí yóò fi parí.
+68	Fagilé
+69	Gbìyànjú lẹ́ẹ̀kan sí i
+70	A ti gbà {size} wálẹ̀
+71	Ń sopọ̀…
+72	{done} nínú {total} · {speed} · ó kù {left}
+73	A ti kọ ọ́
+74	Yóò gba {time}
+75	{pct} · {speed} · ó kù {left}
+76	A kò yan fáìlì kankan
+77	Kò sí ohun tí a ó dà
+78	A ti da {size}
+79	{size} · yóò gba {time}
+80	ní nǹkan bí {time}
+81	kò tó ìṣẹ́jú kan
+82	Kò sí ìsopọ̀ íńtánẹ́ẹ̀tì
+83	Kò ṣeé ṣe láti gba Shrimp wálẹ̀.
+84	Ṣàyẹ̀wò ìsopọ̀ íntánẹ́ẹ̀tì rẹ kí o sì gbìyànjú lẹ́ẹ̀kan sí i.
+85	Àwòrán tí a gbà wálẹ̀ ti bàjẹ́
+86	Àwòrán tí a gbà wálẹ̀ kò yege ìjẹ́rìísí.
+87	Gbìyànjú lẹ́ẹ̀kan sí i.
+88	Kò sí àyè tó tó lórí díìsìkì
+89	Kò sí àyè tó tó lórí díìsìkì.
+90	Ṣe àyè díẹ̀ kí o sì gbìyànjú lẹ́ẹ̀kan sí i.
+91	Kò ṣeé ṣe láti kọ sí díìsìkì náà
+92	Kò ṣeé ṣe láti kọ sí díìsìkì náà.
+93	Tún so ó pọ̀ tàbí yan òmíràn.
+94	Díìsìkì náà ti já
+95	Díìsìkì náà ti já.
+96	Tún so ó pọ̀ kí o sì gbìyànjú lẹ́ẹ̀kan sí i.
+97	Kò ṣeé ṣe láti da àwọn fáìlì
+98	Kò ṣeé ṣe láti da àwọn fáìlì.
+99	Nǹkan kan ṣẹlẹ̀ tí kò tọ́
+100	Nǹkan kan ṣẹlẹ̀ tí kò tọ́.
+101	Gbogbo nǹkan ti ṣetán
+102	Tún kọ̀ǹpútà bẹ̀rẹ̀ láti parí.
+103	Díìsìkì náà ti ṣetán
+104	Shrimp ń dúró láti fi sórí ẹ̀rọ.
+105	Àwọn fáìlì rẹ wà láìléwu
+106	A ti fi ẹ̀dà náà pamọ́.
+107	Àwọn ètò ń dúró
+108	A ó dábàá àwọn tó jọ wọ́n lẹ́yìn ìfisórí.
+109	Fi àwọn ìwé tó ṣí pamọ́ kí o tó tún bẹ̀rẹ̀.
+110	Lẹ́yìn náà
+111	Tún bẹ̀rẹ̀
+112	Kò ṣeé ṣe láti ṣètò ìbẹ̀rẹ̀ láti díìsìkì náà.
+113	Fagilé ìmúrasílẹ̀?
+114	A ó dá ìmúrasílẹ̀ dúró. Bí kíkọ sí díìsìkì náà bá ti bẹ̀rẹ̀, o ní láti tún pèsè rẹ̀.
+115	Tẹ̀síwájú
+116	Fagilé ìmúrasílẹ̀
+117	Kò lè sopọ̀ mọ́ sáfà ìgbàwálẹ̀.
+118	Sáfà ìgbàwálẹ̀ dáhùn pẹ̀lú kóòdù {code}.
+119	Manifest náà tóbi jù.
+120	Ìbuwọ́lù manifest náà kò fẹsẹ̀ múlẹ̀.
+121	Kò sí àyè sí fódà onígbà díẹ̀.
+122	Kò lè fi fáìlì tí à ń gbà wálẹ̀ pamọ́.
+123	A kò lè kọ àwòrán tí a gbà wálẹ̀ sí díìsìkì náà.
+124	Àyè ti tán lórí díìsìkì náà.
+125	Kò ṣeé ṣe láti fi àpèjúwe ẹ̀dà náà pamọ́.
+126	Ìmúrasílẹ̀ ti ń lọ lọ́wọ́.
+127	Kò ṣeé ṣe láti bẹ̀rẹ̀ ìgbàwálẹ̀.
+128	Kò ṣeé ṣe láti tún bẹ̀rẹ̀. Ṣe é láti inú àkójọ Start.
+129	Kọ̀ǹpútà yìí kò bẹ̀rẹ̀ ní ipò UEFI. Bẹ̀rẹ̀ rẹ̀ láti díìsìkì náà fúnra rẹ, láti inú àkójọ ìbẹ̀rẹ̀ (nígbà púpọ̀ bọ́tìnnì F12, F8 tàbí Esc).
+130	Kò sí àṣẹ láti yí ètò ìbẹ̀rẹ̀ padà.
+131	A kò rí díìsìkì náà. Tún so ó pọ̀.
+132	Firmware kò gba àkọsílẹ̀ ìbẹ̀rẹ̀. Bẹ̀rẹ̀ kọ̀ǹpútà láti díìsìkì náà fúnra rẹ, láti inú àkójọ ìbẹ̀rẹ̀.
+133	Firmware kò gba ètò ìbẹ̀rẹ̀ tó kàn. Bẹ̀rẹ̀ kọ̀ǹpútà láti díìsìkì náà fúnra rẹ, láti inú àkójọ ìbẹ̀rẹ̀.
+134	Shrimp Install nílò ẹ̀yà Microsoft Edge WebView2, ṣùgbọ́n kò ṣeé ṣe láti bẹ̀rẹ̀ rẹ̀.\n\nṢe ìmúdójúìwọ̀n Windows tàbí fi WebView2 Runtime sórí ẹ̀rọ láti ọ̀dọ̀ Microsoft kí o sì gbìyànjú lẹ́ẹ̀kan sí i.
+135	Kò ṣeé ṣe láti ṣí fèrèsé Shrimp Install (WebView2).
+136	Kò ṣeé ṣe láti bẹ̀rẹ̀ ẹ̀yà WebView2.
+137	Kò sí àyè ṣófo fún àkọsílẹ̀ ìbẹ̀rẹ̀.
+138	Ojú ètò náà kò sí.

@@ -1,0 +1,138 @@
+1	Maak klein
+2	Maak toe
+3	Installeer Shrimp
+4	'n Rustige, netjiese stelsel wat van die eerste aanskakeling af werk.
+5	Outomatiese aflaai
+6	Die installeerder laai alles af wat dit nodig het.
+7	Jou lêers is veilig
+8	Jou lêers sal behoue bly.
+9	Bekende programme
+10	Ons stel ekwivalente voor vir die programme wat jy gebruik.
+11	Die Windows-aandrywing is met BitLocker geënkripteer. Jy kan Shrimp eers langs Windows installeer nadat enkripsie afgeskakel is.
+12	Kom ons begin
+13	Stap {n} van {total}
+14	Kies 'n aandrywing
+15	Kies waar ons die Shrimp-installeerder sal voorberei. Ten minste {size} is nodig.
+16	Aandrywing
+17	Oor die aandrywing
+18	Jy kan 'n USB-stokkie, SD-kaart of eksterne aandrywing kies. Alles wat nou op die aandrywing is, sal uitgevee word.
+19	Terug
+20	Volgende
+21	Kies 'n aandrywing
+22	Hierdie aandrywing is te klein. Ten minste {size} is nodig.
+23	Geen aandrywing gevind nie
+24	Koppel 'n aandrywing en dit sal hier verskyn.
+25	Te klein
+26	Beskikbare aandrywings
+27	USB-stokkie
+28	SD-kaart
+29	Eksterne aandrywing
+30	Wat moet veilig gehou word?
+31	Voor installasie maak ons 'n kopie van wat jy kies.
+32	Hoe om lêers te kies
+33	My vouers
+34	(Aanbeveel)
+35	Dokumente, foto's en ander persoonlike goed.
+36	Ek sal self kies
+37	Kies jou eie vouers en lêers.
+38	Vouers om te behou
+39	Dokumente
+40	Prente
+41	Werkskerm
+42	Musiek
+43	Video's
+44	Aflaaie
+45	Voeg vouer by…
+46	Voeg lêer by…
+47	Spasie op die aandrywing
+48	Oor die kopieer van lêers
+49	Jou lêers in Windows bly onveranderd.
+50	Berei die aandrywing voor
+51	Bereken…
+52	Geen spasie
+53	Behou: {name}
+54	Verwyder
+55	Verwyder: {name}
+56	Nog niks gekies nie.
+57	{size} te min
+58	{free} vry van {total}
+59	Berei Shrimp voor
+60	Nog {time}.
+61	Voorbereiding is onderbreek.
+62	Voorbereiding voltooi
+63	Alles is gereed.
+64	Laai Shrimp af
+65	Skryf na die aandrywing
+66	Kopieer lêers
+67	Moenie die aandrywing ontkoppel voordat dit klaar is nie.
+68	Kanselleer
+69	Probeer weer
+70	{size} afgelaai
+71	Koppel tans…
+72	{done} van {total} · {speed} · {left} oor
+73	Geskryf
+74	Sal {time} neem
+75	{pct} · {speed} · {left} oor
+76	Geen lêers gekies nie
+77	Niks om te kopieer nie
+78	{size} gekopieer
+79	{size} · sal {time} neem
+80	ongeveer {time}
+81	minder as 'n minuut
+82	Geen internetverbinding nie
+83	Kon nie Shrimp aflaai nie.
+84	Kontroleer jou internetverbinding en probeer weer.
+85	Die afgelaaide beeld is beskadig
+86	Die afgelaaide beeld het nie die verifikasie geslaag nie.
+87	Probeer weer.
+88	Nie genoeg skyfspasie nie
+89	Nie genoeg skyfspasie nie.
+90	Maak 'n bietjie spasie vry en probeer weer.
+91	Kon nie na die aandrywing skryf nie
+92	Kon nie na die aandrywing skryf nie.
+93	Koppel dit weer of kies 'n ander een.
+94	Die aandrywing is ontkoppel
+95	Die aandrywing is ontkoppel.
+96	Koppel dit terug en probeer weer.
+97	Kon nie die lêers kopieer nie
+98	Kon nie die lêers kopieer nie.
+99	Iets het verkeerd gegaan
+100	Iets het verkeerd gegaan.
+101	Alles gereed
+102	Herbegin die rekenaar om klaar te maak.
+103	Die aandrywing is gereed
+104	Shrimp wag om geïnstalleer te word.
+105	Jou lêers is veilig
+106	Die kopie is gestoor.
+107	Programme wag
+108	Ná installasie stel ons ekwivalente voor.
+109	Stoor jou oop dokumente voor jy herbegin.
+110	Later
+111	Herbegin
+112	Kon nie opstart vanaf die aandrywing opstel nie.
+113	Kanselleer die voorbereiding?
+114	Die voorbereiding sal gestop word. As skryf na die aandrywing reeds begin het, sal jy dit weer moet voorberei.
+115	Gaan voort
+116	Kanselleer voorbereiding
+117	Kan nie met die aflaaibediener koppel nie.
+118	Die aflaaibediener het met kode {code} geantwoord.
+119	Die manifes is te groot.
+120	Die manifes se handtekening is ongeldig.
+121	Geen toegang tot die tydelike vouer nie.
+122	Kan nie die lêer wat afgelaai word, stoor nie.
+123	Die afgelaaide beeld kan nie na die aandrywing geskryf word nie.
+124	Die aandrywing se spasie het opgeraak.
+125	Kon nie die beskrywing van die kopie stoor nie.
+126	Voorbereiding loop reeds.
+127	Kon nie met aflaai begin nie.
+128	Kon nie herbegin nie. Doen dit vanaf die Start-kieslys.
+129	Hierdie rekenaar begin nie in UEFI-modus nie. Begin dit handmatig vanaf die aandrywing, vanaf die opstartkieslys (gewoonlik die F12-, F8- of Esc-sleutel).
+130	Geen toestemming om die opstartinstellings te verander nie.
+131	Aandrywing nie gevind nie. Koppel dit weer.
+132	Die firmware het nie die opstartinskrywing aanvaar nie. Begin die rekenaar handmatig vanaf die aandrywing, vanaf die opstartkieslys.
+133	Die firmware het nie die instelling vir die volgende opstart aanvaar nie. Begin die rekenaar handmatig vanaf die aandrywing, vanaf die opstartkieslys.
+134	Shrimp Install het die Microsoft Edge WebView2-komponent nodig, maar dit kon nie begin word nie.\n\nDateer Windows op of installeer WebView2 Runtime van Microsoft en probeer weer.
+135	Kon nie die Shrimp Install-venster (WebView2) oopmaak nie.
+136	Kon nie die WebView2-komponent begin nie.
+137	Geen vrye plek vir die opstartinskrywing nie.
+138	Die program se koppelvlak ontbreek.

@@ -1,0 +1,138 @@
+1	Lágmarka
+2	Loka
+3	Setja upp Shrimp
+4	Rólegt og snyrtilegt kerfi sem virkar frá fyrstu ræsingu.
+5	Sjálfvirk niðurhal
+6	Uppsetningarforritið sækir allt sem það þarf.
+7	Skrárnar þínar eru öruggar
+8	Skrárnar þínar verða varðveittar.
+9	Kunnugleg forrit
+10	Við stingum upp á samsvarandi forritum fyrir þau sem þú notar.
+11	Windows-drifið er dulritað með BitLocker. Þú getur aðeins sett Shrimp upp við hlið Windows eftir að slökkt hefur verið á dulrituninni.
+12	Byrjum
+13	Skref {n} af {total}
+14	Veldu drif
+15	Veldu hvar við undirbúum Shrimp-uppsetninguna. Það þarf að minnsta kosti {size}.
+16	Drif
+17	Um drifið
+18	Þú getur valið USB-lykil, SD-kort eða utanáliggjandi drif. Allt sem er á drifinu núna verður eytt.
+19	Til baka
+20	Næsta
+21	Veldu drif
+22	Þetta drif er of lítið. Það þarf að minnsta kosti {size}.
+23	Ekkert drif fannst
+24	Tengdu drif og það birtist hér.
+25	Of lítið
+26	Tiltæk drif
+27	USB-lykill
+28	SD-kort
+29	Utanáliggjandi drif
+30	Hvað á að varðveita?
+31	Áður en uppsetning hefst afritum við það sem þú velur.
+32	Hvernig skrár eru valdar
+33	Möppurnar mínar
+34	(Mælt með)
+35	Skjöl, myndir og annað persónulegt.
+36	Ég vel sjálf(ur)
+37	Veldu þínar eigin möppur og skrár.
+38	Möppur sem á að varðveita
+39	Skjöl
+40	Myndir
+41	Skjáborð
+42	Tónlist
+43	Myndbönd
+44	Niðurhal
+45	Bæta við möppu…
+46	Bæta við skrá…
+47	Pláss á drifinu
+48	Um afritun skráa
+49	Skrárnar þínar í Windows haldast óbreyttar.
+50	Undirbúa drifið
+51	Reikna…
+52	Ekkert pláss
+53	Halda: {name}
+54	Fjarlægja
+55	Fjarlægja: {name}
+56	Ekkert valið enn.
+57	Vantar {size}
+58	{free} laust af {total}
+59	Undirbý Shrimp
+60	Það tekur {time} í viðbót.
+61	Undirbúningur er í bið.
+62	Undirbúningi lokið
+63	Allt er tilbúið.
+64	Sæki Shrimp
+65	Skrifa á drifið
+66	Afrita skrár
+67	Ekki aftengja drifið fyrr en því er lokið.
+68	Hætta við
+69	Reyna aftur
+70	Sótt {size}
+71	Tengist…
+72	{done} af {total} · {speed} · {left} eftir
+73	Skrifað
+74	Tekur {time}
+75	{pct} · {speed} · {left} eftir
+76	Engar skrár valdar
+77	Ekkert til að afrita
+78	Afritað {size}
+79	{size} · tekur {time}
+80	um {time}
+81	innan við mínúta
+82	Engin nettenging
+83	Ekki tókst að sækja Shrimp.
+84	Athugaðu nettenginguna og reyndu aftur.
+85	Niðurhalaða diskmyndin er skemmd
+86	Niðurhalaða diskmyndin stóðst ekki sannprófun.
+87	Reyndu aftur.
+88	Ekki nóg diskpláss
+89	Ekki nóg diskpláss.
+90	Losaðu um pláss og reyndu aftur.
+91	Ekki tókst að skrifa á drifið
+92	Ekki tókst að skrifa á drifið.
+93	Tengdu það aftur eða veldu annað.
+94	Drifið var aftengt
+95	Drifið var aftengt.
+96	Tengdu það aftur og reyndu aftur.
+97	Ekki tókst að afrita skrárnar
+98	Ekki tókst að afrita skrárnar.
+99	Eitthvað fór úrskeiðis
+100	Eitthvað fór úrskeiðis.
+101	Allt klárt
+102	Endurræstu tölvuna til að ljúka.
+103	Drifið er tilbúið
+104	Shrimp bíður eftir uppsetningu.
+105	Skrárnar þínar eru öruggar
+106	Afritið var vistað.
+107	Forrit bíða
+108	Eftir uppsetningu stingum við upp á samsvarandi forritum.
+109	Vistaðu opin skjöl áður en þú endurræsir.
+110	Síðar
+111	Endurræsa
+112	Ekki tókst að stilla ræsingu af drifinu.
+113	Hætta við undirbúning?
+114	Undirbúningurinn verður stöðvaður. Ef skrift á drifið er þegar hafin þarftu að undirbúa það aftur.
+115	Halda áfram
+116	Hætta við undirbúning
+117	Ekki næst samband við niðurhalsþjóninn.
+118	Niðurhalsþjónninn svaraði með kóðanum {code}.
+119	Upplýsingaskráin er of stór.
+120	Undirskrift upplýsingaskrárinnar er ógild.
+121	Enginn aðgangur að tímabundnu möppunni.
+122	Ekki er hægt að vista skrána sem er í niðurhali.
+123	Ekki er hægt að skrifa niðurhölðu diskmyndina á drifið.
+124	Drifið varð uppiskroppa með pláss.
+125	Ekki tókst að vista lýsingu afritsins.
+126	Undirbúningur er þegar í gangi.
+127	Ekki tókst að hefja niðurhalið.
+128	Ekki tókst að endurræsa. Gerðu það úr Start-valmyndinni.
+129	Þessi tölva ræsir sig ekki í UEFI-ham. Ræstu hana handvirkt af drifinu úr ræsivalmyndinni (venjulega með F12, F8 eða Esc).
+130	Engin heimild til að breyta ræsistillingum.
+131	Drifið fannst ekki. Tengdu það aftur.
+132	Fastbúnaðurinn samþykkti ekki ræsifærsluna. Ræstu tölvuna handvirkt af drifinu úr ræsivalmyndinni.
+133	Fastbúnaðurinn samþykkti ekki stillinguna fyrir næstu ræsingu. Ræstu tölvuna handvirkt af drifinu úr ræsivalmyndinni.
+134	Shrimp Install þarf Microsoft Edge WebView2 íhlutinn, en ekki tókst að ræsa hann.\n\nUppfærðu Windows eða settu upp WebView2 Runtime frá Microsoft og reyndu aftur.
+135	Ekki tókst að opna glugga Shrimp Install (WebView2).
+136	Ekki tókst að ræsa WebView2 íhlutinn.
+137	Enginn laus staður fyrir ræsifærsluna.
+138	Viðmót forritsins vantar.

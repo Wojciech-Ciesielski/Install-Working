@@ -1,0 +1,138 @@
+1	Minimiziraj
+2	Zatvori
+3	Instaliraj Shrimp
+4	Miran i uredan sistem koji radi od prvog pokretanja.
+5	Automatsko preuzimanje
+6	Instalacijski program preuzima sve što mu treba.
+7	Vaše datoteke su na sigurnom
+8	Vaše datoteke će biti sačuvane.
+9	Poznati programi
+10	Predložit ćemo zamjene za programe koje koristite.
+11	Windows disk je šifriran BitLockerom. Shrimp možete instalirati uz Windows tek nakon isključivanja šifriranja.
+12	Počnimo
+13	Korak {n} od {total}
+14	Odaberite disk
+15	Odaberite gdje ćemo pripremiti Shrimp instalaciju. Potrebno je najmanje {size}.
+16	Disk
+17	O disku
+18	Možete odabrati USB stick, SD karticu ili vanjski disk. Sve što je trenutno na disku bit će izbrisano.
+19	Nazad
+20	Dalje
+21	Odaberite disk
+22	Ovaj disk je premalen. Potrebno je najmanje {size}.
+23	Disk nije pronađen
+24	Priključite disk i pojavit će se ovdje.
+25	Premalen
+26	Dostupni diskovi
+27	USB stick
+28	SD kartica
+29	Vanjski disk
+30	Šta treba sačuvati?
+31	Prije instalacije napravit ćemo kopiju onoga što odaberete.
+32	Kako odabrati datoteke
+33	Moji folderi
+34	(Preporučeno)
+35	Dokumenti, fotografije i druge lične stvari.
+36	Odabrat ću sam
+37	Odaberite vlastite foldere i datoteke.
+38	Folderi koje treba sačuvati
+39	Dokumenti
+40	Slike
+41	Radna površina
+42	Muzika
+43	Videozapisi
+44	Preuzimanja
+45	Dodaj folder…
+46	Dodaj datoteku…
+47	Prostor na disku
+48	O kopiranju datoteka
+49	Vaše datoteke u sistemu Windows ostaju nepromijenjene.
+50	Pripremi disk
+51	Izračunavanje…
+52	Nema prostora
+53	Sačuvaj: {name}
+54	Ukloni
+55	Ukloni: {name}
+56	Još ništa nije odabrano.
+57	Nedostaje {size}
+58	{free} slobodno od {total}
+59	Priprema Shrimpa
+60	Preostalo još {time}.
+61	Priprema je pauzirana.
+62	Priprema je završena
+63	Sve je spremno.
+64	Preuzimanje Shrimpa
+65	Upisivanje na disk
+66	Kopiranje datoteka
+67	Ne isključujte disk dok se ne završi.
+68	Otkaži
+69	Pokušaj ponovo
+70	Preuzeto {size}
+71	Povezivanje…
+72	{done} od {total} · {speed} · preostalo {left}
+73	Upisano
+74	Trajat će {time}
+75	{pct} · {speed} · preostalo {left}
+76	Nema odabranih datoteka
+77	Nema se šta kopirati
+78	Kopirano {size}
+79	{size} · trajat će {time}
+80	oko {time}
+81	manje od minute
+82	Nema internetske veze
+83	Shrimp nije moguće preuzeti.
+84	Provjerite internetsku vezu i pokušajte ponovo.
+85	Preuzeta slika je oštećena
+86	Preuzeta slika nije prošla provjeru.
+87	Pokušajte ponovo.
+88	Nema dovoljno prostora na disku
+89	Nema dovoljno prostora na disku.
+90	Oslobodite malo prostora i pokušajte ponovo.
+91	Nije moguće pisati na disk
+92	Nije moguće pisati na disk.
+93	Ponovo ga priključite ili odaberite drugi.
+94	Disk je isključen
+95	Disk je isključen.
+96	Ponovo ga priključite i pokušajte opet.
+97	Datoteke nije moguće kopirati
+98	Datoteke nije moguće kopirati.
+99	Nešto je pošlo po zlu
+100	Nešto je pošlo po zlu.
+101	Sve je spremno
+102	Ponovo pokrenite računar da biste završili.
+103	Disk je spreman
+104	Shrimp čeka instalaciju.
+105	Vaše datoteke su na sigurnom
+106	Kopija je spremljena.
+107	Programi čekaju
+108	Nakon instalacije predložit ćemo zamjene.
+109	Spremite otvorene dokumente prije ponovnog pokretanja.
+110	Kasnije
+111	Ponovo pokreni
+112	Nije moguće postaviti pokretanje s diska.
+113	Otkazati pripremu?
+114	Priprema će biti zaustavljena. Ako je pisanje na disk već počelo, morat ćete ga ponovo pripremiti.
+115	Nastavi
+116	Otkaži pripremu
+117	Nije moguće povezati se sa serverom za preuzimanje.
+118	Server za preuzimanje odgovorio je kodom {code}.
+119	Manifest je prevelik.
+120	Potpis manifesta nije važeći.
+121	Nema pristupa privremenom folderu.
+122	Nije moguće spremiti datoteku koja se preuzima.
+123	Preuzetu sliku nije moguće upisati na disk.
+124	Na disku je ponestalo prostora.
+125	Nije moguće spremiti opis kopije.
+126	Priprema je već u toku.
+127	Preuzimanje nije moguće pokrenuti.
+128	Ponovno pokretanje nije uspjelo. Učinite to iz menija Start.
+129	Ovaj računar se ne pokreće u UEFI načinu. Pokrenite ga ručno s diska, iz menija za pokretanje (obično tipkom F12, F8 ili Esc).
+130	Nemate dozvolu za promjenu postavki pokretanja.
+131	Disk nije pronađen. Ponovo ga priključite.
+132	Firmver nije prihvatio unos za pokretanje. Pokrenite računar ručno s diska, iz menija za pokretanje.
+133	Firmver nije prihvatio postavku za sljedeće pokretanje. Pokrenite računar ručno s diska, iz menija za pokretanje.
+134	Shrimp Install treba komponentu Microsoft Edge WebView2, ali nije je bilo moguće pokrenuti.\n\nAžurirajte Windows ili instalirajte WebView2 Runtime sa Microsoftove stranice i pokušajte ponovo.
+135	Nije moguće otvoriti prozor programa Shrimp Install (WebView2).
+136	Nije moguće pokrenuti komponentu WebView2.
+137	Nema slobodnog mjesta za unos za pokretanje.
+138	Nedostaje interfejs programa.

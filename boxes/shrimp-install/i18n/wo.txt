@@ -1,0 +1,138 @@
+1	Wàññi
+2	Tëj
+3	Samp Shrimp
+4	Sistem bu dal, bu set te di dox ci njëlbéen.
+5	Yebu bu otomatik
+6	Prograam bi dafay yeb lépp lu mu soxla.
+7	Sa fichier yi dañuy aar
+8	Dinañu denc sa fichier yi.
+9	Prograam yu nga xam
+10	Dinañu la wone prograam yu nuroo ak yi ngay jëfandikoo.
+11	Disk bu Windows dañu ko kiiré ak BitLocker. Mënuloo samp Shrimp ci wetu Windows lu dul nga fey kiiré gi.
+12	Nanu tàmbali
+13	Taxawaay {n} ci {total}
+14	Tànnal ab disk
+15	Tànnal fan lañuy waajal prograamu sampu Shrimp. Laaj na lu néew {size}.
+16	Disk
+17	Ci mbiru disk bi
+18	Mën nga tànn USB, kart SD walla disk bu biti. Lépp lu nekk ci disk bi dinañu ko far.
+19	Dellu
+20	Ci kanam
+21	Tànnal ab disk
+22	Disk bii dafa tuuti lool. Laaj na lu néew {size}.
+23	Gisuñu benn disk
+24	Duggalal ab disk, dina feeñ fii.
+25	Dafa tuuti lool
+26	Disk yi am
+27	USB
+28	Kart SD
+29	Disk bu biti
+30	Lan lañu wara aar?
+31	Bala ñuy samp, dinañu def kopi bu li nga tànn.
+32	Naka lañuy tànne fichier yi
+33	Samay kaartaabe
+34	(Ñu ngi koy digal)
+35	Kayit yi, nataal yi ak yeneen lu la moom.
+36	Maa ciy tànn
+37	Tànnal sa kaartaabe ak sa fichier.
+38	Kaartaabe yi ñuy denc
+39	Kayit yi
+40	Nataal yi
+41	Biro
+42	Mbir
+43	Wideyo yi
+44	Li ñu yeb
+45	Yokk kaartaabe…
+46	Yokk fichier…
+47	Barab ci disk bi
+48	Ci mbiru kopi fichier yi
+49	Sa fichier yi ci Windows duñu soppiku.
+50	Waajal disk bi
+51	Mu ngi lim…
+52	Amul barab
+53	Denc: {name}
+54	Dindi
+55	Dindi: {name}
+56	Tànnaguñu dara.
+57	Des na {size}
+58	{free} bu amul dara ci {total}
+59	Mu ngi waajal Shrimp
+60	Dina yàgg {time} ba pare.
+61	Waajal bi dafa taxaw ab diir.
+62	Waajal bi pare na
+63	Lépp pare na.
+64	Mu ngi yeb Shrimp
+65	Mu ngi bind ci disk bi
+66	Mu ngi kopi fichier yi
+67	Bul génne disk bi ba mu pare.
+68	Neenal
+69	Jéemaat
+70	Yeb nañu {size}
+71	Mu ngi lëkkaloo…
+72	{done} ci {total} · {speed} · des na {left}
+73	Bind nañu ko
+74	Dina yàgg {time}
+75	{pct} · {speed} · des na {left}
+76	Tànnuñu benn fichier
+77	Amul dara lu ñuy kopi
+78	Kopi nañu {size}
+79	{size} · dina yàgg {time}
+80	lu jege {time}
+81	lu yées benn simili
+82	Amul internet
+83	Mënuñu yeb Shrimp.
+84	Seetal sa internet te jéemaat.
+85	Nataal bi ñu yeb dafa yàqu
+86	Nataal bi ñu yeb jàllul ci saytu bi.
+87	Jéemaat.
+88	Barab bu doy amul ci disk bi
+89	Barab bu doy amul ci disk bi.
+90	Def barab te jéemaat.
+91	Mënuñu bind ci disk bi
+92	Mënuñu bind ci disk bi.
+93	Duggalaatal ko walla tànn beneen.
+94	Disk bi dafa génn
+95	Disk bi dafa génn.
+96	Duggalaatal ko te jéemaat.
+97	Mënuñu kopi fichier yi
+98	Mënuñu kopi fichier yi.
+99	Am na lu baaxul
+100	Am na lu baaxul.
+101	Lépp pare na
+102	Tàmbaliwaatal ordinatëer bi ngir pare.
+103	Disk bi pare na
+104	Shrimp mu ngi xaar ñu samp ko.
+105	Sa fichier yi aar nañu
+106	Denc nañu kopi bi.
+107	Prograam yi ñu ngi xaar
+108	Dinañu la wone yu nuroo ginnaaw samp bi.
+109	Dencal kayit yi ubbiku bala ngay tàmbaliwaat.
+110	Ci kanam
+111	Tàmbaliwaat
+112	Mënuñu defar tàmbali ci disk bi.
+113	Neenal waajal bi?
+114	Waajal bi dina taxaw. Su bind ci disk bi tàmbalee, war nga ko waajalaat.
+115	Wéy
+116	Neenal waajal bi
+117	Mënuñu lëkkaloo ak serwëru yebu bi.
+118	Serwëru yebu bi tontu na ak kood {code}.
+119	Manifest bi dafa rëy lool.
+120	Xàllu manifest bi baaxul.
+121	Mënuñu dugg ci kaartaabe bu diir.
+122	Mënuñu denc fichier bi ñuy yeb.
+123	Mënuñu bind nataal bi ñu yeb ci disk bi.
+124	Barab bi jeex na ci disk bi.
+125	Mënuñu denc melokaanu kopi bi.
+126	Waajal bi mu ngi dox ba noppi.
+127	Mënuñu tàmbali yebu bi.
+128	Mënuñu tàmbaliwaat. Defal ko ci menu Start.
+129	Ordinatëer bii du tàmbali ci UEFI. Tàmbalil ko ci disk bi ak sa loxo, ci menu boot (lu ëpp butoŋ F12, F8 walla Esc).
+130	Amuloo sañ-sañ soppi tànneefu tàmbali yi.
+131	Gisuñu disk bi. Duggalaatal ko.
+132	Firmware bi nanguwul bindu boot bi. Tàmbalil ordinatëer bi ci disk bi ak sa loxo, ci menu boot.
+133	Firmware bi nanguwul tànneefu boot bu ci topp. Tàmbalil ordinatëer bi ci disk bi ak sa loxo, ci menu boot.
+134	Shrimp Install dafa soxla bant bu Microsoft Edge WebView2, waaye manuñu ko tàmbali.\n\nYeesal Windows walla nga samp WebView2 Runtime bu jóge Microsoft te jéemaat.
+135	Manuñu ubbi palanteeru Shrimp Install (WebView2).
+136	Manuñu tàmbali bant bu WebView2.
+137	Amul barab bu dëgg ngir bindu boot bi.
+138	Interface bu prograam bi amul.

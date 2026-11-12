@@ -1,0 +1,138 @@
+1	Thu nhỏ
+2	Đóng
+3	Cài đặt Shrimp
+4	Một hệ thống yên tĩnh, gọn gàng, hoạt động ngay từ lần khởi động đầu tiên.
+5	Tải xuống tự động
+6	Trình cài đặt tự tải xuống mọi thứ cần thiết.
+7	Tệp của bạn luôn an toàn
+8	Tệp của bạn sẽ được giữ lại.
+9	Chương trình quen thuộc
+10	Chúng tôi sẽ gợi ý chương trình tương đương với những gì bạn đang dùng.
+11	Ổ đĩa Windows được mã hóa bằng BitLocker. Bạn chỉ có thể cài Shrimp song song với Windows sau khi tắt mã hóa.
+12	Bắt đầu thôi
+13	Bước {n}/{total}
+14	Chọn ổ đĩa
+15	Chọn nơi chúng tôi chuẩn bị trình cài đặt Shrimp. Cần ít nhất {size}.
+16	Ổ đĩa
+17	Về ổ đĩa
+18	Bạn có thể chọn USB, thẻ SD hoặc ổ đĩa ngoài. Mọi thứ hiện có trên ổ đĩa sẽ bị xóa.
+19	Quay lại
+20	Tiếp theo
+21	Chọn ổ đĩa
+22	Ổ đĩa này quá nhỏ. Cần ít nhất {size}.
+23	Không tìm thấy ổ đĩa
+24	Hãy cắm ổ đĩa vào và nó sẽ xuất hiện ở đây.
+25	Quá nhỏ
+26	Ổ đĩa khả dụng
+27	USB
+28	Thẻ SD
+29	Ổ đĩa ngoài
+30	Cần giữ lại những gì?
+31	Trước khi cài đặt, chúng tôi sẽ sao lưu những gì bạn chọn.
+32	Cách chọn tệp
+33	Thư mục của tôi
+34	(Khuyên dùng)
+35	Tài liệu, ảnh và các nội dung cá nhân khác.
+36	Tôi tự chọn
+37	Tự chọn thư mục và tệp của bạn.
+38	Thư mục cần giữ lại
+39	Tài liệu
+40	Ảnh
+41	Màn hình nền
+42	Nhạc
+43	Video
+44	Tải xuống
+45	Thêm thư mục…
+46	Thêm tệp…
+47	Dung lượng trên ổ đĩa
+48	Về việc sao chép tệp
+49	Tệp của bạn trong Windows không thay đổi.
+50	Chuẩn bị ổ đĩa
+51	Đang tính…
+52	Hết dung lượng
+53	Giữ lại: {name}
+54	Xóa
+55	Xóa: {name}
+56	Chưa chọn gì.
+57	Thiếu {size}
+58	Còn trống {free} trên {total}
+59	Đang chuẩn bị Shrimp
+60	Còn khoảng {time} nữa.
+61	Quá trình chuẩn bị đã tạm dừng.
+62	Đã chuẩn bị xong
+63	Mọi thứ đã sẵn sàng.
+64	Đang tải xuống Shrimp
+65	Đang ghi vào ổ đĩa
+66	Đang sao chép tệp
+67	Đừng rút ổ đĩa cho đến khi hoàn tất.
+68	Hủy
+69	Thử lại
+70	Đã tải xuống {size}
+71	Đang kết nối…
+72	{done}/{total} · {speed} · còn {left}
+73	Đã ghi
+74	Sẽ mất {time}
+75	{pct} · {speed} · còn {left}
+76	Chưa chọn tệp nào
+77	Không có gì để sao chép
+78	Đã sao chép {size}
+79	{size} · sẽ mất {time}
+80	khoảng {time}
+81	dưới một phút
+82	Không có kết nối Internet
+83	Không thể tải xuống Shrimp.
+84	Hãy kiểm tra kết nối Internet và thử lại.
+85	Tệp ảnh đĩa đã tải xuống bị hỏng
+86	Tệp ảnh đĩa đã tải xuống không vượt qua kiểm tra.
+87	Hãy thử lại.
+88	Không đủ dung lượng đĩa
+89	Không đủ dung lượng đĩa.
+90	Hãy giải phóng bớt dung lượng và thử lại.
+91	Không thể ghi vào ổ đĩa
+92	Không thể ghi vào ổ đĩa.
+93	Hãy cắm lại hoặc chọn ổ đĩa khác.
+94	Ổ đĩa đã bị ngắt kết nối
+95	Ổ đĩa đã bị ngắt kết nối.
+96	Hãy cắm lại và thử lần nữa.
+97	Không thể sao chép tệp
+98	Không thể sao chép tệp.
+99	Đã xảy ra lỗi
+100	Đã xảy ra lỗi.
+101	Mọi thứ đã sẵn sàng
+102	Hãy khởi động lại máy tính để hoàn tất.
+103	Ổ đĩa đã sẵn sàng
+104	Shrimp đang chờ được cài đặt.
+105	Tệp của bạn an toàn
+106	Bản sao đã được lưu.
+107	Chương trình đang chờ
+108	Sau khi cài đặt, chúng tôi sẽ gợi ý các chương trình tương đương.
+109	Hãy lưu các tài liệu đang mở trước khi khởi động lại.
+110	Để sau
+111	Khởi động lại
+112	Không thể thiết lập khởi động từ ổ đĩa.
+113	Hủy quá trình chuẩn bị?
+114	Quá trình chuẩn bị sẽ dừng lại. Nếu việc ghi vào ổ đĩa đã bắt đầu, bạn sẽ cần chuẩn bị lại ổ đĩa.
+115	Tiếp tục
+116	Hủy chuẩn bị
+117	Không thể kết nối với máy chủ tải xuống.
+118	Máy chủ tải xuống phản hồi với mã {code}.
+119	Tệp kê khai quá lớn.
+120	Chữ ký của tệp kê khai không hợp lệ.
+121	Không có quyền truy cập vào thư mục tạm.
+122	Không thể lưu tệp đang tải xuống.
+123	Không thể ghi tệp ảnh đĩa đã tải xuống vào ổ đĩa.
+124	Ổ đĩa đã hết dung lượng.
+125	Không thể lưu mô tả của bản sao.
+126	Quá trình chuẩn bị đang chạy.
+127	Không thể bắt đầu tải xuống.
+128	Không thể khởi động lại. Hãy thực hiện từ menu Start.
+129	Máy tính này không khởi động ở chế độ UEFI. Hãy khởi động từ ổ đĩa theo cách thủ công, qua menu khởi động (thường là phím F12, F8 hoặc Esc).
+130	Không có quyền thay đổi cài đặt khởi động.
+131	Không tìm thấy ổ đĩa. Hãy cắm lại.
+132	Phần sụn không chấp nhận mục khởi động. Hãy khởi động máy tính từ ổ đĩa theo cách thủ công, qua menu khởi động.
+133	Phần sụn không chấp nhận cài đặt cho lần khởi động tiếp theo. Hãy khởi động máy tính từ ổ đĩa theo cách thủ công, qua menu khởi động.
+134	Shrimp Install cần thành phần Microsoft Edge WebView2 nhưng không thể khởi động thành phần này.\n\nHãy cập nhật Windows hoặc cài WebView2 Runtime từ Microsoft rồi thử lại.
+135	Không thể mở cửa sổ Shrimp Install (WebView2).
+136	Không thể khởi động thành phần WebView2.
+137	Không còn vị trí trống cho mục khởi động.
+138	Chương trình bị thiếu giao diện.

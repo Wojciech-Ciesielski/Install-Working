@@ -1,0 +1,138 @@
+1	Kiçeltmek
+2	Ýapmak
+3	Shrimp-i guramak
+4	Ilkinji başlanyşdan işleýän asuda, tertipli ulgam.
+5	Awtomatik ýüklemek
+6	Guraýjy zerur zatlaryň hemmesini ýükleýär.
+7	Faýllaryňyz howpsuz
+8	Faýllaryňyz saklanar.
+9	Tanyş programmalar
+10	Ulanýan programmalaryňyzyň deňgüýçlilerini teklip ederis.
+11	Windows diski BitLocker bilen şifrlenen. Shrimp-i Windows-yň ýanynda diňe şifrlemäni öçürenden soň gurup bilersiňiz.
+12	Başlalyň
+13	{n}/{total}-nji ädim
+14	Disk saýlaň
+15	Shrimp gurnaýjysyny nirede taýýarlamalydygyny saýlaň. Iň az {size} gerek.
+16	Disk
+17	Disk barada
+18	USB fleşkasyny, SD kartyny ýa-da daşky diski saýlap bilersiňiz. Diskdäki ähli zat öçüriler.
+19	Yza
+20	Indiki
+21	Disk saýlaň
+22	Bu disk gaty kiçi. Iň az {size} gerek.
+23	Disk tapylmady
+24	Disk goşuň, ol şu ýerde görner.
+25	Gaty kiçi
+26	Elýeterli diskler
+27	USB flaş
+28	SD kart
+29	Daşky disk
+30	Näme goralmaly?
+31	Gurmazdan öň saýlan zatlaryňyzyň nusgasyny alarys.
+32	Faýllary nädip saýlamaly
+33	Meniň bukjalarym
+34	(Maslahat berilýär)
+35	Resminamalar, suratlar we beýleki şahsy zatlar.
+36	Özüm saýlaryn
+37	Öz bukjalaryňyzy we faýllaryňyzy saýlaň.
+38	Saklanjak bukjalar
+39	Resminamalar
+40	Suratlar
+41	Iş stoly
+42	Aýdym-saz
+43	Wideolar
+44	Ýüklenenler
+45	Bukja goş…
+46	Faýl goş…
+47	Diskdäki ýer
+48	Faýllary göçürmek barada
+49	Windows-daky faýllaryňyz üýtgemeýär.
+50	Diski taýýarla
+51	Sanalýar…
+52	Ýer ýok
+53	Sakla: {name}
+54	Aýyr
+55	Aýyr: {name}
+56	Entek hiç zat saýlanmady.
+57	{size} ýetmeýär
+58	{total}-dan {free} boş
+59	Shrimp taýýarlanýar
+60	Ýene {time} gerek.
+61	Taýýarlyk togtadyldy.
+62	Taýýarlyk tamamlandy
+63	Hemme zat taýýar.
+64	Shrimp ýüklenýär
+65	Diske ýazylýar
+66	Faýllar göçürilýär
+67	Gutarýança diski çykarmaň.
+68	Ýatyrmak
+69	Gaýtadan synanyşyň
+70	{size} ýüklendi
+71	Birikdirilýär…
+72	{done} / {total} · {speed} · {left} galdy
+73	Ýazyldy
+74	{time} gerek
+75	{pct} · {speed} · {left} galdy
+76	Faýl saýlanmady
+77	Göçürere zat ýok
+78	{size} göçürildi
+79	{size} · {time} gerek
+80	takmynan {time}
+81	bir minutdan az
+82	Internet birikmesi ýok
+83	Shrimp-i ýükläp bolmady.
+84	Internet baglanyşygyňyzy barlaň we täzeden synanyşyň.
+85	Ýüklenen şekil zaýalanypdyr
+86	Ýüklenen şekil barlagdan geçmedi.
+87	Täzeden synanyşyň.
+88	Diskde ýeterlik ýer ýok
+89	Diskde ýeterlik ýer ýok.
+90	Biraz ýer boşadyň we täzeden synanyşyň.
+91	Diske ýazyp bolmady
+92	Diske ýazyp bolmady.
+93	Ony täzeden dakyň ýa-da başgasyny saýlaň.
+94	Disk aýryldy
+95	Disk aýryldy.
+96	Ony täzeden dakyň we täzeden synanyşyň.
+97	Faýllary göçürip bolmady
+98	Faýllary göçürip bolmady.
+99	Bir zat nädogry boldy
+100	Bir zat ýalňyş boldy.
+101	Hemme zat taýýar
+102	Tamamlamak üçin kompýuteri gaýtadan işlediň.
+103	Disk taýýar
+104	Shrimp gurulmaga garaşýar.
+105	Faýllaryňyz howpsuz
+106	Nusga saklandy.
+107	Programmalar garaşýar
+108	Gurnalandan soň deňgüýçlileri teklip ederis.
+109	Täzeden açmazdan öň açyk resminamalary saklaň.
+110	Soňrak
+111	Gaýtadan işletmek
+112	Diskden açylmagy sazlap bolmady.
+113	Taýýarlygy ýatyrmalymy?
+114	Taýýarlyk togtadylar. Diske ýazmak eýýäm başlan bolsa, ony täzeden taýýarlamaly bolarsyňyz.
+115	Dowam et
+116	Taýýarlygy ýatyr
+117	Ýükleme serwerine birigip bolanok.
+118	Ýükleme serweri {code} kody bilen jogap berdi.
+119	Manifest gaty uly.
+120	Manifestiň goly nädogry.
+121	Wagtlaýyn bukja elýeterlilik ýok.
+122	Ýüklenýän faýly saklap bolanok.
+123	Ýüklenen şekili diske ýazyp bolanok.
+124	Diskde ýer gutardy.
+125	Nusganyň beýanyny saklap bolmady.
+126	Taýýarlyk eýýäm dowam edýär.
+127	Ýüklemäni başlap bolmady.
+128	Täzeden açyp bolmady. Muny Başla menýusyndan ediň.
+129	Bu kompýuter UEFI tertibinde açylmaýar. Ony açyş menýusyndan (adatça F12, F8 ýa-da Esc düwmesi) diskden el bilen açyň.
+130	Açylyş sazlamalaryny üýtgetmäge rugsat ýok.
+131	Disk tapylmady. Ony täzeden dakyň.
+132	Mikroprogramma açyş ýazgysyny kabul etmedi. Kompýuteri açyş menýusyndan diskden el bilen açyň.
+133	Mikroprogramma indiki açylyş sazlamasyny kabul etmedi. Kompýuteri açyş menýusyndan diskden el bilen açyň.
+134	Shrimp Install üçin Microsoft Edge WebView2 komponenti gerek, emma ony işledip bolmady.\n\nWindows-y täzeläň ýa-da Microsoft-dan WebView2 Runtime guruň we täzeden synanyşyň.
+135	Shrimp Install penjiresini (WebView2) açyp bolmady.
+136	WebView2 komponentini işledip bolmady.
+137	Açyş ýazgysy üçin boş ýer ýok.
+138	Programmanyň interfeýsi ýok.

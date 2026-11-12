@@ -1,0 +1,138 @@
+1	Minimizează
+2	Închide
+3	Instalează Shrimp
+4	Un sistem liniștit și ordonat, care funcționează de la prima pornire.
+5	Descărcare automată
+6	Programul de instalare descarcă tot ce îi trebuie.
+7	Fișierele tale rămân în siguranță
+8	Fișierele tale vor fi păstrate.
+9	Programe cunoscute
+10	Îți vom propune echivalente ale programelor pe care le folosești.
+11	Unitatea Windows este criptată cu BitLocker. Poți instala Shrimp lângă Windows doar după ce dezactivezi criptarea.
+12	Să începem
+13	Pasul {n} din {total}
+14	Alege o unitate
+15	Alege unde pregătim programul de instalare Shrimp. Sunt necesari cel puțin {size}.
+16	Unitate
+17	Despre unitate
+18	Poți alege un stick USB, un card SD sau o unitate externă. Tot ce se află acum pe unitate va fi șters.
+19	Înapoi
+20	Înainte
+21	Alege o unitate
+22	Această unitate este prea mică. Sunt necesari cel puțin {size}.
+23	Nu s-a găsit nicio unitate
+24	Conectează o unitate și va apărea aici.
+25	Prea mică
+26	Unități disponibile
+27	Stick USB
+28	Card SD
+29	Unitate externă
+30	Ce să păstrăm în siguranță?
+31	Înainte de instalare, vom face o copie a ceea ce alegi.
+32	Cum alegi fișierele
+33	Folderele mele
+34	(Recomandat)
+35	Documente, fotografii și alte lucruri personale.
+36	Aleg eu
+37	Alege-ți singur folderele și fișierele.
+38	Foldere de păstrat
+39	Documente
+40	Imagini
+41	Desktop
+42	Muzică
+43	Videoclipuri
+44	Descărcări
+45	Adaugă folder…
+46	Adaugă fișier…
+47	Spațiu pe unitate
+48	Despre copierea fișierelor
+49	Fișierele tale din Windows rămân neschimbate.
+50	Pregătește unitatea
+51	Se calculează…
+52	Nu este spațiu
+53	Păstrează: {name}
+54	Elimină
+55	Elimină: {name}
+56	Încă nu ai ales nimic.
+57	Lipsesc {size}
+58	{free} liberi din {total}
+59	Se pregătește Shrimp
+60	Mai durează {time}.
+61	Pregătirea a fost pusă pe pauză.
+62	Pregătire încheiată
+63	Totul este gata.
+64	Se descarcă Shrimp
+65	Se scrie pe unitate
+66	Se copiază fișierele
+67	Nu scoate unitatea până nu se termină.
+68	Anulează
+69	Încearcă din nou
+70	Descărcat: {size}
+71	Se conectează…
+72	{done} din {total} · {speed} · mai durează {left}
+73	Scris
+74	Va dura {time}
+75	{pct} · {speed} · mai durează {left}
+76	Niciun fișier ales
+77	Nu este nimic de copiat
+78	Copiat: {size}
+79	{size} · va dura {time}
+80	aproximativ {time}
+81	mai puțin de un minut
+82	Nu există conexiune la internet
+83	Nu s-a putut descărca Shrimp.
+84	Verifică conexiunea la internet și încearcă din nou.
+85	Imaginea descărcată este deteriorată
+86	Imaginea descărcată nu a trecut verificarea.
+87	Încearcă din nou.
+88	Spațiu insuficient pe disc
+89	Spațiu insuficient pe disc.
+90	Eliberează puțin spațiu și încearcă din nou.
+91	Nu s-a putut scrie pe unitate
+92	Nu s-a putut scrie pe unitate.
+93	Conectează-o din nou sau alege alta.
+94	Unitatea a fost deconectată
+95	Unitatea a fost deconectată.
+96	Conectează-o la loc și încearcă din nou.
+97	Nu s-au putut copia fișierele
+98	Nu s-au putut copia fișierele.
+99	Ceva nu a mers bine
+100	Ceva nu a mers bine.
+101	Totul este gata
+102	Repornește computerul pentru a termina.
+103	Unitatea este gata
+104	Shrimp așteaptă să fie instalat.
+105	Fișierele tale sunt în siguranță
+106	Copia a fost salvată.
+107	Programele așteaptă
+108	După instalare îți vom propune echivalente.
+109	Salvează documentele deschise înainte de repornire.
+110	Mai târziu
+111	Repornește
+112	Nu s-a putut configura pornirea de pe unitate.
+113	Anulezi pregătirea?
+114	Pregătirea va fi oprită. Dacă scrierea pe unitate a început deja, va trebui să o pregătești din nou.
+115	Continuă
+116	Anulează pregătirea
+117	Nu se poate conecta la serverul de descărcare.
+118	Serverul de descărcare a răspuns cu codul {code}.
+119	Manifestul este prea mare.
+120	Semnătura manifestului nu este validă.
+121	Nu există acces la folderul temporar.
+122	Nu se poate salva fișierul care se descarcă.
+123	Imaginea descărcată nu poate fi scrisă pe unitate.
+124	Unitatea a rămas fără spațiu.
+125	Nu s-a putut salva descrierea copiei.
+126	Pregătirea rulează deja.
+127	Nu s-a putut porni descărcarea.
+128	Nu s-a putut reporni. Fă-o din meniul Start.
+129	Acest computer nu pornește în modul UEFI. Pornește-l manual de pe unitate, din meniul de pornire (de obicei tasta F12, F8 sau Esc).
+130	Nu ai permisiunea de a modifica setările de pornire.
+131	Unitatea nu a fost găsită. Conectează-o din nou.
+132	Firmware-ul nu a acceptat intrarea de pornire. Pornește computerul manual de pe unitate, din meniul de pornire.
+133	Firmware-ul nu a acceptat setarea pentru următoarea pornire. Pornește computerul manual de pe unitate, din meniul de pornire.
+134	Shrimp Install are nevoie de componenta Microsoft Edge WebView2, dar aceasta nu a putut fi pornită.\n\nActualizează Windows sau instalează WebView2 Runtime de la Microsoft și încearcă din nou.
+135	Fereastra Shrimp Install (WebView2) nu a putut fi deschisă.
+136	Componenta WebView2 nu a putut fi pornită.
+137	Nu există un loc liber pentru intrarea de pornire.
+138	Interfața programului lipsește.

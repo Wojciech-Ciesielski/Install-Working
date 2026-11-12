@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "created": "2026-11-05T19:00:00Z",
+  "installer": "Shrimp Install 0.1.0",
+  "image": { "version": "Beta 3.5", "sha256": "14727418a2463bfe2a19bd69e14cd8f290cd6d283cf94cfeba0a794c2b9a695e" },
+  "windows": { "version": "10.0.26100", "firmware": "uefi", "secureBoot": true, "bitlocker": false },
+  "user": { "name": "Jan.Kowalski", "fullName": "Jan Kowalski" },
+  "locale": {
+    "format": "pl-PL",
+    "language": "pl-PL",
+    "region": "PL",
+    "timezone": "Europe/Warsaw",
+    "windowsTimezone": "Central European Standard Time",
+    "keyboards": ["00000415", "00000409"]
+  },
+  "apps": [
+    { "name": "Mozilla Firefox (x64 pl)", "publisher": "Mozilla", "version": "132.0" },
+    { "name": "Steam", "publisher": "Valve Corporation", "version": "2.10.91.91" },
+    { "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)", "publisher": "Microsoft Corporation", "version": null }
+  ],
+  "storeApps": ["SpotifyAB.SpotifyMusic"],
+  "files": [
+    { "key": "documents", "path": "files/documents", "source": "C:\\Users\\jan\\Documents", "bytes": 3435973836 },
+    { "key": "other", "path": "files/other/Projekty", "source": "D:\\Projekty", "bytes": 1024 }
+  ],
+  "split": ["files/videos/wakacje.mkv"],
+  "skipped": [{ "source": "C:\\Users\\jan\\OneDrive\\x.docx", "reason": "cloud" }]
+}

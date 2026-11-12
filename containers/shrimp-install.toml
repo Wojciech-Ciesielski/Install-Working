@@ -1,0 +1,6 @@
+# Program dla Windows (.exe), budowany w workflow Shrimp Install.
+[container]
+id = "shrimp-install"
+summary = "Shrimp Install dla Windows (.exe)"
+platform = "windows"
+boxes = ["shrimp-install"]

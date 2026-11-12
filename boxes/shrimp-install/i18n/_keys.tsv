@@ -1,0 +1,147 @@
+# id	klucz	angielski (wzorzec); nowe wiersze tylko na końcu, id się nie zmieniają
+1	titlebar.min	Minimize
+2	titlebar.close	Close
+3	start.title	Install Shrimp
+4	start.sub	A calm, tidy system that works from the first start.
+5	start.f1.t	Automatic download
+6	start.f1.d	The installer downloads everything it needs.
+7	start.f2.t	Your files stay safe
+8	start.f2.d	Your files will be kept.
+9	start.f3.t	Familiar programs
+10	start.f3.d	We'll suggest equivalents of the programs you use.
+11	start.bitlocker	The Windows drive is encrypted with BitLocker. You can install Shrimp next to Windows only after turning encryption off.
+12	start.go	Let's begin
+13	step	Step {n} of {total}
+14	media.title	Choose a drive
+15	media.sub	Choose where we'll prepare the Shrimp installer. At least {size} is needed.
+16	media.label	Drive
+17	media.hint.aria	About the drive
+18	media.tip	You can choose a USB stick, an SD card or an external drive. Everything currently on the drive will be erased.
+19	back	Back
+20	next	Next
+21	media.pick	Choose a drive
+22	media.small	This drive is too small. At least {size} is needed.
+23	media.none	No drive found
+24	media.plug	Plug in a drive and it will appear here.
+25	media.toosmall	Too small
+26	media.list.aria	Available drives
+27	kind.usb	USB stick
+28	kind.sd	SD card
+29	kind.disk	External drive
+30	files.title	What should be kept safe?
+31	files.sub	Before installing, we'll make a copy of the things you choose.
+32	files.modes.aria	How to choose files
+33	files.auto	My folders
+34	recommended	(Recommended)
+35	files.auto.d	Documents, photos and other personal things.
+36	files.manual	I'll choose myself
+37	files.manual.d	Choose your own folders and files.
+38	files.folders.aria	Folders to keep
+39	folder.documents	Documents
+40	folder.pictures	Pictures
+41	folder.desktop	Desktop
+42	folder.music	Music
+43	folder.videos	Videos
+44	folder.downloads	Downloads
+45	files.addFolder	Add folder…
+46	files.addFile	Add file…
+47	space.label	Space on the drive
+48	files.hint.aria	About copying files
+49	files.tip	Your files in Windows stay unchanged.
+50	files.go	Prepare the drive
+51	folder.counting	Counting…
+52	folder.nospace	No space
+53	folder.keep.aria	Keep: {name}
+54	files.remove	Remove
+55	files.remove.aria	Remove: {name}
+56	files.empty	Nothing chosen yet.
+57	space.over	{size} short
+58	space.free	{free} free of {total}
+59	run.title	Preparing Shrimp
+60	run.sub.left	This will take {time} more.
+61	run.sub.paused	Preparation has been paused.
+62	run.done.title	Preparation complete
+63	run.done.sub	Everything is ready.
+64	phase.1	Downloading Shrimp
+65	phase.2	Writing to the drive
+66	phase.3	Copying files
+67	run.info	Don't unplug the drive until it finishes.
+68	cancel	Cancel
+69	retry	Try again
+70	phase.downloaded	Downloaded {size}
+71	phase.connecting	Connecting…
+72	phase.progress	{done} of {total} · {speed} · {left} left
+73	phase.written	Written
+74	phase.takes	Will take {time}
+75	phase.percent	{pct} · {speed} · {left} left
+76	phase.nofiles	No files chosen
+77	phase.nothing	Nothing to copy
+78	phase.copied	Copied {size}
+79	phase.copyplan	{size} · will take {time}
+80	dur.about	about {time}
+81	dur.less	less than a minute
+82	fail.offline.t	No internet connection
+83	fail.offline.b	Couldn't download Shrimp.
+84	fail.offline.r	Check your internet connection and try again.
+85	fail.verify.t	The downloaded image is damaged
+86	fail.verify.b	The downloaded image failed verification.
+87	fail.verify.r	Try again.
+88	fail.space.t	Not enough disk space
+89	fail.space.b	Not enough disk space.
+90	fail.space.r	Free up some space and try again.
+91	fail.write.t	Couldn't write to the drive
+92	fail.write.b	Couldn't write to the drive.
+93	fail.write.r	Plug it in again or choose another one.
+94	fail.device.t	The drive was disconnected
+95	fail.device.b	The drive was disconnected.
+96	fail.device.r	Plug it back in and try again.
+97	fail.copy.t	Couldn't copy the files
+98	fail.copy.b	Couldn't copy the files.
+99	fail.other.t	Something went wrong
+100	fail.other.b	Something went wrong.
+101	done.title	All set
+102	done.sub	Restart the computer to finish.
+103	done.f1.t	The drive is ready
+104	done.f1.d	Shrimp is waiting to be installed.
+105	done.f2.t	Your files are safe
+106	done.f2.d	The copy has been saved.
+107	done.f3.t	Programs are waiting
+108	done.f3.d	We'll suggest equivalents after installation.
+109	done.info	Save your open documents before restarting.
+110	later	Later
+111	reboot	Restart
+112	reboot.fail	Couldn't set up starting from the drive.
+113	dlg.title	Cancel the preparation?
+114	dlg.text	Preparation will be stopped. If writing to the drive has already started, you'll need to prepare it again.
+115	dlg.keep	Continue
+116	dlg.cancel	Cancel preparation
+117	host.connect	Can't connect to the download server.
+118	host.http	The download server responded with code {code}.
+119	host.manifestBig	The manifest is too large.
+120	host.sigBad	The manifest signature is invalid.
+121	host.tempAccess	No access to the temporary folder.
+122	host.writeDl	Can't save the file being downloaded.
+123	host.imageBad	The downloaded image can't be written to the drive.
+124	host.mediaFull	The drive ran out of space.
+125	host.descWrite	Couldn't save the description of the copy.
+126	host.busy	Preparation is already running.
+127	host.startFail	Couldn't start downloading.
+128	host.rebootFail	Couldn't restart. Do it from the Start menu.
+129	host.noUefi	This computer doesn't start in UEFI mode. Start it from the drive manually, from the boot menu (usually the F12, F8 or Esc key).
+130	host.noPriv	No permission to change the startup settings.
+131	host.noMedia	Drive not found. Plug it in again.
+132	host.fwEntry	The firmware didn't accept the boot entry. Start the computer from the drive manually, from the boot menu.
+133	host.fwNext	The firmware didn't accept the next-boot setting. Start the computer from the drive manually, from the boot menu.
+134	native.wv2missing	Shrimp Install needs the Microsoft Edge WebView2 component, but it couldn't be started.\n\nUpdate Windows or install WebView2 Runtime from Microsoft and try again.
+135	native.windowFail	Couldn't open the Shrimp Install window (WebView2).
+136	native.wv2fail	Couldn't start the WebView2 component.
+137	host.noSlot	No free slot for the boot entry.
+138	native.noUi	The program's interface is missing.
+139	phase.verify	Checking the image downloaded earlier · {pct}
+140	phase.prepare	Preparing the drive…
+141	phase.backup	Saving what is on the drive · {pct} · {left} left
+142	fail.busy.t	The drive is in use
+143	fail.busy.b	Another program is using the drive.
+144	fail.busy.r	Close programs that use it (for example File Explorer or a backup program) and try again.
+145	fail.question.t	Writing was stopped
+146	fail.question.b	Shrimp Install stopped before writing the drive because of an unexpected question:

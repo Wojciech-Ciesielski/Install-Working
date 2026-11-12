@@ -1,0 +1,138 @@
+1	Lùghdaich
+2	Dùin
+3	Stàlaich Shrimp
+4	Siostam sàmhach, sgiobalta a dh’obraicheas on chiad tòiseachadh.
+5	Luchdachadh a-nuas fèin-obrachail
+6	Luchdaichidh an stàlaichear a-nuas a h-uile nì a tha a dhìth.
+7	Tha na faidhlichean agad sàbhailte
+8	Thèid na faidhlichean agad a chumail.
+9	Prògraman eòlach
+10	Molaidh sinn prògraman coltach ris an fheadhainn a chleachdas tu.
+11	Tha draibh Windows crioptaichte le BitLocker. Chan urrainn dhut Shrimp a stàladh ri taobh Windows ach às dèidh dhut an crioptachadh a chur dheth.
+12	Tòisichidh sinn
+13	Ceum {n} à {total}
+14	Tagh draibh
+15	Tagh càite an ullaich sinn stàlaichear Shrimp. Feumar {size} air a’ char as lugha.
+16	Draibh
+17	Mun draibh
+18	’S urrainn dhut maide USB, cairt SD no draibh air an taobh a-muigh a thaghadh. Thèid a h-uile càil a tha air an draibh a sguabadh às.
+19	Air ais
+20	Air adhart
+21	Tagh draibh
+22	Tha an draibh seo ro bheag. Feumar {size} air a’ char as lugha.
+23	Cha deach draibh a lorg
+24	Cuir a-steach draibh agus nochdaidh e an seo.
+25	Ro bheag
+26	Draibhean ri fhaighinn
+27	Bataraidh USB
+28	Cairt SD
+29	Draibh taobhach
+30	Dè bu chòir a chumail sàbhailte?
+31	Mus stàlaich sinn, nì sinn lethbhreac dhe na thaghas tu.
+32	Mar a thaghas tu faidhlichean
+33	Na pasganan agam
+34	(Molaidh sinn seo)
+35	Sgrìobhainnean, dealbhan is rudan pearsanta eile.
+36	Taghaidh mi fhìn
+37	Tagh na pasganan is faidhlichean agad fhèin.
+38	Pasganan ri ghleidheadh
+39	Sgrìobhainnean
+40	Dealbhan
+41	Deasg
+42	Ceòl
+43	Bhidiothan
+44	Luchdan-a-nuas
+45	Cuir pasgan ris…
+46	Cuir faidhle ris…
+47	Àite air an draibh
+48	Mu lethbhreacadh nam faidhlichean
+49	Cha tèid na faidhlichean agad ann an Windows atharrachadh.
+50	Ullaich an draibh
+51	’Ga chunntadh…
+52	Gun àite
+53	Glèidh: {name}
+54	Thoir air falbh
+55	Thoir air falbh: {name}
+56	Cha deach dad a thaghadh fhathast.
+57	{size} a dhìth
+58	{free} saor à {total}
+59	A’ ullachadh Shrimp
+60	Bheir seo {time} eile.
+61	Chaidh an t-ullachadh a chur na stad.
+62	Ullachadh coileanta
+63	Tha a h-uile nì deiseil.
+64	A’ luchdachadh a-nuas Shrimp
+65	A’ sgrìobhadh dhan draibh
+66	A’ dèanamh lethbhreac de dh’fhaidhlichean
+67	Na tarraing a-mach an draibh gus am bi e deiseil.
+68	Sguir dheth
+69	Feuch a-rithist
+70	Luchdaichte a-nuas: {size}
+71	A’ ceangal…
+72	{done} à {total} · {speed} · {left} air fhàgail
+73	Sgrìobhte
+74	Bheir e {time}
+75	{pct} · {speed} · {left} air fhàgail
+76	Cha deach faidhle a thaghadh
+77	Chan eil dad ri lethbhreacadh
+78	Lethbhreacte: {size}
+79	{size} · bheir e {time}
+80	mu {time}
+81	nas lugha na mionaid
+82	Chan eil ceangal eadar-lìn ann
+83	Cha b’ urrainn dhuinn Shrimp a luchdadh a-nuas.
+84	Thoir sùil air a’ cheangal eadar-lìn agad agus feuch ris a-rithist.
+85	Tha an dealbh a chaidh a luchdadh a-nuas air a mhilleadh
+86	Dh’fhàillig dearbhadh an deilbh a chaidh a luchdadh a-nuas.
+87	Feuch ris a-rithist.
+88	Chan eil àite gu leòr air an diosga
+89	Chan eil àite gu leòr air an diosga.
+90	Saor beagan àite agus feuch ris a-rithist.
+91	Cha b’ urrainn dhuinn sgrìobhadh dhan draibh
+92	Cha b’ urrainn dhuinn sgrìobhadh dhan draibh.
+93	Cuir a-steach a-rithist e no tagh fear eile.
+94	Chaidh an draibh a dhì-cheangal
+95	Chaidh an draibh a dhì-cheangal.
+96	Cuir a-steach a-rithist e agus feuch ris a-rithist.
+97	Cha b’ urrainn dhuinn lethbhreac a dhèanamh dhe na faidhlichean
+98	Cha b’ urrainn dhuinn lethbhreac a dhèanamh dhe na faidhlichean.
+99	Chaidh rudeigin ceàrr
+100	Chaidh rudeigin ceàrr.
+101	Gach nì deiseil
+102	Ath-thòisich an coimpiutair gus crìoch a chur air.
+103	Tha an draibh deiseil
+104	Tha Shrimp a’ feitheamh ri stàladh.
+105	Tha na faidhlichean agad sàbhailte
+106	Chaidh an lethbhreac a shàbhaladh.
+107	Tha prògraman a’ feitheamh
+108	Molaidh sinn prògraman coltach riutha às dèidh an stàlaidh.
+109	Sàbhail na sgrìobhainnean fosgailte mus tòisich thu às ùr.
+110	Nas fhaide air adhart
+111	Ath-thòisich
+112	Cha b’ urrainn dhuinn tòiseachadh on draibh a shuidheachadh.
+113	A bheil thu airson sgur dhen ullachadh?
+114	Thèid an t-ullachadh a stad. Ma thòisich an sgrìobhadh dhan draibh mu thràth, feumaidh tu ullachadh a-rithist.
+115	Lean air adhart
+116	Sguir dhen ullachadh
+117	Cha ghabh ceangal ris an fhrithealaiche luchdaidh.
+118	Fhreagair am frithealaiche luchdaidh le còd {code}.
+119	Tha am manifest ro mhòr.
+120	Chan eil soidhneadh a’ mhanifest dligheach.
+121	Chan eil cothrom air a’ phasgan shealach.
+122	Cha ghabh am faidhle ’ga luchdadh a-nuas a shàbhaladh.
+123	Cha ghabh an dealbh a chaidh a luchdadh a-nuas a sgrìobhadh dhan draibh.
+124	Chan eil àite air fhàgail air an draibh.
+125	Cha b’ urrainn dhuinn tuairisgeul an lethbhric a shàbhaladh.
+126	Tha an t-ullachadh a’ dol mu thràth.
+127	Cha b’ urrainn dhuinn an luchdadh a-nuas a thòiseachadh.
+128	Cha b’ urrainn dhuinn tòiseachadh às ùr. Dèan e on chlàr-taice Start.
+129	Cha tòisich an coimpiutair seo sa mhodh UEFI. Tòisich e on draibh le làimh, o chlàr-taice a’ bhùtaidh (mar is trice an iuchair F12, F8 no Esc).
+130	Chan eil cead ann roghainnean an tòiseachaidh atharrachadh.
+131	Cha deach an draibh a lorg. Cuir a-steach a-rithist e.
+132	Cha do ghabh am bathar-bog daingeann ris an innteart bhùtaidh. Tòisich an coimpiutair on draibh le làimh, o chlàr-taice a’ bhùtaidh.
+133	Cha do ghabh am bathar-bog daingeann ri roghainn a’ bhùtaidh an ath thuras. Tòisich an coimpiutair on draibh le làimh, o chlàr-taice a’ bhùtaidh.
+134	Feumaidh Shrimp Install a’ cho-phàirt Microsoft Edge WebView2 ach cha b’ urrainn dhuinn a tòiseachadh.\n\nÙraich Windows no stàlaich WebView2 Runtime o Microsoft agus feuch ris a-rithist.
+135	Cha b’ urrainn dhuinn uinneag Shrimp Install (WebView2) fhosgladh.
+136	Cha b’ urrainn dhuinn a’ cho-phàirt WebView2 a thòiseachadh.
+137	Chan eil slot saor ann airson an innteart bhùtaidh.
+138	Tha eadar-aghaidh a’ phrògraim a dhìth.

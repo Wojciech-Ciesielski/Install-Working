@@ -1,0 +1,138 @@
+1	Punguza
+2	Funga
+3	Sakinisha Shrimp
+4	Mfumo tulivu na nadhifu unaofanya kazi tangu mwanzo.
+5	Upakuaji otomatiki
+6	Kisakinishi hupakua kila kitu kinachohitaji.
+7	Faili zako ni salama
+8	Faili zako zitahifadhiwa.
+9	Programu unazozijua
+10	Tutapendekeza programu zinazolingana na unazotumia.
+11	Diski ya Windows imefichwa kwa BitLocker. Unaweza kusakinisha Shrimp kando ya Windows baada ya kuzima usimbaji fiche.
+12	Tuanze
+13	Hatua ya {n} kati ya {total}
+14	Chagua hifadhi
+15	Chagua mahali tutakapoandaa kisakinishi cha Shrimp. Inahitajika angalau {size}.
+16	Hifadhi
+17	Kuhusu hifadhi
+18	Unaweza kuchagua kijiti cha USB, kadi ya SD au hifadhi ya nje. Kila kitu kilichopo kwenye hifadhi sasa kitafutwa.
+19	Rudi
+20	Endelea
+21	Chagua hifadhi
+22	Hifadhi hii ni ndogo mno. Inahitajika angalau {size}.
+23	Hakuna hifadhi iliyopatikana
+24	Unganisha hifadhi nayo itaonekana hapa.
+25	Ndogo mno
+26	Hifadhi zilizopo
+27	Kijiti cha USB
+28	Kadi ya SD
+29	Hifadhi ya nje
+30	Nini kihifadhiwe?
+31	Kabla ya kusakinisha, tutatengeneza nakala ya unachochagua.
+32	Jinsi ya kuchagua faili
+33	Folda zangu
+34	(Inapendekezwa)
+35	Nyaraka, picha na vitu vingine vya kibinafsi.
+36	Nitachagua mwenyewe
+37	Chagua folda na faili zako mwenyewe.
+38	Folda za kuhifadhiwa
+39	Nyaraka
+40	Picha
+41	Eneo-kazi
+42	Muziki
+43	Video
+44	Vipakuliwa
+45	Ongeza folda…
+46	Ongeza faili…
+47	Nafasi kwenye hifadhi
+48	Kuhusu kunakili faili
+49	Faili zako kwenye Windows hazitabadilika.
+50	Andaa hifadhi
+51	Inahesabu…
+52	Hakuna nafasi
+53	Hifadhi: {name}
+54	Ondoa
+55	Ondoa: {name}
+56	Hakuna kilichochaguliwa bado.
+57	Pungufu kwa {size}
+58	{free} wazi kati ya {total}
+59	Inaandaa Shrimp
+60	Imesalia {time}.
+61	Maandalizi yamesimamishwa.
+62	Maandalizi yamekamilika
+63	Kila kitu kiko tayari.
+64	Inapakua Shrimp
+65	Inaandika kwenye hifadhi
+66	Inanakili faili
+67	Usiondoe hifadhi hadi ikamilike.
+68	Ghairi
+69	Jaribu tena
+70	{size} imepakuliwa
+71	Inaunganisha…
+72	{done} kati ya {total} · {speed} · imesalia {left}
+73	Imeandikwa
+74	Itachukua {time}
+75	{pct} · {speed} · imesalia {left}
+76	Hakuna faili zilizochaguliwa
+77	Hakuna cha kunakili
+78	{size} imenakiliwa
+79	{size} · itachukua {time}
+80	takriban {time}
+81	chini ya dakika moja
+82	Hakuna muunganisho wa intaneti
+83	Haikuweza kupakua Shrimp.
+84	Angalia muunganisho wako wa intaneti kisha ujaribu tena.
+85	Taswira iliyopakuliwa imeharibika
+86	Taswira iliyopakuliwa haikupita ukaguzi.
+87	Jaribu tena.
+88	Nafasi ya diski haitoshi
+89	Nafasi ya diski haitoshi.
+90	Futa nafasi kidogo kisha ujaribu tena.
+91	Haikuweza kuandika kwenye hifadhi
+92	Haikuweza kuandika kwenye hifadhi.
+93	Iunganishe tena au chagua nyingine.
+94	Hifadhi imeondolewa
+95	Hifadhi imeondolewa.
+96	Iunganishe tena kisha ujaribu tena.
+97	Haikuweza kunakili faili
+98	Haikuweza kunakili faili.
+99	Hitilafu imetokea
+100	Hitilafu imetokea.
+101	Kila kitu kiko tayari
+102	Washa upya kompyuta ili ukamilishe.
+103	Hifadhi iko tayari
+104	Shrimp inasubiri kusakinishwa.
+105	Faili zako ni salama
+106	Nakala imehifadhiwa.
+107	Programu zinasubiri
+108	Baada ya kusakinisha tutapendekeza programu zinazolingana.
+109	Hifadhi nyaraka zilizofunguliwa kabla ya kuwasha upya.
+110	Baadaye
+111	Washa upya
+112	Haikuweza kusanidi uanzishaji kutoka kwenye hifadhi.
+113	Ghairi maandalizi?
+114	Maandalizi yatasimamishwa. Ikiwa uandishi kwenye hifadhi umeshaanza, utahitaji kuiandaa upya.
+115	Endelea
+116	Ghairi maandalizi
+117	Haiwezi kuunganisha na seva ya upakuaji.
+118	Seva ya upakuaji ilijibu kwa msimbo {code}.
+119	Faili ya maelezo ni kubwa mno.
+120	Sahihi ya faili ya maelezo si halali.
+121	Hakuna ufikiaji wa folda ya muda.
+122	Haiwezi kuhifadhi faili inayopakuliwa.
+123	Taswira iliyopakuliwa haiwezi kuandikwa kwenye hifadhi.
+124	Nafasi ya hifadhi imeisha.
+125	Haikuweza kuhifadhi maelezo ya nakala.
+126	Maandalizi tayari yanaendelea.
+127	Haikuweza kuanza upakuaji.
+128	Haikuweza kuwasha upya. Fanya hivyo kutoka kwenye menyu ya Start.
+129	Kompyuta hii haianzi kwa hali ya UEFI. Ianzishe mwenyewe kutoka kwenye hifadhi kupitia menyu ya kuanzisha (kwa kawaida kitufe cha F12, F8 au Esc).
+130	Huna ruhusa ya kubadilisha mipangilio ya kuanzisha.
+131	Hifadhi haikupatikana. Iunganishe tena.
+132	Programu dhibiti haikukubali ingizo la kuanzisha. Anzisha kompyuta mwenyewe kutoka kwenye hifadhi kupitia menyu ya kuanzisha.
+133	Programu dhibiti haikukubali mpangilio wa kuanzisha unaofuata. Anzisha kompyuta mwenyewe kutoka kwenye hifadhi kupitia menyu ya kuanzisha.
+134	Shrimp Install inahitaji kijenzi cha Microsoft Edge WebView2, lakini hakikuweza kuanzishwa.\n\nSasisha Windows au sakinisha WebView2 Runtime kutoka Microsoft kisha ujaribu tena.
+135	Imeshindwa kufungua dirisha la Shrimp Install (WebView2).
+136	Imeshindwa kuanzisha kijenzi cha WebView2.
+137	Hakuna nafasi wazi ya ingizo la kuanzisha.
+138	Kiolesura cha programu hakipo.

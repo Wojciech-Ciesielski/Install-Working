@@ -1,0 +1,138 @@
+1	Minimizatu
+2	Itxi
+3	Instalatu Shrimp
+4	Lehen abiaraztetik lan egiten duen sistema lasaia eta txukuna.
+5	Deskarga automatikoa
+6	Instalatzaileak behar duen guztia deskargatzen du.
+7	Zure fitxategiak seguru daude
+8	Zure fitxategiak gordeko dira.
+9	Programa ezagunak
+10	Erabiltzen dituzun programen baliokideak proposatuko ditugu.
+11	Windows unitatea BitLocker bidez zifratuta dago. Shrimp Windowsen ondoan instalatzeko, zifratzea desaktibatu behar da lehenik.
+12	Has gaitezen
+13	{n}. urratsa, guztira {total}
+14	Aukeratu unitate bat
+15	Aukeratu non prestatuko dugun Shrimp instalatzailea. Gutxienez {size} behar dira.
+16	Unitatea
+17	Unitateari buruz
+18	USB memoria, SD txartela edo kanpo-unitatea aukera dezakezu. Unitatean dagoen guztia ezabatuko da.
+19	Atzera
+20	Hurrengoa
+21	Aukeratu unitate bat
+22	Unitate hau txikiegia da. Gutxienez {size} behar dira.
+23	Ez da unitaterik aurkitu
+24	Konektatu unitate bat eta hemen agertuko da.
+25	Txikiegia
+26	Unitate erabilgarriak
+27	USB memoria
+28	SD txartela
+29	Kanpo-unitatea
+30	Zer gorde behar da?
+31	Instalatu aurretik, aukeratzen duzunaren kopia bat egingo dugu.
+32	Fitxategiak nola aukeratu
+33	Nire karpetak
+34	(Gomendatua)
+35	Dokumentuak, argazkiak eta bestelako gauza pertsonalak.
+36	Nik aukeratuko dut
+37	Aukeratu zure karpetak eta fitxategiak.
+38	Gordetzeko karpetak
+39	Dokumentuak
+40	Irudiak
+41	Mahaigaina
+42	Musika
+43	Bideoak
+44	Deskargak
+45	Gehitu karpeta…
+46	Gehitu fitxategia…
+47	Unitateko lekua
+48	Fitxategiak kopiatzeari buruz
+49	Windowseko zure fitxategiak aldatu gabe geratzen dira.
+50	Prestatu unitatea
+51	Kalkulatzen…
+52	Ez dago lekurik
+53	Gorde: {name}
+54	Kendu
+55	Kendu: {name}
+56	Oraindik ez da ezer aukeratu.
+57	{size} falta dira
+58	{total}-tik {free} libre
+59	Shrimp prestatzen
+60	{time} gehiago falta dira.
+61	Prestaketa eten da.
+62	Prestaketa amaitu da
+63	Dena prest dago.
+64	Shrimp deskargatzen
+65	Unitatean idazten
+66	Fitxategiak kopiatzen
+67	Ez deskonektatu unitatea amaitu arte.
+68	Utzi
+69	Saiatu berriro
+70	{size} deskargatu dira
+71	Konektatzen…
+72	{total}-tik {done} · {speed} · {left} falta dira
+73	Idatzita
+74	{time} behar ditu
+75	{pct} · {speed} · {left} falta dira
+76	Ez da fitxategirik aukeratu
+77	Ez dago kopiatzeko ezer
+78	{size} kopiatu dira
+79	{size} · {time} behar ditu
+80	gutxi gorabehera {time}
+81	minutu bat baino gutxiago
+82	Ez dago Interneteko konexiorik
+83	Ezin izan da Shrimp deskargatu.
+84	Egiaztatu Interneteko konexioa eta saiatu berriro.
+85	Deskargatutako irudia hondatuta dago
+86	Deskargatutako irudiak ez du egiaztapena gainditu.
+87	Saiatu berriro.
+88	Ez dago diskoan leku nahikorik
+89	Ez dago diskoan leku nahikorik.
+90	Egin lekua eta saiatu berriro.
+91	Ezin izan da unitatean idatzi
+92	Ezin izan da unitatean idatzi.
+93	Konektatu berriro edo aukeratu beste bat.
+94	Unitatea deskonektatu da
+95	Unitatea deskonektatu da.
+96	Konektatu berriro eta saiatu berriz.
+97	Ezin izan dira fitxategiak kopiatu
+98	Ezin izan dira fitxategiak kopiatu.
+99	Zerbait gaizki atera da
+100	Zerbait gaizki atera da.
+101	Dena prest
+102	Amaitzeko, berrabiarazi ordenagailua.
+103	Unitatea prest dago
+104	Shrimp instalatzeko zain dago.
+105	Zure fitxategiak seguru daude
+106	Kopia gorde da.
+107	Programak zain daude
+108	Instalatu ondoren baliokideak proposatuko ditugu.
+109	Gorde irekita dituzun dokumentuak berrabiarazi aurretik.
+110	Geroago
+111	Berrabiarazi
+112	Ezin izan da unitatetik abiatzea konfiguratu.
+113	Prestaketa utzi nahi duzu?
+114	Prestaketa gelditu egingo da. Unitatean idaztea hasi bada, berriro prestatu beharko duzu.
+115	Jarraitu
+116	Utzi prestaketa
+117	Ezin da deskarga-zerbitzariarekin konektatu.
+118	Deskarga-zerbitzariak {code} kodearekin erantzun du.
+119	Manifestua handiegia da.
+120	Manifestuaren sinadura ez da baliozkoa.
+121	Ez dago aldi baterako karpetarako sarbiderik.
+122	Ezin da deskargatzen ari den fitxategia gorde.
+123	Deskargatutako irudia ezin da unitatean idatzi.
+124	Unitateak leku gabe geratu da.
+125	Ezin izan da kopiaren deskribapena gorde.
+126	Prestaketa dagoeneko martxan dago.
+127	Ezin izan da deskarga hasi.
+128	Ezin izan da berrabiarazi. Egin ezazu Hasiera menutik.
+129	Ordenagailu hau ez da UEFI moduan abiarazten. Abiarazi eskuz unitatetik, abiarazte-menutik (normalean F12, F8 edo Esc tekla).
+130	Ez daukazu abiarazte-ezarpenak aldatzeko baimenik.
+131	Ez da unitatea aurkitu. Konektatu berriro.
+132	Firmwareak ez du abiarazte-sarrera onartu. Abiarazi ordenagailua eskuz unitatetik, abiarazte-menutik.
+133	Firmwareak ez du hurrengo abiarazteko ezarpena onartu. Abiarazi ordenagailua eskuz unitatetik, abiarazte-menutik.
+134	Shrimp Install-ek Microsoft Edge WebView2 osagaia behar du, baina ezin izan da abiarazi.\n\nEguneratu Windows edo instalatu WebView2 Runtime Microsoft-en webgunetik, eta saiatu berriro.
+135	Ezin izan da Shrimp Install-en leihoa (WebView2) ireki.
+136	Ezin izan da WebView2 osagaia abiarazi.
+137	Ez dago lekurik abiarazte-sarrerarako.
+138	Programaren interfazea falta da.

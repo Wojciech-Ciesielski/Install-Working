@@ -1,0 +1,5 @@
+[box]
+id = "help-links"
+version = "0.1.0"
+kind = "data"
+summary = "Adresy stron pomocy (help.json) wspólne dla aplikacji, Setup i Shrimp Install"

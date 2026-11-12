@@ -1,0 +1,138 @@
+1	Minimizo
+2	Mbyll
+3	Instalo Shrimp
+4	Një sistem i qetë dhe i rregullt që funksionon që nga nisja e parë.
+5	Shkarkim automatik
+6	Instaluesi shkarkon gjithçka që i nevojitet.
+7	Skedarët e tu janë të sigurt
+8	Skedarët e tu do të ruhen.
+9	Programe të njohura
+10	Do të sugjerojmë ekuivalentë të programeve që përdor.
+11	Disku i Windows është i enkriptuar me BitLocker. Mund ta instalosh Shrimp pranë Windows vetëm pasi të çaktivizosh enkriptimin.
+12	Fillojmë
+13	Hapi {n} nga {total}
+14	Zgjidh një disk
+15	Zgjidh ku ta përgatisim instaluesin e Shrimp. Nevojiten të paktën {size}.
+16	Disku
+17	Rreth diskut
+18	Mund të zgjedhësh një USB, një kartë SD ose një disk të jashtëm. Çdo gjë që ndodhet tani në disk do të fshihet.
+19	Prapa
+20	Tjetra
+21	Zgjidh një disk
+22	Ky disk është shumë i vogël. Nevojiten të paktën {size}.
+23	Nuk u gjet asnjë disk
+24	Lidh një disk dhe ai do të shfaqet këtu.
+25	Shumë i vogël
+26	Disqet e disponueshëm
+27	USB
+28	Kartë SD
+29	Disk i jashtëm
+30	Çfarë të ruhet?
+31	Para instalimit, do të bëjmë një kopje të asaj që zgjedh.
+32	Si të zgjedhësh skedarët
+33	Dosjet e mia
+34	(E rekomanduar)
+35	Dokumente, foto dhe gjëra të tjera personale.
+36	Do të zgjedh vetë
+37	Zgjidh dosjet dhe skedarët e tu.
+38	Dosjet që do të ruhen
+39	Dokumente
+40	Imazhe
+41	Desktopi
+42	Muzikë
+43	Video
+44	Shkarkime
+45	Shto dosje…
+46	Shto skedar…
+47	Hapësira në disk
+48	Rreth kopjimit të skedarëve
+49	Skedarët e tu në Windows mbeten të pandryshuar.
+50	Përgatit diskun
+51	Po llogaritet…
+52	Nuk ka hapësirë
+53	Ruaj: {name}
+54	Hiq
+55	Hiq: {name}
+56	Ende nuk është zgjedhur asgjë.
+57	Mungojnë {size}
+58	{free} të lira nga {total}
+59	Po përgatitet Shrimp
+60	Edhe {time}.
+61	Përgatitja është pezulluar.
+62	Përgatitja përfundoi
+63	Gjithçka është gati.
+64	Po shkarkohet Shrimp
+65	Po shkruhet në disk
+66	Po kopjohen skedarët
+67	Mos e hiq diskun deri sa të përfundojë.
+68	Anulo
+69	Provo përsëri
+70	U shkarkuan {size}
+71	Po lidhet…
+72	{done} nga {total} · {speed} · edhe {left}
+73	U shkrua
+74	Do të zgjasë {time}
+75	{pct} · {speed} · edhe {left}
+76	Nuk është zgjedhur asnjë skedar
+77	Nuk ka asgjë për t'u kopjuar
+78	U kopjuan {size}
+79	{size} · do të zgjasë {time}
+80	rreth {time}
+81	më pak se një minutë
+82	Nuk ka lidhje me internetin
+83	Shrimp nuk mund të shkarkohej.
+84	Kontrollo lidhjen me internetin dhe provo përsëri.
+85	Imazhi i shkarkuar është i dëmtuar
+86	Imazhi i shkarkuar nuk e kaloi verifikimin.
+87	Provo përsëri.
+88	Nuk ka hapësirë të mjaftueshme në disk
+89	Nuk ka hapësirë të mjaftueshme në disk.
+90	Liro pak hapësirë dhe provo përsëri.
+91	Nuk u shkrua dot në disk
+92	Nuk u shkrua dot në disk.
+93	Lidhe përsëri ose zgjidh një tjetër.
+94	Disku u shkëput
+95	Disku u shkëput.
+96	Lidhe përsëri dhe provo prapë.
+97	Skedarët nuk u kopjuan dot
+98	Skedarët nuk u kopjuan dot.
+99	Diçka shkoi keq
+100	Diçka shkoi keq.
+101	Gjithçka gati
+102	Rinise kompjuterin për të përfunduar.
+103	Disku është gati
+104	Shrimp po pret të instalohet.
+105	Skedarët e tu janë të sigurt
+106	Kopja u ruajt.
+107	Programet po presin
+108	Pas instalimit do të sugjerojmë ekuivalentë.
+109	Ruaj dokumentet e hapura para rinisjes.
+110	Më vonë
+111	Rinis
+112	Nisja nga disku nuk u konfigurua dot.
+113	Të anulohet përgatitja?
+114	Përgatitja do të ndalet. Nëse shkrimi në disk ka filluar tashmë, do të duhet ta përgatitësh përsëri.
+115	Vazhdo
+116	Anulo përgatitjen
+117	Nuk mund të lidhet me serverin e shkarkimit.
+118	Serveri i shkarkimit u përgjigj me kodin {code}.
+119	Manifesti është shumë i madh.
+120	Nënshkrimi i manifestit është i pavlefshëm.
+121	Nuk ka qasje në dosjen e përkohshme.
+122	Skedari që po shkarkohet nuk mund të ruhet.
+123	Imazhi i shkarkuar nuk mund të shkruhet në disk.
+124	Disku mbeti pa hapësirë.
+125	Përshkrimi i kopjes nuk u ruajt dot.
+126	Përgatitja është tashmë në ecuri.
+127	Shkarkimi nuk mund të fillonte.
+128	Rinisja nuk u bë dot. Bëje nga menyja Start.
+129	Ky kompjuter nuk niset në modalitetin UEFI. Nise nga disku manualisht, nga menyja e nisjes (zakonisht me tastin F12, F8 ose Esc).
+130	Nuk ka leje për të ndryshuar cilësimet e nisjes.
+131	Disku nuk u gjet. Lidhe përsëri.
+132	Firmueri nuk e pranoi hyrjen e nisjes. Nise kompjuterin nga disku manualisht, nga menyja e nisjes.
+133	Firmueri nuk e pranoi cilësimin e nisjes së radhës. Nise kompjuterin nga disku manualisht, nga menyja e nisjes.
+134	Shrimp Install ka nevojë për komponentin Microsoft Edge WebView2, por ai nuk mund të nisej.\n\nPërditëso Windows-in ose instalo WebView2 Runtime nga Microsoft dhe provo përsëri.
+135	Dritarja e Shrimp Install (WebView2) nuk mund të hapej.
+136	Komponenti WebView2 nuk mund të nisej.
+137	Nuk ka vend të lirë për hyrjen e nisjes.
+138	Mungon ndërfaqja e programit.

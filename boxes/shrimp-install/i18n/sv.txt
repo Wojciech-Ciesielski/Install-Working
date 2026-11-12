@@ -1,0 +1,138 @@
+1	Minimera
+2	Stäng
+3	Installera Shrimp
+4	Ett lugnt, ordnat system som fungerar från första start.
+5	Automatisk nedladdning
+6	Installationsprogrammet laddar ned allt som behövs.
+7	Dina filer är säkra
+8	Dina filer bevaras.
+9	Välkända program
+10	Vi föreslår motsvarigheter till de program du använder.
+11	Windows-enheten är krypterad med BitLocker. Du kan installera Shrimp bredvid Windows först när du har stängt av krypteringen.
+12	Kom igång
+13	Steg {n} av {total}
+14	Välj en enhet
+15	Välj var vi förbereder installationsprogrammet för Shrimp. Minst {size} behövs.
+16	Enhet
+17	Om enheten
+18	Du kan välja ett USB-minne, ett SD-kort eller en extern enhet. Allt som finns på den nu raderas.
+19	Tillbaka
+20	Nästa
+21	Välj en enhet
+22	Den här enheten är för liten. Minst {size} behövs.
+23	Ingen enhet hittades
+24	Anslut en enhet så visas den här.
+25	För liten
+26	Tillgängliga enheter
+27	USB-minne
+28	SD-kort
+29	Extern enhet
+30	Vad ska skyddas?
+31	Innan vi installerar gör vi en kopia av det du väljer.
+32	Så väljer du filer
+33	Mina mappar
+34	(Rekommenderas)
+35	Dokument, foton och annat personligt.
+36	Jag väljer själv
+37	Välj dina egna mappar och filer.
+38	Mappar att behålla
+39	Dokument
+40	Bilder
+41	Skrivbord
+42	Musik
+43	Videor
+44	Hämtat
+45	Lägg till mapp…
+46	Lägg till fil…
+47	Utrymme på enheten
+48	Om kopiering av filer
+49	Dina filer i Windows förblir oförändrade.
+50	Förbered enheten
+51	Räknar…
+52	Inget utrymme
+53	Behåll: {name}
+54	Ta bort
+55	Ta bort: {name}
+56	Inget valt ännu.
+57	{size} saknas
+58	{free} lediga av {total}
+59	Förbereder Shrimp
+60	Det tar ungefär {time} till.
+61	Förberedelsen har pausats.
+62	Förberedelsen är klar
+63	Allt är klart.
+64	Laddar ned Shrimp
+65	Skriver till enheten
+66	Kopierar filer
+67	Koppla inte bort enheten förrän det är klart.
+68	Avbryt
+69	Försök igen
+70	{size} nedladdat
+71	Ansluter…
+72	{done} av {total} · {speed} · {left} kvar
+73	Skrivet
+74	Tar {time}
+75	{pct} · {speed} · {left} kvar
+76	Inga filer valda
+77	Inget att kopiera
+78	{size} kopierat
+79	{size} · tar {time}
+80	ungefär {time}
+81	mindre än en minut
+82	Ingen internetanslutning
+83	Det gick inte att ladda ned Shrimp.
+84	Kontrollera din internetanslutning och försök igen.
+85	Den nedladdade avbilden är skadad
+86	Den nedladdade avbilden klarade inte verifieringen.
+87	Försök igen.
+88	Det finns inte tillräckligt med diskutrymme
+89	Det finns inte tillräckligt med diskutrymme.
+90	Frigör utrymme och försök igen.
+91	Det gick inte att skriva till enheten
+92	Det gick inte att skriva till enheten.
+93	Anslut den igen eller välj en annan.
+94	Enheten kopplades bort
+95	Enheten kopplades bort.
+96	Anslut den igen och försök på nytt.
+97	Det gick inte att kopiera filerna
+98	Det gick inte att kopiera filerna.
+99	Något gick fel
+100	Något gick fel.
+101	Klart
+102	Starta om datorn för att slutföra.
+103	Enheten är klar
+104	Shrimp väntar på att installeras.
+105	Dina filer är säkra
+106	Kopian har sparats.
+107	Program väntar
+108	Efter installationen föreslår vi motsvarigheter.
+109	Spara dina öppna dokument innan du startar om.
+110	Senare
+111	Starta om
+112	Det gick inte att ställa in start från enheten.
+113	Avbryta förberedelsen?
+114	Förberedelsen stoppas. Om skrivningen till enheten redan har börjat måste du förbereda den igen.
+115	Fortsätt
+116	Avbryt förberedelsen
+117	Det går inte att ansluta till nedladdningsservern.
+118	Nedladdningsservern svarade med koden {code}.
+119	Manifestet är för stort.
+120	Manifestets signatur är ogiltig.
+121	Ingen åtkomst till den tillfälliga mappen.
+122	Filen som laddas ned kan inte sparas.
+123	Den nedladdade avbilden kan inte skrivas till enheten.
+124	Enheten har fått slut på utrymme.
+125	Det gick inte att spara beskrivningen av kopian.
+126	Förberedelsen pågår redan.
+127	Det gick inte att starta nedladdningen.
+128	Det gick inte att starta om. Gör det från Start-menyn.
+129	Den här datorn startar inte i UEFI-läge. Starta den manuellt från enheten via startmenyn (oftast tangenten F12, F8 eller Esc).
+130	Saknar behörighet att ändra startinställningarna.
+131	Enheten hittades inte. Anslut den igen.
+132	Fast programvara godtog inte startposten. Starta datorn manuellt från enheten via startmenyn.
+133	Fast programvara godtog inte inställningen för nästa start. Starta datorn manuellt från enheten via startmenyn.
+134	Shrimp Install behöver komponenten Microsoft Edge WebView2, men den kunde inte startas.\n\nUppdatera Windows eller installera WebView2 Runtime från Microsoft och försök igen.
+135	Det gick inte att öppna fönstret för Shrimp Install (WebView2).
+136	Det gick inte att starta komponenten WebView2.
+137	Det finns ingen ledig plats för startposten.
+138	Programmets gränssnitt saknas.
