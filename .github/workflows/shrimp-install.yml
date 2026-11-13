@@ -54,6 +54,10 @@ jobs:
           if ($LASTEXITCODE -ne 0) { throw 'kompilacja' }
           New-Item -ItemType Directory -Force ..\..\out | Out-Null
           Copy-Item target\release\shrimp-install.exe ..\..\out\shrimp-install.exe
+          # Program musi działać na Windowsie bez pakietu VC++ Redistributable: w tabeli importów nie może być
+          # vcruntime/msvcp (to ich brak dawał błąd „nie znaleziono VCRUNTIME140.dll”).
+          $txt = [Text.Encoding]::ASCII.GetString([IO.File]::ReadAllBytes("..\..\out\shrimp-install.exe"))
+          if ($txt -match '(?i)vcruntime\d|msvcp\d|vcomp\d') { throw 'program zależy od bibliotek VC++ (zlinkuj CRT statycznie)' }
           Get-FileHash ..\..\out\shrimp-install.exe -Algorithm SHA256 | Format-List
           "{0:N1} MB" -f ((Get-Item ..\..\out\shrimp-install.exe).Length / 1MB)
       - name: Dane z Windows (--collect)
