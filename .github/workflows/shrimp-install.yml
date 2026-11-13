@@ -95,9 +95,10 @@ jobs:
           if (-not (Test-Path "$dst\shrimp-backup\files\Pusty folder")) { throw 'brak pustego folderu' }
           Get-Content "$dst\shrimp-backup\manifest.tsv"
       - name: Pełny zapis na pusty wirtualny nośnik 32 GB (--auto-disk)
-        # Jak u użytkownika: całkowicie pusty dysk (bez tablicy partycji), ISO z ostatniego wydania,
-        # potem sprawdzenie układu (FAT32 SHRIMP_BOOT + exFAT SHRIMP_LIVE) i plików. Dziennik trafia do artefaktu.
-        timeout-minutes: 30
+        # Jak u użytkownika: całkowicie pusty dysk (bez tablicy partycji), ISO z ostatniego wydania pobierane przez
+        # sam program z manifestu (ta sama ścieżka co u użytkownika), potem sprawdzenie układu (FAT32 SHRIMP_BOOT +
+        # exFAT SHRIMP_LIVE) i plików. Dziennik trafia do artefaktu.
+        timeout-minutes: 50
         env:
           GH_TOKEN: ${{ github.token }}
           SHRIMP_MANIFEST_URL: https://shrimp-organization.dev/download/manifest.json
@@ -108,14 +109,15 @@ jobs:
           $m = $null
           if ($env:SHRIMP_MANIFEST_URL) { try { $m = Invoke-RestMethod $env:SHRIMP_MANIFEST_URL } catch { "manifest niedostępny: $_" } }
           if ($m) {
-            $iso = Join-Path "$tmp\iso" ([IO.Path]::GetFileName(([Uri]$m.url).AbsolutePath))
-            curl.exe -fsSL --retry 5 -o $iso $m.url
-            if ((Get-FileHash $iso -Algorithm SHA256).Hash -ne $m.sha256.ToUpper()) { throw 'suma SHA-256 ISO z R2 się nie zgadza' }
+            # Program sam pobiera obraz z manifestu (pobieranie, wznawianie, suma SHA-256), bez --source.
+            "obraz z manifestu: $($m.url) ($($m.size) B)"
+            $src = @()
           } else {
             gh release download --repo Wojciech-Ciesielski/ShrimpWorking --pattern '*.iso' --dir "$tmp\iso"
+            $iso = (Get-ChildItem "$tmp\iso\*.iso" | Select-Object -First 1).FullName
+            "obraz: $iso ($((Get-Item $iso).Length) B)"
+            $src = @('--source', $iso)
           }
-          $iso = (Get-ChildItem "$tmp\iso\*.iso" | Select-Object -First 1).FullName
-          "obraz: $iso ($((Get-Item $iso).Length) B)"
           $vhd = "$tmp\nosnik.vhdx"
           "create vdisk file=`"$vhd`" maximum=30000 type=expandable`nselect vdisk file=`"$vhd`"`nattach vdisk" | Set-Content "$tmp\dp.txt" -Encoding ascii
           diskpart /s "$tmp\dp.txt" | Out-Host
@@ -125,12 +127,12 @@ jobs:
           $disk | Initialize-Disk -PartitionStyle MBR -PassThru | New-Partition -UseMaximumSize -AssignDriveLetter | Format-Volume -FileSystem FAT32 -NewFileSystemLabel PENDRIVE -Confirm:$false | Out-Null
           $old = (Get-Partition -DiskNumber $disk.Number | Get-Volume).Path
           Set-Content -LiteralPath (Join-Path $old 'lista zakupów.txt') 'mleko, chleb' -Encoding utf8
-          $p = Start-Process out\shrimp-install.exe -ArgumentList '--source', $iso, '--auto-disk', $disk.Number -PassThru
+          $p = Start-Process out\shrimp-install.exe -ArgumentList ($src + @('--auto-disk', $disk.Number)) -PassThru
           $log = "$env:LOCALAPPDATA\Shrimp Install\shrimp-install.log"
-          $ok = $p.WaitForExit(25 * 60 * 1000)
+          $ok = $p.WaitForExit(45 * 60 * 1000)
           Copy-Item $log out\auto-disk.log -ErrorAction SilentlyContinue
           Get-Content $log -ErrorAction SilentlyContinue | Select-Object -Last 120 | Out-Host
-          if (-not $ok) { Stop-Process -Id $p.Id -Force; throw 'program nie skończył zapisu w 25 minut (zawieszenie)' }
+          if (-not $ok) { Stop-Process -Id $p.Id -Force; throw 'program nie skończył pobierania i zapisu w 45 minut (zawieszenie)' }
           if ($p.ExitCode -ne 0) { throw "kod wyjścia $($p.ExitCode)" }
           $parts = @(Get-Partition -DiskNumber $disk.Number | Sort-Object Offset)
           $parts | Format-Table PartitionNumber, Offset, Size, GptType | Out-Host
