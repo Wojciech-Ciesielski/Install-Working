@@ -11,7 +11,7 @@ use std::fs::{self, File, OpenOptions};
 use std::io::{Read, Seek, SeekFrom, Write};
 use std::path::{Path, PathBuf};
 use std::time::Duration;
-use ureq::tls::{TlsConfig, TlsProvider};
+use ureq::tls::{RootCerts, TlsConfig, TlsProvider};
 use ureq::Agent;
 
 const ATTEMPTS: u32 = 4;
@@ -27,12 +27,16 @@ pub struct Image {
 
 fn agent() -> Agent {
     Agent::config_builder()
-        .tls_config(TlsConfig::builder().provider(TlsProvider::NativeTls).build())
+        // Certyfikaty z magazynu Windows. Domyślna lista ureq (WebPki) z SChannel odrzucała łańcuch Cloudflare
+        // („unable to find any user-specified roots in the final cert chain”), więc manifest nie dał się pobrać.
+        .tls_config(TlsConfig::builder().provider(TlsProvider::NativeTls).root_certs(RootCerts::PlatformVerifier).build())
         .https_only(true)
         .http_status_as_error(false)
         .max_redirects(6)
         .timeout_connect(Some(Duration::from_secs(20)))
-        .timeout_recv_body(Some(Duration::from_secs(60)))
+        // Limit na pojedynczy odczyt, nie na całe ciało odpowiedzi: timeout_recv_body w ureq 3 to łączny czas
+        // pobierania, więc obraz 6 GB był przerywany co 60 s i po 4 próbach pobieranie kończyło się błędem.
+        .timeout_per_read(Some(Duration::from_secs(60)))
         .user_agent(concat!("ShrimpInstall/", env!("CARGO_PKG_VERSION")))
         .build()
         .into()
@@ -46,8 +50,9 @@ fn net_kind(e: &ureq::Error) -> &'static str {
 }
 
 fn small(a: &Agent, url: &str) -> R<Vec<u8>> {
+    crate::log!("pobieram {url}");
     let mut r = a.get(url).call().map_err(|e| {
-        crate::log!("{url}: {e}");
+        crate::log!("{url}: {e:?}");
         fail(1, net_kind(&e), None)
     })?;
     let st = r.status().as_u16();
@@ -55,7 +60,10 @@ fn small(a: &Agent, url: &str) -> R<Vec<u8>> {
         crate::log!("{url}: HTTP {st}");
         return Err(fail(1, "other", Some(&format!("http:{st}"))));
     }
-    r.body_mut().with_config().limit(256 * 1024).read_to_vec().map_err(|e| fail(1, net_kind(&e), None))
+    r.body_mut().with_config().limit(256 * 1024).read_to_vec().map_err(|e| {
+        crate::log!("{url}: odczyt: {e:?}");
+        fail(1, net_kind(&e), None)
+    })
 }
 
 fn verify_sig(data: &[u8], sig: &[u8]) -> bool {
@@ -174,7 +182,7 @@ pub fn obtain(ctx: &Ctx, source: Option<&Path>, manifest_url: &str, known: Optio
             }
             match req.call() {
                 Err(e) => {
-                    crate::log!("{}: {e}", m.url);
+                    crate::log!("{}: {e:?}", m.url);
                     last_kind = net_kind(&e);
                     if last_kind != "offline" {
                         return Err(fail(1, last_kind, Some("connect")));
