@@ -117,7 +117,16 @@ fn store_apps(seen: &mut HashSet<String>) -> Vec<Value> {
         .collect()
 }
 
-/// Pełny zbiór danych do shrimp.json (bez plików): windows, user, locale, apps, storeApps.
+/// Domyślna przeglądarka Windows: ProgId z wyboru użytkownika dla https (np. „ChromeHTML”, „MSEdgeHTM”,
+/// „FirefoxURL-308046B0AF4A39CB”). Onboarding Shrimp zaznacza jej odpowiednik w kroku „Przeglądarka”.
+fn default_browser() -> Option<String> {
+    ["https", "http"].iter().find_map(|scheme| {
+        let k = hkcu().open_subkey(format!(r"Software\Microsoft\Windows\Shell\Associations\UrlAssociations\{scheme}\UserChoice")).ok()?;
+        s_val(&k, "ProgId")
+    })
+}
+
+/// Pełny zbiór danych do shrimp.json (bez plików): windows, user, locale, apps, storeApps, defaultBrowser.
 pub fn collect(bitlocker: bool) -> Value {
     let intl = hkcu().open_subkey(r"Control Panel\International").ok();
     let format = intl.as_ref().and_then(|k| s_val(k, "LocaleName"));
@@ -135,7 +144,7 @@ pub fn collect(bitlocker: bool) -> Value {
         u["fullName"] = json!(f);
     }
     let mut seen = HashSet::new();
-    json!({
+    let mut out = json!({
         "windows": windows,
         "user": u,
         "locale": {
@@ -148,5 +157,9 @@ pub fn collect(bitlocker: bool) -> Value {
         },
         "apps": apps(&mut seen),
         "storeApps": store_apps(&mut seen),
-    })
+    });
+    if let Some(b) = default_browser() {
+        out["defaultBrowser"] = json!(b);
+    }
+    out
 }

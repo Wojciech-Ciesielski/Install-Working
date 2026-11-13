@@ -11,6 +11,8 @@
     "nvidia": "nvidia-driver",
     "apps": "shrimp-apps",
     "panko": "panko",
-    "cherry": "terminal"
+    "cocktail": "cocktail",
+    "cherry": "terminal",
+    "filer": "filer"
   }
 }

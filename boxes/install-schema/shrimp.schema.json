@@ -59,6 +59,7 @@
       }
     },
     "storeApps": { "type": "array", "items": { "type": "string" } },
+    "defaultBrowser": { "type": "string", "description": "ProgId domyślnej przeglądarki Windows dla https (HKCU UserChoice), np. ChromeHTML, MSEdgeHTM, FirefoxURL-…; onboarding zaznacza jej odpowiednik." },
     "files": {
       "type": "array",
       "items": {
