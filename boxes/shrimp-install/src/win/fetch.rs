@@ -11,7 +11,7 @@ use std::fs::{self, File, OpenOptions};
 use std::io::{Read, Seek, SeekFrom, Write};
 use std::path::{Path, PathBuf};
 use std::time::Duration;
-use ureq::tls::{TlsConfig, TlsProvider};
+use ureq::tls::{RootCerts, TlsConfig, TlsProvider};
 use ureq::Agent;
 
 const ATTEMPTS: u32 = 4;
@@ -27,7 +27,9 @@ pub struct Image {
 
 fn agent() -> Agent {
     Agent::config_builder()
-        .tls_config(TlsConfig::builder().provider(TlsProvider::NativeTls).build())
+        // Certyfikaty z magazynu Windows. Domyślna lista ureq (WebPki) z SChannel odrzucała łańcuch Cloudflare
+        // („unable to find any user-specified roots in the final cert chain”), więc manifest nie dał się pobrać.
+        .tls_config(TlsConfig::builder().provider(TlsProvider::NativeTls).root_certs(RootCerts::PlatformVerifier).build())
         .https_only(true)
         .http_status_as_error(false)
         .max_redirects(6)
