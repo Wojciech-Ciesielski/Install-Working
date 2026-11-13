@@ -1,0 +1,5 @@
+# Windows: biblioteka uruchomieniowa C (VCRUNTIME140.dll, UCRT) jest wkompilowana w .exe. Bez tego program
+# nie startuje na Windowsie bez pakietu „Microsoft Visual C++ Redistributable” (błąd: nie znaleziono VCRUNTIME140.dll).
+# Shrimp Install ma działać na świeżym Windowsie z jednego pliku.
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-C", "target-feature=+crt-static"]
