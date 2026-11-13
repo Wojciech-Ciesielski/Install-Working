@@ -123,3 +123,34 @@ pub fn copy_file(src: &Path, dst: &Path, buf: &mut [u8], cancel: &AtomicBool, on
     }
     Ok(n)
 }
+
+/// Nazwy plików nośnika, których szuka system live (LiveOS/squashfs.img, LiveOS/shrimp-repo.squashfs).
+/// Obraz bez drzewa Joliet Windows pokazuje z nazwami ISO 9660: wielkie litery i „_” zamiast „-”
+/// (Beta 5: LIVEOS\SHRIMP_REPO.SQUASHFS); taki plik zapisujemy pod nazwą, której szuka Linux.
+pub fn canonical_rel(rel: &Path) -> PathBuf {
+    const KNOWN: [&str; 2] = ["squashfs.img", "shrimp-repo.squashfs"];
+    let mut parts: Vec<String> = rel.components().map(|c| c.as_os_str().to_string_lossy().into_owned()).collect();
+    if parts.first().is_some_and(|p| p.eq_ignore_ascii_case("LiveOS")) {
+        parts[0] = "LiveOS".into();
+        if parts.len() == 2 {
+            let norm = parts[1].to_ascii_lowercase().replace('_', "-");
+            if let Some(k) = KNOWN.iter().find(|k| **k == norm) {
+                parts[1] = (*k).to_string();
+            }
+        }
+    }
+    parts.iter().collect()
+}
+
+
+#[cfg(test)]
+mod canonical_tests {
+    #[test]
+    fn live_names_from_iso9660() {
+        use std::path::{Path, PathBuf};
+        assert_eq!(super::canonical_rel(Path::new("LIVEOS/SHRIMP_REPO.SQUASHFS")), PathBuf::from("LiveOS/shrimp-repo.squashfs"));
+        assert_eq!(super::canonical_rel(Path::new("LiveOS/SQUASHFS.IMG")), PathBuf::from("LiveOS/squashfs.img"));
+        assert_eq!(super::canonical_rel(Path::new("LiveOS/OTHER_FILE")), PathBuf::from("LiveOS/OTHER_FILE"));
+        assert_eq!(super::canonical_rel(Path::new("EFI/BOOT/bootx64.efi")), PathBuf::from("EFI/BOOT/bootx64.efi"));
+    }
+}

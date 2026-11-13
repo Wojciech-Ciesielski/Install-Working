@@ -19,6 +19,7 @@
     { "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)", "publisher": "Microsoft Corporation", "version": null }
   ],
   "storeApps": ["SpotifyAB.SpotifyMusic"],
+  "defaultBrowser": "FirefoxURL-308046B0AF4A39CB",
   "files": [
     { "key": "documents", "path": "files/documents", "source": "C:\\Users\\jan\\Documents", "bytes": 3435973836 },
     { "key": "other", "path": "files/other/Projekty", "source": "D:\\Projekty", "bytes": 1024 }

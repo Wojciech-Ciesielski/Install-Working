@@ -421,6 +421,13 @@ pub fn scan_image(root: &Path) -> Result<Vec<ImageFile>, String> {
     if !has(r"LiveOS\squashfs.img") || !has(r"EFI\BOOT\bootx64.efi") {
         return Err("brak LiveOS\\squashfs.img albo EFI\\BOOT\\bootx64.efi".into());
     }
+    // Do dziennika: co z obrazu idzie na exFAT (repozytorium do instalacji bez internetu albo jego brak).
+    for f in v.iter().filter(|f| f.live && !f.dir) {
+        crate::log!("obraz: {} ({} B) → {}", f.rel.display(), f.size, tree::canonical_rel(&f.rel).display());
+    }
+    if !v.iter().any(|f| tree::canonical_rel(&f.rel) == Path::new("LiveOS").join("shrimp-repo.squashfs")) {
+        crate::log!("obraz bez LiveOS\\shrimp-repo.squashfs: instalacja Shrimp będzie wymagała internetu");
+    }
     if let Some(f) = v.iter().find(|f| !f.live && f.size > FAT32_MAX) {
         return Err(format!("{} > 4 GB poza LiveOS", f.rel.display()));
     }
@@ -432,7 +439,7 @@ fn copy_image(ctx: &Ctx, iso: &Path, files: &[ImageFile], boot: &Path, live: &Pa
     let mut done = 0u64;
     ctx.speed_reset(0);
     for f in files {
-        let dst = if f.live { live } else { boot }.join(&f.rel);
+        let dst = if f.live { live } else { boot }.join(tree::canonical_rel(&f.rel));
         if f.dir {
             fs::create_dir_all(&dst).map_err(|e| tree::media_error(2, &e).unwrap_or(fail(2, "write", None)))?;
             continue;
