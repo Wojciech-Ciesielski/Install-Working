@@ -120,7 +120,16 @@ if ($d.IsBoot -or $d.IsSystem) {{ throw 'SYSTEM_DISK' }}
 if ($d.IsOffline) {{ Set-Disk -Number $n -IsOffline $false }}
 if ($d.IsReadOnly) {{ Set-Disk -Number $n -IsReadOnly $false }}
 if ([string]$d.PartitionStyle -ne 'RAW') {{ Clear-Disk -Number $n -RemoveData -RemoveOEM -Confirm:$false }}
-Initialize-Disk -Number $n -PartitionStyle GPT
+# Pendrive'y (nośniki wymienne) po Clear-Disk często zostają zainicjowane (MBR), a Initialize-Disk kończy się
+# wtedy błędem „The disk has already been initialized”. Styl partycji czytamy więc od nowa i zmieniamy go na GPT.
+Update-HostStorageCache -ErrorAction SilentlyContinue
+$d = Get-Disk -Number $n
+Get-Partition -DiskNumber $n -ErrorAction SilentlyContinue | Remove-Partition -Confirm:$false -ErrorAction SilentlyContinue
+switch ([string]$d.PartitionStyle) {{
+  'RAW' {{ Initialize-Disk -Number $n -PartitionStyle GPT }}
+  'GPT' {{ }}
+  default {{ Set-Disk -Number $n -PartitionStyle GPT }}
+}}
 Get-Partition -DiskNumber $n -ErrorAction SilentlyContinue | Where-Object {{ $_.Type -eq 'Reserved' }} | Remove-Partition -Confirm:$false
 $b = New-Partition -DiskNumber $n -Size {boot_bytes} -GptType '{BASIC_DATA}'
 $bv = Format-Volume -Partition $b -FileSystem FAT32 -NewFileSystemLabel 'SHRIMP_BOOT' -Confirm:$false -Force
