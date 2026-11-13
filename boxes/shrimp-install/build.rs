@@ -63,7 +63,7 @@ fn main() {
     fs::write(out.join("native_i18n.rs"), src).unwrap();
 
     // Manifest pobierania i klucz podpisu
-    let url = env::var("SHRIMP_MANIFEST_URL").ok().filter(|s| !s.is_empty()).unwrap_or_else(|| "https://download.shrimp.example/install/manifest.json".into());
+    let url = env::var("SHRIMP_MANIFEST_URL").ok().filter(|s| !s.is_empty()).unwrap_or_else(|| "https://shrimp-organization.dev/download/manifest.json".into());
     assert!(url.starts_with("https://") && url.chars().all(|c| c.is_ascii_alphanumeric() || "._/:@%?=&-~".contains(c)), "niedozwolony adres manifestu");
     let key = match env::var("SHRIMP_MANIFEST_PUBKEY") {
         Ok(p) if !p.is_empty() => fs::read_to_string(&p).expect("SHRIMP_MANIFEST_PUBKEY: plik PEM"),

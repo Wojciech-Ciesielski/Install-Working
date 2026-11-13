@@ -43,11 +43,11 @@ jobs:
       - uses: actions/download-artifact@v8
         with: { name: install-ui, path: ui-dist }
       - name: Kompilacja (Rust, MSVC)
-        # Manifest ISO jest w Cloudflare R2 (wydania CoreOS-Working): zmienna repozytorium SHRIMP_MANIFEST_URL
-        # (np. https://<publiczny adres bucketu>/manifest.json). Bez niej program ma adres przykładowy.
+        # Manifest ISO jest w Cloudflare R2 (wydania CoreOS-Working), a podaje go strona pod /download/ (Site-Working).
+        # Adres jest stały, zmienna repozytorium SHRIMP_MANIFEST_URL nie jest już potrzebna.
         working-directory: boxes/shrimp-install
         env:
-          SHRIMP_MANIFEST_URL: ${{ vars.SHRIMP_MANIFEST_URL }}
+          SHRIMP_MANIFEST_URL: https://shrimp-organization.dev/download/manifest.json
         run: |
           $env:SHRIMP_UI_HTML = "$env:GITHUB_WORKSPACE\ui-dist\index.html"
           cargo build --release --locked
@@ -96,7 +96,7 @@ jobs:
         timeout-minutes: 30
         env:
           GH_TOKEN: ${{ github.token }}
-          SHRIMP_MANIFEST_URL: ${{ vars.SHRIMP_MANIFEST_URL }}
+          SHRIMP_MANIFEST_URL: https://shrimp-organization.dev/download/manifest.json
         run: |
           $tmp = $env:RUNNER_TEMP
           # ISO z ostatniego wydania: manifest w R2 (CoreOS-Working); dopóki go nie ma, ostatnie wydanie ShrimpWorking.

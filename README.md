@@ -4,7 +4,7 @@ Repozytorium robocze **Shrimp Install**: programu dla Windows (własny kod w Rus
 
 - Kod i opis: [`boxes/shrimp-install/README.md`](boxes/shrimp-install/README.md). Budowa `.exe`: workflow **Shrimp Install** (artefakt `shrimp-install`).
 - Kontrakt z Setup w ISO: box `install-schema` (`shrimp.schema.json`). To repozytorium jest jego źródłem; kopia w CoreOS-Working musi być taka sama.
-- ISO: Cloudflare R2, adres manifestu w zmiennej repozytorium `SHRIMP_MANIFEST_URL` (Settings → Secrets and variables → Actions → Variables), np. `https://<publiczny adres bucketu>/manifest.json`. Wydania ISO robi CoreOS-Working.
+- ISO: Cloudflare R2, manifest pod stałym adresem `https://shrimp-organization.dev/download/manifest.json` (strona podaje pliki z R2 pod `/download/`). Wydania ISO robi CoreOS-Working.
 - Wydanie programu: workflow **Release** („Shrimp Install Beta”, `.exe` + `SHA256SUMS`).
 
 Kopie wspólnych boxów (zmieniaj najpierw w źródle): `shrimp-box`, `i18n-core` → CoreOS-Working; `help-links` → Site-Working; `install-schema` → tutaj.

@@ -2,8 +2,8 @@ name: Release
 
 # Wydanie Shrimp Install: buduje shrimp-install.exe (workflow Shrimp Install) albo bierze gotowy przebieg
 # z tego samego commita (reuse) i tworzy wydanie GitHub z .exe i SHA256SUMS.
-# ISO jest w Cloudflare R2 (wydania CoreOS-Working); program czyta manifest z adresu w zmiennej
-# repozytorium SHRIMP_MANIFEST_URL, wkompilowanego przy budowie.
+# ISO jest w Cloudflare R2 (wydania CoreOS-Working); program czyta manifest z adresu
+# https://shrimp-organization.dev/download/manifest.json (strona podaje pliki z R2), wkompilowanego przy budowie.
 on:
   workflow_dispatch:
     inputs:
@@ -41,11 +41,11 @@ jobs:
       GH_TOKEN: ${{ github.token }}
       REPO: ${{ github.repository }}
       TAG: ${{ inputs.tag }}
-      MANIFEST_URL: ${{ vars.SHRIMP_MANIFEST_URL }}
+      MANIFEST_URL: https://shrimp-organization.dev/download/manifest.json
     steps:
       - name: Tag i adres manifestu
         run: |
-          [ -n "$MANIFEST_URL" ] || { echo "::error::Brak zmiennej repozytorium SHRIMP_MANIFEST_URL (adres manifest.json w R2): bez niej program nie znajdzie ISO"; exit 1; }
+          [ -n "$MANIFEST_URL" ] || { echo "::error::Brak adresu manifestu: bez niego program nie znajdzie ISO"; exit 1; }
           if gh api "repos/$REPO/git/ref/tags/$TAG" >/dev/null 2>&1; then echo "::error::Tag $TAG już istnieje"; exit 1; fi
 
       - name: Program z tego przebiegu
