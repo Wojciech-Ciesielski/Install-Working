@@ -131,8 +131,8 @@
 131	Drive tidak ditemukan. Sambungkan kembali.
 132	Firmware tidak menerima entri boot. Jalankan komputer dari drive secara manual, melalui menu boot.
 133	Firmware tidak menerima pengaturan boot berikutnya. Jalankan komputer dari drive secara manual, melalui menu boot.
-134	Shrimp Install memerlukan komponen Microsoft Edge WebView2, tetapi komponen itu tidak dapat dijalankan.\n\nPerbarui Windows atau instal WebView2 Runtime dari Microsoft, lalu coba lagi.
-135	Jendela Shrimp Install (WebView2) tidak dapat dibuka.
+134	Shrimp Center memerlukan komponen Microsoft Edge WebView2, tetapi komponen itu tidak dapat dijalankan.\n\nPerbarui Windows atau instal WebView2 Runtime dari Microsoft, lalu coba lagi.
+135	Jendela Shrimp Center (WebView2) tidak dapat dibuka.
 136	Komponen WebView2 tidak dapat dijalankan.
 137	Tidak ada slot kosong untuk entri boot.
 138	Antarmuka program tidak ada.

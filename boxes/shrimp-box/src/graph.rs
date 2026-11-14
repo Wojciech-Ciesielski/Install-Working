@@ -165,14 +165,14 @@ mod tests {
         for (k, v) in [
             bx("lib", &[], &[]),
             bx("fonts", &[], &[]),
-            bx("grub", &["fonts"], &[]),
+            bx("theme", &["fonts"], &[]),
             bx("app", &[], &["lib"]),
             bx("setup", &["app"], &["lib"]),
         ] {
             r.boxes.insert(k, v);
         }
         for (k, v) in [
-            ct("desktop", "[container]\nid = \"desktop\"\nboxes = [\"grub\", \"fonts\", \"app\"]\n"),
+            ct("desktop", "[container]\nid = \"desktop\"\nboxes = [\"theme\", \"fonts\", \"app\"]\n"),
             ct("live", "[container]\nid = \"live\"\ninclude = [\"desktop\"]\nboxes = [{ id = \"setup\", args = [\"--live\"] }]\n"),
             ct("broken", "[container]\nid = \"broken\"\nboxes = [\"setup\"]\n"),
             ct("loop", "[container]\nid = \"loop\"\ninclude = [\"loop\"]\n"),
@@ -185,7 +185,7 @@ mod tests {
     #[test]
     fn order_puts_dependencies_first_and_keeps_container_order() {
         let ids: Vec<String> = order(&repo(), "desktop").unwrap().into_iter().map(|m| m.id).collect();
-        assert_eq!(ids, ["fonts", "grub", "app"]);
+        assert_eq!(ids, ["fonts", "theme", "app"]);
     }
 
     #[test]

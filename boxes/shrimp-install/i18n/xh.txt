@@ -131,8 +131,8 @@
 131	Idrayivu ayifumanekanga. Yiqhagamshele kwakhona.
 132	I-firmware ayamkelanga ungeniso lokuqalisa. Qalisa ikhompyutha kwidrayivu ngesandla, kwimenyu yokuqalisa.
 133	I-firmware ayamkelanga isetingi yokuqalisa okulandelayo. Qalisa ikhompyutha kwidrayivu ngesandla, kwimenyu yokuqalisa.
-134	I-Shrimp Install ifuna icandelo le-Microsoft Edge WebView2, kodwa alikwazanga ukuqaliswa.\n\nHlaziya i-Windows okanye ufake i-WebView2 Runtime evela ku-Microsoft uze uzame kwakhona.
-135	Ayikwazanga ukuvula ifestile ye-Shrimp Install (WebView2).
+134	I-Shrimp Center ifuna icandelo le-Microsoft Edge WebView2, kodwa alikwazanga ukuqaliswa.\n\nHlaziya i-Windows okanye ufake i-WebView2 Runtime evela ku-Microsoft uze uzame kwakhona.
+135	Ayikwazanga ukuvula ifestile ye-Shrimp Center (WebView2).
 136	Ayikwazanga ukuqalisa icandelo le-WebView2.
 137	Akukho ndawo ikhululekileyo yongeniso lokuqalisa.
 138	Ujongano lwenkqubo alukho.

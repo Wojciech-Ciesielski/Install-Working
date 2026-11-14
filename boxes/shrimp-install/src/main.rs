@@ -1,4 +1,5 @@
-//! Shrimp Install: przygotowuje nośnik z Shrimp z poziomu Windows, bez Rufusa.
+//! Shrimp Center dla Windows: przygotowuje nośnik z Shrimp (zakładka Zainstaluj), przełącza systemy
+//! (Systemy: start Shrimp, domyślny system, ustawienia UEFI) i odinstalowuje Shrimp (wpis UEFI, pliki EFI).
 //!
 //!   start → pobranie obrazu (manifest, SHA-256) → kopia zawartości nośnika ze sprawdzeniem sum
 //!         → GPT: FAT32 „SHRIMP_BOOT” (EFI, boot/) + exFAT „SHRIMP_LIVE” (LiveOS, dane)
@@ -10,6 +11,7 @@
 #![cfg_attr(not(windows), allow(dead_code))]
 
 mod backup;
+mod efi;
 mod ctx;
 mod lang;
 mod log;
@@ -39,7 +41,7 @@ fn main() {
                 }
             }
         } else {
-            eprintln!("Shrimp Install działa w Windows (poza nim tylko: --backup-test ŹRÓDŁO CEL KOPIA)");
+            eprintln!("Shrimp Center działa w Windows (poza nim tylko: --backup-test ŹRÓDŁO CEL KOPIA)");
             std::process::exit(2)
         }
     }

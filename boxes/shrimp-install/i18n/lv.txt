@@ -131,8 +131,8 @@
 131	Disks nav atrasts. Pievienojiet to vēlreiz.
 132	Programmaparatūra nepieņēma sāknēšanas ierakstu. Palaidiet datoru no diska manuāli, izmantojot sāknēšanas izvēlni.
 133	Programmaparatūra nepieņēma nākamās sāknēšanas iestatījumu. Palaidiet datoru no diska manuāli, izmantojot sāknēšanas izvēlni.
-134	Shrimp Install nepieciešams Microsoft Edge WebView2 komponents, bet to neizdevās palaist.\n\nAtjauniniet Windows vai instalējiet WebView2 Runtime no Microsoft un mēģiniet vēlreiz.
-135	Neizdevās atvērt Shrimp Install logu (WebView2).
+134	Shrimp Center nepieciešams Microsoft Edge WebView2 komponents, bet to neizdevās palaist.\n\nAtjauniniet Windows vai instalējiet WebView2 Runtime no Microsoft un mēģiniet vēlreiz.
+135	Neizdevās atvērt Shrimp Center logu (WebView2).
 136	Neizdevās palaist WebView2 komponentu.
 137	Nav brīvas vietas sāknēšanas ierakstam.
 138	Trūkst programmas saskarnes.

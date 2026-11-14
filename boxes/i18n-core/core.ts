@@ -3,7 +3,7 @@
 // Pliki:
 //   <przestrzeń>/_keys.tsv   „id⇥klucz⇥angielski” (id są stałe, nowe dopisujemy na końcu)
 //   <przestrzeń>/<tag>.txt   „id⇥tłumaczenie” (brakujące wiersze = angielski; „\n” to nowy wiersz)
-import { LANGS, type LangInfo } from "./langs";
+import { LANGS, type LangInfo } from "./langs.ts";
 
 export type Args = Record<string, string | number>;
 
@@ -70,9 +70,12 @@ export class I18n {
   readonly locale: string;
   readonly rtl: boolean;
   private dict = new Map<string, string>();
+  private fallback?: Map<string, string>;
 
-  constructor(tag: string, keys: Entry[], values: Map<number, string> | undefined, private fallback?: Map<string, string>) {
+  // Bez skrótu „private fallback” w parametrach: Node (bez kompilatora TS) usuwa tylko typy.
+  constructor(tag: string, keys: Entry[], values: Map<number, string> | undefined, fallback?: Map<string, string>) {
     this.tag = tag;
+    this.fallback = fallback;
     const info = LANGS.find((l) => l.tag === tag);
     this.rtl = !!info?.rtl;
     this.lang = info?.bcp47 || tag;

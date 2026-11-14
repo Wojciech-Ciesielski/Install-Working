@@ -131,8 +131,8 @@
 131	Diskas nerastas. Prijunkite jį iš naujo.
 132	Programinė aparatinė įranga nepriėmė paleidimo įrašo. Paleiskite kompiuterį iš disko rankiniu būdu, paleidimo meniu.
 133	Programinė aparatinė įranga nepriėmė kito paleidimo nustatymo. Paleiskite kompiuterį iš disko rankiniu būdu, paleidimo meniu.
-134	Shrimp Install reikia Microsoft Edge WebView2 komponento, bet jo nepavyko paleisti.\n\nAtnaujinkite Windows arba įdiekite WebView2 Runtime iš Microsoft ir bandykite dar kartą.
-135	Nepavyko atidaryti Shrimp Install lango (WebView2).
+134	Shrimp Center reikia Microsoft Edge WebView2 komponento, bet jo nepavyko paleisti.\n\nAtnaujinkite Windows arba įdiekite WebView2 Runtime iš Microsoft ir bandykite dar kartą.
+135	Nepavyko atidaryti Shrimp Center lango (WebView2).
 136	Nepavyko paleisti WebView2 komponento.
 137	Nėra laisvos vietos paleidimo įrašui.
 138	Trūksta programos sąsajos.

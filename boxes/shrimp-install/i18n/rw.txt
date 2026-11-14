@@ -131,8 +131,8 @@
 131	Disiki ntiyabonetse. Ongera uyicomeke.
 132	Firmware ntiyemeye icyinjizwa cyo gutangiza. Tangiza mudasobwa ubwawe uhereye kuri disiki, muri menu yo gutangiza.
 133	Firmware ntiyemeye igenamiterere ryo gutangiza ubutaha. Tangiza mudasobwa ubwawe uhereye kuri disiki, muri menu yo gutangiza.
-134	Shrimp Install ikeneye igice cya Microsoft Edge WebView2, ariko nticyashoboye gutangizwa.\n\nVugurura Windows cyangwa ushyiremo WebView2 Runtime ivuye kuri Microsoft hanyuma wongere ugerageze.
-135	Ntibyashobotse gufungura idirishya rya Shrimp Install (WebView2).
+134	Shrimp Center ikeneye igice cya Microsoft Edge WebView2, ariko nticyashoboye gutangizwa.\n\nVugurura Windows cyangwa ushyiremo WebView2 Runtime ivuye kuri Microsoft hanyuma wongere ugerageze.
+135	Ntibyashobotse gufungura idirishya rya Shrimp Center (WebView2).
 136	Ntibyashobotse gutangiza igice cya WebView2.
 137	Nta mwanya uhari w’icyinjizwa cyo gutangiza.
 138	Imigaragarire ya porogaramu ntiboneka.

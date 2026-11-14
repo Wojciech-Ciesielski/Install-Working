@@ -131,8 +131,8 @@
 131	Disk topilmadi. Uni qayta ulang.
 132	Mikrodastur yuklash yozuvini qabul qilmadi. Kompyuterni diskdan qo‘lda, yuklash menyusidan ishga tushiring.
 133	Mikrodastur keyingi yuklash sozlamasini qabul qilmadi. Kompyuterni diskdan qo‘lda, yuklash menyusidan ishga tushiring.
-134	Shrimp Install uchun Microsoft Edge WebView2 komponenti kerak, lekin uni ishga tushirib bo‘lmadi.\n\nWindows’ni yangilang yoki Microsoft saytidan WebView2 Runtime’ni o‘rnating va qaytadan urinib ko‘ring.
-135	Shrimp Install oynasini (WebView2) ochib bo‘lmadi.
+134	Shrimp Center uchun Microsoft Edge WebView2 komponenti kerak, lekin uni ishga tushirib bo‘lmadi.\n\nWindows’ni yangilang yoki Microsoft saytidan WebView2 Runtime’ni o‘rnating va qaytadan urinib ko‘ring.
+135	Shrimp Center oynasini (WebView2) ochib bo‘lmadi.
 136	WebView2 komponentini ishga tushirib bo‘lmadi.
 137	Yuklash yozuvi uchun bo‘sh joy yo‘q.
 138	Dastur interfeysi mavjud emas.

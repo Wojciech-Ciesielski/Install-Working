@@ -3,8 +3,12 @@ name = "shrimp-install"
 version = "0.2.0"
 edition = "2021"
 license = "GPL-3.0-or-later"
-description = "Shrimp Install: nośnik Shrimp z Windows (własny kod, bez Rufusa)"
+description = "Shrimp Center dla Windows: nośnik Shrimp, systemy na komputerze, odinstalowanie"
 publish = false
+
+[[bin]]
+name = "shrimp-center"
+path = "src/main.rs"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }

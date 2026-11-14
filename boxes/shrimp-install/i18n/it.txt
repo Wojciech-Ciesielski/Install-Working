@@ -131,8 +131,8 @@
 131	Unità non trovata. Ricollegala.
 132	Il firmware non ha accettato la voce di avvio. Avvia il computer manualmente dall’unità, dal menu di avvio.
 133	Il firmware non ha accettato l’impostazione per il prossimo avvio. Avvia il computer manualmente dall’unità, dal menu di avvio.
-134	Shrimp Install richiede il componente Microsoft Edge WebView2, ma non è stato possibile avviarlo.\n\nAggiorna Windows o installa WebView2 Runtime dal sito Microsoft e riprova.
-135	Impossibile aprire la finestra di Shrimp Install (WebView2).
+134	Shrimp Center richiede il componente Microsoft Edge WebView2, ma non è stato possibile avviarlo.\n\nAggiorna Windows o installa WebView2 Runtime dal sito Microsoft e riprova.
+135	Impossibile aprire la finestra di Shrimp Center (WebView2).
 136	Impossibile avviare il componente WebView2.
 137	Nessuno slot libero per la voce di avvio.
 138	L’interfaccia del programma è assente.

@@ -131,8 +131,8 @@
 131	Unitatea nu a fost găsită. Conectează-o din nou.
 132	Firmware-ul nu a acceptat intrarea de pornire. Pornește computerul manual de pe unitate, din meniul de pornire.
 133	Firmware-ul nu a acceptat setarea pentru următoarea pornire. Pornește computerul manual de pe unitate, din meniul de pornire.
-134	Shrimp Install are nevoie de componenta Microsoft Edge WebView2, dar aceasta nu a putut fi pornită.\n\nActualizează Windows sau instalează WebView2 Runtime de la Microsoft și încearcă din nou.
-135	Fereastra Shrimp Install (WebView2) nu a putut fi deschisă.
+134	Shrimp Center are nevoie de componenta Microsoft Edge WebView2, dar aceasta nu a putut fi pornită.\n\nActualizează Windows sau instalează WebView2 Runtime de la Microsoft și încearcă din nou.
+135	Fereastra Shrimp Center (WebView2) nu a putut fi deschisă.
 136	Componenta WebView2 nu a putut fi pornită.
 137	Nu există un loc liber pentru intrarea de pornire.
 138	Interfața programului lipsește.

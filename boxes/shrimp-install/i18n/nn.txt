@@ -131,8 +131,8 @@
 131	Fann ikkje stasjonen. Koble han til igjen.
 132	Fastvara godtok ikkje oppstartsoppføringa. Start datamaskinen manuelt frå stasjonen via oppstartsmenyen.
 133	Fastvara godtok ikkje innstillinga for neste oppstart. Start datamaskinen manuelt frå stasjonen via oppstartsmenyen.
-134	Shrimp Install treng komponenten Microsoft Edge WebView2, men han kunne ikkje startast.\n\nOppdater Windows eller installer WebView2 Runtime frå Microsoft, og prøv igjen.
-135	Kunne ikkje opne vindauget til Shrimp Install (WebView2).
+134	Shrimp Center treng komponenten Microsoft Edge WebView2, men han kunne ikkje startast.\n\nOppdater Windows eller installer WebView2 Runtime frå Microsoft, og prøv igjen.
+135	Kunne ikkje opne vindauget til Shrimp Center (WebView2).
 136	Kunne ikkje starte komponenten WebView2.
 137	Ingen ledig plass til oppstartsoppføringa.
 138	Grensesnittet til programmet manglar.

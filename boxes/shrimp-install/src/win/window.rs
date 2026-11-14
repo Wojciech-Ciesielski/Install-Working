@@ -41,7 +41,7 @@ pub fn run(make_app: impl FnOnce(Proxy) -> Arc<App>, opts_json: String, tr: impl
     let dark = app.opts.theme.as_deref().map_or_else(apps_dark, |t| t == "dark");
 
     let window = match WindowBuilder::new()
-        .with_title("Shrimp Install")
+        .with_title("Shrimp Center")
         .with_inner_size(LogicalSize::new(1000.0, 700.0))
         .with_min_inner_size(LogicalSize::new(800.0, 560.0))
         .with_decorations(false)

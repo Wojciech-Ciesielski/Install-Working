@@ -1,4 +1,4 @@
-// Budowa Shrimp Install:
+// Budowa Shrimp Center (Windows):
 //  - interfejs (ui/dist/index.html, jeden plik z `npm run build`; inna ścieżka: SHRIMP_UI_HTML) wkompilowany w program,
 //  - komunikaty sprzed startu interfejsu z i18n/ (klucze native.*) jako tabela Rust,
 //  - adres manifestu (SHRIMP_MANIFEST_URL) i klucz podpisu manifestu (SHRIMP_MANIFEST_PUBKEY: plik PEM, opcjonalnie),

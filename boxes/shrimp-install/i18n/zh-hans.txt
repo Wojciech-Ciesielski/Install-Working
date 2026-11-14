@@ -131,8 +131,8 @@
 131	未找到驱动器。请重新插入。
 132	固件未接受启动项。请通过启动菜单手动从驱动器启动计算机。
 133	固件未接受下次启动设置。请通过启动菜单手动从驱动器启动计算机。
-134	Shrimp Install 需要 Microsoft Edge WebView2 组件，但无法启动该组件。\n\n请更新 Windows 或从 Microsoft 安装 WebView2 Runtime，然后重试。
-135	无法打开 Shrimp Install 窗口 (WebView2)。
+134	Shrimp Center 需要 Microsoft Edge WebView2 组件，但无法启动该组件。\n\n请更新 Windows 或从 Microsoft 安装 WebView2 Runtime，然后重试。
+135	无法打开 Shrimp Center 窗口 (WebView2)。
 136	无法启动 WebView2 组件。
 137	没有空闲位置可用于启动项。
 138	程序缺少界面。

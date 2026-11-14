@@ -131,8 +131,8 @@
 131	Enheten hittades inte. Anslut den igen.
 132	Fast programvara godtog inte startposten. Starta datorn manuellt från enheten via startmenyn.
 133	Fast programvara godtog inte inställningen för nästa start. Starta datorn manuellt från enheten via startmenyn.
-134	Shrimp Install behöver komponenten Microsoft Edge WebView2, men den kunde inte startas.\n\nUppdatera Windows eller installera WebView2 Runtime från Microsoft och försök igen.
-135	Det gick inte att öppna fönstret för Shrimp Install (WebView2).
+134	Shrimp Center behöver komponenten Microsoft Edge WebView2, men den kunde inte startas.\n\nUppdatera Windows eller installera WebView2 Runtime från Microsoft och försök igen.
+135	Det gick inte att öppna fönstret för Shrimp Center (WebView2).
 136	Det gick inte att starta komponenten WebView2.
 137	Det finns ingen ledig plats för startposten.
 138	Programmets gränssnitt saknas.

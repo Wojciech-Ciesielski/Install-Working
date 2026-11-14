@@ -1,6 +1,6 @@
 // Sprawdzanie plików tłumaczeń (używają go testy obu interfejsów): błędy budowy i pokrycie.
-import { parseKeys, placeholders } from "./core";
-import { LANGS } from "./langs";
+import { parseKeys, placeholders } from "./core.ts";
+import { LANGS } from "./langs.ts";
 
 export interface Report {
   errors: string[];

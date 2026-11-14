@@ -131,8 +131,8 @@
 131	Drifið fannst ekki. Tengdu það aftur.
 132	Fastbúnaðurinn samþykkti ekki ræsifærsluna. Ræstu tölvuna handvirkt af drifinu úr ræsivalmyndinni.
 133	Fastbúnaðurinn samþykkti ekki stillinguna fyrir næstu ræsingu. Ræstu tölvuna handvirkt af drifinu úr ræsivalmyndinni.
-134	Shrimp Install þarf Microsoft Edge WebView2 íhlutinn, en ekki tókst að ræsa hann.\n\nUppfærðu Windows eða settu upp WebView2 Runtime frá Microsoft og reyndu aftur.
-135	Ekki tókst að opna glugga Shrimp Install (WebView2).
+134	Shrimp Center þarf Microsoft Edge WebView2 íhlutinn, en ekki tókst að ræsa hann.\n\nUppfærðu Windows eða settu upp WebView2 Runtime frá Microsoft og reyndu aftur.
+135	Ekki tókst að opna glugga Shrimp Center (WebView2).
 136	Ekki tókst að ræsa WebView2 íhlutinn.
 137	Enginn laus staður fyrir ræsifærsluna.
 138	Viðmót forritsins vantar.

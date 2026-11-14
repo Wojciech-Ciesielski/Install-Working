@@ -131,8 +131,8 @@
 131	Níor aimsíodh an tiomántán. Ceangail arís é.
 132	Níor ghlac an dochtearraí leis an iontráil tosaithe. Tosaigh an ríomhaire de láimh ón tiomántán, ón roghchlár tosaithe.
 133	Níor ghlac an dochtearraí leis an socrú don chéad tosú eile. Tosaigh an ríomhaire de láimh ón tiomántán, ón roghchlár tosaithe.
-134	Teastaíonn an chomhpháirt Microsoft Edge WebView2 ó Shrimp Install, ach níorbh fhéidir í a thosú.\n\nNuashonraigh Windows nó suiteáil WebView2 Runtime ó Microsoft agus bain triail eile as.
-135	Níorbh fhéidir fuinneog Shrimp Install (WebView2) a oscailt.
+134	Teastaíonn an chomhpháirt Microsoft Edge WebView2 ó Shrimp Center, ach níorbh fhéidir í a thosú.\n\nNuashonraigh Windows nó suiteáil WebView2 Runtime ó Microsoft agus bain triail eile as.
+135	Níorbh fhéidir fuinneog Shrimp Center (WebView2) a oscailt.
 136	Níorbh fhéidir an chomhpháirt WebView2 a thosú.
 137	Níl aon spás saor don iontráil tosaithe.
 138	Tá comhéadan an ríomhchláir in easnamh.

@@ -131,8 +131,8 @@
 131	Drayive ga e a bonwa. E kopanye gape.
 132	Firmware ga e a amogela tsenyo ya go simolola. Simolola khomputara go tswa mo drayiveng ka seatla, mo menyung ya go simolola.
 133	Firmware ga e a amogela peakanyo ya go simolola go go latelang. Simolola khomputara go tswa mo drayiveng ka seatla, mo menyung ya go simolola.
-134	Shrimp Install e tlhoka karolo ya Microsoft Edge WebView2, mme ga e a kgona go simololwa.\n\nTlhabolola Windows kgotsa o tsenye WebView2 Runtime go tswa kwa Microsoft mme o leke gape.
-135	Ga go a kgonega go bula letlhabaphefo la Shrimp Install (WebView2).
+134	Shrimp Center e tlhoka karolo ya Microsoft Edge WebView2, mme ga e a kgona go simololwa.\n\nTlhabolola Windows kgotsa o tsenye WebView2 Runtime go tswa kwa Microsoft mme o leke gape.
+135	Ga go a kgonega go bula letlhabaphefo la Shrimp Center (WebView2).
 136	Ga go a kgonega go simolola karolo ya WebView2.
 137	Ga go na sebaka se se gololesegileng sa tsenyo ya go simolola.
 138	Tebogano ya porogeramo ga e yo.

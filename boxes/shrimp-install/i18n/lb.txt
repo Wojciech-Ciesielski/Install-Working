@@ -131,8 +131,8 @@
 131	Laufwierk net fonnt. Steck en nees un.
 132	D’Firmware huet den Boot-Antrag net ugeholl. Start de Computer manuell vum Laufwierk, iwwer de Boot-Menü.
 133	D’Firmware huet d’Astellung fir den nächste Start net ugeholl. Start de Computer manuell vum Laufwierk, iwwer de Boot-Menü.
-134	Shrimp Install brauch d’Komponent Microsoft Edge WebView2, mä si konnt net gestart ginn.\n\nAktualiséier Windows oder installéier WebView2 Runtime vu Microsoft a prouf nach eng Kéier.
-135	D’Fënster vu Shrimp Install (WebView2) konnt net opgemaach ginn.
+134	Shrimp Center brauch d’Komponent Microsoft Edge WebView2, mä si konnt net gestart ginn.\n\nAktualiséier Windows oder installéier WebView2 Runtime vu Microsoft a prouf nach eng Kéier.
+135	D’Fënster vu Shrimp Center (WebView2) konnt net opgemaach ginn.
 136	De Komponent WebView2 konnt net gestart ginn.
 137	Keng fräi Plaz fir den Boot-Antrag.
 138	D’Interface vum Programm feelt.

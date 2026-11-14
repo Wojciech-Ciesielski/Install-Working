@@ -131,8 +131,8 @@
 131	Không tìm thấy ổ đĩa. Hãy cắm lại.
 132	Phần sụn không chấp nhận mục khởi động. Hãy khởi động máy tính từ ổ đĩa theo cách thủ công, qua menu khởi động.
 133	Phần sụn không chấp nhận cài đặt cho lần khởi động tiếp theo. Hãy khởi động máy tính từ ổ đĩa theo cách thủ công, qua menu khởi động.
-134	Shrimp Install cần thành phần Microsoft Edge WebView2 nhưng không thể khởi động thành phần này.\n\nHãy cập nhật Windows hoặc cài WebView2 Runtime từ Microsoft rồi thử lại.
-135	Không thể mở cửa sổ Shrimp Install (WebView2).
+134	Shrimp Center cần thành phần Microsoft Edge WebView2 nhưng không thể khởi động thành phần này.\n\nHãy cập nhật Windows hoặc cài WebView2 Runtime từ Microsoft rồi thử lại.
+135	Không thể mở cửa sổ Shrimp Center (WebView2).
 136	Không thể khởi động thành phần WebView2.
 137	Không còn vị trí trống cho mục khởi động.
 138	Chương trình bị thiếu giao diện.

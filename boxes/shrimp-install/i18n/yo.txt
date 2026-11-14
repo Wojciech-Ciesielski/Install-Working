@@ -131,8 +131,8 @@
 131	A kò rí díìsìkì náà. Tún so ó pọ̀.
 132	Firmware kò gba àkọsílẹ̀ ìbẹ̀rẹ̀. Bẹ̀rẹ̀ kọ̀ǹpútà láti díìsìkì náà fúnra rẹ, láti inú àkójọ ìbẹ̀rẹ̀.
 133	Firmware kò gba ètò ìbẹ̀rẹ̀ tó kàn. Bẹ̀rẹ̀ kọ̀ǹpútà láti díìsìkì náà fúnra rẹ, láti inú àkójọ ìbẹ̀rẹ̀.
-134	Shrimp Install nílò ẹ̀yà Microsoft Edge WebView2, ṣùgbọ́n kò ṣeé ṣe láti bẹ̀rẹ̀ rẹ̀.\n\nṢe ìmúdójúìwọ̀n Windows tàbí fi WebView2 Runtime sórí ẹ̀rọ láti ọ̀dọ̀ Microsoft kí o sì gbìyànjú lẹ́ẹ̀kan sí i.
-135	Kò ṣeé ṣe láti ṣí fèrèsé Shrimp Install (WebView2).
+134	Shrimp Center nílò ẹ̀yà Microsoft Edge WebView2, ṣùgbọ́n kò ṣeé ṣe láti bẹ̀rẹ̀ rẹ̀.\n\nṢe ìmúdójúìwọ̀n Windows tàbí fi WebView2 Runtime sórí ẹ̀rọ láti ọ̀dọ̀ Microsoft kí o sì gbìyànjú lẹ́ẹ̀kan sí i.
+135	Kò ṣeé ṣe láti ṣí fèrèsé Shrimp Center (WebView2).
 136	Kò ṣeé ṣe láti bẹ̀rẹ̀ ẹ̀yà WebView2.
 137	Kò sí àyè ṣófo fún àkọsílẹ̀ ìbẹ̀rẹ̀.
 138	Ojú ètò náà kò sí.

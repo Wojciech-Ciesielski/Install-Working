@@ -52,7 +52,7 @@ pub fn free_space(p: &Path) -> Option<u64> {
 
 pub fn message(text: &str) {
     unsafe {
-        MessageBoxW(None, &HSTRING::from(text), &HSTRING::from("Shrimp Install"), MB_OK | MB_ICONERROR);
+        MessageBoxW(None, &HSTRING::from(text), &HSTRING::from("Shrimp Center"), MB_OK | MB_ICONERROR);
     }
 }
 

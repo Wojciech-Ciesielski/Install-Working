@@ -181,7 +181,7 @@ pub fn description(version: &str, sha256: &str, collected: &Value, c: &Copied) -
     let mut v = json!({
         "version": 1,
         "created": now_utc(),
-        "installer": concat!("Shrimp Install ", env!("CARGO_PKG_VERSION")),
+        "installer": concat!("Shrimp Center ", env!("CARGO_PKG_VERSION")),
         "image": {
             "version": if version.is_empty() { Value::Null } else { json!(version) },
             "sha256": if sha256.len() == 64 { json!(sha256) } else { Value::Null },
@@ -201,15 +201,6 @@ pub fn description(version: &str, sha256: &str, collected: &Value, c: &Copied) -
 pub fn write_description(root: &Path, v: &Value) -> R<()> {
     let s = serde_json::to_string_pretty(v).map_err(|_| fail(3, "copy", Some("descWrite")))?;
     fs::write(root.join("shrimp.json"), s).map_err(|_| fail(3, "copy", Some("descWrite")))
-}
-
-/// boot/grub2/shrimp-lang.cfg na partycji FAT32: GRUB czyta z niego język menu (brak = angielski).
-pub fn write_grub_lang(boot: &Path, tag: &str) {
-    let dir = boot.join("boot").join("grub2");
-    let _ = fs::create_dir_all(&dir);
-    if fs::write(dir.join("shrimp-lang.cfg"), format!("set shrimp_lang={tag}\n")).is_err() {
-        crate::log!("nie zapisano shrimp-lang.cfg (GRUB po angielsku)");
-    }
 }
 
 #[cfg(test)]

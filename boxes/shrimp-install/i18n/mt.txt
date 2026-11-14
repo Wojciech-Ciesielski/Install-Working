@@ -131,8 +131,8 @@
 131	Id-drive ma nstabitx. Erġa’ daħħalha.
 132	Il-firmware ma aċċettax l-entrata tal-boot. Ibda l-kompjuter mid-drive manwalment, mill-menu tal-boot.
 133	Il-firmware ma aċċettax is-setting tal-boot li jmiss. Ibda l-kompjuter mid-drive manwalment, mill-menu tal-boot.
-134	Shrimp Install jeħtieġ il-komponent Microsoft Edge WebView2, iżda ma setax jitħaddem.\n\nAġġorna l-Windows jew installa WebView2 Runtime mingħand Microsoft u erġa’ pprova.
-135	Ma setgħetx tinfetaħ it-tieqa ta’ Shrimp Install (WebView2).
+134	Shrimp Center jeħtieġ il-komponent Microsoft Edge WebView2, iżda ma setax jitħaddem.\n\nAġġorna l-Windows jew installa WebView2 Runtime mingħand Microsoft u erġa’ pprova.
+135	Ma setgħetx tinfetaħ it-tieqa ta’ Shrimp Center (WebView2).
 136	Il-komponent WebView2 ma setax jitħaddem.
 137	M’hemmx post ħieles għall-entrata tal-boot.
 138	L-interfaċċja tal-programm nieqsa.

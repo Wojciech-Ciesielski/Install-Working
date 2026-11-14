@@ -16,7 +16,7 @@ const EFI_GLOBAL: &str = "{8BE4DF61-93CA-11D2-AA0D-00E098032B8C}";
 const DESCRIPTION: &str = "Shrimp Install";
 const LOADER: &str = r"\EFI\BOOT\BOOTX64.EFI";
 
-fn privilege(name: &str) -> bool {
+pub fn privilege(name: &str) -> bool {
     unsafe {
         let mut tok = HANDLE::default();
         if OpenProcessToken(GetCurrentProcess(), TOKEN_ADJUST_PRIVILEGES | TOKEN_QUERY, &mut tok).is_err() {

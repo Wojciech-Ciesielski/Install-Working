@@ -131,8 +131,8 @@
 131	Nie znaleziono nośnika. Podłącz go ponownie.
 132	Firmware nie przyjął wpisu uruchamiania. Uruchom komputer z nośnika ręcznie, z menu startowego.
 133	Firmware nie przyjął ustawienia następnego uruchomienia. Uruchom komputer z nośnika ręcznie, z menu startowego.
-134	Shrimp Install potrzebuje składnika Microsoft Edge WebView2, a nie udało się go uruchomić.\n\nZaktualizuj Windows albo zainstaluj WebView2 Runtime ze strony Microsoft i spróbuj ponownie.
-135	Nie udało się otworzyć okna Shrimp Install (WebView2).
+134	Shrimp Center potrzebuje składnika Microsoft Edge WebView2, a nie udało się go uruchomić.\n\nZaktualizuj Windows albo zainstaluj WebView2 Runtime ze strony Microsoft i spróbuj ponownie.
+135	Nie udało się otworzyć okna Shrimp Center (WebView2).
 136	Nie udało się uruchomić składnika WebView2.
 137	Brak wolnego miejsca na wpis uruchamiania.
 138	Brak interfejsu w programie.
@@ -143,9 +143,42 @@
 143	Inny program używa nośnika.
 144	Zamknij programy, które go używają (np. Eksplorator plików albo program do kopii zapasowych), i spróbuj jeszcze raz.
 145	Zapis został zatrzymany
-146	Shrimp Install zatrzymał zapis nośnika z powodu nieoczekiwanego pytania:
+146	Shrimp Center zatrzymał zapis nośnika z powodu nieoczekiwanego pytania:
 147	Nie udało się odczytać wszystkiego z nośnika, więc nic nie zostało skasowane.
 148	Na tym komputerze nie ma miejsca na kopię zawartości nośnika.
 149	Zawartość nośnika nie zmieści się obok Shrimp. Użyj większego nośnika albo przenieś z niego część plików.
 150	Nie udało się sprawdzić kopii zawartości na nośniku. Kopia jest nadal zapisana na tym komputerze.
 151	Shrimp i wybrane pliki nie zmieszczą się na tym nośniku.
+152	Sekcje
+153	Zainstaluj
+154	Systemy
+155	Odinstaluj Shrimp
+156	Systemy na tym komputerze
+157	Uruchom Shrimp jednorazowo, wybierz system uruchamiany domyślnie albo otwórz ustawienia UEFI.
+158	Shrimp nie jest jeszcze zainstalowany na tym komputerze. Przygotuj nośnik w zakładce Zainstaluj.
+159	Uruchom ponownie w Shrimp
+160	Tylko przy następnym starcie. Potem jak zwykle uruchomi się domyślny system.
+161	Uruchom ponownie
+162	Domyślny system
+163	Uruchamia się po włączeniu komputera.
+164	Uruchamia się po włączeniu komputera. Windows uruchomisz z Shrimp Center w Shrimp.
+165	Ustawienia UEFI
+166	Ustawienia komputera, na przykład kolejność uruchamiania albo Secure Boot.
+167	Uruchomić ponownie teraz?
+168	Najpierw zapisz swoją pracę. Otwarte aplikacje zostaną zamknięte.
+169	Nie udało się zmienić ustawienia:
+170	Odinstaluj Shrimp
+171	Komputer będzie uruchamiał Windows jak wcześniej. Twoje pliki w Windows zostają nietknięte.
+172	Shrimp znika z listy uruchamiania
+173	Windows znowu jest pierwszym systemem.
+174	Pliki startowe Shrimp zostają usunięte
+175	Tylko pliki Shrimp z partycji EFI. Pliki Windows zostają.
+176	Partycje Shrimp zostają
+177	Usuń je w Zarządzaniu dyskami, żeby odzyskać miejsce dla Windows.
+178	Shrimp nie ma na liście uruchamiania tego komputera.
+179	Shrimp usunięty z uruchamiania. Komputer będzie uruchamiał Windows.
+180	Otwórz Zarządzanie dyskami
+181	Odinstaluj
+182	Odinstalować Shrimp?
+183	Shrimp przestanie się uruchamiać na tym komputerze. Pliki zapisane w Shrimp zostają na jego partycjach, dopóki ich nie usuniesz.
+184	Nie udało się odinstalować Shrimp:

@@ -1,5 +1,10 @@
-<main class="win" aria-label="Shrimp Install">
+<main class="win" aria-label="Shrimp Center">
   <header class="titlebar">
+    <nav class="tabs" role="tablist" data-i-aria="tabs.aria">
+      <button class="tab" type="button" role="tab" data-tab="install" aria-selected="true" data-i="tab.install"></button>
+      <button class="tab" type="button" role="tab" data-tab="systems" aria-selected="false" data-i="tab.systems"></button>
+      <button class="tab" type="button" role="tab" data-tab="uninstall" aria-selected="false" data-i="tab.uninstall"></button>
+    </nav>
     <div class="caps">
       <button id="minBtn" data-i-aria="titlebar.min"><svg class="i"><use href="#f-subtract"/></svg></button>
       <button class="close" id="closeBtn" data-i-aria="titlebar.close"><svg class="i"><use href="#f-dismiss"/></svg></button>
@@ -126,6 +131,43 @@
       </div>
     </section>
 
+    <!-- Systemy: start Shrimp przy następnym uruchomieniu, domyślny system, ustawienia UEFI -->
+    <section class="screen" data-screen="systemy" hidden>
+      <div class="scr">
+        <div class="head"><h1 data-i="sys.title"></h1><p class="sub" data-i="sys.sub"></p></div>
+        <p class="info" id="sysNone" hidden><svg class="i"><use href="#f-info"/></svg><span class="b" data-i="sys.none"></span></p>
+        <div class="group" id="sysShrimp">
+          <div class="row"><svg class="i lg"><use href="#f-desktop"/></svg><div class="tx"><div class="tt" data-i="sys.restart.t"></div><div class="ds" data-i="sys.restart.d"></div></div><button class="btn accent" id="sysRestart" type="button" data-i="sys.restart.btn"></button></div>
+          <h2 class="sec" data-i="sys.default"></h2>
+          <div class="modes" role="radiogroup" id="sysDefault" data-i-aria="sys.default">
+            <button class="mode" type="button" role="radio" aria-checked="false" data-sys="windows"><span class="rd"></span><span><b>Windows</b><span data-i="sys.default.win"></span></span></button>
+            <button class="mode" type="button" role="radio" aria-checked="false" data-sys="shrimp"><span class="rd"></span><span><b>Shrimp</b><span data-i="sys.default.shrimp"></span></span></button>
+          </div>
+        </div>
+        <div class="row" id="sysFw"><svg class="i lg"><use href="#f-shield_checkmark"/></svg><div class="tx"><div class="tt" data-i="sys.fw.t"></div><div class="ds" data-i="sys.fw.d"></div></div><button class="btn" id="sysFirmware" type="button" data-i="sys.restart.btn"></button></div>
+        <p class="alert" id="sysErr" hidden><svg class="i"><use href="#f-important-filled"/></svg><span id="sysErrTxt"></span></p>
+      </div>
+    </section>
+
+    <!-- Odinstaluj Shrimp: wpis UEFI i pliki z partycji EFI; Windows znowu startuje pierwszy -->
+    <section class="screen" data-screen="odinstaluj" hidden>
+      <div class="scr">
+        <div class="head"><h1 data-i="un.title"></h1><p class="sub" data-i="un.sub"></p></div>
+        <div class="feat">
+          <div><svg class="i lg"><use href="#f-apps_list"/></svg><p style="margin:0"><b data-i="un.f1.t"></b><span data-i="un.f1.d"></span></p></div>
+          <div><svg class="i lg"><use href="#f-dismiss"/></svg><p style="margin:0"><b data-i="un.f2.t"></b><span data-i="un.f2.d"></span></p></div>
+          <div><svg class="i lg"><use href="#f-hard_drive"/></svg><p style="margin:0"><b data-i="un.f3.t"></b><span data-i="un.f3.d"></span></p></div>
+        </div>
+        <p class="info" id="unNone" hidden><svg class="i"><use href="#f-info"/></svg><span class="b" data-i="un.none"></span></p>
+        <p class="info" id="unDone" hidden><svg class="i"><use href="#f-checkmark_circle-filled"/></svg><span class="b" data-i="un.done"></span></p>
+        <p class="alert" id="unErr" hidden><svg class="i"><use href="#f-important-filled"/></svg><span id="unErrTxt"></span></p>
+      </div>
+      <div class="cmd">
+        <button class="btn wide" id="unDisks" type="button" data-i="un.disks"></button>
+        <button class="btn accent" id="unBtn" type="button" data-i="un.btn"></button>
+      </div>
+    </section>
+
   </div>
 
   <div class="pop" id="cbPop" role="listbox" data-i-aria="media.list.aria" hidden></div>
@@ -134,6 +176,13 @@
     <div class="dlg" role="alertdialog" aria-modal="true" aria-labelledby="dlgT" aria-describedby="dlgD">
       <div class="in"><h2 id="dlgT" data-i="dlg.title"></h2><p id="dlgD" data-i="dlg.text"></p></div>
       <div class="acts"><button class="btn accent" id="dlgNo" data-i="dlg.keep"></button><button class="btn" id="dlgYes" data-i="dlg.cancel"></button></div>
+    </div>
+  </div>
+
+  <div class="scrim" id="confirm" hidden>
+    <div class="dlg" role="alertdialog" aria-modal="true" aria-labelledby="cfT" aria-describedby="cfD">
+      <div class="in"><h2 id="cfT"></h2><p id="cfD"></p></div>
+      <div class="acts"><button class="btn" id="cfNo" data-i="cancel"></button><button class="btn accent" id="cfYes"></button></div>
     </div>
   </div>
 </main>

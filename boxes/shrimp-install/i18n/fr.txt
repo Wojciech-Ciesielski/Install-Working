@@ -131,8 +131,8 @@
 131	Lecteur introuvable. Rebranchez-le.
 132	Le micrologiciel n’a pas accepté l’entrée de démarrage. Démarrez l’ordinateur manuellement depuis le lecteur, via le menu de démarrage.
 133	Le micrologiciel n’a pas accepté le réglage du prochain démarrage. Démarrez l’ordinateur manuellement depuis le lecteur, via le menu de démarrage.
-134	Shrimp Install a besoin du composant Microsoft Edge WebView2, mais il n’a pas pu être lancé.\n\nMettez à jour Windows ou installez WebView2 Runtime depuis le site de Microsoft, puis réessayez.
-135	Impossible d’ouvrir la fenêtre de Shrimp Install (WebView2).
+134	Shrimp Center a besoin du composant Microsoft Edge WebView2, mais il n’a pas pu être lancé.\n\nMettez à jour Windows ou installez WebView2 Runtime depuis le site de Microsoft, puis réessayez.
+135	Impossible d’ouvrir la fenêtre de Shrimp Center (WebView2).
 136	Impossible de lancer le composant WebView2.
 137	Aucun emplacement libre pour l’entrée de démarrage.
 138	L’interface du programme est manquante.
@@ -141,3 +141,36 @@
 149	Le contenu du support ne tient pas à côté de Shrimp. Utilisez un support plus grand ou déplacez des fichiers.
 150	La copie du contenu n'a pas pu être vérifiée sur le support. Elle reste enregistrée sur cet ordinateur.
 151	Shrimp et les fichiers choisis ne tiennent pas sur ce support.
+152	Sections
+153	Installer
+154	Systèmes
+155	Désinstaller Shrimp
+156	Systèmes sur cet ordinateur
+157	Démarrez Shrimp une fois, choisissez le système par défaut ou ouvrez les paramètres UEFI.
+158	Shrimp n’est pas encore installé sur cet ordinateur. Préparez un support dans Installer.
+159	Redémarrer dans Shrimp
+160	Seulement au prochain démarrage. Ensuite, le système par défaut démarre comme d’habitude.
+161	Redémarrer
+162	Système par défaut
+163	Démarre quand vous allumez l’ordinateur.
+164	Démarre quand vous allumez l’ordinateur. Windows se lance depuis Shrimp Center dans Shrimp.
+165	Paramètres UEFI
+166	Réglages de l’ordinateur, comme l’ordre de démarrage ou Secure Boot.
+167	Redémarrer maintenant ?
+168	Enregistrez d’abord votre travail. Les applications ouvertes seront fermées.
+169	Impossible de modifier le réglage :
+170	Désinstaller Shrimp
+171	L’ordinateur démarrera Windows comme avant. Vos fichiers Windows ne sont pas touchés.
+172	Shrimp quitte la liste de démarrage
+173	Windows redevient le premier système.
+174	Les fichiers de démarrage de Shrimp sont supprimés
+175	Uniquement les fichiers de Shrimp sur la partition EFI. Ceux de Windows restent.
+176	Les partitions de Shrimp restent
+177	Supprimez-les dans Gestion des disques pour récupérer l’espace pour Windows.
+178	Shrimp ne figure pas dans la liste de démarrage de cet ordinateur.
+179	Shrimp a été retiré du démarrage. L’ordinateur démarrera Windows.
+180	Ouvrir Gestion des disques
+181	Désinstaller
+182	Désinstaller Shrimp ?
+183	Shrimp ne démarrera plus sur cet ordinateur. Les fichiers gardés dans Shrimp restent sur ses partitions jusqu’à leur suppression.
+184	Impossible de désinstaller Shrimp :

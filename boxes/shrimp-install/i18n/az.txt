@@ -131,8 +131,8 @@
 131	Disk tapılmadı. Yenidən qoşun.
 132	Proqram təminatı yükləmə qeydini qəbul etmədi. Kompüteri diskdən əl ilə, yükləmə menyusundan başladın.
 133	Proqram təminatı növbəti yükləmə parametrini qəbul etmədi. Kompüteri diskdən əl ilə, yükləmə menyusundan başladın.
-134	Shrimp Install üçün Microsoft Edge WebView2 komponenti lazımdır, lakin onu işə salmaq mümkün olmadı.\n\nWindows-u yeniləyin və ya Microsoft-dan WebView2 Runtime quraşdırıb yenidən cəhd edin.
-135	Shrimp Install pəncərəsini (WebView2) açmaq mümkün olmadı.
+134	Shrimp Center üçün Microsoft Edge WebView2 komponenti lazımdır, lakin onu işə salmaq mümkün olmadı.\n\nWindows-u yeniləyin və ya Microsoft-dan WebView2 Runtime quraşdırıb yenidən cəhd edin.
+135	Shrimp Center pəncərəsini (WebView2) açmaq mümkün olmadı.
 136	WebView2 komponentini işə salmaq mümkün olmadı.
 137	Yükləmə qeydi üçün boş yer yoxdur.
 138	Proqramın interfeysi yoxdur.

@@ -131,8 +131,8 @@
 131	No s'ha trobat la unitat. Torna-la a connectar.
 132	El microprogramari no ha acceptat l'entrada d'arrencada. Inicia l'ordinador des de la unitat manualment, des del menú d'arrencada.
 133	El microprogramari no ha acceptat la configuració de la propera arrencada. Inicia l'ordinador des de la unitat manualment, des del menú d'arrencada.
-134	Shrimp Install necessita el component Microsoft Edge WebView2, però no s’ha pogut iniciar.\n\nActualitzeu el Windows o instal·leu WebView2 Runtime de Microsoft i torneu-ho a provar.
-135	No s’ha pogut obrir la finestra de Shrimp Install (WebView2).
+134	Shrimp Center necessita el component Microsoft Edge WebView2, però no s’ha pogut iniciar.\n\nActualitzeu el Windows o instal·leu WebView2 Runtime de Microsoft i torneu-ho a provar.
+135	No s’ha pogut obrir la finestra de Shrimp Center (WebView2).
 136	No s’ha pogut iniciar el component WebView2.
 137	No hi ha cap espai lliure per a l'entrada d'arrencada.
 138	Falta la interfície del programa.

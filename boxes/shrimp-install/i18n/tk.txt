@@ -131,8 +131,8 @@
 131	Disk tapylmady. Ony täzeden dakyň.
 132	Mikroprogramma açyş ýazgysyny kabul etmedi. Kompýuteri açyş menýusyndan diskden el bilen açyň.
 133	Mikroprogramma indiki açylyş sazlamasyny kabul etmedi. Kompýuteri açyş menýusyndan diskden el bilen açyň.
-134	Shrimp Install üçin Microsoft Edge WebView2 komponenti gerek, emma ony işledip bolmady.\n\nWindows-y täzeläň ýa-da Microsoft-dan WebView2 Runtime guruň we täzeden synanyşyň.
-135	Shrimp Install penjiresini (WebView2) açyp bolmady.
+134	Shrimp Center üçin Microsoft Edge WebView2 komponenti gerek, emma ony işledip bolmady.\n\nWindows-y täzeläň ýa-da Microsoft-dan WebView2 Runtime guruň we täzeden synanyşyň.
+135	Shrimp Center penjiresini (WebView2) açyp bolmady.
 136	WebView2 komponentini işledip bolmady.
 137	Açyş ýazgysy üçin boş ýer ýok.
 138	Programmanyň interfeýsi ýok.

@@ -131,8 +131,8 @@
 131	Gisuñu disk bi. Duggalaatal ko.
 132	Firmware bi nanguwul bindu boot bi. Tàmbalil ordinatëer bi ci disk bi ak sa loxo, ci menu boot.
 133	Firmware bi nanguwul tànneefu boot bu ci topp. Tàmbalil ordinatëer bi ci disk bi ak sa loxo, ci menu boot.
-134	Shrimp Install dafa soxla bant bu Microsoft Edge WebView2, waaye manuñu ko tàmbali.\n\nYeesal Windows walla nga samp WebView2 Runtime bu jóge Microsoft te jéemaat.
-135	Manuñu ubbi palanteeru Shrimp Install (WebView2).
+134	Shrimp Center dafa soxla bant bu Microsoft Edge WebView2, waaye manuñu ko tàmbali.\n\nYeesal Windows walla nga samp WebView2 Runtime bu jóge Microsoft te jéemaat.
+135	Manuñu ubbi palanteeru Shrimp Center (WebView2).
 136	Manuñu tàmbali bant bu WebView2.
 137	Amul barab bu dëgg ngir bindu boot bi.
 138	Interface bu prograam bi amul.

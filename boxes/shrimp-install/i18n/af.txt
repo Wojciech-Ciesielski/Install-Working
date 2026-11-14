@@ -131,8 +131,8 @@
 131	Aandrywing nie gevind nie. Koppel dit weer.
 132	Die firmware het nie die opstartinskrywing aanvaar nie. Begin die rekenaar handmatig vanaf die aandrywing, vanaf die opstartkieslys.
 133	Die firmware het nie die instelling vir die volgende opstart aanvaar nie. Begin die rekenaar handmatig vanaf die aandrywing, vanaf die opstartkieslys.
-134	Shrimp Install het die Microsoft Edge WebView2-komponent nodig, maar dit kon nie begin word nie.\n\nDateer Windows op of installeer WebView2 Runtime van Microsoft en probeer weer.
-135	Kon nie die Shrimp Install-venster (WebView2) oopmaak nie.
+134	Shrimp Center het die Microsoft Edge WebView2-komponent nodig, maar dit kon nie begin word nie.\n\nDateer Windows op of installeer WebView2 Runtime van Microsoft en probeer weer.
+135	Kon nie die Shrimp Center-venster (WebView2) oopmaak nie.
 136	Kon nie die WebView2-komponent begin nie.
 137	Geen vrye plek vir die opstartinskrywing nie.
 138	Die program se koppelvlak ontbreek.

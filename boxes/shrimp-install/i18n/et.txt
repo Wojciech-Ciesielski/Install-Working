@@ -131,8 +131,8 @@
 131	Draivi ei leitud. Ühendage see uuesti.
 132	Püsivara ei võtnud käivituskirjet vastu. Käivitage arvuti draivilt käsitsi, käivitusmenüüst.
 133	Püsivara ei võtnud järgmise käivituse seadet vastu. Käivitage arvuti draivilt käsitsi, käivitusmenüüst.
-134	Shrimp Install vajab Microsoft Edge WebView2 komponenti, kuid seda ei õnnestunud käivitada.\n\nUuenda Windowsi või paigalda Microsofti lehelt WebView2 Runtime ja proovi uuesti.
-135	Shrimp Installi akent (WebView2) ei õnnestunud avada.
+134	Shrimp Center vajab Microsoft Edge WebView2 komponenti, kuid seda ei õnnestunud käivitada.\n\nUuenda Windowsi või paigalda Microsofti lehelt WebView2 Runtime ja proovi uuesti.
+135	Shrimp Centeri akent (WebView2) ei õnnestunud avada.
 136	WebView2 komponenti ei õnnestunud käivitada.
 137	Käivituskirje jaoks pole vaba kohta.
 138	Programmi liides puudub.

@@ -1,12 +1,12 @@
-//! Dziennik: %LOCALAPPDATA%\Shrimp Install\shrimp-install.log (poprzedni: shrimp-install.old.log).
+//! Dziennik: %LOCALAPPDATA%\Shrimp Center\shrimp-center.log (poprzedni: shrimp-center.old.log).
 use std::{fs::File, io::Write, path::Path, sync::Mutex, time::{SystemTime, UNIX_EPOCH}};
 
 static LOG: Mutex<Option<File>> = Mutex::new(None);
 
 pub fn open(dir: &Path) {
     let _ = std::fs::create_dir_all(dir);
-    let path = dir.join("shrimp-install.log");
-    let _ = std::fs::rename(&path, dir.join("shrimp-install.old.log"));
+    let path = dir.join("shrimp-center.log");
+    let _ = std::fs::rename(&path, dir.join("shrimp-center.old.log"));
     *LOG.lock().unwrap() = File::create(path).ok();
 }
 

@@ -131,8 +131,8 @@
 131	Schijf niet gevonden. Sluit hem opnieuw aan.
 132	De firmware heeft het opstartitem niet geaccepteerd. Start de computer handmatig op vanaf de schijf via het opstartmenu.
 133	De firmware heeft de instelling voor de volgende start niet geaccepteerd. Start de computer handmatig op vanaf de schijf via het opstartmenu.
-134	Shrimp Install heeft het onderdeel Microsoft Edge WebView2 nodig, maar dit kon niet worden gestart.\n\nWerk Windows bij of installeer WebView2 Runtime van Microsoft en probeer het opnieuw.
-135	Het venster van Shrimp Install (WebView2) kon niet worden geopend.
+134	Shrimp Center heeft het onderdeel Microsoft Edge WebView2 nodig, maar dit kon niet worden gestart.\n\nWerk Windows bij of installeer WebView2 Runtime van Microsoft en probeer het opnieuw.
+135	Het venster van Shrimp Center (WebView2) kon niet worden geopend.
 136	Het onderdeel WebView2 kon niet worden gestart.
 137	Geen vrije plek voor het opstartitem.
 138	De interface van het programma ontbreekt.
