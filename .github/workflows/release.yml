@@ -1,6 +1,6 @@
 name: Release
 
-# Wydanie Shrimp Install: buduje shrimp-install.exe (workflow Shrimp Install) albo bierze gotowy przebieg
+# Wydanie Shrimp Center (Windows): buduje shrimp-center.exe (workflow Shrimp Install) albo bierze gotowy przebieg
 # z tego samego commita (reuse) i tworzy wydanie GitHub z .exe i SHA256SUMS.
 # ISO jest w Cloudflare R2 (wydania CoreOS-Working); program czyta manifest z adresu
 # https://shrimp-organization.dev/download/manifest.json (strona podaje pliki z R2), wkompilowanego przy budowie.
@@ -14,7 +14,7 @@ on:
       title:
         description: "Nazwa wydania"
         required: true
-        default: "Shrimp Install Beta"
+        default: "Shrimp Center Beta"
       reuse:
         description: "Użyj gotowego przebiegu Shrimp Install z tego samego commita (bez budowania)"
         type: boolean
@@ -63,13 +63,13 @@ jobs:
 
       - name: Utwórz wydanie
         run: |
-          test -f exe/shrimp-install.exe
-          mkdir -p assets && cp exe/shrimp-install.exe assets/
-          (cd assets && sha256sum shrimp-install.exe > SHA256SUMS)
+          test -f exe/shrimp-center.exe
+          mkdir -p assets && cp exe/shrimp-center.exe assets/
+          (cd assets && sha256sum shrimp-center.exe > SHA256SUMS)
           cat > notes.md <<NOTES
           ${{ inputs.title }}: program dla Windows, który pobiera Shrimp, przygotowuje nośnik i przenosi dane z Windows.
 
-          - \`shrimp-install.exe\` (SHA-256: \`$(cut -d' ' -f1 assets/SHA256SUMS)\`)
+          - \`shrimp-center.exe\` (SHA-256: \`$(cut -d' ' -f1 assets/SHA256SUMS)\`)
           - ISO pobiera z Cloudflare R2: $MANIFEST_URL (ostatnie wydanie CoreOS-Working), ze sprawdzeniem SHA-256.
 
           Program nie jest podpisany (Authenticode), więc SmartScreen ostrzeże przed uruchomieniem.

@@ -131,8 +131,8 @@
 131	Disk nije pronađen. Ponovo ga priključite.
 132	Firmver nije prihvatio stavku za pokretanje. Pokrenite računar ručno sa diska, iz menija za pokretanje.
 133	Firmver nije prihvatio podešavanje za sledeće pokretanje. Pokrenite računar ručno sa diska, iz menija za pokretanje.
-134	Shrimp Install-u je potrebna komponenta Microsoft Edge WebView2, ali nije bilo moguće pokrenuti je.\n\nAžurirajte Windows ili instalirajte WebView2 Runtime sa Microsoft sajta i pokušajte ponovo.
-135	Nije moguće otvoriti prozor programa Shrimp Install (WebView2).
+134	Shrimp Center-u je potrebna komponenta Microsoft Edge WebView2, ali nije bilo moguće pokrenuti je.\n\nAžurirajte Windows ili instalirajte WebView2 Runtime sa Microsoft sajta i pokušajte ponovo.
+135	Nije moguće otvoriti prozor programa Shrimp Center (WebView2).
 136	Nije moguće pokrenuti komponentu WebView2.
 137	Nema slobodnog mesta za stavku za pokretanje.
 138	Nedostaje interfejs programa.

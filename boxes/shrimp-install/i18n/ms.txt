@@ -131,8 +131,8 @@
 131	Pemacu tidak ditemui. Palamkan semula.
 132	Perisian tegar tidak menerima entri boot. Mulakan komputer dari pemacu secara manual, melalui menu boot.
 133	Perisian tegar tidak menerima tetapan boot seterusnya. Mulakan komputer dari pemacu secara manual, melalui menu boot.
-134	Shrimp Install memerlukan komponen Microsoft Edge WebView2, tetapi komponen itu tidak dapat dimulakan.\n\nKemas kini Windows atau pasang WebView2 Runtime daripada Microsoft dan cuba lagi.
-135	Tetingkap Shrimp Install (WebView2) tidak dapat dibuka.
+134	Shrimp Center memerlukan komponen Microsoft Edge WebView2, tetapi komponen itu tidak dapat dimulakan.\n\nKemas kini Windows atau pasang WebView2 Runtime daripada Microsoft dan cuba lagi.
+135	Tetingkap Shrimp Center (WebView2) tidak dapat dibuka.
 136	Komponen WebView2 tidak dapat dimulakan.
 137	Tiada slot kosong untuk entri boot.
 138	Antara muka program tiada.

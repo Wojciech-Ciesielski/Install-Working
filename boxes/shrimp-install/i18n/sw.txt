@@ -131,8 +131,8 @@
 131	Hifadhi haikupatikana. Iunganishe tena.
 132	Programu dhibiti haikukubali ingizo la kuanzisha. Anzisha kompyuta mwenyewe kutoka kwenye hifadhi kupitia menyu ya kuanzisha.
 133	Programu dhibiti haikukubali mpangilio wa kuanzisha unaofuata. Anzisha kompyuta mwenyewe kutoka kwenye hifadhi kupitia menyu ya kuanzisha.
-134	Shrimp Install inahitaji kijenzi cha Microsoft Edge WebView2, lakini hakikuweza kuanzishwa.\n\nSasisha Windows au sakinisha WebView2 Runtime kutoka Microsoft kisha ujaribu tena.
-135	Imeshindwa kufungua dirisha la Shrimp Install (WebView2).
+134	Shrimp Center inahitaji kijenzi cha Microsoft Edge WebView2, lakini hakikuweza kuanzishwa.\n\nSasisha Windows au sakinisha WebView2 Runtime kutoka Microsoft kisha ujaribu tena.
+135	Imeshindwa kufungua dirisha la Shrimp Center (WebView2).
 136	Imeshindwa kuanzisha kijenzi cha WebView2.
 137	Hakuna nafasi wazi ya ingizo la kuanzisha.
 138	Kiolesura cha programu hakipo.

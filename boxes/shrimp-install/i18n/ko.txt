@@ -131,8 +131,8 @@
 131	드라이브를 찾을 수 없습니다. 다시 연결하세요.
 132	펌웨어가 부팅 항목을 받아들이지 않았습니다. 부팅 메뉴에서 드라이브로 컴퓨터를 직접 시작하세요.
 133	펌웨어가 다음 부팅 설정을 받아들이지 않았습니다. 부팅 메뉴에서 드라이브로 컴퓨터를 직접 시작하세요.
-134	Shrimp Install에는 Microsoft Edge WebView2 구성 요소가 필요하지만 시작할 수 없습니다.\n\nWindows를 업데이트하거나 Microsoft에서 WebView2 Runtime을 설치한 후 다시 시도하세요.
-135	Shrimp Install 창(WebView2)을 열 수 없습니다.
+134	Shrimp Center에는 Microsoft Edge WebView2 구성 요소가 필요하지만 시작할 수 없습니다.\n\nWindows를 업데이트하거나 Microsoft에서 WebView2 Runtime을 설치한 후 다시 시도하세요.
+135	Shrimp Center 창(WebView2)을 열 수 없습니다.
 136	WebView2 구성 요소를 시작할 수 없습니다.
 137	부팅 항목을 위한 빈 슬롯이 없습니다.
 138	프로그램 인터페이스가 없습니다.

@@ -131,8 +131,8 @@
 131	Ahụghị draịva. Tinye ya ọzọ.
 132	Firmware anabataghị ntinye mbido. Malite kọmputa site na draịva n’aka, site na menu mbido.
 133	Firmware anabataghị ntọala mbido ọzọ. Malite kọmputa site na draịva n’aka, site na menu mbido.
-134	Shrimp Install chọrọ akụrụngwa Microsoft Edge WebView2, mana enweghị ike ịmalite ya.\n\nMelite Windows ma ọ bụ wụnye WebView2 Runtime site na Microsoft wee nwaa ọzọ.
-135	Enweghị ike imepe windo Shrimp Install (WebView2).
+134	Shrimp Center chọrọ akụrụngwa Microsoft Edge WebView2, mana enweghị ike ịmalite ya.\n\nMelite Windows ma ọ bụ wụnye WebView2 Runtime site na Microsoft wee nwaa ọzọ.
+135	Enweghị ike imepe windo Shrimp Center (WebView2).
 136	Enweghị ike ịmalite akụrụngwa WebView2.
 137	Enweghị oghere tọgbọrọ chakoo maka ntinye mbido.
 138	Ihu mmemme ahụ adịghị.

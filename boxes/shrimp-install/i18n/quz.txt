@@ -131,8 +131,8 @@
 131	Manam disco tarikunchu. Wakmanta t’inkiy.
 132	Firmwareqa manam boot qillqasqata chaskirqanchu. Boot menumanta discomanta computadorata makiykiwan qallarichiy.
 133	Firmwareqa manam hamuq boot churasqata chaskirqanchu. Boot menumanta discomanta computadorata makiykiwan qallarichiy.
-134	Shrimp Install nisqaqa Microsoft Edge WebView2 nisqa t’aqatam necesitan, ichaqa manam qallarichiyta atikunchu.\n\nWindowsta musuqyachiy otaq Microsoftmanta WebView2 Runtimeta churay, hinaspa wakmanta kallpachakuy.
-135	Manam Shrimp Install (WebView2) ventanata kichayta atikunchu.
+134	Shrimp Center nisqaqa Microsoft Edge WebView2 nisqa t’aqatam necesitan, ichaqa manam qallarichiyta atikunchu.\n\nWindowsta musuqyachiy otaq Microsoftmanta WebView2 Runtimeta churay, hinaspa wakmanta kallpachakuy.
+135	Manam Shrimp Center (WebView2) ventanata kichayta atikunchu.
 136	Manam WebView2 t’aqata qallarichiyta atikunchu.
 137	Manam boot qillqasqapaq ch’usaq kiti kanchu.
 138	Programapa interfaz nisqan manam kanchu.

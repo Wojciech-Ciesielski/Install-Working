@@ -131,8 +131,8 @@
 131	Hindi nakita ang drive. Ikabit itong muli.
 132	Hindi tinanggap ng firmware ang boot entry. I-boot ang computer mismo mula sa drive gamit ang boot menu.
 133	Hindi tinanggap ng firmware ang setting para sa susunod na boot. I-boot ang computer mismo mula sa drive gamit ang boot menu.
-134	Kailangan ng Shrimp Install ang component na Microsoft Edge WebView2, pero hindi ito mapagana.\n\nI-update ang Windows o i-install ang WebView2 Runtime mula sa Microsoft at subukang muli.
-135	Hindi mabuksan ang window ng Shrimp Install (WebView2).
+134	Kailangan ng Shrimp Center ang component na Microsoft Edge WebView2, pero hindi ito mapagana.\n\nI-update ang Windows o i-install ang WebView2 Runtime mula sa Microsoft at subukang muli.
+135	Hindi mabuksan ang window ng Shrimp Center (WebView2).
 136	Hindi mapagana ang component na WebView2.
 137	Walang libreng espasyo para sa boot entry.
 138	Nawawala ang interface ng program.

@@ -1,5 +1,5 @@
 // Adresy stron pomocy (boxes/help-links/help.json), wspólne dla Shrimp Install i Setup.
-import cfg from "./help.json";
+import cfg from "./help.json" with { type: "json" };
 
 /**
  * Adres strony pomocy dla tematu albo null, gdy strony jeszcze nie ma (puste `base`) lub adres jest niebezpieczny.

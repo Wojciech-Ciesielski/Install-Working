@@ -129,7 +129,14 @@ button { font: inherit; color: inherit; }
   overflow: hidden;
   position: relative;
 }
-.titlebar { height: 36px; display: flex; align-items: center; justify-content: flex-end; flex: none; user-select: none; }
+.titlebar { height: 36px; display: flex; align-items: center; justify-content: space-between; flex: none; user-select: none; }
+.tabs { display: flex; height: 100%; padding-left: 52px; gap: 4px; }
+.tab { height: 100%; border: 0; background: transparent; padding: 0 14px; color: var(--text-2); font: inherit; font-size: 14px; cursor: default; position: relative; }
+.tab:hover { color: var(--text); background: rgb(128 128 128 / 12%); }
+.tab[aria-selected="true"] { color: var(--text); font-weight: 600; }
+.tab[aria-selected="true"]::after { content: ""; position: absolute; left: 14px; right: 14px; bottom: 4px; height: 3px; border-radius: 2px; background: var(--accent); }
+.tab[disabled] { color: var(--text-3); background: transparent; }
+.sec { margin: 28px 0 12px; font: 600 18px/26px var(--font-display); }
 .caps { display: flex; height: 100%; }
 .caps button { width: 52px; height: 36px; border: 0; background: transparent; display: grid; place-items: center; cursor: default; color: var(--text); }
 .caps button:hover { background: rgb(128 128 128 / 18%); }
@@ -319,6 +326,7 @@ h1 { margin: 0; font: 600 36px/44px var(--font-display); letter-spacing: -0.2px;
 /* ostrzeżenie w dolnym rogu: odsłonięty tekst w kolorze czerwonym z wykrzyknikiem */
 .cmd { flex-wrap: wrap; }
 .cmd .btn { width: 184px; padding: 0; }
+.cmd .btn.wide { width: auto; min-width: 184px; padding: 0 24px; }
 .alert { flex: 1 1 260px; min-width: 0; margin-right: auto; display: flex; gap: 8px; align-items: flex-start; color: var(--danger); font-size: 15px; line-height: 22px; }
 .alert .i { width: 22px; height: 22px; margin-top: 0; }
 .alert b { font-weight: 600; }

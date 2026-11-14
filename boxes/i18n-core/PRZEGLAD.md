@@ -1,6 +1,6 @@
 # Tłumaczenia do przeglądu
 
-Wszystkie tłumaczenia w `i18n/` (setup, install, webapps, grub) są maszynowe i nie przeszły
+Wszystkie tłumaczenia w `i18n/` (setup, install, webapps) są maszynowe i nie przeszły
 przeglądu native speakerów. Nie tłumaczymy ich ponownie: czekają na ludzi, którzy znają język.
 
 ## Najpierw (najsłabsze, z przeglądu repo 2026-11-08)
@@ -22,4 +22,3 @@ Bez tłumaczenia (angielski albo język zapasowy): Setup `ab`, `mjw`, `sat`; Ins
 ## Jak poprawić
 
 Plik `i18n/<przestrzeń>/<znacznik>.txt`, wiersz `id⇥tekst`. Id i placeholdery (`{name}`) bez zmian.
-Po zmianach w `grub` uruchom `tools/render-grub-i18n.js`.

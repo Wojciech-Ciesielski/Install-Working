@@ -131,8 +131,8 @@
 131	A meghajtó nem található. Csatlakoztassa újra.
 132	A belső vezérlőprogram nem fogadta el az indítási bejegyzést. Indítsa el a számítógépet kézzel a meghajtóról, az indítási menüből.
 133	A belső vezérlőprogram nem fogadta el a következő indításra vonatkozó beállítást. Indítsa el a számítógépet kézzel a meghajtóról, az indítási menüből.
-134	A Shrimp Installnak szüksége van a Microsoft Edge WebView2 összetevőre, de nem sikerült elindítani.\n\nFrissítsd a Windowst, vagy telepítsd a WebView2 Runtime-ot a Microsofttól, majd próbáld újra.
-135	Nem sikerült megnyitni a Shrimp Install ablakát (WebView2).
+134	A Shrimp Centernak szüksége van a Microsoft Edge WebView2 összetevőre, de nem sikerült elindítani.\n\nFrissítsd a Windowst, vagy telepítsd a WebView2 Runtime-ot a Microsofttól, majd próbáld újra.
+135	Nem sikerült megnyitni a Shrimp Center ablakát (WebView2).
 136	Nem sikerült elindítani a WebView2 összetevőt.
 137	Nincs szabad hely az indítási bejegyzés számára.
 138	Hiányzik a program felülete.

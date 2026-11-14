@@ -131,8 +131,8 @@
 131	Laufwerk nicht gefunden. Stecken Sie es erneut an.
 132	Die Firmware hat den Starteintrag nicht akzeptiert. Starten Sie den Computer manuell vom Laufwerk, über das Startmenü.
 133	Die Firmware hat die Einstellung für den nächsten Start nicht akzeptiert. Starten Sie den Computer manuell vom Laufwerk, über das Startmenü.
-134	Shrimp Install benötigt die Komponente Microsoft Edge WebView2, sie konnte aber nicht gestartet werden.\n\nAktualisiere Windows oder installiere die WebView2 Runtime von Microsoft und versuche es erneut.
-135	Das Fenster von Shrimp Install (WebView2) konnte nicht geöffnet werden.
+134	Shrimp Center benötigt die Komponente Microsoft Edge WebView2, sie konnte aber nicht gestartet werden.\n\nAktualisiere Windows oder installiere die WebView2 Runtime von Microsoft und versuche es erneut.
+135	Das Fenster von Shrimp Center (WebView2) konnte nicht geöffnet werden.
 136	Die Komponente WebView2 konnte nicht gestartet werden.
 137	Kein freier Platz für den Starteintrag.
 138	Die Programmoberfläche fehlt.
@@ -141,3 +141,36 @@
 149	Der Inhalt des Datenträgers passt nicht neben Shrimp. Verwende einen größeren Datenträger oder verschiebe einige Dateien.
 150	Die Kopie des Inhalts konnte auf dem Datenträger nicht geprüft werden. Sie ist weiterhin auf diesem Computer gespeichert.
 151	Shrimp und die gewählten Dateien passen nicht auf diesen Datenträger.
+152	Bereiche
+153	Installieren
+154	Systeme
+155	Shrimp deinstallieren
+156	Systeme auf diesem Computer
+157	Shrimp einmal starten, das Standardsystem wählen oder die UEFI-Einstellungen öffnen.
+158	Shrimp ist auf diesem Computer noch nicht installiert. Bereiten Sie unter „Installieren“ ein Laufwerk vor.
+159	In Shrimp neu starten
+160	Nur beim nächsten Start. Danach startet wie gewohnt das Standardsystem.
+161	Neu starten
+162	Standardsystem
+163	Startet beim Einschalten des Computers.
+164	Startet beim Einschalten des Computers. Windows starten Sie über Shrimp Center in Shrimp.
+165	UEFI-Einstellungen
+166	Einstellungen des Computers, etwa Startreihenfolge oder Secure Boot.
+167	Jetzt neu starten?
+168	Speichern Sie zuerst Ihre Arbeit. Geöffnete Apps werden geschlossen.
+169	Die Einstellung konnte nicht geändert werden:
+170	Shrimp deinstallieren
+171	Der Computer startet Windows wie zuvor. Ihre Dateien in Windows bleiben unberührt.
+172	Shrimp verschwindet aus der Startliste
+173	Windows ist wieder das erste System.
+174	Die Startdateien von Shrimp werden entfernt
+175	Nur die Dateien von Shrimp auf der EFI-Partition. Windows-Dateien bleiben.
+176	Die Shrimp-Partitionen bleiben
+177	Löschen Sie sie in der Datenträgerverwaltung, um den Platz für Windows zurückzubekommen.
+178	Shrimp wurde in der Startliste dieses Computers nicht gefunden.
+179	Shrimp wurde aus dem Start entfernt. Der Computer startet Windows.
+180	Datenträgerverwaltung öffnen
+181	Deinstallieren
+182	Shrimp deinstallieren?
+183	Shrimp startet auf diesem Computer nicht mehr. Dateien in Shrimp bleiben auf seinen Partitionen, bis Sie sie löschen.
+184	Shrimp konnte nicht deinstalliert werden:

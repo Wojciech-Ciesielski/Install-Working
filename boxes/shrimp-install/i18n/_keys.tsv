@@ -132,8 +132,8 @@
 131	host.noMedia	Drive not found. Plug it in again.
 132	host.fwEntry	The firmware didn't accept the boot entry. Start the computer from the drive manually, from the boot menu.
 133	host.fwNext	The firmware didn't accept the next-boot setting. Start the computer from the drive manually, from the boot menu.
-134	native.wv2missing	Shrimp Install needs the Microsoft Edge WebView2 component, but it couldn't be started.\n\nUpdate Windows or install WebView2 Runtime from Microsoft and try again.
-135	native.windowFail	Couldn't open the Shrimp Install window (WebView2).
+134	native.wv2missing	Shrimp Center needs the Microsoft Edge WebView2 component, but it couldn't be started.\n\nUpdate Windows or install WebView2 Runtime from Microsoft and try again.
+135	native.windowFail	Couldn't open the Shrimp Center window (WebView2).
 136	native.wv2fail	Couldn't start the WebView2 component.
 137	host.noSlot	No free slot for the boot entry.
 138	native.noUi	The program's interface is missing.
@@ -144,9 +144,42 @@
 143	fail.busy.b	Another program is using the drive.
 144	fail.busy.r	Close programs that use it (for example File Explorer or a backup program) and try again.
 145	fail.question.t	Writing was stopped
-146	fail.question.b	Shrimp Install stopped before writing the drive because of an unexpected question:
+146	fail.question.b	Shrimp Center stopped before writing the drive because of an unexpected question:
 147	host.backupRead	Couldn't read everything that is on the drive, so nothing was erased.
 148	host.backupSpace	There isn't enough space on this computer for a copy of what is on the drive.
 149	host.backupMedia	What is on the drive won't fit next to Shrimp. Use a bigger drive or move some files off it.
 150	host.backupVerify	The copy of what was on the drive couldn't be checked on the drive. It is still saved on this computer.
 151	host.mediaSmall	Shrimp and the chosen files won't fit on this drive.
+152	tabs.aria	Sections
+153	tab.install	Install
+154	tab.systems	Systems
+155	tab.uninstall	Uninstall Shrimp
+156	sys.title	Systems on this computer
+157	sys.sub	Start Shrimp once, choose which system starts by default or open the UEFI settings.
+158	sys.none	Shrimp is not installed on this computer yet. Use Install to prepare a drive.
+159	sys.restart.t	Restart in Shrimp
+160	sys.restart.d	Only for the next start. After that the default system starts as usual.
+161	sys.restart.btn	Restart
+162	sys.default	Default system
+163	sys.default.win	Starts when you turn on the computer.
+164	sys.default.shrimp	Starts when you turn on the computer. Windows is in Shrimp Center on Shrimp.
+165	sys.fw.t	UEFI settings
+166	sys.fw.d	Computer settings such as boot order or Secure Boot.
+167	sys.confirm.t	Restart now?
+168	sys.confirm.d	Save your work first. Open apps will be closed.
+169	sys.fail	The setting couldn't be changed:
+170	un.title	Uninstall Shrimp
+171	un.sub	The computer will start Windows as before. Your files in Windows are not touched.
+172	un.f1.t	Shrimp leaves the startup list
+173	un.f1.d	Windows becomes the first system again.
+174	un.f2.t	Shrimp's startup files are removed
+175	un.f2.d	Only Shrimp's files on the EFI partition. Windows files stay.
+176	un.f3.t	The Shrimp partitions stay
+177	un.f3.d	Delete them in Disk Management to get the space back for Windows.
+178	un.none	Shrimp was not found in the startup list of this computer.
+179	un.done	Shrimp was removed from startup. The computer will start Windows.
+180	un.disks	Open Disk Management
+181	un.btn	Uninstall
+182	un.confirm.t	Uninstall Shrimp?
+183	un.confirm.d	Shrimp will no longer start on this computer. Files you keep in Shrimp stay on its partitions until you delete them.
+184	un.fail	Shrimp couldn't be uninstalled:

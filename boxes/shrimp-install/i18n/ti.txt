@@ -131,8 +131,8 @@
 131	ድራይቭ ኣይተረኽበን። ደጊምኩም ኣእትዉዎ።
 132	ፈርምዌር ኣእታዊ ምልዓል ኣይተቐበሎን። ካብ ዝርዝር ምልዓል ካብ ድራይቭ ኮምፒዩተር ብኢድ ጀምሩ።
 133	ፈርምዌር ቅጥዒ ዝቕጽል ምልዓል ኣይተቐበሎን። ካብ ዝርዝር ምልዓል ካብ ድራይቭ ኮምፒዩተር ብኢድ ጀምሩ።
-134	Shrimp Install ናይ Microsoft Edge WebView2 ክፋል የድልዮ፣ ግን ክጅምር ኣይተኻእለን።\n\nWindows ኣሐድሱ ወይ WebView2 Runtime ካብ Microsoft ኣቐምጡ እሞ ደጊምኩም ፈትኑ።
-135	መስኮት Shrimp Install (WebView2) ክኽፈት ኣይተኻእለን።
+134	Shrimp Center ናይ Microsoft Edge WebView2 ክፋል የድልዮ፣ ግን ክጅምር ኣይተኻእለን።\n\nWindows ኣሐድሱ ወይ WebView2 Runtime ካብ Microsoft ኣቐምጡ እሞ ደጊምኩም ፈትኑ።
+135	መስኮት Shrimp Center (WebView2) ክኽፈት ኣይተኻእለን።
 136	ክፋል WebView2 ክጅምር ኣይተኻእለን።
 137	ንኣእታዊ ምልዓል ነጻ ቦታ የለን።
 138	መተሓላለፊ ናይቲ ፕሮግራም የለን።

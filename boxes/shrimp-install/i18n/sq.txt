@@ -131,8 +131,8 @@
 131	Disku nuk u gjet. Lidhe përsëri.
 132	Firmueri nuk e pranoi hyrjen e nisjes. Nise kompjuterin nga disku manualisht, nga menyja e nisjes.
 133	Firmueri nuk e pranoi cilësimin e nisjes së radhës. Nise kompjuterin nga disku manualisht, nga menyja e nisjes.
-134	Shrimp Install ka nevojë për komponentin Microsoft Edge WebView2, por ai nuk mund të nisej.\n\nPërditëso Windows-in ose instalo WebView2 Runtime nga Microsoft dhe provo përsëri.
-135	Dritarja e Shrimp Install (WebView2) nuk mund të hapej.
+134	Shrimp Center ka nevojë për komponentin Microsoft Edge WebView2, por ai nuk mund të nisej.\n\nPërditëso Windows-in ose instalo WebView2 Runtime nga Microsoft dhe provo përsëri.
+135	Dritarja e Shrimp Center (WebView2) nuk mund të hapej.
 136	Komponenti WebView2 nuk mund të nisej.
 137	Nuk ka vend të lirë për hyrjen e nisjes.
 138	Mungon ndërfaqja e programit.

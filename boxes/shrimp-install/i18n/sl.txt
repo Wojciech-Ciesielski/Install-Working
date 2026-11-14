@@ -131,8 +131,8 @@
 131	Pogon ni bil najden. Znova ga priključite.
 132	Vdelana programska oprema ni sprejela zagonskega vnosa. Zaženite računalnik ročno s pogona, v zagonskem meniju.
 133	Vdelana programska oprema ni sprejela nastavitve za naslednji zagon. Zaženite računalnik ročno s pogona, v zagonskem meniju.
-134	Shrimp Install potrebuje komponento Microsoft Edge WebView2, vendar je ni bilo mogoče zagnati.\n\nPosodobite Windows ali namestite WebView2 Runtime od Microsofta in poskusite znova.
-135	Okna Shrimp Install (WebView2) ni bilo mogoče odpreti.
+134	Shrimp Center potrebuje komponento Microsoft Edge WebView2, vendar je ni bilo mogoče zagnati.\n\nPosodobite Windows ali namestite WebView2 Runtime od Microsofta in poskusite znova.
+135	Okna Shrimp Center (WebView2) ni bilo mogoče odpreti.
 136	Komponente WebView2 ni bilo mogoče zagnati.
 137	Ni prostega mesta za zagonski vnos.
 138	Vmesnik programa manjka.

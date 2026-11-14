@@ -131,8 +131,8 @@
 131	Heb ganfod y gyriant. Cysylltwch ef eto.
 132	Ni dderbyniodd y cadarnwedd y cofnod cychwyn. Cychwynnwch y cyfrifiadur â llaw o'r gyriant, o'r ddewislen cychwyn.
 133	Ni dderbyniodd y cadarnwedd y gosodiad ar gyfer y cychwyn nesaf. Cychwynnwch y cyfrifiadur â llaw o'r gyriant, o'r ddewislen cychwyn.
-134	Mae angen y gydran Microsoft Edge WebView2 ar Shrimp Install, ond doedd dim modd ei chychwyn.\n\nDiweddarwch Windows neu gosodwch WebView2 Runtime gan Microsoft a rhowch gynnig arall arni.
-135	Doedd dim modd agor ffenestr Shrimp Install (WebView2).
+134	Mae angen y gydran Microsoft Edge WebView2 ar Shrimp Center, ond doedd dim modd ei chychwyn.\n\nDiweddarwch Windows neu gosodwch WebView2 Runtime gan Microsoft a rhowch gynnig arall arni.
+135	Doedd dim modd agor ffenestr Shrimp Center (WebView2).
 136	Doedd dim modd cychwyn y gydran WebView2.
 137	Dim lle rhydd ar gyfer y cofnod cychwyn.
 138	Mae rhyngwyneb y rhaglen ar goll.

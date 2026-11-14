@@ -1,6 +1,8 @@
-# Shrimp Install
+# Shrimp Center (Windows)
 
-Program dla Windows 10/11, który przygotowuje nośnik z Shrimp, zachowuje pliki użytkownika, zapisuje listę programów i ustawień Windows dla Setup i uruchamia komputer z nośnika bez wchodzenia do UEFI. Wygląd pochodzi z `shrimp-handoff` (`mockups/shrimp-install.html`, `specs/shrimp-install.md`).
+Dawniej Shrimp Install (katalog boxa i workflow nadal `shrimp-install`, program to `shrimp-center.exe`). Trzy zakładki: **Zainstaluj**, **Systemy** (uruchom ponownie w Shrimp przez BootNext, domyślny system w BootOrder, ustawienia UEFI) i **Odinstaluj Shrimp** (wpisy Shrimp z UEFI i jego pliki z partycji EFI; Windows znowu pierwszy; partycje Shrimp zostają do usunięcia w Zarządzaniu dyskami).
+
+Zakładka Zainstaluj to program dla Windows 10/11, który przygotowuje nośnik z Shrimp, zachowuje pliki użytkownika, zapisuje listę programów i ustawień Windows dla Setup i uruchamia komputer z nośnika bez wchodzenia do UEFI. Wygląd pochodzi z `shrimp-handoff` (`mockups/shrimp-install.html`, `specs/shrimp-install.md`).
 
 Od Bety 5 to **własny kod w Rust** (ok. 2,8 tys. wierszy razem z testami zamiast forka Rufusa 4.16 w C). Fork Rufusa jest w historii gita (ostatni commit z nim: `2435584`), gdyby trzeba było do niego wrócić. Interfejs (`ui/`, TypeScript w WebView2) i most do programu się nie zmieniły.
 
@@ -21,17 +23,18 @@ Gotowe → Uruchom ponownie: wpis UEFI „Shrimp Install” + BootNext (jednoraz
 
 | Partycja (GPT, typ: dane podstawowe) | System plików | Zawartość |
 |---|---|---|
-| 1. `SHRIMP_BOOT`, ≥ 1 GiB | FAT32 | wszystko z obrazu poza `LiveOS/`: `EFI/BOOT/bootx64.efi` (shim), `boot/` (GRUB, jądro, initrd), `boot/grub2/shrimp-lang.cfg` |
+| 1. `SHRIMP_BOOT`, ≥ 1 GiB | FAT32 | wszystko z obrazu poza `LiveOS/`: `EFI/BOOT/bootx64.efi` (shim), program startowy (systemd-boot), jądro, initrd |
 | 2. `SHRIMP_LIVE`, reszta nośnika | exFAT | `LiveOS/squashfs.img`, `shrimp-transfer/`, `shrimp-backup/` |
 
-Firmware UEFI startuje z FAT32 (`\EFI\BOOT\BOOTX64.EFI`), GRUB znajduje swoje pliki na tej samej partycji, a system live szuka nośnika po etykiecie (`root=live:CDLABEL=SHRIMP_LIVE`) i montuje partycję exFAT (moduł `exfat` jest w initrd obrazu, CoreOS-Working). Setup widzi dane w `/run/overlay/live` jak dotąd. Dzięki exFAT ani obraz, ani pliki z Windows nie mają limitu 4 GiB i nic nie jest dzielone. Własny formater FAT32 nie jest potrzebny: partycja startowa jest mała, a Windows formatuje FAT32 do 32 GB.
+Firmware UEFI startuje z FAT32 (`\EFI\BOOT\BOOTX64.EFI`), program startowy znajduje swoje pliki na tej samej partycji, a system live szuka nośnika po etykiecie (`root=live:CDLABEL=SHRIMP_LIVE`) i montuje partycję exFAT (moduł `exfat` jest w initrd obrazu, CoreOS-Working). Setup widzi dane w `/run/overlay/live` jak dotąd. Dzięki exFAT ani obraz, ani pliki z Windows nie mają limitu 4 GiB i nic nie jest dzielone. Własny formater FAT32 nie jest potrzebny: partycja startowa jest mała, a Windows formatuje FAT32 do 32 GB.
 
 Przygotowanie robi Windows (moduł Storage, `src/win/disk.rs`): `Clear-Disk`, `Initialize-Disk -PartitionStyle GPT`, `New-Partition`, `Format-Volume`. Obraz ISO jest montowany tylko do odczytu (`Mount-DiskImage`) i kopiowany plik po pliku. Dysk z Windows (`IsBoot`/`IsSystem`) jest odrzucany w skrypcie formatowania niezależnie od interfejsu.
 
 | Część | Gdzie |
 |---|---|
-| Interfejs (ekrany z makiety, tryb podglądu) | `ui/src/app.ts`, `ui/src/mockup.css`, `ui/src/screens.html` |
-| Most interfejs ↔ program, przebieg | `ui/src/backend/host.ts`, `src/win/app.rs`, okno: `src/win/window.rs` (wry + tao) |
+| Interfejs (ekrany z makiety, tryb podglądu; JS bez kompilatora) | `ui/src/app.js`, `ui/src/mockup.css`, `ui/src/screens.html`, budowa `ui/build.mjs` |
+| Zakładki Systemy i Odinstaluj Shrimp | `src/win/systems.rs` (zmienne UEFI, partycja EFI), `src/efi.rs` (wpisy, plan usuwania, testy na Linuksie) |
+| Most interfejs ↔ program, przebieg | `ui/src/backend/host.js`, `src/win/app.rs`, okno: `src/win/window.rs` (wry + tao) |
 | Nośniki, formatowanie, obraz | `src/win/disk.rs` (PowerShell: `src/win/ps.rs`) |
 | Pobieranie i weryfikacja ISO | `src/win/fetch.rs`, `src/manifest.rs` |
 | Kopia zawartości nośnika | `src/backup.rs` |
@@ -55,7 +58,7 @@ Interfejs wysyła tekst `id⇥wywołanie⇥argumenty…` (ścieżki Windows nie 
 
 Zdarzenia: `devices`, `folders` (rozmiary liczone w tle), `bitlocker`, `progress { phase 1–3, done, total, speed, step? }` (`step`: `verify` — suma obrazu pobranego wcześniej, `prepare` — analiza obrazu i formatowanie, `backup` — kopia zawartości nośnika; bez `step` główna praca fazy), `image { size, version }` (prawdziwy rozmiar obrazu po przeczytaniu manifestu), `fail { phase, kind, message? }` (`offline`, `verify`, `space`, `write`, `device`, `busy`, `copy`, `other`), `done`, `closeRequested`.
 
-Podgląd ekranów błędów bez Windows: `cd ui && npm run dev`, potem `?screen=brak-internetu`, `?screen=nosnik-zajety`.
+Podgląd ekranów bez Windows: `cd ui && npm run build`, potem `ui/dist/index.html?screen=brak-internetu` (także `nosnik-zajety`, `systemy`, `odinstaluj`) w przeglądarce.
 
 ### Strony pomocy
 
@@ -126,7 +129,7 @@ cargo test                                       # na każdym systemie: kopia no
 
 CI (`.github/workflows/shrimp-install.yml`): testy interfejsu i Rust na Linuksie (z `clippy` dla celu Windows), potem na Windows: `--collect` (dane i zgodność ze schematem), `--backup-test`, pełny zapis ISO z ostatniego wydania na wirtualny dysk 32 GB z plikiem użytkownika (`--auto-disk`, potem sprawdza GPT, FAT32 `SHRIMP_BOOT`, exFAT `SHRIMP_LIVE`, wielkość liter nazw, `shrimp-backup` i `shrimp.json`) i okno w trybie `--demo`.
 
-Dziennik każdego uruchomienia: `%LOCALAPPDATA%\Shrimp Install\shrimp-install.log` (poprzedni: `shrimp-install.old.log`). Przy zgłoszeniu błędu poproś o ten plik.
+Dziennik każdego uruchomienia: `%LOCALAPPDATA%\Shrimp Center\shrimp-center.log` (poprzedni: `shrimp-center.old.log`). Przy zgłoszeniu błędu poproś o ten plik.
 
 Argumenty: `--demo` (dane z makiety, nic nie zapisuje), `--screen <ekran> --theme light|dark` (podgląd), `--lang <język>`, `--source plik.iso` (bez pobierania), `--manifest URL`, `--collect plik.json` (tylko dane z Windows, bez okna), `--backup-test ŹRÓDŁO CEL KOPIA` (działa też na Linuksie), `--auto-disk NUMER` (test: od razu cały przebieg na dysku o tym numerze z Zarządzania dyskami, bez folderów użytkownika; kod wyjścia 0 po zakończeniu, 3 po błędzie; tylko dla dysków testowych, bo kasuje wskazany dysk). `SHRIMP_DEVTOOLS=1` włącza narzędzia deweloperskie WebView2.
 

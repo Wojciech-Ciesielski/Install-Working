@@ -131,8 +131,8 @@
 131	Drayive ga e hwetšwe. E kopanye gape.
 132	Firmware ga e amogela tsenyo ya go thoma. Thoma khomphutha go tšwa go drayive ka seatla, go menyu ya go thoma.
 133	Firmware ga e amogela peakanyo ya go thoma ga go latela. Thoma khomphutha go tšwa go drayive ka seatla, go menyu ya go thoma.
-134	Shrimp Install e nyaka karolo ya Microsoft Edge WebView2, eupša ga se kgonagale go e thoma.\n\nMpshafatša Windows goba o tsenye WebView2 Runtime go tšwa go Microsoft gomme o leke gape.
-135	Ga go kgonagale go bula lefasetere la Shrimp Install (WebView2).
+134	Shrimp Center e nyaka karolo ya Microsoft Edge WebView2, eupša ga se kgonagale go e thoma.\n\nMpshafatša Windows goba o tsenye WebView2 Runtime go tšwa go Microsoft gomme o leke gape.
+135	Ga go kgonagale go bula lefasetere la Shrimp Center (WebView2).
 136	Ga go kgonagale go thoma karolo ya WebView2.
 137	Ga go sebaka se se lokologilego sa tsenyo ya go thoma.
 138	Tšhupetšo ya lenaneo ga e gona.

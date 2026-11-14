@@ -131,8 +131,8 @@
 131	Jednotka nebyla nalezena. Připojte ji znovu.
 132	Firmware nepřijal zaváděcí položku. Spusťte počítač z jednotky ručně v nabídce spuštění.
 133	Firmware nepřijal nastavení příštího spuštění. Spusťte počítač z jednotky ručně v nabídce spuštění.
-134	Shrimp Install potřebuje komponentu Microsoft Edge WebView2, ale nepodařilo se ji spustit.\n\nAktualizujte Windows nebo nainstalujte WebView2 Runtime od Microsoftu a zkuste to znovu.
-135	Okno Shrimp Install (WebView2) se nepodařilo otevřít.
+134	Shrimp Center potřebuje komponentu Microsoft Edge WebView2, ale nepodařilo se ji spustit.\n\nAktualizujte Windows nebo nainstalujte WebView2 Runtime od Microsoftu a zkuste to znovu.
+135	Okno Shrimp Center (WebView2) se nepodařilo otevřít.
 136	Komponentu WebView2 se nepodařilo spustit.
 137	Není volné místo pro zaváděcí položku.
 138	V programu chybí rozhraní.

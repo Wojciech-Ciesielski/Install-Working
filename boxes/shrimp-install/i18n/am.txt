@@ -131,8 +131,8 @@
 131	ድራይቩ አልተገኘም። እንደገና ይሰኩት።
 132	ፈርምዌሩ የማስነሻ ግቤቱን አልተቀበለም። ኮምፒውተሩን ከማስነሻ ምናሌው ከድራይቩ በእጅ ያስጀምሩ።
 133	ፈርምዌሩ የቀጣዩን ማስነሻ ቅንብር አልተቀበለም። ኮምፒውተሩን ከማስነሻ ምናሌው ከድራይቩ በእጅ ያስጀምሩ።
-134	Shrimp Install የMicrosoft Edge WebView2 ክፍል ያስፈልገዋል፣ ግን ሊጀመር አልቻለም።\n\nWindowsን ያዘምኑ ወይም WebView2 Runtimeን ከMicrosoft ይጫኑና እንደገና ይሞክሩ።
-135	የShrimp Install መስኮትን (WebView2) መክፈት አልተቻለም።
+134	Shrimp Center የMicrosoft Edge WebView2 ክፍል ያስፈልገዋል፣ ግን ሊጀመር አልቻለም።\n\nWindowsን ያዘምኑ ወይም WebView2 Runtimeን ከMicrosoft ይጫኑና እንደገና ይሞክሩ።
+135	የShrimp Center መስኮትን (WebView2) መክፈት አልተቻለም።
 136	የWebView2 ክፍልን መጀመር አልተቻለም።
 137	ለማስነሻ ግቤቱ ነፃ ቦታ የለም።
 138	የፕሮግራሙ በይነገጽ የለም።

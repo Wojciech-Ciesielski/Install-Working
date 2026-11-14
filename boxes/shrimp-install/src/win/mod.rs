@@ -1,4 +1,4 @@
-//! Część dla Windows: okno, nośniki, pobieranie, dane z Windows, wpis rozruchowy.
+//! Część dla Windows: okno, nośniki, pobieranie, dane z Windows, wpis rozruchowy, systemy (UEFI).
 pub mod app;
 mod boot;
 mod collect;
@@ -6,6 +6,7 @@ mod disk;
 mod fetch;
 mod ps;
 mod sys;
+mod systems;
 mod window;
 
 use crate::ctx::Ctx;
@@ -67,7 +68,7 @@ fn collect_only(path: &std::path::Path) -> ! {
     let bitlocker = disk::bitlocker_on();
     let mut v = collect::collect(bitlocker);
     v["version"] = json!(1);
-    v["installer"] = json!(concat!("Shrimp Install ", env!("CARGO_PKG_VERSION")));
+    v["installer"] = json!(concat!("Shrimp Center ", env!("CARGO_PKG_VERSION")));
     v["folders"] = json!(sys::folders()
         .into_iter()
         .map(|(k, p)| { let s = crate::tree::size(&crate::tree::long(&p), None); json!({ "key": k, "path": p, "size": s }) })
@@ -87,7 +88,7 @@ pub fn main() {
         collect_only(p);
     }
     crate::log::open(&fetch::cache_dir());
-    crate::log!("Shrimp Install {}", env!("CARGO_PKG_VERSION"));
+    crate::log!("Shrimp Center {}", env!("CARGO_PKG_VERSION"));
 
     let mut o = json!({ "demo": opts.demo });
     if let Some(s) = &opts.screen {

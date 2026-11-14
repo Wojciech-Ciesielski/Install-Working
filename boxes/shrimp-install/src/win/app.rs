@@ -2,7 +2,7 @@
 //!
 //! Interfejs wysyła tekst `id⇥wywołanie⇥argumenty…`, program odpowiada `{ id, ok, result | error }`
 //! albo zdarzeniem `{ event, … }` (umowa: ui/src/backend/types.ts, opis w README).
-use super::{boot, collect, disk, fetch, sys};
+use super::{boot, collect, disk, fetch, sys, systems};
 use crate::backup;
 use crate::ctx::{cancelled, fail, Ctx, R};
 use crate::manifest::{self, Manifest};
@@ -220,6 +220,33 @@ impl App {
                     }
                 });
             }
+            // Zakładki Systemy i Odinstaluj Shrimp (systems.rs); zmiany UEFI w wątku, bo restart blokuje.
+            "systems" => {
+                let a = self.clone();
+                std::thread::spawn(move || a.reply(id, systems::state()));
+            }
+            "bootnext" | "default" | "firmware" | "uninstall" if self.busy() => self.reply_err(id, "busy"),
+            "bootnext" | "default" | "firmware" | "uninstall" => {
+                let a = self.clone();
+                let what = f[1].to_string();
+                let arg = f.get(2).map(|s| s.to_string()).unwrap_or_default();
+                std::thread::spawn(move || {
+                    let r = match what.as_str() {
+                        "bootnext" => systems::boot_shrimp().map(|_| Value::Null),
+                        "default" => systems::set_default(&arg).map(|_| Value::Null),
+                        "firmware" => systems::firmware_reboot().map(|_| Value::Null),
+                        _ => systems::uninstall(),
+                    };
+                    match r {
+                        Ok(v) => a.reply(id, v),
+                        Err(e) => {
+                            crate::log!("{what}: {e}");
+                            a.reply_err(id, &e)
+                        }
+                    }
+                });
+            }
+            "disks" => systems::open_disks(),
             "open" => {
                 if let Some(u) = f.get(2).filter(|u| manifest::safe_url(u)) {
                     open_url(u);
@@ -360,7 +387,7 @@ impl App {
         }
         ctx.progress(2, None, image_total, image_total, 0);
 
-        // 3. Dawna zawartość nośnika (jedyna kopia), pliki z Windows, shrimp.json, język GRUB.
+        // 3. Dawna zawartość nośnika (jedyna kopia), pliki z Windows, shrimp.json.
         let total = items_bytes + 2 * list.bytes;
         let mut done = 0u64;
         ctx.speed_reset(0);
@@ -376,8 +403,6 @@ impl App {
         })?;
         let desc = transfer::description(&img.version, &img.sha256, &collect::collect(self.bitlocker.load(Ordering::Relaxed)), &copied);
         transfer::write_description(&root, &desc)?;
-        let tag = self.opts.lang.clone().or_else(|| sys::ui_languages().into_iter().next()).map_or_else(|| "en".into(), |l| crate::lang::tag(&l));
-        transfer::write_grub_lang(&boot_root, &tag);
         ctx.progress(3, None, total, total, 0);
         Ok(())
     }

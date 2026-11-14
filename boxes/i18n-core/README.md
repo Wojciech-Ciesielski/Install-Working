@@ -14,5 +14,5 @@ Ten box daje wszystkim jedną listę języków i narzędzia:
 | `check.ts` | sprawdzanie plików tłumaczeń w testach (błędy budowy, pokrycie) |
 | `PRZEGLAD.md` | przegląd jakości tłumaczeń |
 
-Boxy z tekstami: `setup`, `shrimp-install`, `shrimp-apps`, `panko`, `cocktail`, `web-apps`, `grub-theme`.
+Boxy z tekstami: `setup`, `shrimp-install`, `shrimp-apps`, `panko`, `cocktail`, `web-apps`.
 Aplikacje GTK (Rust) wbudowują swoje teksty przez `shrimp-i18n` (`build.rs` → `shrimp_i18n::codegen::write("i18n")`).

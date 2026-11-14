@@ -14,4 +14,4 @@ body { min-height: 0; padding: 0; background: var(--mica); overflow: hidden; use
 input, textarea { user-select: text; }
 /* Przeciąganie okna za pasek tytułu (WebView2 z obsługą app-region; inaczej wiadomość „drag” do programu). */
 .titlebar { app-region: drag; }
-.caps { app-region: no-drag; }
+.caps, .tabs { app-region: no-drag; }

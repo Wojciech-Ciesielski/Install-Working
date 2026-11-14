@@ -131,8 +131,8 @@
 131	Kāore i kitea te puku taraiwa. Monoa anō.
 132	Kāore te pūmanawa mau i whakaae ki te tāurunga pūtu. Tīmatahia ā-ringa te rorohiko mai i te puku taraiwa, mai i te tahua pūtu.
 133	Kāore te pūmanawa mau i whakaae ki te tautuhinga pūtu e whai ake. Tīmatahia ā-ringa te rorohiko mai i te puku taraiwa, mai i te tahua pūtu.
-134	Me whai a Shrimp Install i te wāhanga Microsoft Edge WebView2, engari kāore i taea te whakaoho.\n\nWhakahōuhia a Windows, whakaurua rānei te WebView2 Runtime mai i a Microsoft, ka ngana anō.
-135	Kāore i taea te whakatuwhera i te matapihi o Shrimp Install (WebView2).
+134	Me whai a Shrimp Center i te wāhanga Microsoft Edge WebView2, engari kāore i taea te whakaoho.\n\nWhakahōuhia a Windows, whakaurua rānei te WebView2 Runtime mai i a Microsoft, ka ngana anō.
+135	Kāore i taea te whakatuwhera i te matapihi o Shrimp Center (WebView2).
 136	Kāore i taea te whakaoho i te wāhanga WebView2.
 137	Kāore he wāhi wātea mō te tāurunga pūtu.
 138	Kāore he atanga o te hōtaka.

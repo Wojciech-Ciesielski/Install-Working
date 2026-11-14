@@ -131,8 +131,8 @@
 131	Ez da unitatea aurkitu. Konektatu berriro.
 132	Firmwareak ez du abiarazte-sarrera onartu. Abiarazi ordenagailua eskuz unitatetik, abiarazte-menutik.
 133	Firmwareak ez du hurrengo abiarazteko ezarpena onartu. Abiarazi ordenagailua eskuz unitatetik, abiarazte-menutik.
-134	Shrimp Install-ek Microsoft Edge WebView2 osagaia behar du, baina ezin izan da abiarazi.\n\nEguneratu Windows edo instalatu WebView2 Runtime Microsoft-en webgunetik, eta saiatu berriro.
-135	Ezin izan da Shrimp Install-en leihoa (WebView2) ireki.
+134	Shrimp Center-ek Microsoft Edge WebView2 osagaia behar du, baina ezin izan da abiarazi.\n\nEguneratu Windows edo instalatu WebView2 Runtime Microsoft-en webgunetik, eta saiatu berriro.
+135	Ezin izan da Shrimp Center-en leihoa (WebView2) ireki.
 136	Ezin izan da WebView2 osagaia abiarazi.
 137	Ez dago lekurik abiarazte-sarrerarako.
 138	Programaren interfazea falta da.

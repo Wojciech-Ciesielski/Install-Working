@@ -131,8 +131,8 @@
 131	找不到磁碟機。請重新插入。
 132	韌體未接受開機項目。請透過開機選單手動從磁碟機啟動電腦。
 133	韌體未接受下次開機設定。請透過開機選單手動從磁碟機啟動電腦。
-134	Shrimp Install 需要 Microsoft Edge WebView2 元件，但無法啟動該元件。\n\n請更新 Windows 或從 Microsoft 安裝 WebView2 Runtime，然後再試一次。
-135	無法開啟 Shrimp Install 視窗 (WebView2)。
+134	Shrimp Center 需要 Microsoft Edge WebView2 元件，但無法啟動該元件。\n\n請更新 Windows 或從 Microsoft 安裝 WebView2 Runtime，然後再試一次。
+135	無法開啟 Shrimp Center 視窗 (WebView2)。
 136	無法啟動 WebView2 元件。
 137	沒有可用於開機項目的空閒位置。
 138	程式缺少介面。

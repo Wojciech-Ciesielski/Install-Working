@@ -131,8 +131,8 @@
 131	Sürücü bulunamadı. Yeniden takın.
 132	Üretici yazılımı önyükleme girdisini kabul etmedi. Bilgisayarı önyükleme menüsünden sürücüden elle başlatın.
 133	Üretici yazılımı sonraki önyükleme ayarını kabul etmedi. Bilgisayarı önyükleme menüsünden sürücüden elle başlatın.
-134	Shrimp Install, Microsoft Edge WebView2 bileşenine ihtiyaç duyuyor ancak bileşen başlatılamadı.\n\nWindows'u güncelleyin veya Microsoft'tan WebView2 Runtime'ı yükleyip yeniden deneyin.
-135	Shrimp Install penceresi (WebView2) açılamadı.
+134	Shrimp Center, Microsoft Edge WebView2 bileşenine ihtiyaç duyuyor ancak bileşen başlatılamadı.\n\nWindows'u güncelleyin veya Microsoft'tan WebView2 Runtime'ı yükleyip yeniden deneyin.
+135	Shrimp Center penceresi (WebView2) açılamadı.
 136	WebView2 bileşeni başlatılamadı.
 137	Önyükleme girdisi için boş yer yok.
 138	Programın arayüzü eksik.

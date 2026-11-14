@@ -131,8 +131,8 @@
 131	Ba a sami faifan ba. Sake toshe shi.
 132	Firmware bai karɓi shigarwar farawa ba. Fara kwamfutar daga faifan da hannu, daga menu na farawa.
 133	Firmware bai karɓi saitin farawa na gaba ba. Fara kwamfutar daga faifan da hannu, daga menu na farawa.
-134	Shrimp Install na buƙatar ɓangaren Microsoft Edge WebView2, amma ba a iya fara shi ba.\n\nSabunta Windows ko shigar da WebView2 Runtime daga Microsoft sannan ka sake gwadawa.
-135	Ba a iya buɗe tagar Shrimp Install (WebView2) ba.
+134	Shrimp Center na buƙatar ɓangaren Microsoft Edge WebView2, amma ba a iya fara shi ba.\n\nSabunta Windows ko shigar da WebView2 Runtime daga Microsoft sannan ka sake gwadawa.
+135	Ba a iya buɗe tagar Shrimp Center (WebView2) ba.
 136	Ba a iya fara ɓangaren WebView2 ba.
 137	Babu wurin da ke kyauta don shigarwar farawa.
 138	Babu fuskar shirin.

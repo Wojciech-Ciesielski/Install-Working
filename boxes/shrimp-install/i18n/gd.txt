@@ -131,8 +131,8 @@
 131	Cha deach an draibh a lorg. Cuir a-steach a-rithist e.
 132	Cha do ghabh am bathar-bog daingeann ris an innteart bhùtaidh. Tòisich an coimpiutair on draibh le làimh, o chlàr-taice a’ bhùtaidh.
 133	Cha do ghabh am bathar-bog daingeann ri roghainn a’ bhùtaidh an ath thuras. Tòisich an coimpiutair on draibh le làimh, o chlàr-taice a’ bhùtaidh.
-134	Feumaidh Shrimp Install a’ cho-phàirt Microsoft Edge WebView2 ach cha b’ urrainn dhuinn a tòiseachadh.\n\nÙraich Windows no stàlaich WebView2 Runtime o Microsoft agus feuch ris a-rithist.
-135	Cha b’ urrainn dhuinn uinneag Shrimp Install (WebView2) fhosgladh.
+134	Feumaidh Shrimp Center a’ cho-phàirt Microsoft Edge WebView2 ach cha b’ urrainn dhuinn a tòiseachadh.\n\nÙraich Windows no stàlaich WebView2 Runtime o Microsoft agus feuch ris a-rithist.
+135	Cha b’ urrainn dhuinn uinneag Shrimp Center (WebView2) fhosgladh.
 136	Cha b’ urrainn dhuinn a’ cho-phàirt WebView2 a thòiseachadh.
 137	Chan eil slot saor ann airson an innteart bhùtaidh.
 138	Tha eadar-aghaidh a’ phrògraim a dhìth.

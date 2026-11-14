@@ -131,8 +131,8 @@
 131	No se encuentra la unidad. Vuelve a conectarla.
 132	El firmware no aceptó la entrada de arranque. Arranca el equipo manualmente desde la unidad, con el menú de arranque.
 133	El firmware no aceptó el ajuste del próximo arranque. Arranca el equipo manualmente desde la unidad, con el menú de arranque.
-134	Shrimp Install necesita el componente Microsoft Edge WebView2, pero no se pudo iniciar.\n\nActualiza Windows o instala WebView2 Runtime desde Microsoft e inténtalo de nuevo.
-135	No se pudo abrir la ventana de Shrimp Install (WebView2).
+134	Shrimp Center necesita el componente Microsoft Edge WebView2, pero no se pudo iniciar.\n\nActualiza Windows o instala WebView2 Runtime desde Microsoft e inténtalo de nuevo.
+135	No se pudo abrir la ventana de Shrimp Center (WebView2).
 136	No se pudo iniciar el componente WebView2.
 137	No hay ningún hueco libre para la entrada de arranque.
 138	Falta la interfaz del programa.
@@ -141,3 +141,36 @@
 149	El contenido de la unidad no cabe junto a Shrimp. Usa una unidad más grande o mueve algunos archivos.
 150	No se pudo comprobar la copia del contenido en la unidad. Sigue guardada en este equipo.
 151	Shrimp y los archivos elegidos no caben en esta unidad.
+152	Secciones
+153	Instalar
+154	Sistemas
+155	Desinstalar Shrimp
+156	Sistemas en este equipo
+157	Inicia Shrimp una vez, elige el sistema predeterminado o abre la configuración UEFI.
+158	Shrimp aún no está instalado en este equipo. Prepara una unidad en Instalar.
+159	Reiniciar en Shrimp
+160	Solo en el próximo arranque. Después se inicia el sistema predeterminado como siempre.
+161	Reiniciar
+162	Sistema predeterminado
+163	Se inicia al encender el equipo.
+164	Se inicia al encender el equipo. Windows se inicia desde Shrimp Center en Shrimp.
+165	Configuración UEFI
+166	Ajustes del equipo, como el orden de arranque o Secure Boot.
+167	¿Reiniciar ahora?
+168	Guarda primero tu trabajo. Las aplicaciones abiertas se cerrarán.
+169	No se pudo cambiar el ajuste:
+170	Desinstalar Shrimp
+171	El equipo iniciará Windows como antes. Tus archivos de Windows no se tocan.
+172	Shrimp sale de la lista de arranque
+173	Windows vuelve a ser el primer sistema.
+174	Se eliminan los archivos de arranque de Shrimp
+175	Solo los archivos de Shrimp en la partición EFI. Los de Windows se quedan.
+176	Las particiones de Shrimp se quedan
+177	Elimínalas en Administración de discos para recuperar el espacio para Windows.
+178	Shrimp no está en la lista de arranque de este equipo.
+179	Shrimp se eliminó del arranque. El equipo iniciará Windows.
+180	Abrir Administración de discos
+181	Desinstalar
+182	¿Desinstalar Shrimp?
+183	Shrimp dejará de iniciarse en este equipo. Los archivos guardados en Shrimp siguen en sus particiones hasta que las elimines.
+184	No se pudo desinstalar Shrimp:

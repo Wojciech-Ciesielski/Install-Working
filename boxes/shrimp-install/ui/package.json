@@ -1,18 +1,13 @@
 {
-  "name": "shrimp-install-ui",
+  "name": "shrimp-center-ui",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc --noEmit && vite build",
-    "typecheck": "tsc --noEmit",
-    "test": "vitest run"
+    "build": "node --no-warnings build.mjs",
+    "test": "node --no-warnings --test --test-reporter=spec \"src/*.test.js\""
   },
   "devDependencies": {
-    "@fontsource/inter": "^5.3.0",
-    "typescript": "^7.0.2",
-    "vite": "^8.3.7",
-    "vitest": "^5.1.0"
+    "@fontsource/inter": "^5.3.0"
   }
 }

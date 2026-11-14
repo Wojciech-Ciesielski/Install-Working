@@ -131,8 +131,8 @@
 131	Asemaa ei löytynyt. Liitä se uudelleen.
 132	Laiteohjelmisto ei hyväksynyt käynnistysmerkintää. Käynnistä tietokone asemalta käsin käynnistysvalikosta.
 133	Laiteohjelmisto ei hyväksynyt seuraavan käynnistyksen asetusta. Käynnistä tietokone asemalta käsin käynnistysvalikosta.
-134	Shrimp Install tarvitsee Microsoft Edge WebView2 -komponentin, mutta sitä ei voitu käynnistää.\n\nPäivitä Windows tai asenna WebView2 Runtime Microsoftilta ja yritä uudelleen.
-135	Shrimp Installin ikkunaa (WebView2) ei voitu avata.
+134	Shrimp Center tarvitsee Microsoft Edge WebView2 -komponentin, mutta sitä ei voitu käynnistää.\n\nPäivitä Windows tai asenna WebView2 Runtime Microsoftilta ja yritä uudelleen.
+135	Shrimp Centerin ikkunaa (WebView2) ei voitu avata.
 136	WebView2-komponenttia ei voitu käynnistää.
 137	Käynnistysmerkinnälle ei ole vapaata paikkaa.
 138	Ohjelman käyttöliittymä puuttuu.

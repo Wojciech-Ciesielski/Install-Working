@@ -1,5 +1,5 @@
 //! Pobieranie obrazu Shrimp: manifest (opcjonalnie z podpisem RSA-SHA256 `manifest.json.sig`), obraz z wznawianiem,
-//! suma SHA-256 sprawdzana zawsze. Obraz trafia do %LOCALAPPDATA%\Shrimp Install\ i jest usuwany po zapisie.
+//! suma SHA-256 sprawdzana zawsze. Obraz trafia do %LOCALAPPDATA%\Shrimp Center\ i jest usuwany po zapisie.
 //!
 //! Pobieranie przetrwa zerwane połączenie: `shrimp-<wersja>.iso.<16 znaków sumy>.part` zostaje na dysku, kolejna
 //! próba (do 4, z przerwą 2, 4, 8 s, albo po ponownym uruchomieniu) dociąga resztę nagłówkiem Range.
@@ -73,7 +73,7 @@ fn verify_sig(data: &[u8], sig: &[u8]) -> bool {
 }
 
 pub fn cache_dir() -> PathBuf {
-    let d = super::sys::local_app_data().join("Shrimp Install");
+    let d = super::sys::local_app_data().join("Shrimp Center");
     let _ = fs::create_dir_all(&d);
     d
 }

@@ -131,8 +131,8 @@
 131	Drevet blev ikke fundet. Slut det til igen.
 132	Firmwaren accepterede ikke startindgangen. Start computeren manuelt fra drevet via startmenuen.
 133	Firmwaren accepterede ikke indstillingen for næste start. Start computeren manuelt fra drevet via startmenuen.
-134	Shrimp Install har brug for komponenten Microsoft Edge WebView2, men den kunne ikke startes.\n\nOpdater Windows, eller installer WebView2 Runtime fra Microsoft, og prøv igen.
-135	Vinduet til Shrimp Install (WebView2) kunne ikke åbnes.
+134	Shrimp Center har brug for komponenten Microsoft Edge WebView2, men den kunne ikke startes.\n\nOpdater Windows, eller installer WebView2 Runtime fra Microsoft, og prøv igen.
+135	Vinduet til Shrimp Center (WebView2) kunne ikke åbnes.
 136	Komponenten WebView2 kunne ikke startes.
 137	Ingen ledig plads til startindgangen.
 138	Programmets brugerflade mangler.
