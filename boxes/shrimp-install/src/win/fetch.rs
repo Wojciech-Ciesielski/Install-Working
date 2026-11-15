@@ -136,9 +136,15 @@ pub fn obtain(ctx: &Ctx, source: Option<&Path>, manifest_url: &str, known: Optio
         return Ok(Image { path: p.into(), size, version: String::new(), sha256: String::new(), keep: true });
     }
     ctx.progress(1, None, 0, 0, 0);
-    let m = match known {
-        Some(m) => m,
-        None => manifest(manifest_url)?,
+    // Manifest zawsze świeży: program mógł być otwarty przed nowym wydaniem (Center Beta 2 pobrał wtedy
+    // Betę 5.1r). Ten z uruchomienia programu tylko wtedy, gdy sieć teraz nie odpowiada.
+    let m = match (manifest(manifest_url), known) {
+        (Ok(m), _) => m,
+        (Err(e), Some(k)) => {
+            crate::log!("manifest teraz niedostępny ({e:?}), używam tego z uruchomienia: {}", k.version);
+            k
+        }
+        (Err(e), None) => return Err(e),
     };
     crate::log!("{}, {} ({} B)", m.version, m.url, m.size);
     emit_image(ctx, m.size, &m.version);
